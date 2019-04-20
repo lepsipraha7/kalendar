@@ -1,0 +1,37 @@
+[
+  {
+    "id": "400",
+    "event_name": "PETR NOVOTNÝ Čtyři zahraniční výstavy",
+    "event_date": "2010-01-20",
+    "event_time": "00:00:17",
+    "event_date_until": "2009-03-20",
+    "event_time_until": "00:00:15",
+    "location": "Úřad MČ Praha 7 (č. d. 227), Nábřeží Kapitána Jaroše 1000 (2. patro, č. d. 227)",
+    "address": "",
+    "description": "<p><img src=\\\"https://praha7.cz/wp-content/uploads/2018/01/Novotny_I-265x400.jpg\\\" alt=\\\"\\\" width=\\\"265\\\" height=\\\"400\\\" class=\\\"alignnone size-medium wp-image-12241\\\" />Městská část Praha 7 Vás srdečně zve na výstavu obrazů a fotografií Petra Novotného \\\\\\\"Čtyři zahraniční výstavy\\\\\\\", na vernisáži vystoupí moderátoři z Cool rádia.</p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "Zdarma",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": "Úřad MČ Praha 7 (č. d. 227)",
+    "location_address": "Nábřeží Kapitána Jaroše 1000 (2. patro, č. d. 227)",
+    "categories": [
+      {
+        "subcategory_name": "Senioři"
+      },
+      {
+        "subcategory_name": "Divadlo"
+      },
+      {
+        "subcategory_name": "Výstavy"
+      },
+      {
+        "subcategory_name": "Akce MČ"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  }
+]

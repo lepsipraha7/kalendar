@@ -1,0 +1,28 @@
+[
+  {
+    "id": "727",
+    "event_name": "Zkouška",
+    "event_date": "2001-03-20",
+    "event_time": "18:00:00",
+    "event_date_until": "2001-03-20",
+    "event_time_until": "23:00:00",
+    "location": "VILA Štvanice, Dům č. p. 858 – Ostrov Štvanice, Praha",
+    "address": "",
+    "description": "<p>asdfasd</p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "100,- Kč",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": "VILA Štvanice",
+    "location_address": "Dům č. p. 858 – Ostrov Štvanice, Praha",
+    "categories": [
+      {
+        "subcategory_name": "Senioři"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  }
+]
