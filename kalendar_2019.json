@@ -45630,7 +45630,7 @@
     "event_time_until": "17:00:00",
     "location": "Národní zemědělské muzeum, Kostelní 44, Praha 7",
     "address": "",
-    "description": "<p>Radnice připravuje revitalizaci ulice Ovenecké – v úseku od Milady Horákové po Letohradskou. Cílem úprav je zvýšení bezpečnosti a celkové kvality veřejného prostoru.</p>\n<p>S návrhy se můžete přijít seznámit na veřejné projednání, kde budou přítomni jak projektanti návrhu, tak i zástupci radnice.</p>\n<p>Projednání studie na ulici Ovenecká bude 29. dubna od 17 hodin v malém sálu Národního zemědělského muzea. Jste srdečně vítáni!</p>",
+    "description": "<p>Radnice připravuje revitalizaci ulice Ovenecké – předprostor vstupu do Stromovky a v úseku od Milady Horákové po Letohradskou. Cílem úprav je zvýšení bezpečnosti a celkové kvality veřejného prostoru.</p>\n<p>S návrhy se můžete přijít seznámit na veřejné projednání, kde budou přítomni jak projektanti návrhu, tak i zástupci radnice.</p>\n<p>Projednání studie na ulici Ovenecká bude 29. dubna od 17 hodin v malém sálu Národního zemědělského muzea. Jste srdečně vítáni!</p>",
     "image_id": "24937",
     "image_src": null,
     "price": "0",
@@ -52442,5 +52442,57 @@
     ],
     "image": null,
     "goOutInfo": "0"
+  },
+  {
+    "id": "5133",
+    "event_name": "Dělnická x Jankovcova",
+    "event_date": "2019-05-13",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-05-31",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>Výměna kabelů VN</p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Zábory"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  },
+  {
+    "id": "5134",
+    "event_name": "Zábor Bubenské nábř., Komunardů, Jateční (v úseku Komunardů – Jankovcova), Jankovcova (v úseku Na Maninách – Dělnická",
+    "event_date": "2019-05-05",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-05-05",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>Prague International Marathon<br />\nzábor komunikací<br />\nZ důvodu pořádání akce: Volkswagen Maraton Praha 2019<br />\nOsoba zodpovědná za akci: T. Fencl – 777 746 806</p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Zábory"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
   }
 ]
