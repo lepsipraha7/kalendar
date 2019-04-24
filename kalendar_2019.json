@@ -29245,9 +29245,9 @@
     "id": "4246",
     "event_name": "Noija + Griever + more",
     "event_date": "2019-05-01",
-    "event_time": "17:00:00",
+    "event_time": "20:00:00",
     "event_date_until": "2019-05-01",
-    "event_time_until": "17:00:00",
+    "event_time_until": "20:00:00",
     "location": "Cross Club, Plynární 23, Praha 7",
     "address": "",
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/noija/cuwbg/\" target=\"_blank\">Noija</a><a href=\"https://goout.net/en/artists/griever/xqesf/\" target=\"_blank\">Griever</a><a href=\"https://goout.net/en/artists/lvng/huwbg/\" target=\"_blank\">LVNG</a><a href=\"https://goout.net/en/artists/stifled/gtqwf/\" target=\"_blank\">Stifled</a><a href=\"https://goout.net/en/artists/brighter-days/qbotf/\" target=\"_blank\">Brighter Days</a><a href=\"https://goout.net/en/artists/toothwalker/fuwbg/\" target=\"_blank\">Toothwalker </a><a href=\"https://goout.net/en/artists/2000blackvoices-booking/cmwuf/\" target=\"_blank\">2000blackvoices Booking</a></div>",
@@ -48046,7 +48046,7 @@
     "description": "",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/268583274f1b41080bc754051dfd08f9ccc8f91a.jpg",
-    "price": "",
+    "price": "0",
     "currency": "CZK",
     "sale_url": null,
     "cancelled": "0",
@@ -52494,5 +52494,875 @@
     ],
     "image": null,
     "goOutInfo": null
+  },
+  {
+    "id": "5135",
+    "event_name": "Disco Partysóns",
+    "event_date": "2019-04-24",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-04-24",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/disco-partysons/exnyf/\" target=\"_blank\">Disco Partysóns</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/bd3ac40f4669aacb2997e3470d6fcb23281c9eb4.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5136",
+    "event_name": "Hedone",
+    "event_date": "2019-04-24",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-04-24",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/hedone/ryjtf/\" target=\"_blank\">Hedone</a><a href=\"https://goout.net/en/artists/mazhar/xektf/\" target=\"_blank\">Mazhar</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/674c7992494e8037346c90fb060c0c4c9a2f56c5.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5137",
+    "event_name": "Voidsec + Cybi + Higround + Futical + Ejdm",
+    "event_date": "2019-04-25",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-04-25",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/voidsec/aqcuf/\" target=\"_blank\">VoidSec</a><a href=\"https://goout.net/en/artists/cybi/cdysf/\" target=\"_blank\">CYBi</a><a href=\"https://goout.net/en/artists/higround/fydwf/\" target=\"_blank\">Higround</a><a href=\"https://goout.net/en/artists/futical/hdysf/\" target=\"_blank\">Futical</a><a href=\"https://goout.net/en/artists/ejdm/qseuf/\" target=\"_blank\">Ejdm</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/569232abcfd554739969ae0563e6e482c15eeab5.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5138",
+    "event_name": "Omnion + Skony + Dj mutantism",
+    "event_date": "2019-04-25",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-04-25",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/omnion-tomas-reindl/hsjj/\" target=\"_blank\">Omnion (Tomáš Reindl)</a><a href=\"https://goout.net/en/artists/dj-skony/ghdxf/\" target=\"_blank\">DJ Skony</a><a href=\"https://goout.net/en/artists/mutantism/svcxf/\" target=\"_blank\">Mutantism</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/fd064d934a09eac0ac8255047a9faad15cca038b.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5139",
+    "event_name": "Boldrik + Dr. Kary + Emsa",
+    "event_date": "2019-04-28",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-04-28",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/selector-boldrik/pnqpf/\" target=\"_blank\">Selector Boldrik</a><a href=\"https://goout.net/en/artists/dr-kary/clbgb/\" target=\"_blank\">Dr. Kary</a><a href=\"https://goout.net/en/artists/emsa/oircg/\" target=\"_blank\">Emsa</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/54ec22cf0e88c8898b70706b59836ab42f35f65d.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5140",
+    "event_name": "Eastern Standard Time",
+    "event_date": "2019-04-28",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-04-28",
+    "event_time_until": "19:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/eastern-standard-time/rkab/\" target=\"_blank\">Eastern Standard Time</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/a6f9732dfd0a37c321c2cc45315568b3ca93937d.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5141",
+    "event_name": "Furious Freaks",
+    "event_date": "2019-04-29",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-04-29",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/furious-freaks/ukupf/\" target=\"_blank\">Furious Freaks</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/6a4f13ca41d836f0cc9d2d351647b4aa48a3cad8.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5142",
+    "event_name": "Lehmanns Brothers + Ahz & Annita",
+    "event_date": "2019-04-29",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-04-29",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/lehmanns-brothers/msoxf/\" target=\"_blank\">Lehmanns Brothers</a><a href=\"https://goout.net/en/artists/ahz-ahonz/odqpf/\" target=\"_blank\">Ahz (Ahonz)</a><a href=\"https://goout.net/en/artists/annita/axvpf/\" target=\"_blank\">Annita</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/6c17b2163289dd2ec2109c4ce401793312070098.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5143",
+    "event_name": "Los Orangtanes",
+    "event_date": "2019-04-30",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-04-30",
+    "event_time_until": "19:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/los-orangtanes/tercg/\" target=\"_blank\">Los Orangtanes</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/6e6957787c6bba77cccc7bd1f4ddb0b5acb68b5b.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5144",
+    "event_name": "Mean Teeth + Aveho + more",
+    "event_date": "2019-04-30",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-04-30",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/mean-teeth/ndiuf/\" target=\"_blank\">Mean Teeth</a><a href=\"https://goout.net/en/artists/aveho/agrcg/\" target=\"_blank\">Aveho</a><a href=\"https://goout.net/en/artists/dominus-diaboli/gihwf/\" target=\"_blank\">Dominus Diaboli</a><a href=\"https://goout.net/en/artists/houbass/vpnsf/\" target=\"_blank\">Houbass</a><a href=\"https://goout.net/en/artists/l1/wuyuf/\" target=\"_blank\">L1</a><a href=\"https://goout.net/en/artists/dj-cherw/jdysf/\" target=\"_blank\">DJ Cherw</a><a href=\"https://goout.net/en/artists/sphere/oticg/\" target=\"_blank\">Sphere</a><a href=\"https://goout.net/en/artists/pwp/mgcuf/\" target=\"_blank\">PWP</a><a href=\"https://goout.net/en/artists/contest-winner/igrcg/\" target=\"_blank\">Contest Winner</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/6b375ede4127e5deedb7951f212f1f86c33c837a.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5145",
+    "event_name": "Latam + Ondrej Psyla + more",
+    "event_date": "2019-05-01",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-05-01",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/dj-latam/qquqf/\" target=\"_blank\">DJ Latam</a><a href=\"https://goout.net/en/artists/ondrej-psyla/ivw/\" target=\"_blank\">Ondrej Psyla</a><a href=\"https://goout.net/en/artists/lolla/bqmqf/\" target=\"_blank\">Lolla</a><a href=\"https://goout.net/en/artists/kashmir/sptsf/\" target=\"_blank\">Kashmir</a><a href=\"https://goout.net/en/artists/ejczka/ridqf/\" target=\"_blank\">Ejczka</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/70ce175ec0e2ff12af0ff025691461ad58e7f76c.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5146",
+    "event_name": "Seven + Markee Ledge + more",
+    "event_date": "2019-05-02",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-05-02",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/seven/chdxf/\" target=\"_blank\">Seven</a><a href=\"https://goout.net/en/artists/markee-ledge/uqcuf/\" target=\"_blank\">Markee Ledge</a><a href=\"https://goout.net/en/artists/asap-jarda/aniuf/\" target=\"_blank\">ASAP Jarda</a><a href=\"https://goout.net/en/artists/dj-casablanka/dbcuf/\" target=\"_blank\">DJ Casablanka</a><a href=\"https://goout.net/en/artists/kletis/nqtsf/\" target=\"_blank\">Kletis</a><a href=\"https://goout.net/en/artists/mosqa/qouwf/\" target=\"_blank\">Mosqa</a><a href=\"https://goout.net/en/artists/karpa/jvmwf/\" target=\"_blank\">Karpa</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/dc8173cb3deda098ea3b3a89c544265d269853dd.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5147",
+    "event_name": "Young Film Fest 2019 – pátek",
+    "event_date": "2019-05-03",
+    "event_time": "16:00:00",
+    "event_date_until": "2019-05-03",
+    "event_time_until": "16:00:00",
+    "location": "DOX Centrum současného umění, Poupětova 1, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/5d5fe491613fc48da7bbe2fd3cd894d28c6b12a9.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "DOX Centrum současného umění",
+    "location_address": "Poupětova 1, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Festivaly"
+      },
+      {
+        "subcategory_name": "Děti a mládež"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5148",
+    "event_name": "Bohdan Heblík, Zdeněk Blaha: Press Start to Begin Trailer",
+    "event_date": "2019-05-03",
+    "event_time": "17:00:00",
+    "event_date_until": "2019-05-03",
+    "event_time_until": "17:00:00",
+    "location": "DOX Centrum současného umění, Poupětova 1, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/296ef904cff2dd37b751064af91a4477f34037a6.jpg",
+    "price": "40",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/bohdan-heblik-zdenek-blaha-press-start-to-begin-trailer/dxke",
+    "cancelled": "0",
+    "location_name": "DOX Centrum současného umění",
+    "location_address": "Poupětova 1, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5149",
+    "event_name": "Enzo Muro + Borbi + more",
+    "event_date": "2019-05-04",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-05-04",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/enzo-muro/nfrcg/\" target=\"_blank\">Enzo Muro</a><a href=\"https://goout.net/en/artists/borbi/pfrcg/\" target=\"_blank\">Borbi</a><a href=\"https://goout.net/en/artists/ark3r/sgd/\" target=\"_blank\">Ark3r</a><a href=\"https://goout.net/en/artists/alfred-czital/ewewf/\" target=\"_blank\">Alfred Czital</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/9f0de110a3db6414f94d836873e9d1d13946fe6d.jpg",
+    "price": "50–120",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5150",
+    "event_name": "Mr. Cocoman + Boldrik Colectiv + more",
+    "event_date": "2019-05-04",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-05-04",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/cocoman/uuagb/\" target=\"_blank\">Cocoman</a><a href=\"https://goout.net/en/artists/selector-boldrik/pnqpf/\" target=\"_blank\">Selector Boldrik</a><a href=\"https://goout.net/en/artists/f-i-l/rjguf/\" target=\"_blank\">F.I.L.</a><a href=\"https://goout.net/en/artists/mc-jelen/fllvf/\" target=\"_blank\">MC Jelen</a><a href=\"https://goout.net/en/artists/magenta/ubcqf/\" target=\"_blank\">Magenta</a><a href=\"https://goout.net/en/artists/hundread/xbcqf/\" target=\"_blank\">Hundread</a><a href=\"https://goout.net/en/artists/rich/tqupf/\" target=\"_blank\">Rich</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/82ba6e75cd1b02c180b3a19511a957f61da7b756.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5151",
+    "event_name": "Kan-Jacca + Zwooky + more",
+    "event_date": "2019-05-07",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-05-07",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/kan-jacca/bfqpf/\" target=\"_blank\">Kan-Jacca</a><a href=\"https://goout.net/en/artists/zwooky/ycdqf/\" target=\"_blank\">Zwooky</a><a href=\"https://goout.net/en/artists/greener/ikrcg/\" target=\"_blank\">Greener</a><a href=\"https://goout.net/en/artists/ya-vo/kkrcg/\" target=\"_blank\">Ya Vo</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/f8f1309e2d47e342f5ba097e49aac2fde924e304.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5152",
+    "event_name": "Derrick & Tonika + Beast:season + more",
+    "event_date": "2019-05-07",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-05-07",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/derrick-and-tonika/bkrcg/\" target=\"_blank\">Derrick & Tonika</a><a href=\"https://goout.net/en/artists/beast-season/fbjag/\" target=\"_blank\">Beast:season</a><a href=\"https://goout.net/en/artists/snookey/ocqpf/\" target=\"_blank\">Snookey</a><a href=\"https://goout.net/en/artists/n-force/aerrf/\" target=\"_blank\">N:Force</a><a href=\"https://goout.net/en/artists/lintu/ojswf/\" target=\"_blank\">Lintu</a><a href=\"https://goout.net/en/artists/kan-jacca/bfqpf/\" target=\"_blank\">Kan-Jacca</a><a href=\"https://goout.net/en/artists/ars-n/okmwf/\" target=\"_blank\">Ars:N</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/f5425c391dd6fee031e635566625c8454ade6910.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5153",
+    "event_name": "Cultural Reggae Vibez: Warm-Up: Gregory G Ras + Selecta Rollandblow",
+    "event_date": "2019-05-09",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-05-09",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/gregory-g-ras/mkrcg/\" target=\"_blank\">Gregory G Ras</a><a href=\"https://goout.net/en/artists/ting/lkab/\" target=\"_blank\">TiNG</a><a href=\"https://goout.net/en/artists/selecta-rollandblow/hxapf/\" target=\"_blank\">Selecta Rollandblow</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/9ab97dfcaff1e32291439344a80b16874d9230c7.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5154",
+    "event_name": "Biosphere & Initi",
+    "event_date": "2019-05-14",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-05-14",
+    "event_time_until": "19:30:00",
+    "location": "Prague Planetarium, Královská obora 233, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/initi/ubytf/\" target=\"_blank\">Initi</a><a href=\"https://goout.net/en/artists/biosphere/vxlpf/\" target=\"_blank\">Biosphere</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/6cfa67ab669545681076c2f63d986cb878585da3.jpg",
+    "price": "250",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/biosphere-and-initi/iyke",
+    "cancelled": "0",
+    "location_name": "Prague Planetarium",
+    "location_address": "Královská obora 233, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5155",
+    "event_name": "Příprava steaků",
+    "event_date": "2019-05-14",
+    "event_time": "17:00:00",
+    "event_date_until": "2019-05-14",
+    "event_time_until": "17:00:00",
+    "location": "Národní zemědělské muzeum, Kostelní 44, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/c8618696b59ab6d95d06051a82c30a01dd40d6f5.jpg",
+    "price": "2200",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Národní zemědělské muzeum",
+    "location_address": "Kostelní 44, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Gastro"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5156",
+    "event_name": "Chřest",
+    "event_date": "2019-05-16",
+    "event_time": "17:00:00",
+    "event_date_until": "2019-05-16",
+    "event_time_until": "17:00:00",
+    "location": "Národní zemědělské muzeum, Kostelní 44, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/523802934baaf6aeaa806ce9c7800ba275490a25.jpg",
+    "price": "2200",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Národní zemědělské muzeum",
+    "location_address": "Kostelní 44, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Gastro"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5157",
+    "event_name": "Kiss My Synthesizer!: Crystal Distortion + Hesed + more",
+    "event_date": "2019-05-17",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-05-17",
+    "event_time_until": "00:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "Do you love synths and techno? Cross Club love them both deeply. Visitors can expect event full of livesets with weird sonic machinery.<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/crystal-distortion/nvmwf/\" target=\"_blank\">Crystal Distortion</a><a href=\"https://goout.net/en/artists/adam-vandal/xvbwf/\" target=\"_blank\">Adam Vandal</a><a href=\"https://goout.net/en/artists/tmh-tranzit/afewf/\" target=\"_blank\">TmH Tranzit</a><a href=\"https://goout.net/en/artists/midirama767/xoebg/\" target=\"_blank\">Midirama767</a><a href=\"https://goout.net/en/artists/dadosh/gspvf/\" target=\"_blank\">Dadosh</a><a href=\"https://goout.net/en/artists/hesed/egubg/\" target=\"_blank\">Hesed</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/66231afab5303ca5b6c4db0d5ae13065807d7920.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      },
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5158",
+    "event_name": "SNDNB: Hugo Toxxx + Denoir & Dryman + more",
+    "event_date": "2019-05-18",
+    "event_time": "21:00:00",
+    "event_date_until": "2019-05-18",
+    "event_time_until": "21:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/hugo-toxxx/jyx/\" target=\"_blank\">Hugo Toxxx</a><a href=\"https://goout.net/en/artists/2xtolik-crew/itbcg/\" target=\"_blank\">2xTolik Crew</a><a href=\"https://goout.net/en/artists/mad4ce/nqupf/\" target=\"_blank\">Mad4ce</a><a href=\"https://goout.net/en/artists/rich/tqupf/\" target=\"_blank\">Rich</a><a href=\"https://goout.net/en/artists/denoir/mtrpf/\" target=\"_blank\">Denoir</a><a href=\"https://goout.net/en/artists/dryman/odupf/\" target=\"_blank\">Dryman</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/da3bb05055843ff8cec0301809a61e3bfbb50fee.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      },
+      {
+        "subcategory_name": "Párty"
+      },
+      {
+        "subcategory_name": "Festivaly"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5159",
+    "event_name": "Vladislav Ryasnyy: Čokoláda",
+    "event_date": "2019-05-21",
+    "event_time": "17:00:00",
+    "event_date_until": "2019-05-21",
+    "event_time_until": "17:00:00",
+    "location": "Národní zemědělské muzeum, Kostelní 44, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/6ac519a95894d175dd477258cf0b28608b59c10c.jpg",
+    "price": "2200",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Národní zemědělské muzeum",
+    "location_address": "Kostelní 44, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Gastro"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5160",
+    "event_name": "Together forever!",
+    "event_date": "2019-05-23",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-05-23",
+    "event_time_until": "19:00:00",
+    "location": "DOX Centrum současného umění, Poupětova 1, Praha 7",
+    "address": "",
+    "description": "Magda and Zuzanka share their little lives through phone conversations. The first cannot be without the second, while the second is self-absorbed. Why do they still communicate at all, and what do they actually have in common? Fragments of their absurd relationship appear in a kaleidoscope of situations from other lives, lived without recognizing their sense and direction, between fun and powerlessness, narcissism and fear of death. The present alternates with the past, rejection with the desire for closeness. Time passes, the elevator goes up, and the party has to end sometime. We’ve grown old. Does it surprise us?\n\nPerformers Hana Varadzinová and Eliška Vavříková created this work together with non-actor seniors, and perform in it alongside them. Involving Prague seniors with no previous experience with creating physical theatre on a professional level led to the creation of a community in which the intergenerational abyss of disregard and disdain that old people in the twilight of their lives often experience was absent. At least within its scope the project thus created a model of coexistence without the discrimination of the elderly that is all too common in today’s society.\n\n_Together Forever!_ is the third part of the _Night in the City_ trilogy, which focuses on revealing contemporary topics that society refuses to see. (The first part of the trilogy, the _Whistleblowers_ performance, had its premiere in 2015; the second part, the performance _Disconnected_, in 2016). Like the previous parts of the trilogy, _Together Forever!_ is a multilayered stage composition bordering on the genres of movement theatre, video, and documentary.<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/farm-in-the-cave/nrypf/\" target=\"_blank\">Farm in the Cave</a></div><div class=\"\">Režisér: Viliam Dočolomanský</div><div class=\"\">Umělci: Hana Varadzinová, Eliška Vavříková, Marcel Bárta a Helena Šikýřová/Jitka Vašutová, Helena Myslivečková, Eva Maříková/Januše Schmidová, Karel Hybš, Václav Kejmar, Josef Kaiser, Jiří Míček, Jarmila Šimonová, Jindřich Šourek</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/2135473340d3bc3cb671176152e7d86e0f6a82c6.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "DOX Centrum současného umění",
+    "location_address": "Poupětova 1, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5161",
+    "event_name": "Together forever!",
+    "event_date": "2019-05-24",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-05-24",
+    "event_time_until": "19:00:00",
+    "location": "DOX Centrum současného umění, Poupětova 1, Praha 7",
+    "address": "",
+    "description": "Magda and Zuzanka share their little lives through phone conversations. The first cannot be without the second, while the second is self-absorbed. Why do they still communicate at all, and what do they actually have in common? Fragments of their absurd relationship appear in a kaleidoscope of situations from other lives, lived without recognizing their sense and direction, between fun and powerlessness, narcissism and fear of death. The present alternates with the past, rejection with the desire for closeness. Time passes, the elevator goes up, and the party has to end sometime. We’ve grown old. Does it surprise us?\n\nPerformers Hana Varadzinová and Eliška Vavříková created this work together with non-actor seniors, and perform in it alongside them. Involving Prague seniors with no previous experience with creating physical theatre on a professional level led to the creation of a community in which the intergenerational abyss of disregard and disdain that old people in the twilight of their lives often experience was absent. At least within its scope the project thus created a model of coexistence without the discrimination of the elderly that is all too common in today’s society.\n\n_Together Forever!_ is the third part of the _Night in the City_ trilogy, which focuses on revealing contemporary topics that society refuses to see. (The first part of the trilogy, the _Whistleblowers_ performance, had its premiere in 2015; the second part, the performance _Disconnected_, in 2016). Like the previous parts of the trilogy, _Together Forever!_ is a multilayered stage composition bordering on the genres of movement theatre, video, and documentary.<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/farm-in-the-cave/nrypf/\" target=\"_blank\">Farm in the Cave</a></div><div class=\"\">Režisér: Viliam Dočolomanský</div><div class=\"\">Umělci: Hana Varadzinová, Eliška Vavříková, Marcel Bárta a Helena Šikýřová/Jitka Vašutová, Helena Myslivečková, Eva Maříková/Januše Schmidová, Karel Hybš, Václav Kejmar, Josef Kaiser, Jiří Míček, Jarmila Šimonová, Jindřich Šourek</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/71d70c98d082e892d000936b83217ff1af832e4d.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "DOX Centrum současného umění",
+    "location_address": "Poupětova 1, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5162",
+    "event_name": "Biosphere & Initi",
+    "event_date": "2019-05-30",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-05-30",
+    "event_time_until": "19:30:00",
+    "location": "Prague Planetarium, Královská obora 233, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/initi/ubytf/\" target=\"_blank\">Initi</a><a href=\"https://goout.net/en/artists/biosphere/vxlpf/\" target=\"_blank\">Biosphere</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/f931608f894a759858d0ee7acaa7db375ba31902.jpg",
+    "price": "250",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/biosphere-and-initi/lyke",
+    "cancelled": "0",
+    "location_name": "Prague Planetarium",
+    "location_address": "Královská obora 233, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5163",
+    "event_name": "Sweet Bar",
+    "event_date": "2019-05-30",
+    "event_time": "17:00:00",
+    "event_date_until": "2019-05-30",
+    "event_time_until": "17:00:00",
+    "location": "Národní zemědělské muzeum, Kostelní 44, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/f9a2cca7f4ad5f77090a75fc508f94cf501d9467.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Národní zemědělské muzeum",
+    "location_address": "Kostelní 44, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Gastro"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5164",
+    "event_name": "Tamura",
+    "event_date": "2019-06-11",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-06-11",
+    "event_time_until": "20:00:00",
+    "location": "Alfred ve dvoře, Františka Křížka 36, Praha 7",
+    "address": "",
+    "description": "_“An exceptionally suggestive audiovisual journey through a post-apocalyptic landscape.”_\n\n_Tamura’s final journey. Volcanic gravel underfoot, the sun burning his back. The sound of his own shallow breathing is drowned out by irregular explosions somewhere in the distance. Wherever the eye looks, the landscape is scorched by the sun’s radiation and by the fires still burning on the plains. There is thick, choking smoke everywhere. Helplessness and desperation. And while the soldier Tamura is dying amidst this scene between war and environmental catastrophe, the viewer is encouraged to think and imagine and to become aware of the approaching apocalypse._\n\nThis performance, devised by Tereza Bartůňková, Jan Čtvrtník and co. follows loosely upon their previous project, _Dialogue_. They found inspiration for this new work in Japanese author Ooka Shohei’s novel _Fire on the Plain_. The performance creators paraphrase the dense storyline into a powerful audiovisual experience that is part radio play, part concert, and part comics. The sound, music, and visuals are created and mixed live, in real time, right on the stage.\n\nTereza Bartůňková and Jan Čtvrtník are classmates from the Department of Alternative and Puppet Theatre at the Theatre Faculty of the Academy of Performing Arts in Prague (DAMU). They have collaborated on several previous theatre projects, including Korvína (Corvinus, 2013), Vítězný houpací kůň (The Victorious Rocking Horse, 2014), and Nekonečný příběh (The Neverending Story, 2015). Tereza creates the visuals, and Jan does the sound. The duo was brought together by their similar artistic way of thinking.<div class=\"\">Autor: Tereza Bartůňková, Jan Čtvrtník</div><div class=\"\">Umělci: Tereza Bartůňková, Michal Bednář, Jan Čtvrtník, Nataša Mikulová, Jan Nedbal</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/17f541a9a40efc4fca4be393518e24a0f90be7aa.jpg",
+    "price": "150–230",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/tamura/uxke",
+    "cancelled": "0",
+    "location_name": "Alfred ve dvoře",
+    "location_address": "Františka Křížka 36, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5165",
+    "event_name": "Tamura",
+    "event_date": "2019-06-12",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-06-12",
+    "event_time_until": "20:00:00",
+    "location": "Alfred ve dvoře, Františka Křížka 36, Praha 7",
+    "address": "",
+    "description": "_“An exceptionally suggestive audiovisual journey through a post-apocalyptic landscape.”_\n\n_Tamura’s final journey. Volcanic gravel underfoot, the sun burning his back. The sound of his own shallow breathing is drowned out by irregular explosions somewhere in the distance. Wherever the eye looks, the landscape is scorched by the sun’s radiation and by the fires still burning on the plains. There is thick, choking smoke everywhere. Helplessness and desperation. And while the soldier Tamura is dying amidst this scene between war and environmental catastrophe, the viewer is encouraged to think and imagine and to become aware of the approaching apocalypse._\n\nThis performance, devised by Tereza Bartůňková, Jan Čtvrtník and co. follows loosely upon their previous project, _Dialogue_. They found inspiration for this new work in Japanese author Ooka Shohei’s novel _Fire on the Plain_. The performance creators paraphrase the dense storyline into a powerful audiovisual experience that is part radio play, part concert, and part comics. The sound, music, and visuals are created and mixed live, in real time, right on the stage.\n\nTereza Bartůňková and Jan Čtvrtník are classmates from the Department of Alternative and Puppet Theatre at the Theatre Faculty of the Academy of Performing Arts in Prague (DAMU). They have collaborated on several previous theatre projects, including Korvína (Corvinus, 2013), Vítězný houpací kůň (The Victorious Rocking Horse, 2014), and Nekonečný příběh (The Neverending Story, 2015). Tereza creates the visuals, and Jan does the sound. The duo was brought together by their similar artistic way of thinking.<div class=\"\">Autor: Tereza Bartůňková, Jan Čtvrtník</div><div class=\"\">Umělci: Tereza Bartůňková, Michal Bednář, Jan Čtvrtník, Nataša Mikulová, Jan Nedbal</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/8e38e18b91ca528a3d7050a967fd5bd26449d4f0.jpg",
+    "price": "150–230",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/tamura/wxke",
+    "cancelled": "0",
+    "location_name": "Alfred ve dvoře",
+    "location_address": "Františka Křížka 36, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5166",
+    "event_name": "PQ+: Visions",
+    "event_date": "2019-06-15",
+    "event_time": "17:00:00",
+    "event_date_until": "2019-06-15",
+    "event_time_until": "17:00:00",
+    "location": "DOX Centrum současného umění, Poupětova 1, Praha 7",
+    "address": "",
+    "description": "_Visions is an international encounter for promoters, programming and festival directors, and creative producers working in the fields of contemporary dance and theatre. The meeting will serve as an opportunity for sharing current dramaturgical visions and practices.",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/64e95dac06b75975120ae681ae050348bef6f81d.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "DOX Centrum současného umění",
+    "location_address": "Poupětova 1, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5167",
+    "event_name": "Street Food Jam",
+    "event_date": "2019-06-23",
+    "event_time": "10:00:00",
+    "event_date_until": "2019-06-23",
+    "event_time_until": "10:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/c53df25092314d012c3e158e88c45611a53bf6c8.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Gastro"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
   }
 ]
