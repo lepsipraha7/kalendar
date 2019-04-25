@@ -54023,5 +54023,31 @@
     ],
     "image": null,
     "goOutInfo": "0"
+  },
+  {
+    "id": "5193",
+    "event_name": "Nominace Českého poháru ve vodním slalomu 2019",
+    "event_date": "2019-05-11",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-05-12",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>Už za rok čeká všechny sportovní fanoušky událost, na kterou se těší každé čtyři roky. Na olympijské hry v Tokiu vyrazí i nejlepší čeští vodní slalomáři. Ti se ale nejdříve poperou o nominaci do reprezentace pro letošní rok už začátkem května ve Veltrusech a Praze – Troji. Souboje o nominaci vyvrcholí v rámci 3. a 4. Českého poháru Skupiny ČEZ o víkendu 11. – 12. května 2019. Akci finančně podporuje Městská část Praha 7.</p>\n<p>Český pohár Skupiny ČEZ startuje ve Veltrusech 4. a 5. května. Závodníci se pak přesunou do Prahy. Soutěže začínají kvalifikacemi v dopoledních hodinách a vyvrcholí finálovými jízdami odpoledne.</p>\n<p>Informace k závodům, fotografie a výsledky budete moci sledovat na stránkách Českého svazu kanoistiky <a href=\"http://www.kanoe.cz\">www.kanoe.cz</a> a pro aktuální dění a informace sledujte Facebook Český vodní slalom a sjezd nebo instagram Czech Canoe.</p>\n<p><em><strong>Program:</strong></em></p>\n<p>Sobota:<br />\n7,45     porada vedoucích a rozhodčích před loděnicí FTVS UK<br />\n8,30     ukázková jízda <br />\n9,45     start kvalifikace C1ž, C1m, K1ž, K1m, C2m a C2mix, interval 60s<br />\n13,30   start finále A C1ž, C1m, K1ž, K1m, C2m a C2mix, interval 90s<br />\n15,00   start finále B C1ž, C1m, K1ž, K1m, C2m a C2mix, interval 50s<br />\nPo skončení finále B vyhlášení výsledků</p>\n<p>Neděle:<br />\n9,45     start kvalifikace C1ž, C1m, K1ž, K1m, C2m a C2mix, interval 60s<br />\n13,30   start finále A C1ž, C1m, K1ž, K1m, C2m a C2mix, interval 90s<br />\nPo skončení finále A vyhlášení výsledků<br />\n15,15 start finále B C1ž, C1m, K1ž, K1m, C2m a C2mix, interval 50s</p>\n<p>&nbsp;</p>",
+    "image_id": "25729",
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Sport"
+      }
+    ],
+    "image": "https://www.praha7.cz/wp-content/uploads/2019/04/sport-473879_960_720-600x400.jpg",
+    "goOutInfo": null
   }
 ]
