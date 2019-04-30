@@ -34261,19 +34261,19 @@
   },
   {
     "id": "4439",
-    "event_name": "UpTONE: Cavetown",
+    "event_name": "UpTONE: Cavetown + support: Spookyghostboy",
     "event_date": "2019-08-14",
     "event_time": "20:00:00",
     "event_date_until": "2019-08-14",
     "event_time_until": "20:00:00",
     "location": "Cross Club, Plynární 23, Praha 7",
     "address": "",
-    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/cavetown/vvkbg/\" target=\"_blank\">Cavetown</a></div>",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/cavetown/vvkbg/\" target=\"_blank\">Cavetown</a><a href=\"https://goout.net/en/artists/spookyghostboy/tvpcg/\" target=\"_blank\">Spookyghostboy </a></div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/dd9e624bbef0cbc35d56ba112668b9a1220da443.jpg",
     "price": "0",
     "currency": "CZK",
-    "sale_url": "https://goout.net/en/tickets/uptone-cavetown/qade",
+    "sale_url": "https://goout.net/en/tickets/uptone-cavetown+support-spookyghostboy/qade",
     "cancelled": "0",
     "location_name": "Cross Club",
     "location_address": "Plynární 23, Praha 7",
@@ -35759,8 +35759,8 @@
     "image_src": "wp-content/uploads/goout/509f90875322717468ca03665ca1127a92391889.jpg",
     "price": "200–250",
     "currency": "CZK",
-    "sale_url": "https://goout.net/en/tickets/untitled/ddee",
-    "cancelled": "0",
+    "sale_url": null,
+    "cancelled": "1",
     "location_name": "Jatka78",
     "location_address": "Bubenské nábřeží 306/13, Praha 7",
     "categories": [
@@ -40371,7 +40371,7 @@
     "event_name": "Anka Langová – Od štěněte do pytle",
     "event_date": "2019-03-21",
     "event_time": "16:30:00",
-    "event_date_until": "2019-05-05",
+    "event_date_until": "2019-05-19",
     "event_time_until": "00:00:00",
     "location": "Galerie na Úřadě MČ Praha 7, 2. patro, nábř. Kpt. Jaroše 1000",
     "address": "",
@@ -40633,35 +40633,6 @@
       }
     ],
     "image": null,
-    "goOutInfo": null
-  },
-  {
-    "id": "4682",
-    "event_name": "Přijďte fandit na maraton",
-    "event_date": "2019-05-05",
-    "event_time": "09:15:00",
-    "event_date_until": "2019-05-05",
-    "event_time_until": "15:00:00",
-    "location": ", ",
-    "address": "",
-    "description": "<p>V neděli <strong>5. května</strong> se v Praze uskuteční tradiční mezinárodní běžecký závod Volkswagen Maraton Praha 2019. V ulici Jankovcova naproti budově Lighthouse vznikne v režii radnice speciální fandicí místo, a to <strong>od 9.15 do 15 hodin</strong>. Čeká na vás reprodukovaná hudba, doprovodné sportovní vystoupení po celý den od Fighters Cheerleaders a fandítka a nafukovací balonky zdarma.</p>",
-    "image_id": "24448",
-    "image_src": null,
-    "price": "0",
-    "currency": null,
-    "sale_url": "",
-    "cancelled": "0",
-    "location_name": null,
-    "location_address": null,
-    "categories": [
-      {
-        "subcategory_name": "Sport"
-      },
-      {
-        "subcategory_name": "Akce MČ"
-      }
-    ],
-    "image": "https://www.praha7.cz/wp-content/uploads/2019/03/marathon-3753907_960_720-600x400.jpg",
     "goOutInfo": null
   },
   {
@@ -52192,7 +52163,7 @@
     "event_time_until": "10:00:00",
     "location": "Bio Oko, Františka Křižíka 15, Praha 7",
     "address": "",
-    "description": "When the first snow falls in the valley, it is urgent to prepare its reserves for the winter. Alas, during the operation, a small ladybug is trapped in a box – to the Caribbean. One solution: reform the shock team.<div class=\"\">Režisér: Hélène Giraud, Thomas Szabo</div>",
+    "description": "When the first snow falls in the valley, it is urgent to prepare its reserves for the winter. Alas, during the operation, a small ladybug is trapped in a box – to the Caribbean. One solution: reform the shock team.<div class=\"\">Režisér: Hélène Giraud, Thomas Szabo</div><div class=\"\">Umělci: Bruno Salomone, Thierry Frémont, Jean-Paul Guyon</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/7682f777c8f4933e6764fd22847fdda29681d5e0.jpg",
     "price": "",
@@ -54819,7 +54790,7 @@
     "event_time_until": "15:30:00",
     "location": "Bio Oko, Františka Křižíka 15, Praha 7",
     "address": "",
-    "description": "When the first snow falls in the valley, it is urgent to prepare its reserves for the winter. Alas, during the operation, a small ladybug is trapped in a box – to the Caribbean. One solution: reform the shock team.<div class=\"\">Režisér: Hélène Giraud, Thomas Szabo</div>",
+    "description": "When the first snow falls in the valley, it is urgent to prepare its reserves for the winter. Alas, during the operation, a small ladybug is trapped in a box – to the Caribbean. One solution: reform the shock team.<div class=\"\">Režisér: Hélène Giraud, Thomas Szabo</div><div class=\"\">Umělci: Bruno Salomone, Thierry Frémont, Jean-Paul Guyon</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/8a7d933da29878b4160fcda98f67735d648efe76.jpg",
     "price": "",
@@ -54923,7 +54894,7 @@
     "event_time_until": "10:00:00",
     "location": "Bio Oko, Františka Křižíka 15, Praha 7",
     "address": "",
-    "description": "When the first snow falls in the valley, it is urgent to prepare its reserves for the winter. Alas, during the operation, a small ladybug is trapped in a box – to the Caribbean. One solution: reform the shock team.<div class=\"\">Režisér: Hélène Giraud, Thomas Szabo</div>",
+    "description": "When the first snow falls in the valley, it is urgent to prepare its reserves for the winter. Alas, during the operation, a small ladybug is trapped in a box – to the Caribbean. One solution: reform the shock team.<div class=\"\">Režisér: Hélène Giraud, Thomas Szabo</div><div class=\"\">Umělci: Bruno Salomone, Thierry Frémont, Jean-Paul Guyon</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/65a6322ddba64cf7eb97e0786ecb397fc5987661.jpg",
     "price": "",
@@ -54935,6 +54906,110 @@
     "categories": [
       {
         "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5228",
+    "event_name": "Hard Sell",
+    "event_date": "2019-05-03",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-05-03",
+    "event_time_until": "19:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "A modern black farce with an unexpected finale. For the first time, the Czech premiere of _Hard Sell_ hits the stage. Translated by Petr Čepek and directed by Filip Nuckolls, the text is altered to reflect post-revolutionary realities of the 1990s.\n\n_Two policemen, one corpse, and one witness. Is he culprit or victim? Why is he silent? A brilliant comedy about how much men of the law must use their imaginations in order to bring about justice. Can they manage it?_<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/divadlo-6-16/hhbbg/\" target=\"_blank\">Divadlo 6-16</a></div><div class=\"\">Režisér: Filip Nuckolls</div><div class=\"\">Umělci: Kryštof Rímský, Jan Jankovský, Jana Polášková</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/41a817ca6ec726c23473d8373029d150f382b9cd.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5229",
+    "event_name": "Mirai",
+    "event_date": "2019-05-08",
+    "event_time": "21:00:00",
+    "event_date_until": "2019-05-08",
+    "event_time_until": "21:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "A young boy encounters a magical garden which enables him to travel through time and meet his relatives from different eras, with guidance by his younger sister from the future.<div class=\"\">Režisér: Mamoru Hosoda </div><div class=\"\">Umělci: Haru Kuroki, Moka Kamiširaiši, Gen Hošino, Kódži Jakušo, Kumiko Asó, Jošiko Mijazaki</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/20e907e69443f492189b84029e92cbd22bd38e00.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5230",
+    "event_name": "F. Racek (život a jídlo)",
+    "event_date": "2019-05-28",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-05-28",
+    "event_time_until": "20:00:00",
+    "location": "Alfred ve dvoře, Františka Křížka 36, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/relikty-hmyzu/xcarf/\" target=\"_blank\">Relikty Hmyzu</a></div><div class=\"\">Autor: Karel Čapek, A. P. Čechov, Relikty</div><div class=\"\">Režisér: Adam Pospíšil, Šimon Stiburek</div><div class=\"\">Umělci: Martin Kuncl, Kryštof Pokorný, Stephanie Mia Van Vleet, Vojta Vávra, Čeněk Pýcha</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/f010824838b3a6ada7d1414c956088faae2b07a3.jpg",
+    "price": "250–350",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/f-racek-zivot-a-jidlo/fnle",
+    "cancelled": "0",
+    "location_name": "Alfred ve dvoře",
+    "location_address": "Františka Křížka 36, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5231",
+    "event_name": "Jsem spokojenej na Vzduchu",
+    "event_date": "2019-06-18",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-06-18",
+    "event_time_until": "19:30:00",
+    "location": "Holešovická Šachta, Bubenská 14, Praha",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/09fdb23a2e821653e7636e7948bb28842bfd134b.jpg",
+    "price": "350",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/jsem-spokojenej-na-vzduchu/sple",
+    "cancelled": "0",
+    "location_name": "Holešovická Šachta",
+    "location_address": "Bubenská 14, Praha",
+    "categories": [
+      {
+        "subcategory_name": "Festivaly"
       }
     ],
     "image": null,
