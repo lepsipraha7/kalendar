@@ -35289,7 +35289,7 @@
     "description": "Milion + Entertainment celebrates the release of the new album _Krtek Money Life_ with a performance at SaSaZ on 10 May 2019.<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/milion+entertainment/parwf/\" target=\"_blank\">Milion+ Entertainment</a><a href=\"https://goout.net/en/artists/yzomandias/jtqsf/\" target=\"_blank\">Yzomandias</a><a href=\"https://goout.net/en/artists/nik-tendo/tevtf/\" target=\"_blank\">Nik Tendo</a><a href=\"https://goout.net/en/artists/karlo/icgrf/\" target=\"_blank\">Karlo</a><a href=\"https://goout.net/en/artists/jickson/aetsf/\" target=\"_blank\">Jickson</a><a href=\"https://goout.net/en/artists/robin-zoot/gqqqf/\" target=\"_blank\">Robin Zoot</a><a href=\"https://goout.net/en/artists/konex/eetsf/\" target=\"_blank\">Konex</a><a href=\"https://goout.net/en/artists/hasan/snysf/\" target=\"_blank\">Hasan</a><a href=\"https://goout.net/en/artists/decky/pmsvf/\" target=\"_blank\">Decky</a><a href=\"https://goout.net/en/artists/koky/lmsvf/\" target=\"_blank\">Koky</a><a href=\"https://goout.net/en/artists/kamil-hoffmann/dqacg/\" target=\"_blank\">Kamil Hoffmann</a></div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/107a4ff2f46163e8584cb29ec767af07b9fccc27.jpg",
-    "price": "0–1390",
+    "price": "290–1390",
     "currency": "CZK",
     "sale_url": "https://goout.net/en/tickets/milion+krtek-money-life-album-release/evde",
     "cancelled": "0",
@@ -57429,6 +57429,373 @@
     "categories": [
       {
         "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5324",
+    "event_name": "Snowing!",
+    "event_date": "2019-05-16",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-05-16",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Režisér: Kristina Nedvědová</div><div class=\"\">Umělci: Petra Nesvačilová, Hana Vagnerová, Vanda Hybnerová, Monika Pošívalová, Petr Vršek, Alena Mihulová, Lukáš Jůza, Jan Grundman</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/b9e2b46e8ce189d59ea68f0a626ebe806f10ebcb.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5325",
+    "event_name": "Missing Link",
+    "event_date": "2019-05-16",
+    "event_time": "14:30:00",
+    "event_date_until": "2019-05-16",
+    "event_time_until": "14:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Mr. Link recruits explorer Sir Lionel Frost to help find his long-lost relatives in the fabled valley of Shangri-La. Along with adventurer Adelina Fortnight, this trio of explorers travel the world to help their new friend.<div class=\"\">Režisér: Chris Butler</div><div class=\"\">Umělci: Zoe Saldana, Hugh Jackman, Timothy Olyphant, Emma Thompson, Zach Galifianakis, Amrita Acharia, Stephen Fry, Matt Lucas, David Walliams</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/cfd9ec8b824fe00640edfd3ad5e0d375a72ac860.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5326",
+    "event_name": "John Wick: Chapter 3",
+    "event_date": "2019-05-17",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-05-17",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Super-Assassin John Wick is on the run after killing a member of the international assassin's guild, and with a $14 million price tag on his head - he is the target of hit men and women everywhere.\n<div class=\"\">Režisér: Chad Stahelski</div><div class=\"\">Umělci: Keanu Reeves, Halle Berry, Ian McShane, Jason Mantzoukas, Asia Kate Dillon, Laurence Fishburne, Anjelica Huston, Lance Reddick, Mark Dacascos, Cecep Arif Rahman, Yayan Ruhian, Tiger Chen Hu, Faith Logan, Oscar Pavlo</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/83883ac986dd45153c727175a3d67b90695346ef.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5327",
+    "event_name": "Free Solo",
+    "event_date": "2019-05-17",
+    "event_time": "20:45:00",
+    "event_date_until": "2019-05-17",
+    "event_time_until": "20:45:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Follow Alex Honnold as he becomes the first person to ever free solo climb Yosemite's 3,000 ft high El Capitan wall. With no ropes or safety gear, he completed arguably the greatest feat in rock climbing history.\n<div class=\"\">Režisér: Jimmy Chin,Elizabeth Chai Vasarhelyi</div><div class=\"\">Umělci: Alex Honnold, Jimmy Chin</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/630778a3c9b3608e700ca3fc05a089363989cba6.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5328",
+    "event_name": "Green Book",
+    "event_date": "2019-05-18",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-05-18",
+    "event_time_until": "20:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A working-class Italian-American bouncer becomes the driver of an African-American classical pianist on a tour of venues through the 1960s American South.<div class=\"\">Režisér: Peter Farrelly </div><div class=\"\">Umělci: Viggo Mortensen, Mahershala Ali, Linda Cardellini, Sebastian Maniscalco, Dimetter D.Marinov, Mike Hatton, Joe Cortese</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/e3d79f7e3fa6672bbeff35c1b121c939d4cbd979.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5329",
+    "event_name": "Pokémon: Detective Pikachu",
+    "event_date": "2019-05-18",
+    "event_time": "10:00:00",
+    "event_date_until": "2019-05-18",
+    "event_time_until": "10:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "In a world where people collect Pokémon to do battle, a boy comes across an intelligent talking Pikachu who seeks to be a detective.\n<div class=\"\">Režisér: Rob Letterman</div><div class=\"\">Umělci: Ryan Reynolds, Justice Smith, Kathryn Newton, Rita Ora, Bill Nighy, Chris Geere, Ken Watanabe</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/e2f9b11abae99aa04d750908fdad81f0a18ba453.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5330",
+    "event_name": "John Wick: Chapter 3",
+    "event_date": "2019-05-18",
+    "event_time": "12:15:00",
+    "event_date_until": "2019-05-18",
+    "event_time_until": "12:15:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Super-Assassin John Wick is on the run after killing a member of the international assassin's guild, and with a $14 million price tag on his head - he is the target of hit men and women everywhere.\n<div class=\"\">Režisér: Chad Stahelski</div><div class=\"\">Umělci: Keanu Reeves, Halle Berry, Ian McShane, Jason Mantzoukas, Asia Kate Dillon, Laurence Fishburne, Anjelica Huston, Lance Reddick, Mark Dacascos, Cecep Arif Rahman, Yayan Ruhian, Tiger Chen Hu, Faith Logan, Oscar Pavlo</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/1d7494bb4b5093a36f3e1b32907d8b5490bcbf79.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5331",
+    "event_name": "Free Solo",
+    "event_date": "2019-05-18",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-05-18",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Follow Alex Honnold as he becomes the first person to ever free solo climb Yosemite's 3,000 ft high El Capitan wall. With no ropes or safety gear, he completed arguably the greatest feat in rock climbing history.\n<div class=\"\">Režisér: Jimmy Chin,Elizabeth Chai Vasarhelyi</div><div class=\"\">Umělci: Alex Honnold, Jimmy Chin</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/4d3a4e70dca5ec9525f58dbc90c3264418bc432c.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5332",
+    "event_name": "Trabantem tam a zase zpátky",
+    "event_date": "2019-05-19",
+    "event_time": "21:00:00",
+    "event_date_until": "2019-05-19",
+    "event_time_until": "21:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Režisér: Dan Přibáň</div><div class=\"\">Umělci: Dan Přibáň, Vojtěch Duchoslav, Zdeněk Krátký, Lukáš Venclík, Marek Duranský, Marek Slobodník, Radoslaw Jona</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/3645ba5b9052a24aab90aea6dca2d42af8e080aa.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5333",
+    "event_name": "Minuscule: Mandibles from Far Away",
+    "event_date": "2019-05-19",
+    "event_time": "10:00:00",
+    "event_date_until": "2019-05-19",
+    "event_time_until": "10:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "When the first snow falls in the valley, it is urgent to prepare its reserves for the winter. Alas, during the operation, a small ladybug is trapped in a box – to the Caribbean. One solution: reform the shock team.<div class=\"\">Režisér: Hélène Giraud, Thomas Szabo</div><div class=\"\">Umělci: Bruno Salomone, Thierry Frémont, Jean-Paul Guyon</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/ee604f7e86a60ca47c5a6547be04b767cd29d7d5.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5334",
+    "event_name": "Free Solo",
+    "event_date": "2019-05-19",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-05-19",
+    "event_time_until": "19:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Follow Alex Honnold as he becomes the first person to ever free solo climb Yosemite's 3,000 ft high El Capitan wall. With no ropes or safety gear, he completed arguably the greatest feat in rock climbing history.\n<div class=\"\">Režisér: Jimmy Chin,Elizabeth Chai Vasarhelyi</div><div class=\"\">Umělci: Alex Honnold, Jimmy Chin</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/19bf178afefe7a6f325e2c62dd7cc2a02e14ee4e.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5335",
+    "event_name": "The Beach Bum",
+    "event_date": "2019-05-21",
+    "event_time": "15:45:00",
+    "event_date_until": "2019-05-21",
+    "event_time_until": "15:45:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Harmony Korine, a legendary scriptwriter, director and enfant terrible of American cinema, is back after a several-year break with a subversive comedy about the jaunty adventures of the irresistible crook Moondog. This mischievous rapscallion lives in grand style, following only his own rules, and mostly under the influence of alcohol or any other substance he can get his hands on.<div class=\"\">Režisér: Harmony Korine</div><div class=\"\">Umělci: Matthew McConaughey, Snoop Dogg, Isla Fisher, Zac Efron, Martin Lawrence, Stefania LaVie Owen, Jonah Hill</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/dc537243c5d0216d704804383a2ec2c78f9731db.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5336",
+    "event_name": "Free Solo",
+    "event_date": "2019-05-21",
+    "event_time": "10:00:00",
+    "event_date_until": "2019-05-21",
+    "event_time_until": "10:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Follow Alex Honnold as he becomes the first person to ever free solo climb Yosemite's 3,000 ft high El Capitan wall. With no ropes or safety gear, he completed arguably the greatest feat in rock climbing history.\n<div class=\"\">Režisér: Jimmy Chin,Elizabeth Chai Vasarhelyi</div><div class=\"\">Umělci: Alex Honnold, Jimmy Chin</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/b99b83e29fe1c1f9bc134f89f873df7df53129e5.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5337",
+    "event_name": "Concidence: Floex + Ark3r + more ",
+    "event_date": "2019-06-01",
+    "event_time": "22:00:00",
+    "event_date_until": "2019-06-01",
+    "event_time_until": "22:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/floex/fmb/\" target=\"_blank\">Floex</a><a href=\"https://goout.net/en/artists/ark3r/sgd/\" target=\"_blank\">Ark3r</a><a href=\"https://goout.net/en/artists/taino/yjstf/\" target=\"_blank\">Täino</a><a href=\"https://goout.net/en/artists/jesse/ejysf/\" target=\"_blank\">Jesse</a><a href=\"https://goout.net/en/artists/zaloo/nvgxf/\" target=\"_blank\">Zaloo</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/55d0adcc00ee19c255e2ea3b59c0652a1ce8068f.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      },
+      {
+        "subcategory_name": "Koncerty"
       }
     ],
     "image": null,
