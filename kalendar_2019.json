@@ -34693,7 +34693,7 @@
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/katarzia/kvnh/\" target=\"_blank\">Katarzia</a><a href=\"https://goout.net/en/artists/katarzia-band/eaauf/\" target=\"_blank\">Katarzia & Band</a></div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/80e11f4d746654659481c912b76245eaaf972b3a.jpg",
-    "price": "100",
+    "price": "100–200",
     "currency": "CZK",
     "sale_url": "https://goout.net/en/tickets/katarzia-and-band/tqde",
     "cancelled": "0",
@@ -43801,10 +43801,10 @@
     "description": "<div class=\"\">Režisér: Viktorie Vášová</div><div class=\"\">Umělci: Maëlane Auffray, Martin Belianský, Bára Bočková, Vojtěch Vondráček</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/914f0da154f001c28f0c2fe734fe311a2ae52fe4.jpg",
-    "price": "150–230",
+    "price": "",
     "currency": "CZK",
     "sale_url": "https://goout.net/en/tickets/hopi-land/oqhe",
-    "cancelled": "0",
+    "cancelled": "1",
     "location_name": "Alfred ve dvoře",
     "location_address": "Františka Křížka 36, Praha 7",
     "categories": [
@@ -56338,7 +56338,7 @@
   },
   {
     "id": "5282",
-    "event_name": "PQ Studio: Kalle + Zoe Hayter",
+    "event_name": "Between the trees #Chill: Kalle + Zoe Hayter",
     "event_date": "2019-06-10",
     "event_time": "19:00:00",
     "event_date_until": "2019-06-10",
@@ -56738,9 +56738,9 @@
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/ty-ja-tr/wqkpf/\" target=\"_blank\">Ty-já-tr</a></div><div class=\"\">Autor: William Shakespeare, Tomáš Jarkovský, Jakub Vašíček</div><div class=\"\">Režisér: Lucie Wildtová, Josef Hervert</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/e4f28d2ce9244d273b8bcd2195011983ed5e41e7.jpg",
-    "price": "",
+    "price": "90",
     "currency": "CZK",
-    "sale_url": null,
+    "sale_url": "https://goout.net/en/tickets/hamleteen/pgne",
     "cancelled": "0",
     "location_name": "Divadlo Radar",
     "location_address": "Pplk. Sochora 9, Praha 7",
@@ -56764,9 +56764,9 @@
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/ty-ja-tr/wqkpf/\" target=\"_blank\">Ty-já-tr</a></div><div class=\"\">Autor: Astrid Lindgrenová</div><div class=\"\">Režisér: Josef Hervert</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/5273877b8aa7a83fb72b8e194488be0bd39d22c1.jpg",
-    "price": "",
+    "price": "40",
     "currency": "CZK",
-    "sale_url": null,
+    "sale_url": "https://goout.net/en/tickets/bratri-lvi-srdce/ogne",
     "cancelled": "0",
     "location_name": "Divadlo Radar",
     "location_address": "Pplk. Sochora 9, Praha 7",
@@ -56793,9 +56793,9 @@
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/ty-ja-tr/wqkpf/\" target=\"_blank\">Ty-já-tr</a></div><div class=\"\">Autor: Jean-Michel Ribes</div><div class=\"\">Režisér: Lukáš Křížek</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/708b6ed80f8645d7a4994041b7d8cc3625f2570e.jpg",
-    "price": "",
+    "price": "100",
     "currency": "CZK",
-    "sale_url": null,
+    "sale_url": "https://goout.net/en/tickets/divadlo-bez-zvirat/qgne",
     "cancelled": "0",
     "location_name": "Divadlo Radar",
     "location_address": "Pplk. Sochora 9, Praha 7",
@@ -57027,9 +57027,9 @@
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/ty-ja-tr/wqkpf/\" target=\"_blank\">Ty-já-tr</a></div><div class=\"\">Autor: Petr Kolečko</div><div class=\"\">Režisér: Radek Šedivý j.h.</div><div class=\"\">Umělci: Eliška Holzknechtová / Ludmila Švrčinová, Evelína Žemličková, Lenka Rudová / Barbora Heřmánková, Anna Kottasová / Andrea Šíchová, Pavel Trnka, Vojtěch Chalupa, Jakub Heřmánek, Martin Holzknecht / Oliver Cox, Lukáš Křížek, Matěj Trojan, Jakub Hudec</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/f0d2ca1f64b5cf2e50192a4a2bbe945c64d84d95.jpg",
-    "price": "",
+    "price": "100",
     "currency": "CZK",
-    "sale_url": null,
+    "sale_url": "https://goout.net/en/tickets/buchty-a-bohyne/tgne",
     "cancelled": "0",
     "location_name": "Divadlo Radar",
     "location_address": "Pplk. Sochora 9, Praha 7",
@@ -57053,9 +57053,9 @@
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/ty-ja-tr/wqkpf/\" target=\"_blank\">Ty-já-tr</a></div><div class=\"\">Autor: Roland Schimmelpfennig</div><div class=\"\">Režisér: Štěpán Pácl</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/b801a26815b8ab5e8f46aeaebf1dec203289548a.jpg",
-    "price": "",
+    "price": "100",
     "currency": "CZK",
-    "sale_url": null,
+    "sale_url": "https://goout.net/en/tickets/zlaty-drak/ugne",
     "cancelled": "0",
     "location_name": "Divadlo Radar",
     "location_address": "Pplk. Sochora 9, Praha 7",
@@ -57105,9 +57105,9 @@
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/ty-ja-tr/wqkpf/\" target=\"_blank\">Ty-já-tr</a></div><div class=\"\">Autor: John Buchan, Alfred Hitchcock</div><div class=\"\">Režisér: Barbora Vaněčková, Tomáš Horáček</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/4ecac9558729263477752731d64e9f0c5665d092.jpg",
-    "price": "",
+    "price": "100",
     "currency": "CZK",
-    "sale_url": null,
+    "sale_url": "https://goout.net/en/tickets/39-stupnu/vgne",
     "cancelled": "0",
     "location_name": "Divadlo Radar",
     "location_address": "Pplk. Sochora 9, Praha 7",
@@ -57209,9 +57209,9 @@
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/ty-ja-tr/wqkpf/\" target=\"_blank\">Ty-já-tr</a></div><div class=\"\">Autor: podle Lidmily Kábrtové – kolektiv NATRUC</div><div class=\"\">Režisér: Magda Gracerová, Kateřina Urbanová</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/ab5059094f4c1e8356f9ac27ca2a07c1aa6edcb3.jpg",
-    "price": "",
+    "price": "60",
     "currency": "CZK",
-    "sale_url": null,
+    "sale_url": "https://goout.net/en/tickets/koho-vypijou-lisky/xgne",
     "cancelled": "0",
     "location_name": "Divadlo Radar",
     "location_address": "Pplk. Sochora 9, Praha 7",
@@ -57316,9 +57316,9 @@
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/ty-ja-tr/wqkpf/\" target=\"_blank\">Ty-já-tr</a></div><div class=\"\">Autor: Petr Kolečko</div><div class=\"\">Režisér: Radek Šedivý j.h.</div><div class=\"\">Umělci: Eliška Holzknechtová / Ludmila Švrčinová, Evelína Žemličková, Lenka Rudová / Barbora Heřmánková, Anna Kottasová / Andrea Šíchová, Pavel Trnka, Vojtěch Chalupa, Jakub Heřmánek, Martin Holzknecht / Oliver Cox, Lukáš Křížek, Matěj Trojan, Jakub Hudec</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/60d95525ed44ca9a4e0f80390d4bf8e1a9782da4.jpg",
-    "price": "",
+    "price": "100",
     "currency": "CZK",
-    "sale_url": null,
+    "sale_url": "https://goout.net/en/tickets/buchty-a-bohyne/ahne",
     "cancelled": "0",
     "location_name": "Divadlo Radar",
     "location_address": "Pplk. Sochora 9, Praha 7",
@@ -57342,9 +57342,9 @@
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/ty-ja-tr/wqkpf/\" target=\"_blank\">Ty-já-tr</a></div><div class=\"\">Autor: František Tichý</div><div class=\"\">Režisér: R. Tesárková, E. Toperczerová, J. Kottasová</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/52f47e1299142071c58229ef82ad8c9354cb8520.jpg",
-    "price": "",
+    "price": "70",
     "currency": "CZK",
-    "sale_url": null,
+    "sale_url": "https://goout.net/en/tickets/terezinske-zvony/bhne",
     "cancelled": "0",
     "location_name": "Divadlo Radar",
     "location_address": "Pplk. Sochora 9, Praha 7",
@@ -57368,9 +57368,9 @@
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/ty-ja-tr/wqkpf/\" target=\"_blank\">Ty-já-tr</a></div><div class=\"\">Autor: Klára Vajnerová, Vendula Hlásková</div><div class=\"\">Režisér: Jana Kottasová, Ondřej Česák</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/69e3bc400aa8460c23812864179213ff57b4396e.jpg",
-    "price": "",
+    "price": "100",
     "currency": "CZK",
-    "sale_url": null,
+    "sale_url": "https://goout.net/en/tickets/doruceno-zobrazeno-precteno/chne",
     "cancelled": "0",
     "location_name": "Divadlo Radar",
     "location_address": "Pplk. Sochora 9, Praha 7",
@@ -57394,9 +57394,9 @@
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/ty-ja-tr/wqkpf/\" target=\"_blank\">Ty-já-tr</a></div><div class=\"\">Autor: Ferdinand von Schirach</div><div class=\"\">Režisér: Radka Tesárková, Jana Kottasová</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/6878a373b78236280b8d01c3fb0b3b24eb92fb4c.jpg",
-    "price": "",
+    "price": "80",
     "currency": "CZK",
-    "sale_url": null,
+    "sale_url": "https://goout.net/en/tickets/teror/ehne",
     "cancelled": "0",
     "location_name": "Divadlo Radar",
     "location_address": "Pplk. Sochora 9, Praha 7",
@@ -57420,9 +57420,9 @@
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/ty-ja-tr/wqkpf/\" target=\"_blank\">Ty-já-tr</a></div><div class=\"\">Autor: Brandon Thomas</div><div class=\"\">Režisér: Eliška Hrubá Toperczerová</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/2897dc3bf9a0f7b302bb1d6a6914116886e107c3.jpg",
-    "price": "",
+    "price": "100",
     "currency": "CZK",
-    "sale_url": null,
+    "sale_url": "https://goout.net/en/tickets/charleyova-teta/fhne",
     "cancelled": "0",
     "location_name": "Divadlo Radar",
     "location_address": "Pplk. Sochora 9, Praha 7",
@@ -57784,6 +57784,246 @@
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/floex/fmb/\" target=\"_blank\">Floex</a><a href=\"https://goout.net/en/artists/ark3r/sgd/\" target=\"_blank\">Ark3r</a><a href=\"https://goout.net/en/artists/taino/yjstf/\" target=\"_blank\">Täino</a><a href=\"https://goout.net/en/artists/jesse/ejysf/\" target=\"_blank\">Jesse</a><a href=\"https://goout.net/en/artists/zaloo/nvgxf/\" target=\"_blank\">Zaloo</a></div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/55d0adcc00ee19c255e2ea3b59c0652a1ce8068f.jpg",
+    "price": "100",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/concidence-floex+ark3r+more/cjne",
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      },
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5338",
+    "event_name": "Stalin Sunset Trip: Lumiere",
+    "event_date": "2019-05-11",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-05-11",
+    "event_time_until": "20:00:00",
+    "location": "Containall – Stalin, Letenské sady, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/lumiere/iorpf/\" target=\"_blank\">Lumiere</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/03a46bc419556aaa717d3f4c96cc3fb15c067dd3.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stalin",
+    "location_address": "Letenské sady, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5339",
+    "event_name": "Stalin Siesta: DJ Růžový Partner",
+    "event_date": "2019-05-12",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-05-12",
+    "event_time_until": "18:00:00",
+    "location": "Containall – Stalin, Letenské sady, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/dj-ruzovy-partner/uopyf/\" target=\"_blank\">DJ Růžový Partner</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/1e82f3f57f50b6190e6977361649fbeea0330827.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stalin",
+    "location_address": "Letenské sady, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5340",
+    "event_name": " Stalin Stage: Shakk-Attack & Kattygyal Kenta + DJ Loic de Niro",
+    "event_date": "2019-05-14",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-05-14",
+    "event_time_until": "20:00:00",
+    "location": "Containall – Stalin, Letenské sady, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/shakk-attack/qddqf/\" target=\"_blank\">Shakk-Attack</a><a href=\"https://goout.net/en/artists/kattygyal-kenta/lmatf/\" target=\"_blank\">KattyGyal Kenta</a><a href=\"https://goout.net/en/artists/loic-deniro/iblwf/\" target=\"_blank\">Loic DeNiro</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/5417e5b99b037672b2a447e6f85ca9be17daa93e.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stalin",
+    "location_address": "Letenské sady, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      },
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5341",
+    "event_name": "Rascals Drink'n'Draw",
+    "event_date": "2019-05-15",
+    "event_time": "18:30:00",
+    "event_date_until": "2019-05-15",
+    "event_time_until": "18:30:00",
+    "location": "Studio Alta, U Výstaviště 21, Praha 7",
+    "address": "",
+    "description": "_Rascals Drink'n'Draw_ is an event mainly for videogames or film professionals and art students who would like to get better in their craft. Under our Art Director guidance you would be able to try out different poses, lighting exercises and time-stamped \"shorts\" for quick sketches. And if you tire of drawing and sketching you can always exchange tips and news with others over some good beer or wine! ",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/cb33ab10de4d1eca6cd2350017096546766cb62c.jpg",
+    "price": "120",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/rascals-drinkndraw/tjne",
+    "cancelled": "0",
+    "location_name": "Studio Alta",
+    "location_address": "U Výstaviště 21, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5342",
+    "event_name": "Stalin Nite Shift : DJ Nkyp",
+    "event_date": "2019-05-17",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-05-17",
+    "event_time_until": "20:00:00",
+    "location": "Containall – Stalin, Letenské sady, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/dj-nkyp/qol/\" target=\"_blank\">DJ Nkyp</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/93ec0ada8ba8e04ab0491855b9c72b765731bb52.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stalin",
+    "location_address": "Letenské sady, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5343",
+    "event_name": "Journey to Prehistory",
+    "event_date": "2019-05-18",
+    "event_time": "15:00:00",
+    "event_date_until": "2019-05-18",
+    "event_time_until": "15:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Four young boys visit a dinosaur exhibit at the New York city Museum of Natural History. They then row out onto Central Park Lake where they find a secret cave and paddle into a wondrous prehistoric world filled with the very dinosaurs they had just seen.<div class=\"\">Režisér: Karel Zeman</div><div class=\"\">Umělci: Vladimír Bejval, Petr Herrmann, Josef Lukáš, Zdeněk Husták, Bedřich Šetena</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/791163316159b2aa886427df7622b155f99a3a3a.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5344",
+    "event_name": "Manželské etudy: Nová generace",
+    "event_date": "2019-05-19",
+    "event_time": "12:15:00",
+    "event_date_until": "2019-05-19",
+    "event_time_until": "12:15:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Režisér: Hana Třeštíková</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/ad181ac176f6fcaf84f2d0394c99ce94df4f340d.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5345",
+    "event_name": "Reportáží proti terorismu",
+    "event_date": "2019-05-20",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-05-20",
+    "event_time_until": "19:00:00",
+    "location": "DOX Centrum současného umění, Poupětova 1, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/d9b11cac6e432d3c98ee979734cba3c99b06fcd7.jpg",
+    "price": "0–60",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/reportazi-proti-terorismu/hhne",
+    "cancelled": "0",
+    "location_name": "DOX Centrum současného umění",
+    "location_address": "Poupětova 1, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5346",
+    "event_name": "United Flavour + DJ Lu2 + more",
+    "event_date": "2019-06-01",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-06-01",
+    "event_time_until": "19:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/united-flavour/xhm/\" target=\"_blank\">United Flavour</a><a href=\"https://goout.net/en/artists/dj-lu2/jpjhf/\" target=\"_blank\">DJ Lu2</a><a href=\"https://goout.net/en/artists/fth-stylin/bpjwf/\" target=\"_blank\">FTH Stylin</a><a href=\"https://goout.net/en/artists/tubs/ypnvf/\" target=\"_blank\">Tubs</a><a href=\"https://goout.net/en/artists/cocoman/uuagb/\" target=\"_blank\">Cocoman</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/c0a8804bf663f171443895822105a7f0d488f5ce.jpg",
     "price": "",
     "currency": "CZK",
     "sale_url": null,
@@ -57794,6 +58034,139 @@
       {
         "subcategory_name": "Párty"
       },
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5347",
+    "event_name": "Aparde + Dash + more",
+    "event_date": "2019-06-15",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-06-15",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/aparde/symwf/\" target=\"_blank\">Aparde</a><a href=\"https://goout.net/en/artists/dash/qevpf/\" target=\"_blank\">Dash</a><a href=\"https://goout.net/en/artists/kalawila/gbwcg/\" target=\"_blank\">Kalawila</a><a href=\"https://goout.net/en/artists/oliver-torr/cwrpf/\" target=\"_blank\">Oliver Torr</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/2c1eb3f32f0020b01852762e0e1debd2bb7066a4.jpg",
+    "price": "100–200",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/aparde+dash+more/djne",
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      },
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5348",
+    "event_name": "Neurocells: Frannabik + JTAS + more",
+    "event_date": "2019-06-21",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-06-21",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/frannabik/jbwcg/\" target=\"_blank\">Frannabik</a><a href=\"https://goout.net/en/artists/jtas/lbwcg/\" target=\"_blank\">JTAS</a><a href=\"https://goout.net/en/artists/counterstrike/fmpj/\" target=\"_blank\">Counterstrike</a><a href=\"https://goout.net/en/artists/john-simon/paywf/\" target=\"_blank\">John Simon</a><a href=\"https://goout.net/en/artists/beast-mode/wuoag/\" target=\"_blank\">Beast:mode</a><a href=\"https://goout.net/en/artists/scarf/hoywf/\" target=\"_blank\">Scarf</a><a href=\"https://goout.net/en/artists/adepth/tgquf/\" target=\"_blank\">Adepth</a><a href=\"https://goout.net/en/artists/embass/makuf/\" target=\"_blank\">Embass</a><a href=\"https://goout.net/en/artists/the-creators/dsmag/\" target=\"_blank\">The Creators</a><a href=\"https://goout.net/en/artists/morphose/cuwxf/\" target=\"_blank\">Morphose</a><a href=\"https://goout.net/en/artists/awaker/kfbbg/\" target=\"_blank\">Awaker</a><a href=\"https://goout.net/en/artists/metro-c/bcwcg/\" target=\"_blank\">Metro C</a><a href=\"https://goout.net/en/artists/angryboy/dcwcg/\" target=\"_blank\">Angryboy</a><a href=\"https://goout.net/en/artists/the-infect/cjnag/\" target=\"_blank\">The Infect</a><a href=\"https://goout.net/en/artists/infectious/fcwcg/\" target=\"_blank\">Infectious</a><a href=\"https://goout.net/en/artists/fundo/hcwcg/\" target=\"_blank\">Fundo</a><a href=\"https://goout.net/en/artists/nasai/jvorf/\" target=\"_blank\">Nasai</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/0265b146b8c7ddc282308484cd7f18e1fbc99024.jpg",
+    "price": "100–150",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/neurocells-frannabik+jtas+more/ejne",
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5349",
+    "event_name": "Kinøl",
+    "event_date": "2019-06-29",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-06-29",
+    "event_time_until": "20:00:00",
+    "location": "Containall – Stalin, Letenské sady, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/kinol/dqmuf/\" target=\"_blank\">Kinøl</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/909c74ea6c47a85d58f4593258915dae67c478f4.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stalin",
+    "location_address": "Letenské sady, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5350",
+    "event_name": "Circus Brothers + Mr. Cocoman & The Solid Vibes",
+    "event_date": "2019-07-30",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-07-30",
+    "event_time_until": "18:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/circus-brothers/gpluf/\" target=\"_blank\">Circus Brothers</a><a href=\"https://goout.net/en/artists/mr-cocoman-the-solid-vibes/byj/\" target=\"_blank\">Mr. Cocoman & The Solid Vibes</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/8014978d62c1d067071bcfeceb75959f7285d22a.jpg",
+    "price": "100–200",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/circus-brothers+mr-cocoman-and-the-solid-vibes/yine",
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5351",
+    "event_name": "UpTone: Pim Blom",
+    "event_date": "2019-10-31",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-10-31",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/pip-blom/ghvbg/\" target=\"_blank\">Pip Blom</a><a href=\"https://goout.net/en/artists/fource-entertainment-cz/qqxpf/\" target=\"_blank\">Fource Entertainment CZ</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/ed3fb2d97a123af69821ef894c6d7c8e6f96963d.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/uptone-pim-blom/kpme",
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
       {
         "subcategory_name": "Koncerty"
       }
