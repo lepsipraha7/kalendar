@@ -63052,5 +63052,31 @@
     ],
     "image": null,
     "goOutInfo": null
+  },
+  {
+    "id": "5544",
+    "event_name": "Se starostou u stolu",
+    "event_date": "2019-06-13",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-06-13",
+    "event_time_until": "18:00:00",
+    "location": ", ",
+    "address": "Hells Bells, Letohradská 50",
+    "description": "<p>Srdečně vás zveme na další z tradičních setkání, které se uskuteční ve čtvrtek 13. 6. od 18:00 v restauraci Hells Bells (Letohradská 50).</p>\n<p>Kromě starosty Jana Čižinského se na vás bude těšit také radní pro vzdělávání, školství a MA 21 v oblasti udržitelného rozvoje Hana Šišková. Přijďte se nás zeptat na to, co vás zajímá, nebo nám říct, co máte na srdci.  </p>",
+    "image_id": "24536",
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Akce MČ"
+      }
+    ],
+    "image": "https://www.praha7.cz/wp-content/uploads/2019/03/pivo-600x254.jpg",
+    "goOutInfo": null
   }
 ]
