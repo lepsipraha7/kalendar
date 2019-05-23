@@ -62159,7 +62159,7 @@
     "address": "",
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/tabula-rasa/kqadg/\" target=\"_blank\">Tabula Rasa</a></div><div class=\"\">Autor: Mikoláš Zika a Jan Brejcha</div>",
     "image_id": null,
-    "image_src": "wp-content/uploads/goout/4a365de985d38dd9928b994567e2217433206ab8.jpg",
+    "image_src": "wp-content/uploads/goout/97b138611da674eae71ce0dff78262f3b4afc071.jpg",
     "price": "100–555",
     "currency": "CZK",
     "sale_url": "https://goout.net/en/tickets/cern-urychlovac-castic/ywne",
@@ -62211,7 +62211,7 @@
     "address": "",
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/tabula-rasa/kqadg/\" target=\"_blank\">Tabula Rasa</a></div><div class=\"\">Autor: Mikoláš Zika a Jan Brejcha</div>",
     "image_id": null,
-    "image_src": "wp-content/uploads/goout/c3fbafe60c0bc34bde0967885a12ff2b09ac5013.jpg",
+    "image_src": "wp-content/uploads/goout/7f874dc214a2d60320fdc69b866fd897452c473e.jpg",
     "price": "100–555",
     "currency": "CZK",
     "sale_url": "https://goout.net/en/tickets/cern-urychlovac-castic/axne",
@@ -62237,7 +62237,7 @@
     "address": "",
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/tabula-rasa/kqadg/\" target=\"_blank\">Tabula Rasa</a></div><div class=\"\">Autor: Mikoláš Zika a Jan Brejcha</div>",
     "image_id": null,
-    "image_src": "wp-content/uploads/goout/25d5df3df5f25ffdf2a51acc87421e8f95b7b720.jpg",
+    "image_src": "wp-content/uploads/goout/29998e6da4ccd6307e25a0176032e22e2b94f245.jpg",
     "price": "100–555",
     "currency": "CZK",
     "sale_url": "https://goout.net/en/tickets/cern-urychlovac-castic/bxne",
@@ -62802,7 +62802,7 @@
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/handa-gote-research-and-development/ekkpf/\" target=\"_blank\">Handa Gote Research & Development</a></div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/42ddb7ce4a5bb4b6beaa826fb8ff0432a5c91283.jpg",
-    "price": "150",
+    "price": "100",
     "currency": "CZK",
     "sale_url": "https://goout.net/en/tickets/pan-roman/rhoe",
     "cancelled": "0",
@@ -63078,5 +63078,161 @@
     ],
     "image": "https://www.praha7.cz/wp-content/uploads/2019/03/pivo-600x254.jpg",
     "goOutInfo": null
+  },
+  {
+    "id": "5545",
+    "event_name": "Stalin Nite Shift: Trevor Linde & jkb",
+    "event_date": "2019-05-31",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-05-31",
+    "event_time_until": "20:00:00",
+    "location": "Containall – Stalin, Letenské sady, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/trevor-linde/gybrf/\" target=\"_blank\">Trevor Linde</a><a href=\"https://goout.net/en/artists/jkb/vxaqf/\" target=\"_blank\">jkb</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/c17d5c041b44655d037049fbad97b5befa868804.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stalin",
+    "location_address": "Letenské sady, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5546",
+    "event_name": "Komentovaná prohlídka výstavy Tenze s Kryštofem Kaplanem a Terezií Zemánkovou",
+    "event_date": "2019-06-02",
+    "event_time": "16:00:00",
+    "event_date_until": "2019-06-02",
+    "event_time_until": "16:00:00",
+    "location": "DOX Centrum současného umění, Poupětova 1, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/de9ed6db1892984ae1ae01cde422bacdf2a66475.jpg",
+    "price": "0–60",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/komentovana-prohlidka-vystavy-tenze-s-krystofem-kaplanem-a-terezii-zemankovou/bnoe",
+    "cancelled": "0",
+    "location_name": "DOX Centrum současného umění",
+    "location_address": "Poupětova 1, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Výstavy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5547",
+    "event_name": "Ženský element",
+    "event_date": "2019-06-19",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-06-19",
+    "event_time_until": "18:00:00",
+    "location": "DOX Centrum současného umění, Poupětova 1, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/3d6eb649e2ca6d965b79a364b4c1434285b0e5ed.jpg",
+    "price": "0–60",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/zensky-element/uloe",
+    "cancelled": "0",
+    "location_name": "DOX Centrum současného umění",
+    "location_address": "Poupětova 1, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5548",
+    "event_name": "Kurzy kreslení s Bárou Žižkovou",
+    "event_date": "2019-05-30",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-06-27",
+    "event_time_until": "23:59:59",
+    "location": "Vnitroblock, Tusarova 791/31, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/8b1d0872e963bd5f3a18d3a7f6fa9b63bd55f6b1.jpg",
+    "price": "350–1400",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/kurzy-kresleni-s-barou-zizkovou/anoe",
+    "cancelled": "0",
+    "location_name": "Vnitroblock",
+    "location_address": "Tusarova 791/31, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5549",
+    "event_name": "Letci",
+    "event_date": "2019-09-21",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-09-21",
+    "event_time_until": "18:00:00",
+    "location": "Alfred ve dvoře, Františka Křížka 36, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/wariot-ideal/xpkpf/\" target=\"_blank\">Wariot Ideal</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/4a1e0d11d659e6842476844ee54d347018a605d6.jpg",
+    "price": "100",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/letci/qloe",
+    "cancelled": "0",
+    "location_name": "Alfred ve dvoře",
+    "location_address": "Františka Křížka 36, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5550",
+    "event_name": "Letci",
+    "event_date": "2019-09-23",
+    "event_time": "10:00:00",
+    "event_date_until": "2019-09-23",
+    "event_time_until": "10:00:00",
+    "location": "Alfred ve dvoře, Františka Křížka 36, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/wariot-ideal/xpkpf/\" target=\"_blank\">Wariot Ideal</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/9d67daa6706ac9ec492a0c30abc93797dc3c5ec0.jpg",
+    "price": "100",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/letci/ploe",
+    "cancelled": "0",
+    "location_name": "Alfred ve dvoře",
+    "location_address": "Františka Křížka 36, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
   }
 ]
