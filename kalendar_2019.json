@@ -63653,5 +63653,156 @@
     ],
     "image": null,
     "goOutInfo": null
+  },
+  {
+    "id": "5567",
+    "event_name": "Zemědělský den v NMZ",
+    "event_date": "2019-06-07",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-06-07",
+    "event_time_until": "00:00:00",
+    "location": "Národní zemědělské muzeum, Kostelní 44, Praha 7",
+    "address": "",
+    "description": "<p>Národní zemědělské muzeum připravilo na pátek 7. června speciální program, který vás provede jednotlivými zemědělskými obory a představí zemědělství a jeho podoby v dobách minulých i v aktuální současnosti. Vstup na akci je zdarma. Chcete se o zemědělství dozvědět víc? Národní zemědělské muzeum vydalo obrázkovou statistiku Zemědělství, která je určená malým i velkým zvídavým čtenářům. Můžete ji zakoupit v muzeu nebo online za 40 Kč, případně si zdarma stáhnout pdf verzi na webových stránkách.<br />\nwww.nzm.cz</p>",
+    "image_id": "26515",
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": "Národní zemědělské muzeum",
+    "location_address": "Kostelní 44, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Výstavy"
+      },
+      {
+        "subcategory_name": "Děti a mládež"
+      }
+    ],
+    "image": "https://www.praha7.cz/wp-content/uploads/2019/05/2018-10-24-10-18-37-1200x799-600x400.jpg",
+    "goOutInfo": null
+  },
+  {
+    "id": "5568",
+    "event_name": "Festival o vodě",
+    "event_date": "2019-06-21",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-06-30",
+    "event_time_until": "00:00:00",
+    "location": "Výstaviště Praha Holešovice, Výstaviště, Praha 7",
+    "address": "",
+    "description": "<p>V posledních deseti červnových dnech bude v předprostoru Výstaviště probíhat ekologický festival zaměřený na vodu. Samotný název Akvapark má evokovat špatné zacházení s vodou v naší společnosti a dávat prostor k zamyšlení. Cílem akce je zábavnou formou oslovit co nejširší veřejnost a nabídnout pestrý program, který bude upozorňovat na problémy s vodou a jejím stále větším nedostatkem a znečištěním a vysvětlovat je.</p>\n<p>Fontánka před Výstavištěm bude po dobu festivalu proměněna ve funkční bazén a bude obestavěna dočasnou architekturou. Můžete u ní jen tak posedět nebo se zúčastnit programu, který bude probíhat několikrát denně a navíc zdarma. Hlavní kostrou programu budou večerní přednášky a besedy s českými odborníky. Těšit se můžete například na Bedřicha Moldana, Václava Cílka, Jana Pokorného, Jiřího Malíka, Pavla Šremera, Daniela Pitka a mnoho dalších.</p>\n<p>V dopoledních a odpoledních hodinách budou probíhat programy pro děti, které povedou organizace dlouhodobě se zabývající ekologickou výchovou mládeže. Festival doplní projekce uměleckých dokumentárních filmů a site-specific intervence českých umělců, kteří se zabývají environmentální tematikou. K festivalu vzniká i publikace, která bude pokrývat celou škálu témat – od plnění plastových láhví vodou až po globální otázky zahrnující klimatické změny, hospodaření v krajině a podobně. Na festival Akvapark můžete na Výstaviště zajít ve dnech 21.–30. června. <br />\n<br />\n<a href=\"http://www.akvapark.eu\">www.akvapark.eu</a></p>",
+    "image_id": "26516",
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": "Výstaviště Praha Holešovice",
+    "location_address": "Výstaviště, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Senioři"
+      },
+      {
+        "subcategory_name": "Festivaly"
+      },
+      {
+        "subcategory_name": "Vzdělávání"
+      },
+      {
+        "subcategory_name": "Děti a mládež"
+      }
+    ],
+    "image": "https://www.praha7.cz/wp-content/uploads/2019/05/voda-600x320.jpg",
+    "goOutInfo": null
+  },
+  {
+    "id": "5569",
+    "event_name": "Orchestr na Stalinu",
+    "event_date": "2019-06-12",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-06-12",
+    "event_time_until": "00:00:00",
+    "location": "Containall – Stalin, Letenské sady, Praha 7",
+    "address": "",
+    "description": "<p>I letos bude možné si poslechnout Symfonický orchestr Českého rozhlasu v Letenských sadech. Šéfdirigent Marek Šedivý si připravil program s názvem Ekosystém, ve kterém zazní díla skladatelů Bedřicha Smetany, Arama Chačaturjana, Petra Iljiče Čajkovského, Ralpha Vaughana Williamse, Nikolaje Rimského-Korsakova a Antonína Dvořáka.</p>\n<p>Hudba rozezní Stalina ve středu 12. června od 19 hodin.</p>\n<p>Vstup je zdarma. <br />\nwww.containall.cz/stalin</p>",
+    "image_id": "26517",
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": "Containall – Stalin",
+    "location_address": "Letenské sady, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": "https://www.praha7.cz/wp-content/uploads/2019/05/orchestr-600x400.jpg",
+    "goOutInfo": null
+  },
+  {
+    "id": "5570",
+    "event_name": "Mistři humoru na Štrosu",
+    "event_date": "2019-06-10",
+    "event_time": "16:30:00",
+    "event_date_until": "2019-06-10",
+    "event_time_until": "16:30:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>Na Strossmayerově náměstí budou mít v pondělí 10. června setkání mistři humoru, kteří se pokusí rozehnat popracovní apatii. Speciální stand-up show startuje před kostelem sv. Antonína už v 16.30 hodin. </p>",
+    "image_id": "26518",
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      },
+      {
+        "subcategory_name": "Festivaly"
+      },
+      {
+        "subcategory_name": "Akce MČ"
+      }
+    ],
+    "image": "https://www.praha7.cz/wp-content/uploads/2019/05/mikrofon-597x400.jpg",
+    "goOutInfo": null
+  },
+  {
+    "id": "5571",
+    "event_name": "Slam poetry na Štrosu",
+    "event_date": "2019-06-24",
+    "event_time": "16:30:00",
+    "event_date_until": "2019-06-24",
+    "event_time_until": "16:30:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>Živá poezie slam poetry zpestří odpoledne před kostelem na Strossmayerově náměstí 24. června od 16.30 hodin. Uvidíte vycházející talenty slamu i na české scéně již etablované slamery. </p>",
+    "image_id": "26518",
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      },
+      {
+        "subcategory_name": "Akce MČ"
+      }
+    ],
+    "image": "https://www.praha7.cz/wp-content/uploads/2019/05/mikrofon-597x400.jpg",
+    "goOutInfo": null
   }
 ]
