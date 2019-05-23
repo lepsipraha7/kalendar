@@ -63234,5 +63234,34 @@
     ],
     "image": null,
     "goOutInfo": "0"
+  },
+  {
+    "id": "5551",
+    "event_name": "Altán Art – Malujeme pro radost",
+    "event_date": "2019-06-05",
+    "event_time": "17:30:00",
+    "event_date_until": "2019-06-28",
+    "event_time_until": "00:00:00",
+    "location": "budova Úřadu městské části Praha 7, nábř. Kpt. Jaroše 1000",
+    "address": "",
+    "description": "<p>Městská část Praha 7 vás srdečně zve na vernisáž výstavy obrazů a kreseb amatérských umělců z Kulturně komunitního centra ART na Letné pod názvem \"Malujeme pro radost\". Vernisáž se koná dne 5. 6. 2019 v 17.30 hodin v Galerii na úřadě, nábř. Kpt. Jaroše 1000, Praha 7.</p>\n<p>V rámci programu vernisáže vystoupí amatérští umělci z Kulturně komunitního centra ART na Letné.</p>\n<p>Výstava potrvá do 28. 6. 2019.</p>\n<p>Vstup zdarma.</p>",
+    "image_id": "26500",
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": "budova Úřadu městské části Praha 7",
+    "location_address": "nábř. Kpt. Jaroše 1000",
+    "categories": [
+      {
+        "subcategory_name": "Výstavy"
+      },
+      {
+        "subcategory_name": "Akce MČ"
+      }
+    ],
+    "image": "https://www.praha7.cz/wp-content/uploads/2019/05/kkcart-600x400.jpg",
+    "goOutInfo": null
   }
 ]
