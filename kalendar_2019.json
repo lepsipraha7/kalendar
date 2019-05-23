@@ -63804,5 +63804,75 @@
     ],
     "image": "https://www.praha7.cz/wp-content/uploads/2019/05/mikrofon-597x400.jpg",
     "goOutInfo": null
+  },
+  {
+    "id": "5572",
+    "event_name": "Galerie Scarabeus otevře zahradu",
+    "event_date": "2019-06-07",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-06-09",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>Letenská zahrada Galerie Scarabeus v ulici Jana Zajíce 7 se připojila k tradiční akci Víkend otevřených zahrad, která se koná ve dnech 8. a 9. června.</p>\n<p>Již v pátek 7. června od 14 hodin zde proběhne přednáška Petra Voříška z České ornitologické společnosti s názvem Ptáci a lidé ve městech. V sobotu od 14 hodin můžete zhlédnout dvě loutková představení a v neděli v témže čase proběhne prohlídka zahrady a Muzea kávy Alchymista a Galerie Scarabeus. Na zahradě najdete sochy z pálené hlíny od Igora Hlavinky a kovové objekty od Petra Vaňka.</p>\n<p>Otevřena je v pátek od 13 do 17 hodin, o víkendu od 12 do 17 hodin. Vstupné 50 Kč zahrnuje prohlídku muzea, výstavy loutek, zahrady i program, děti do 6 let mají vstup zdarma.</p>\n<p>Na loutkové představení je nutná rezervace na scarabeus@galeriescarabeus.cz nebo na tel.: 603 552 758.</p>",
+    "image_id": "26520",
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Senioři"
+      },
+      {
+        "subcategory_name": "Divadlo"
+      },
+      {
+        "subcategory_name": "Festivaly"
+      },
+      {
+        "subcategory_name": "Vzdělávání"
+      },
+      {
+        "subcategory_name": "Děti a mládež"
+      }
+    ],
+    "image": "https://www.praha7.cz/wp-content/uploads/2019/05/květina-528x400.jpg",
+    "goOutInfo": null
+  },
+  {
+    "id": "5573",
+    "event_name": "Příběhy našich sousedů – prezentace projektů",
+    "event_date": "2019-06-12",
+    "event_time": "14:00:00",
+    "event_date_until": "2019-06-12",
+    "event_time_until": "14:00:00",
+    "location": "Vodárenská věž na Letné, Na výšinách 1000/1, Praha 7",
+    "address": "",
+    "description": "<p>Ve středu 12. června od 14 hodin se v sále Vodárenské věže uskuteční slavnostní prezentace projektu Příběhy našich sousedů, který dětem přibližuje vzpomínky desítky proslulých i méně známých pamětníků z Prahy 7, jejichž životy významně ovlivnily dějinné události 20. století. Do projektu se tentokrát zapojilo deset žákovských a studentských týmů ze tří základních škol a dvou gymnázií Sedmičky.</p>\n<p>www.pribehynasichsousedu.cz</p>",
+    "image_id": "26521",
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": "Vodárenská věž na Letné",
+    "location_address": "Na výšinách 1000/1, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Senioři"
+      },
+      {
+        "subcategory_name": "Vzdělávání"
+      },
+      {
+        "subcategory_name": "Děti a mládež"
+      }
+    ],
+    "image": "https://www.praha7.cz/wp-content/uploads/2019/05/postebellum-259x400.jpg",
+    "goOutInfo": null
   }
 ]
