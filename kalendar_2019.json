@@ -63874,5 +63874,138 @@
     ],
     "image": "https://www.praha7.cz/wp-content/uploads/2019/05/postebellum-259x400.jpg",
     "goOutInfo": null
+  },
+  {
+    "id": "5574",
+    "event_name": "Vejdi ven: Petr Holeček – Tatrou kolem dvěta 2",
+    "event_date": "2019-05-29",
+    "event_time": "18:30:00",
+    "event_date_until": "2019-05-29",
+    "event_time_until": "18:30:00",
+    "location": "Paralelní Polis, Dělnická 43, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/203fc6dcf8c28d72aed3aa112ef74e66a6471945.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Paralelní Polis",
+    "location_address": "Dělnická 43, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5575",
+    "event_name": "Bye Bye Children's Home",
+    "event_date": "2019-05-30",
+    "event_time": "18:30:00",
+    "event_date_until": "2019-05-30",
+    "event_time_until": "18:30:00",
+    "location": "Paralelní Polis, Dělnická 43, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Režisér: Hana Ludvíková</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/df2f9dca35b076c4473d1f7dfbb28ccc33cdd4c1.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Paralelní Polis",
+    "location_address": "Dělnická 43, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5576",
+    "event_name": "Enviro meetup: Sucho, Sucho, Sucho!",
+    "event_date": "2019-06-06",
+    "event_time": "18:30:00",
+    "event_date_until": "2019-06-06",
+    "event_time_until": "18:30:00",
+    "location": "Paralelní Polis, Dělnická 43, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/0e98388cd244ac033842b9947627feb8762caa35.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Paralelní Polis",
+    "location_address": "Dělnická 43, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5577",
+    "event_name": "Božena",
+    "event_date": "2019-06-11",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-06-11",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělci: Eva Stará, Karolína Křížková, Andrea Vykysalá</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/24ecb353e489007e123c4da2f71f2b37c76f19be.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5578",
+    "event_name": "Charlie Hebdo zblízka",
+    "event_date": "2019-06-12",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-06-12",
+    "event_time_until": "19:00:00",
+    "location": "DOX Centrum současného umění, Poupětova 1, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/eec1af9dc830e48d396c85d58c617b251a383f3e.jpg",
+    "price": "0–60",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/charlie-hebdo-zblizka/tqoe",
+    "cancelled": "0",
+    "location_name": "DOX Centrum současného umění",
+    "location_address": "Poupětova 1, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      },
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
   }
 ]
