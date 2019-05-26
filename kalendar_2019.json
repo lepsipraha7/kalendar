@@ -4908,7 +4908,7 @@
     "description": "<div class=\"\">Autor: Claudia Cedó, Joan Yago, Marie Nováková, David Košťák</div><div class=\"\">Režisér: Martina Schlegelová, Ivo Kristián Kubák, Petr Ašek, Tomáš Loužný</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/f1fa36f68b4c384684bee54aa1c53676081756c3.jpg",
-    "price": "750–900",
+    "price": "50–900",
     "currency": "CZK",
     "sale_url": "https://goout.net/en/tickets/camp-q/nntd",
     "cancelled": "0",
@@ -64263,6 +64263,96 @@
     "categories": [
       {
         "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5589",
+    "event_name": "Prague Museum Night 2019 at National Museum of Agriculture",
+    "event_date": "2019-06-08",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-06-08",
+    "event_time_until": "19:00:00",
+    "location": "Národní zemědělské muzeum, Kostelní 44, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/13e43d83f5b4f7e968ec00024e8f71fbc4f8a00b.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Národní zemědělské muzeum",
+    "location_address": "Kostelní 44, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Gastro"
+      },
+      {
+        "subcategory_name": "Děti a mládež"
+      },
+      {
+        "subcategory_name": "Divadlo"
+      },
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5590",
+    "event_name": "Pražská muzejní noc 2019 v Národním technickém muzeu",
+    "event_date": "2019-06-08",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-06-08",
+    "event_time_until": "19:00:00",
+    "location": "Národní technické muzeum, Kostelní 42, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/f480f31ef1a4daa4aac5840e3e7d036347a17943.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Národní technické muzeum",
+    "location_address": "Kostelní 42, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Děti a mládež"
+      },
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5591",
+    "event_name": "Otto Hejnic Trio",
+    "event_date": "2019-06-08",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-06-08",
+    "event_time_until": "20:00:00",
+    "location": "Národní zemědělské muzeum, Kostelní 44, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/otto-hejnic-trio/cof/\" target=\"_blank\">Otto Hejnic Trio</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/a51de7642f1a176787526e83f0991e2d550054ed.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Národní zemědělské muzeum",
+    "location_address": "Kostelní 44, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
       }
     ],
     "image": null,
