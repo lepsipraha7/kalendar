@@ -64357,5 +64357,31 @@
     ],
     "image": null,
     "goOutInfo": "0"
+  },
+  {
+    "id": "5592",
+    "event_name": "Budoucnost práce",
+    "event_date": "2019-06-03",
+    "event_time": "17:30:00",
+    "event_date_until": "2019-06-03",
+    "event_time_until": "17:30:00",
+    "location": "DOX Centrum současného umění, Poupětova 1, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/4d745c616c1677740be0ca0e15aae3626dffab3f.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "DOX Centrum současného umění",
+    "location_address": "Poupětova 1, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
   }
 ]
