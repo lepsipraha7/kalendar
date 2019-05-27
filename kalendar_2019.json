@@ -64383,5 +64383,37 @@
     ],
     "image": null,
     "goOutInfo": "0"
+  },
+  {
+    "id": "5593",
+    "event_name": "Dětský den na Spartě",
+    "event_date": "2019-06-01",
+    "event_time": "10:00:00",
+    "event_date_until": "2019-06-01",
+    "event_time_until": "10:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>Na Spartě se i letos slaví Den dětí! Na stadion jsou zvány všechny děti a jejich rodiče, kteří si po skončení sezóny chtějí na Letné užít hezkou sobotu spojenou se spoustou fotbalových i nefotbalových aktivit. Dětský den se uskuteční v sobotu 1. června 2019 od 10 hodin na tréninkovém hřišti Generali Areny. Největším lákadlem je bezpochyby koncert Jaroslava Uhlíře, autora hitů, které mají rádi děti i dospělí.</p>\n<p>Kromě hudebního zážitku bude na stadionu připraveno i mnoho dalších aktivit. V pravé poledne začne exhibiční zápas Staré gardy ACS proti vítězi Turnaje Nadačního fondu ACS. Pro děti budou po celou dobu akce k dispozici různé fotbalové dovednostní disciplíny, nafukovací atrakce, malování na tvář, Pepsi Food Truck a další aktivity.</p>\n<p>Vstup na akci je pro všechny sparťanské děti a jejich rodiče ZDARMA.</p>\n<p>Fotogalerie z loňského dětského dne<a href=\"https://sparta.cz/cs/clanek/detsky-den-na-sparte-35358\"> zde</a>.</p>\n<p>&nbsp;</p>",
+    "image_id": "26578",
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Sport"
+      },
+      {
+        "subcategory_name": "Koncerty"
+      },
+      {
+        "subcategory_name": "Děti a mládež"
+      }
+    ],
+    "image": "https://www.praha7.cz/wp-content/uploads/2019/05/detsky-den_1600x820_-600x308.jpg",
+    "goOutInfo": null
   }
 ]
