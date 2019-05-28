@@ -65016,15 +65016,15 @@
   },
   {
     "id": "5617",
-    "event_name": "Pietní akt na Miladě",
+    "event_name": "Den památky obětí komunistického režimu a uctění památky JUDr. Milady Horákové",
     "event_date": "2019-06-27",
     "event_time": "11:00:00",
     "event_date_until": "2019-06-27",
     "event_time_until": "11:00:00",
     "location": ", ",
     "address": "",
-    "description": "<p>Přijďte uctít památku obětí komunistického režimu na pietní akt, který se uskuteční 27. června od 11 hodin u pamětní desky JUDr. Milady Horákové v ulici Milady Horákové 2.</p>",
-    "image_id": null,
+    "description": "<p>Přijďte uctít památku obětí komunistického režimu a uctění památky JUDr. Milady Horákové na pietní akt, který se uskuteční 27. června od 11 hodin u pamětní desky JUDr. Milady Horákové v ulici Milady Horákové 2.</p>",
+    "image_id": "26696",
     "image_src": null,
     "price": "0",
     "currency": null,
@@ -65037,7 +65037,7 @@
         "subcategory_name": "Akce MČ"
       }
     ],
-    "image": null,
+    "image": "https://www.praha7.cz/wp-content/uploads/2019/05/Den-obeti-komunismu-ilustracka-web-600x395.jpg",
     "goOutInfo": null
   },
   {
