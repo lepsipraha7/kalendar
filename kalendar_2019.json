@@ -65181,5 +65181,144 @@
     ],
     "image": "https://www.praha7.cz/wp-content/uploads/2019/02/alone-2606001_960_720-600x400.jpg",
     "goOutInfo": null
+  },
+  {
+    "id": "5623",
+    "event_name": "Diplomantská výstava AVU – Nejkrásnější věk",
+    "event_date": "2019-06-20",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-06-30",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>57 malířů, sochařů, kreslířů, grafiků, novomediálních a intermediálních umělců, architektů a restaurátorů představí výsledky svého šestiletého studia na Akademii výtvarných umění (AVU). Diplomantská výstava Nejkrásnější věk získala svůj název v návaznosti na stejnojmenný film Jaroslava Papouška z roku 1968, který se odehrává mezi tehdejšími studenty, profesory a modely sochařského ateliéru na AVU. Letos, v roce 220. výročí založení Akademie, je výstava příležitostí reflektovat současný stav školy v kontrastu s minulostí i výhledem do budoucna. Vernisáž výstavy proběhne 20. června od 17 hodin a k vidění bude do 30. června v hlavní budově AVU a v Moderní galerii AVU (U Starého výstaviště 188). Vstup je volný.<br />\n<br />\n<a href=\"http://www.avu.cz\">www.avu.cz</a></p>",
+    "image_id": "26672",
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Výstavy"
+      }
+    ],
+    "image": "https://www.praha7.cz/wp-content/uploads/2019/05/Nejkrásnější-věk-2-600x378.jpg",
+    "goOutInfo": null
+  },
+  {
+    "id": "5624",
+    "event_name": "Daniela a Linda Dostálkovy: Kampaň",
+    "event_date": "2019-05-10",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-06-16",
+    "event_time_until": "00:00:00",
+    "location": "Galerie Kurzor, Dukelských hrdinů 500/25a, Praha 7",
+    "address": "",
+    "description": "<p>Z analýzy kampaní za práva zvířat nejrůznějších aktivistických spolků a organizací vychází výstava Daniely a Lindy Dostálových v Galerii Kurzor. Umělkyně pozorují nestabilní pozici necharizmatických živočišných druhů a žen ve společnosti a hledají mezi nimi propojení. Ukazují, jak funguje a jaké má důsledky humánní dělení přírody na roztomilou a ošklivou. Necharizmatické druhy totiž zůstávají kvůli estetickým volbám lidí ve svém vymírání bez pomoci. Výstavu s názvem Kampaň můžete navštívit do 16. června. Otevírací doba galerie je od středy do neděle od 12 do 18 hodin. <br />\n<br />\n</p>\n<p><a href=\"https://cca.fcca.cz/galerie/galerie-kurzor/2/daniela-linda-dostalkovy-kampan/#c1463\">https://cca.fcca.cz/galerie/galerie-kurzor/2/daniela-linda-dostalkovy-kampan/#c1463</a></p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": "Galerie Kurzor",
+    "location_address": "Dukelských hrdinů 500/25a, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Výstavy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  },
+  {
+    "id": "5625",
+    "event_name": "Noc ve městě v DOXu",
+    "event_date": "2019-06-14",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-06-16",
+    "event_time_until": "00:00:00",
+    "location": "DOX Centrum současného umění, Poupětova 1, Praha 7",
+    "address": "",
+    "description": "<p>Tři inscenace oceňovaného mezinárodního divadelního studia Farma v jeskyni se představí během jediného večera v DOXu. Představení Informátoři, Navždy spolu! a Útočiště balancující na pomezí žánrů pohybového divadla, videa a dokumentu se odehrají na různých místech Centra současného umění DOX. Večer doplní výstavy, živá hudba a koktejl párty. Noc ve městě je v rámci Pražského Quadriennale na programu 14. a 16. června od 17 hodin do půlnoci. <br />\n<br />\n<a href=\"http://www.dox.cz\">www.dox.cz</a></p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "na stránkách pořadatele",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": "DOX Centrum současného umění",
+    "location_address": "Poupětova 1, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  },
+  {
+    "id": "5626",
+    "event_name": "Noční běh tržnicí",
+    "event_date": "2019-06-06",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-06-06",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>Jatka78 letos organizují již čtvrtý ročník nočního běhu Pražskou tržnicí. Jedná se o unikátní propojení divadla, běhu a netradičního okolí tržnice, které se během večera pozvolna mění v kulturní zónu. Trasu bude i letos lemovat několik hudebních, divadelních či akrobatických produkcí, jež závodníkům zpříjemní jejich běh. Postarají se o ně mimo jiné také hudebníci ze souboru Cirk La Putyka, který před závodem odehraje své poslední představení Isole v letošní sezoně. Akce je určena široké veřejnosti. Na své si přijdou jak jednotlivci v mužské i ženské kategorii, tak divadelní týmy, které se o zájem diváků utkají v běžecké štafetě. Jednotlivci změří síly na okruhu dlouhém 3 km. Štafety českých divadel pak uběhnou 4x 1 km. Celá akce má charitativní podtext. Vítězné divadelní týmy získají 20 tisíc korun na nákup vstupenek do svého divadla, jež věnují těm, kteří si běžně nemohou vstupenky do divadla dovolit. V minulosti bylo takto obdarováno středisko sociálních služeb či diagnostický ústav pro mládež. Ani jednotlivci ale nepřijdou zkrátka a odnesou si vstupenky na představení divadel, jež se účastní závodu štafet. Běh tržnicí proběhne 6. června od 22 hodin.</p>\n<p><a href=\"http://www.jatka78.cz\">www.jatka78.cz</a></p>",
+    "image_id": "26674",
+    "image_src": null,
+    "price": "na stránkách pořadatele",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Sport"
+      },
+      {
+        "subcategory_name": "Koncerty"
+      },
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": "https://www.praha7.cz/wp-content/uploads/2019/05/noční-běh-3-600x400.jpg",
+    "goOutInfo": null
+  },
+  {
+    "id": "5627",
+    "event_name": "Tanec Praha na Sedmičce",
+    "event_date": "2019-06-03",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-06-22",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>Třicátý první ročník mezinárodního festivalu současného tance a pohybového divadla Tanec Praha letos proběhne od 3. do 22. června a kromě Prahy se bude konat ještě v dalších 20 městech a obcích ČR. <br />\n<br />\nNa Sedmičce bude k vidění v Maroldově panoramatu v sobotu 8. června od 15 hodin představení na pomezí architektonické instalace – House Beating. Tentýž den se v Gauči ve Stromovce (bývalá Tiskárna na Vzduchu) od 17 hodin odehraje mezinárodní projekt s názvem Eymen – Úhel pohledu, který připravují české organizace ve spolupráci s Institutem afrických studií v Ghaně a jeho Národním tanečním souborem. Den s festivalem můžete zakončit ve Studiu Hrdinů, kde od 20 hodin uvidíte projekt Terezy Hradilkové, v němž testuje možnosti vyjádření neuchopitelného světa hudby, vášně a sexuality.</p>\n<p>Událostí sezony je komorní a minimalistická inscenace francouzského choreografa Yoanna Bourgeoise, která završí program letošního ročníku v Malé dvoraně Veletržního paláce 21. a 22. června od 18 a 21 hodin.</p>\n<p><a href=\"http://www.tanecpraha.cz\">www.tanecpraha.cz</a></p>",
+    "image_id": "26675",
+    "image_src": null,
+    "price": "na stránkách pořadatele",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      },
+      {
+        "subcategory_name": "Festivaly"
+      }
+    ],
+    "image": "https://www.praha7.cz/wp-content/uploads/2019/05/Tanec-praha-5-600x400.jpg",
+    "goOutInfo": null
   }
 ]
