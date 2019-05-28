@@ -65013,5 +65013,173 @@
     ],
     "image": null,
     "goOutInfo": "0"
+  },
+  {
+    "id": "5617",
+    "event_name": "Pietní akt na Miladě",
+    "event_date": "2019-06-27",
+    "event_time": "11:00:00",
+    "event_date_until": "2019-06-27",
+    "event_time_until": "11:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>Přijďte uctít památku obětí komunistického režimu na pietní akt, který se uskuteční 27. června od 11 hodin u pamětní desky JUDr. Milady Horákové v ulici Milady Horákové 2.</p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Akce MČ"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  },
+  {
+    "id": "5618",
+    "event_name": "O2 Pražská štafeta",
+    "event_date": "2019-06-25",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-06-07",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>Od 25. do 27. června se ve Stromovce uskuteční další víkend plný sportu. O2 Pražská štafeta je běh čtyřčlenných týmů na trati dlouhé 5 km. Připraven je i hudební program. Organizátoři myslí také na děti, které mohou vyběhnout v Bambini run závodu na trasy 100, 200 a 300 metrů. Registrace pro děti je zdarma. A pokud se na pětikilometrový závod ještě necítíte, připomínáme, že pro obyvatele Prahy 7 jsou každou středu od 18.30 hodin v Running Mallu v ulici Františka Křížka 11 pořádány běžecké tréninky zdarma. Občanky s sebou.</p>\n<p><a href=\"http://www.runczech.cz\">www.runczech.cz</a></p>",
+    "image_id": "24450",
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Sport"
+      }
+    ],
+    "image": "https://www.praha7.cz/wp-content/uploads/2019/03/marathon-250987_960_720-600x353.jpg",
+    "goOutInfo": null
+  },
+  {
+    "id": "5619",
+    "event_name": "Mystic Sk8 Cup",
+    "event_date": "2019-06-28",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-06-30",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>Jeden z nejstarších závodů v Evropě a zásadní milník domácího a světového skateboardingu oslaví 25 let. Mystic Sk8 Cup proběhne tradičně na ostrově Štvanice, kde se představí ti nejlepší světoví skateboardisté a skateboardistky. Po všechny tři dny bude pro návštěvníky připraven doprovodný program, který zahrnuje umělecké workshopy, aktivní zónu pro nejmenší, sportovní soutěže nebo prezentace novinek ze světa skateboardingu. Večery budou patřit zahraničním kapelám a dýdžejům. Oslava dřevěných prken proběhne 28.–30. června.</p>\n<p><a href=\"http://www.mysticsk8cup.cz\">www.mysticsk8cup.cz</a></p>",
+    "image_id": "26666",
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Sport"
+      },
+      {
+        "subcategory_name": "Festivaly"
+      }
+    ],
+    "image": "https://www.praha7.cz/wp-content/uploads/2019/05/skate-600x400.jpg",
+    "goOutInfo": null
+  },
+  {
+    "id": "5620",
+    "event_name": "Oslava léta v Botanické zahradě",
+    "event_date": "2019-06-22",
+    "event_time": "16:00:00",
+    "event_date_until": "2019-06-22",
+    "event_time_until": "19:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>Botanická zahrada otveřela novou expozici rostlin s důrazem na byliny spojené se svatojánským kultem. V sobotu 22. června od 16 do 19 hodin se dozvíte nejen zajímavosti o tradičních oslavách léta a rostlinách s nimi spojených, ale můžete si vyrobit i bylinné čaje a připravit vonný zlatý prach. Oslava bude zakončena svatojánským ohněm. <br />\n<br />\n<a href=\"http://www.botanicka.cz\">www.botanicka.cz</a></p>",
+    "image_id": "26667",
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Senioři"
+      },
+      {
+        "subcategory_name": "Vzdělávání"
+      },
+      {
+        "subcategory_name": "Děti a mládež"
+      }
+    ],
+    "image": "https://www.praha7.cz/wp-content/uploads/2019/05/byiny-600x376.jpg",
+    "goOutInfo": null
+  },
+  {
+    "id": "5621",
+    "event_name": "Loutky slaví výročí",
+    "event_date": "2019-06-06",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-06-08",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>Mezinárodní loutkářská organizace Unima letos oslaví devadesát let a slavit se bude ve dnech 6. až 8. června v rámci Pražského Quadriennale. Na programu je mezinárodní sympozium, výstava a křest knihy dokumentující český podíl na vzniku a činnosti organizace v letech 1929–1969, kdy byla Praha sídlem generálního sekretariátu. Vyvrcholením oslav bude večer Unima soirée v pátek 7. června ve 20 hodin v Říši loutek v Žatecké ulici 1 v Praze 1. Vstup je volný.</p>\n<p>Loutky ale navštíví i Sedmičku – v sobotu 8. června od 11 hodin v Národním zemědělském muzeu můžete zhlédnout maňáskovou komedii francouzského a anglického Kašpárka. Tentýž den od 14 hodin na zahradě Galerie Scarabeus bude k vidění italské představení, jehož kořeny sahají až do roku 1600, společně s komedií francouzského loutkáře Durantyho.</p>\n<p><a href=\"http://www.unima.idu.cz\">www.unima.idu.cz</a></p>",
+    "image_id": "26668",
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      },
+      {
+        "subcategory_name": "Festivaly"
+      }
+    ],
+    "image": "https://www.praha7.cz/wp-content/uploads/2019/05/loutky-600x397.jpg",
+    "goOutInfo": null
+  },
+  {
+    "id": "5622",
+    "event_name": "Pražská muzejní noc",
+    "event_date": "2019-06-08",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-06-08",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>V sobotu 8. června budete mít opět možnost prozkoumat kulturní dědictví metropole v tak trochu jiném světle a netradičním čase od 19. do 1. hodiny ranní. Letos se do Pražské muzejní noci zapojí 45 muzeí, galerií a dalších kulturních institucí v 70 objektech.</p>\n<p><a href=\"http://www.prazskamuzejninoc.cz\">www.prazskamuzejninoc.cz</a></p>",
+    "image_id": "23891",
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Festivaly"
+      }
+    ],
+    "image": "https://www.praha7.cz/wp-content/uploads/2019/02/alone-2606001_960_720-600x400.jpg",
+    "goOutInfo": null
   }
 ]
