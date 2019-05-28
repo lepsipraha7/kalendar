@@ -44246,7 +44246,7 @@
     "price": "200–250",
     "currency": "CZK",
     "sale_url": "https://goout.net/en/tickets/untitled/ijie",
-    "cancelled": "0",
+    "cancelled": "1",
     "location_name": "Jatka78",
     "location_address": "Bubenské nábřeží 306/13, Praha 7",
     "categories": [
@@ -64372,7 +64372,7 @@
     "image_src": "wp-content/uploads/goout/4d745c616c1677740be0ca0e15aae3626dffab3f.jpg",
     "price": "0",
     "currency": "CZK",
-    "sale_url": null,
+    "sale_url": "https://goout.net/en/tickets/budoucnost-prace/ixoe",
     "cancelled": "0",
     "location_name": "DOX Centrum současného umění",
     "location_address": "Poupětova 1, Praha 7",
@@ -64415,5 +64415,603 @@
     ],
     "image": "https://www.praha7.cz/wp-content/uploads/2019/05/detsky-den_1600x820_-600x308.jpg",
     "goOutInfo": null
+  },
+  {
+    "id": "5594",
+    "event_name": "Rocketman",
+    "event_date": "2019-05-31",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-05-31",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A musical fantasy about the fantastical human story of Elton John's breakthrough years.\n<div class=\"\">Režisér: Dexter Fletcher</div><div class=\"\">Umělci: Taron Egerton, Richard Madden, Bryce Dallas Howard, Jamie Bell, Steven Mackintosh, Gemma Jones, Kamil Lemieszewski, Luke White</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/5822cf405227c00ccd9c1ce65bd6b1ef3a90ae2e.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5595",
+    "event_name": "Godzilla: King of the Monsters",
+    "event_date": "2019-06-01",
+    "event_time": "15:00:00",
+    "event_date_until": "2019-06-01",
+    "event_time_until": "15:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "The crypto-zoological agency Monarch faces off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah.\n<div class=\"\">Režisér: Michael Dougherty</div><div class=\"\">Umělci: Millie Bobby Brown, Vera Farmiga, Sally Hawkins, Bradley Whitford, Kyle Chandler, Charles Dance, Ziyi Zhang, O'Shea Jackson Jr., Ken Watanabe, Thomas Middleditch, Anthony Ramos, Aisha Hinds, Jonathan Howard</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/fa25ba55962b6da229fc5b08fa0f0b0571491ddc.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5596",
+    "event_name": "Booksmart",
+    "event_date": "2019-06-02",
+    "event_time": "16:15:00",
+    "event_date_until": "2019-06-02",
+    "event_time_until": "16:15:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "On the eve of their high school graduation, two academic superstars and best friends realize they should have worked less and played more. Determined not to fall short of their peers, the girls try to cram four years of fun into one night.\n<div class=\"\">Režisér: Olivia Wilde</div><div class=\"\">Umělci: Beanie Feldstein, Kaitlyn Dever, Billie Lourd, Lisa Kudrow, Skyler Gisondo, Jason Sudeikis, Will Forte, Molly Gordon, Eduardo Franco, Jessica Williams, Noah Galvin, Michael Patrick O'Brien, Austin Crute, Diana Silvers, Nico Hiraga, Stephanie Styles</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/7638296fc32ed3cfcd177ee6045d009cfe7494c9.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5597",
+    "event_name": "Rocketman",
+    "event_date": "2019-06-02",
+    "event_time": "20:45:00",
+    "event_date_until": "2019-06-02",
+    "event_time_until": "20:45:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A musical fantasy about the fantastical human story of Elton John's breakthrough years.\n<div class=\"\">Režisér: Dexter Fletcher</div><div class=\"\">Umělci: Taron Egerton, Richard Madden, Bryce Dallas Howard, Jamie Bell, Steven Mackintosh, Gemma Jones, Kamil Lemieszewski, Luke White</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/3b9acfa6caefbdbf0b7a251336467b4fb8c5ff13.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5598",
+    "event_name": "Ma",
+    "event_date": "2019-06-02",
+    "event_time": "18:30:00",
+    "event_date_until": "2019-06-02",
+    "event_time_until": "18:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A lonely woman befriends a group of teenagers and decides to let them party at her house. Just when the kids think their luck couldn't get any better, things start happening that make them question the intention of their host.\n<div class=\"\">Režisér: Tate Taylor</div><div class=\"\">Umělci: Octavia Spencer, Diana Silvers, Juliette Lewis, Luke Evans, Missi Pyle, McKaley Miller, Allison Janney, Corey Fogelmanis, Dominic Burgess, Dante Brown, Gianni Paolo, Skyler Joy, Kyanna Simone Simpson, Tanyell Waivers</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/b94de594f2c43668d31e79387b359a8fdecdb27c.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5599",
+    "event_name": "Pokémon: Detective Pikachu",
+    "event_date": "2019-06-02",
+    "event_time": "10:00:00",
+    "event_date_until": "2019-06-02",
+    "event_time_until": "10:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "In a world where people collect Pokémon to do battle, a boy comes across an intelligent talking Pikachu who seeks to be a detective.\n<div class=\"\">Režisér: Rob Letterman</div><div class=\"\">Umělci: Ryan Reynolds, Justice Smith, Kathryn Newton, Rita Ora, Bill Nighy, Chris Geere, Ken Watanabe</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/fc0cf96a659df0be6ae2a579c578d08115b7d165.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5600",
+    "event_name": "How to Train Your Dragon: The Hidden World",
+    "event_date": "2019-06-02",
+    "event_time": "14:15:00",
+    "event_date_until": "2019-06-02",
+    "event_time_until": "14:15:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "When Hiccup discovers Toothless isn't the only Night Fury, he must seek \"The Hidden World\", a secret Dragon Utopia before a hired tyrant named Grimmel finds it first.\n<div class=\"\">Režisér: Dean DeBlois</div><div class=\"\">Umělci: Jay Baruchel, Kristen Wiig, T.J. Miller, Gerard Butler, Jonah Hill, Cate Blanchett, Djimon Hounsou, Christopher Mintz-Plasse, America Ferrera, Craig Ferguson</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/d31b6d37dce549aaea7d12955f402ecf97d970a5.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5601",
+    "event_name": "Punch-Drunk Love – Analysis by journalist Neil Young",
+    "event_date": "2019-06-03",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-06-03",
+    "event_time_until": "20:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "_Punch-Drunk Love_ is a story of a psychologically troubled novelty supplier (Adam Sandler) who's nudged towards a romance with an English woman (Emily Watson), all the while being extorted by a phone-sex line run by a crooked mattress salesman (Philip Seymour Hoffman), and purchasing stunning amounts of pudding.\nPaul Thomas Anderson's masterpiece _Punch-Drunk Love_ will be analysed by Neil Young, British film critic and curator and regular co-operator of The Hollywood Reporter and Sight & Sound, who considers the film as one of his top three.\nThe screening will be held in English with Czech subtitles and it will last about 120 minutes (the screening will be stopped several times in order to analyse selected scenes in more detail). The analysis will be held in English without translation.\n_Punch-Drunk Love_ is Paul Thomas Anderson's „odd, touching and unique“ fourth film. It brought Anderson Best Director Award at Cannes 2002 and 50 other awards and nominations. Director himself has referred to Punch-Drunk Love as „an art house Adam Sandler film“. Masterly directed, with great cinematography by Robert Elswit, editing by Leslie Jones and phenomenal score by Jon Brion, the film has much to offer for analysing.<div class=\"\">Režisér: Paul Thomas Anderson</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/4f6a08ae27a4f6ea1f9cf74cb85a02b3440f3895.jpg",
+    "price": "130",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5602",
+    "event_name": "Violební chování v ČR a předvolební průzkum",
+    "event_date": "2019-06-03",
+    "event_time": "13:00:00",
+    "event_date_until": "2019-06-03",
+    "event_time_until": "13:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "https://union.upol.cz",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/7b96b49236532b313bd8d2cfebb1713214575bbf.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5603",
+    "event_name": "Free Solo",
+    "event_date": "2019-06-04",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-06-04",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Follow Alex Honnold as he becomes the first person to ever free solo climb Yosemite's 3,000 ft high El Capitan wall. With no ropes or safety gear, he completed arguably the greatest feat in rock climbing history.\n<div class=\"\">Režisér: Jimmy Chin, Elizabeth Chai Vasarhelyi</div><div class=\"\">Umělci: Alex Honnold, Jimmy Chin</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/d78e56c02be9c1a3fe9b5f01e61e08da3b19fa8f.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5604",
+    "event_name": "What’s it to you who I f*ck, Sugarpuff?",
+    "event_date": "2019-06-04",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-06-04",
+    "event_time_until": "19:00:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "*A theatre play dramatizing the issue of sexual identity. This tragicomedy is brought to you be the amateur theatre group Giving Voice.*\n\nShould we still be defined by what we have between our legs? Are the old gender stereotypes natural or political? Why can’t we sleep with whomever we choose if it hurts no one? What would happen if we withheld judgement and just let people trust their own sexual definitions?\n\n*The play is in the English language.*",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/9afe46abbdedd0c3056848a5421b983d8d2fecdd.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5605",
+    "event_name": "What’s it to you who I f*ck, Sugarpuff?",
+    "event_date": "2019-06-05",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-06-05",
+    "event_time_until": "19:00:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "*A theatre play dramatizing the issue of sexual identity. This tragicomedy is brought to you be the amateur theatre group Giving Voice.*\n\nShould we still be defined by what we have between our legs? Are the old gender stereotypes natural or political? Why can’t we sleep with whomever we choose if it hurts no one? What would happen if we withheld judgement and just let people trust their own sexual definitions?\n\n*The play is in the English language.*",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/98f3cb6d771c7078dd04ce963fadbb7100cd9428.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5606",
+    "event_name": "Rocketman",
+    "event_date": "2019-06-05",
+    "event_time": "15:00:00",
+    "event_date_until": "2019-06-05",
+    "event_time_until": "15:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A musical fantasy about the fantastical human story of Elton John's breakthrough years.\n<div class=\"\">Režisér: Dexter Fletcher</div><div class=\"\">Umělci: Taron Egerton, Richard Madden, Bryce Dallas Howard, Jamie Bell, Steven Mackintosh, Gemma Jones, Kamil Lemieszewski, Luke White</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/82b20599cc03c115f6b5cfab5d176d4df5bd456b.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5607",
+    "event_name": "Michal Prokop & Framus Five",
+    "event_date": "2019-06-13",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-06-13",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/michal-prokop/iky/\" target=\"_blank\">Michal Prokop</a><a href=\"https://goout.net/en/artists/framus-five/suvpf/\" target=\"_blank\">Framus Five</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/b680d6fd709c7a25848f35f0de6bc1c3a2ce578e.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5608",
+    "event_name": "Michal Prokop & Luboš Andršt & Jan Hrubý Trio",
+    "event_date": "2019-07-11",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-07-11",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/michal-prokop-lubos-andrst-jan-hruby-trio/xwqtf/\" target=\"_blank\">Michal Prokop & Luboš Andršt & Jan Hrubý Trio</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/1b7ec251bc5d16209565468185f014414fc73b76.jpg",
+    "price": "290",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5609",
+    "event_name": "Saturno, a Festa!",
+    "event_date": "2019-09-12",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-09-12",
+    "event_time_until": "19:30:00",
+    "location": "Studio Alta, U Výstaviště 21, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Režisér: Renan Martins </div><div class=\"\">Umělci: Renan Martins, Zen Jefferson</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/42af9d9d116509b7d0e811eaf20423818444d756.jpg",
+    "price": "120–220",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/saturno-a-festa/pxoe",
+    "cancelled": "0",
+    "location_name": "Studio Alta",
+    "location_address": "U Výstaviště 21, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5610",
+    "event_name": "Fly",
+    "event_date": "2019-10-15",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-15",
+    "event_time_until": "19:30:00",
+    "location": "Studio Alta, U Výstaviště 21, Praha 7",
+    "address": "",
+    "description": "_How much does the narrowing of our base of support influence our physical and psychological stability? What’s it like to reach a certain limit? How do we face new possibilities? How do we deal with searching for, discovering and exploring a path that may be unusual, but possible?_\n\n_Fly!_ – a physical life experience with one leg, one prothesis and two crutches.<div class=\"\">Autor: Markéta Stránská</div><div class=\"\">Umělci: Markéta Stránská</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/3fc30a478295fb9ab7779db939f0a88dc2e03e8c.jpg",
+    "price": "120–220",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/fly/rxoe",
+    "cancelled": "0",
+    "location_name": "Studio Alta",
+    "location_address": "U Výstaviště 21, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5611",
+    "event_name": "Die Rache",
+    "event_date": "2019-11-06",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-11-06",
+    "event_time_until": "19:30:00",
+    "location": "Studio Alta, U Výstaviště 21, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/c51e80ecf5b35f9d2b3ebb715a8b67d745e69fa7.jpg",
+    "price": "120–220",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/die-rache/sxoe",
+    "cancelled": "0",
+    "location_name": "Studio Alta",
+    "location_address": "U Výstaviště 21, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5612",
+    "event_name": "Die Rache",
+    "event_date": "2019-11-07",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-11-07",
+    "event_time_until": "19:30:00",
+    "location": "Studio Alta, U Výstaviště 21, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/79a9ee7fc9f81d186c91491777e0572b409ab121.jpg",
+    "price": "120–220",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/die-rache/uxoe",
+    "cancelled": "0",
+    "location_name": "Studio Alta",
+    "location_address": "U Výstaviště 21, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5613",
+    "event_name": "Man Shape Revised ",
+    "event_date": "2019-11-09",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-11-09",
+    "event_time_until": "19:30:00",
+    "location": "Studio Alta, U Výstaviště 21, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/me-sa/lrkpf/\" target=\"_blank\">ME-SA</a></div><div class=\"\">Autor: Karen Foss, Daniel Raček</div><div class=\"\">Umělci: Martina Hajdyla Lacová, Daniel Raček</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/fcc4869a922ed140dfcbae8939cb50a5b8bc386a.jpg",
+    "price": "120–220",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/man-shape-revised/vxoe",
+    "cancelled": "0",
+    "location_name": "Studio Alta",
+    "location_address": "U Výstaviště 21, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5614",
+    "event_name": "Boys Who Like To Play With Dolls",
+    "event_date": "2019-11-11",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-11-11",
+    "event_time_until": "19:30:00",
+    "location": "Studio Alta, U Výstaviště 21, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Tereza Ondrová, Peter Šavel</div><div class=\"\">Umělci: Tereza Ondrová, Peter Šavel</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/871eb56f1fb80631e06d97eeff43407e5a4b4dfe.jpg",
+    "price": "120–220",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/boys-who-like-to-play-with-dolls/wxoe",
+    "cancelled": "0",
+    "location_name": "Studio Alta",
+    "location_address": "U Výstaviště 21, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5615",
+    "event_name": "Nothing Sad",
+    "event_date": "2019-12-11",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-12-11",
+    "event_time_until": "19:30:00",
+    "location": "Studio Alta, U Výstaviště 21, Praha 7",
+    "address": "",
+    "description": "A dance performance freely inspired by astronomer Johannes Kepler’s essay _On the Six-Cornered Snowflake_ and the play of energy, physicality and structure. We perceive movement, the body and dance in the given moment – it’s here, and all at once it’s not, always disappearing. Did it ever exist at all?<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/vertedance/mikpf/\" target=\"_blank\">VerTeDance</a></div><div class=\"\">Režisér: Petra Tejnorová</div><div class=\"\">Umělci: Tereza Ondrová, Nathan Jardin, Matthew Rogers</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/a1604df85f67e39ea9438b196dbe19a48d74a218.jpg",
+    "price": "120–220",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/nothing-sad/xxoe",
+    "cancelled": "0",
+    "location_name": "Studio Alta",
+    "location_address": "U Výstaviště 21, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5616",
+    "event_name": "Medúza",
+    "event_date": "2019-12-16",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-12-16",
+    "event_time_until": "19:30:00",
+    "location": "Studio Alta, U Výstaviště 21, Praha 7",
+    "address": "",
+    "description": "_Medúza_ is painting on stage, which invites us to abandon fixed points and question the boundaries of perception, the boundaries between life and death, light and darkness, hope and hopelessness. Boundaries as expressions of the delicate moments that can turn our lives upside down.\n\n_“For me, the image of a raft lost at sea is a metaphor that expresses the state of our society,”_ says Marie Gourdain.<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/tyhle/xvisf/\" target=\"_blank\">tYhle</a></div><div class=\"\">Umělci: Sabina Bočková, Florent Golfier, Marek Menšík, Jaro Ondruš, Matthiew Rogers</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/5f11540d8f65e1064e5ba4c1adaa072bfd120b6b.jpg",
+    "price": "120–220",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/meduza/yxoe",
+    "cancelled": "0",
+    "location_name": "Studio Alta",
+    "location_address": "U Výstaviště 21, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
   }
 ]
