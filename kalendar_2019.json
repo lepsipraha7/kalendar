@@ -4908,7 +4908,7 @@
     "description": "<div class=\"\">Autor: Claudia Cedó, Joan Yago, Marie Nováková, David Košťák</div><div class=\"\">Režisér: Martina Schlegelová, Ivo Kristián Kubák, Petr Ašek, Tomáš Loužný</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/34a5df21096bc792eb7f995525227d5ff403d65e.jpg",
-    "price": "0–900",
+    "price": "750–900",
     "currency": "CZK",
     "sale_url": "https://goout.net/en/tickets/camp-q/nntd",
     "cancelled": "0",
@@ -4934,7 +4934,7 @@
     "description": "<div class=\"\">Autor: Claudia Cedó, Joan Yago, Marie Nováková, David Košťák</div><div class=\"\">Režisér: Martina Schlegelová, Ivo Kristián Kubák, Petr Ašek, Tomáš Loužný</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/33709813bd2f64ab7344b90743db408f2cbb8baa.jpg",
-    "price": "0–900",
+    "price": "750–900",
     "currency": "CZK",
     "sale_url": "https://goout.net/en/tickets/camp-q/pntd",
     "cancelled": "0",
@@ -4960,7 +4960,7 @@
     "description": "<div class=\"\">Autor: Claudia Cedó, Joan Yago, Marie Nováková, David Košťák</div><div class=\"\">Režisér: Martina Schlegelová, Ivo Kristián Kubák, Petr Ašek, Tomáš Loužný</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/be02cd232ba554b9b4bf87f28e4ab6496d8a0dc6.jpg",
-    "price": "0–850",
+    "price": "750–850",
     "currency": "CZK",
     "sale_url": "https://goout.net/en/tickets/camp-q/qntd",
     "cancelled": "0",
@@ -26975,19 +26975,19 @@
   },
   {
     "id": "4159",
-    "event_name": "Prago Union + Rest",
+    "event_name": "Prago Union + Rest + support: Douny",
     "event_date": "2019-06-28",
     "event_time": "18:00:00",
     "event_date_until": "2019-06-28",
     "event_time_until": "18:00:00",
     "location": "Cross Club, Plynární 23, Praha 7",
     "address": "",
-    "description": "Prago Union and Rest will meet at Cross Square on 28 June 2019. Afterparty will take place directly in the club.<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/prago-union/hae/\" target=\"_blank\">Prago Union</a><a href=\"https://goout.net/en/artists/rest/qanpf/\" target=\"_blank\">Rest</a><a href=\"https://goout.net/en/artists/everything-goes-booking/wsmuf/\" target=\"_blank\">Everything Goes booking</a></div>",
+    "description": "Prago Union and Rest will meet at Cross Square on 28 June 2019. Support will be Douny. Afterparty will take place directly in the club.<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/prago-union/hae/\" target=\"_blank\">Prago Union</a><a href=\"https://goout.net/en/artists/rest/qanpf/\" target=\"_blank\">Rest</a><a href=\"https://goout.net/en/artists/everything-goes-booking/wsmuf/\" target=\"_blank\">Everything Goes booking</a><a href=\"https://goout.net/en/artists/douny/pfrsf/\" target=\"_blank\">Douny</a></div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/616de08cef16df8c74d19b73ae759502adc949bd.jpg",
     "price": "150–200",
     "currency": "CZK",
-    "sale_url": "https://goout.net/en/tickets/prago-union+rest/bnce",
+    "sale_url": "https://goout.net/en/tickets/prago-union+rest+support-douny/bnce",
     "cancelled": "0",
     "location_name": "Cross Club",
     "location_address": "Plynární 23, Praha 7",
@@ -53906,7 +53906,7 @@
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/mydy-rabycad/lvw/\" target=\"_blank\">Mydy Rabycad</a></div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/62ce7e9eb371fd670d172c38e0d2b935048aebce.jpg",
-    "price": "",
+    "price": "0",
     "currency": "CZK",
     "sale_url": null,
     "cancelled": "0",
@@ -65560,19 +65560,19 @@
   },
   {
     "id": "5637",
-    "event_name": "Vladimír 518 + N.O.H.A + další",
+    "event_name": "Praha žije hudbou – afterparty: Vladimír 518 + N.O.H.A + další",
     "event_date": "2019-06-07",
     "event_time": "18:00:00",
     "event_date_until": "2019-06-07",
     "event_time_until": "18:00:00",
     "location": "Cross Club, Plynární 23, Praha 7",
     "address": "",
-    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/n-o-h-a/fbc/\" target=\"_blank\">N.O.H.A.</a><a href=\"https://goout.net/en/artists/kamcza/xtfqf/\" target=\"_blank\">Kamcza</a><a href=\"https://goout.net/en/artists/ahz-ahonz/odqpf/\" target=\"_blank\">Ahz (Ahonz)</a><a href=\"https://goout.net/en/artists/annita/axvpf/\" target=\"_blank\">Annita</a><a href=\"https://goout.net/en/artists/furious-freaks/ukupf/\" target=\"_blank\">Furious Freaks</a><a href=\"https://goout.net/en/artists/philip-tbc/hoy/\" target=\"_blank\">Philip TBC</a><a href=\"https://goout.net/en/artists/mersi/nimqf/\" target=\"_blank\">Mersi</a><a href=\"https://goout.net/en/artists/vladimir-518/hdu/\" target=\"_blank\">Vladimir 518</a><a href=\"https://goout.net/en/artists/dj-czech/jxppf/\" target=\"_blank\">DJ Czech</a><a href=\"https://goout.net/en/artists/dj-voita/jjupf/\" target=\"_blank\">DJ Voita</a><a href=\"https://goout.net/en/artists/brada/mxppf/\" target=\"_blank\">Brada</a></div>",
+    "description": "*Afterparty of the festival \"Praha žije hudbou\" will take place on 7 June in Cross Club and offer a varied program from rap to drum and bass.*\n\nVladimír 518 and his guests will perform in front of the Cross Club. The main scene will belong a drum and bass, with N.O.H.A, Kamcza and Furious Freaks performing during the evening. The basement stage will take over with the break beats of DJs Brad, Czech and Voita.\n<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/n-o-h-a/fbc/\" target=\"_blank\">N.O.H.A.</a><a href=\"https://goout.net/en/artists/kamcza/xtfqf/\" target=\"_blank\">Kamcza</a><a href=\"https://goout.net/en/artists/ahz-ahonz/odqpf/\" target=\"_blank\">Ahz (Ahonz)</a><a href=\"https://goout.net/en/artists/annita/axvpf/\" target=\"_blank\">Annita</a><a href=\"https://goout.net/en/artists/furious-freaks/ukupf/\" target=\"_blank\">Furious Freaks</a><a href=\"https://goout.net/en/artists/philip-tbc/hoy/\" target=\"_blank\">Philip TBC</a><a href=\"https://goout.net/en/artists/mersi/nimqf/\" target=\"_blank\">Mersi</a><a href=\"https://goout.net/en/artists/vladimir-518/hdu/\" target=\"_blank\">Vladimir 518</a><a href=\"https://goout.net/en/artists/dj-czech/jxppf/\" target=\"_blank\">DJ Czech</a><a href=\"https://goout.net/en/artists/dj-voita/jjupf/\" target=\"_blank\">DJ Voita</a><a href=\"https://goout.net/en/artists/brada/mxppf/\" target=\"_blank\">Brada</a></div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/3a068de718944d62acf685056984ec6b994db899.jpg",
-    "price": "",
+    "price": "150",
     "currency": "CZK",
-    "sale_url": null,
+    "sale_url": "https://goout.net/en/tickets/praha-zije-hudbou-afterparty-vladimir-518+n-o-h-a+dalsi/uipe",
     "cancelled": "0",
     "location_name": "Cross Club",
     "location_address": "Plynární 23, Praha 7",
@@ -65676,7 +65676,7 @@
     "image_src": "wp-content/uploads/goout/fc870d4cbc9ff310d3ab9c1b97f32f7b845f2e69.jpg",
     "price": "122–555",
     "currency": "CZK",
-    "sale_url": null,
+    "sale_url": "https://goout.net/en/tickets/expedice-neuron-doktori-na-tripu/xhpe",
     "cancelled": "0",
     "location_name": "Studio Alta",
     "location_address": "U Výstaviště 21, Praha 7",
@@ -65706,6 +65706,425 @@
     "cancelled": "0",
     "location_name": "Containall – Stalin",
     "location_address": "Letenské sady, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5643",
+    "event_name": "DJ James Wing + DJ Werian + more",
+    "event_date": "2019-06-02",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-06-02",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/dj-james-wing/wpvpf/\" target=\"_blank\">DJ James Wing</a><a href=\"https://goout.net/en/artists/dj-werian/inxcg/\" target=\"_blank\">DJ Werian</a><a href=\"https://goout.net/en/artists/dj-chia/erxwf/\" target=\"_blank\">DJ Chia</a><a href=\"https://goout.net/en/artists/hadash/rvedg/\" target=\"_blank\">Hadash</a><a href=\"https://goout.net/en/artists/higround/fydwf/\" target=\"_blank\">Higround</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/66ccfaaa2cee3af0d94ea28c798812ec651b08fc.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5644",
+    "event_name": "Volume Plus Invites: Volume Plus & Tony Terra",
+    "event_date": "2019-06-04",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-06-04",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/tony-terra/iyeuf/\" target=\"_blank\">Tony Terra</a><a href=\"https://goout.net/en/artists/volume-plus/nkxfd/\" target=\"_blank\">Volume Plus</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/2ae26f5831ea970654c80f7dc7a6d524ae29f6fd.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5645",
+    "event_name": "Nika 77 + Myclick + guests",
+    "event_date": "2019-06-05",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-06-05",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/nika-77/uobpf/\" target=\"_blank\">Nika 77</a><a href=\"https://goout.net/en/artists/dj-face-myclick/kns/\" target=\"_blank\">DJ Face (Myclick)</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/6bc0212ba2f04a57f7b11313a25e2e36a0b4accb.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5646",
+    "event_name": "Zero Gravity: Lolla + Cejn + Calave Soundzzz",
+    "event_date": "2019-06-05",
+    "event_time": "21:00:00",
+    "event_date_until": "2019-06-05",
+    "event_time_until": "21:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/lolla/bqmqf/\" target=\"_blank\">Lolla</a><a href=\"https://goout.net/en/artists/cejn/mqqpf/\" target=\"_blank\">Cejn</a><a href=\"https://goout.net/en/artists/calave-soundzzz/xvlxf/\" target=\"_blank\">Calave Soundzzz</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/cb80e66e333ad444451b454674f027932859393a.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5647",
+    "event_name": "Čtvrteční Bejs: Snookey + Cybi + more",
+    "event_date": "2019-06-06",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-06-06",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/snookey/ocqpf/\" target=\"_blank\">Snookey</a><a href=\"https://goout.net/en/artists/cybi/cdysf/\" target=\"_blank\">CYBi</a><a href=\"https://goout.net/en/artists/beast-season/fbjag/\" target=\"_blank\">Beast:season</a><a href=\"https://goout.net/en/artists/ne/tixag/\" target=\"_blank\">Ne</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/6479b11e22fe13b2a7c10527a7e636c15bb71c3d.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5648",
+    "event_name": "Benefice pro Wakitaku: Dubrising + Colective Tones + more ",
+    "event_date": "2019-06-06",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-06-06",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/dubrising/mbfdg/\" target=\"_blank\">Dubrising</a><a href=\"https://goout.net/en/artists/collective-tones/yaxrf/\" target=\"_blank\">Collective Tones</a><a href=\"https://goout.net/en/artists/dubheartman/obfdg/\" target=\"_blank\">Dubheartman</a><a href=\"https://goout.net/en/artists/mira2/qbfdg/\" target=\"_blank\">Míra2</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/e9a6ec5d25bd32e2af5411c09758690d809ae557.jpg",
+    "price": "+",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5649",
+    "event_name": "Praha žije hudbou – afterparty: Squad + Afu-Ra + more",
+    "event_date": "2019-06-08",
+    "event_time": "15:00:00",
+    "event_date_until": "2019-06-08",
+    "event_time_until": "15:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "*Second day of festival “Praha žije hudbou” again in Cross Club will offer varied program from rap to house.*\n\nPio Squad or Afu-Ra American rapper will perform in front of the Cross Club. The main stage will belong to the house music and for example J Paul Getto, Smeghouse or Telly Savalas. The basement stage will take over by electronic noise-pop by KillieKrankie.<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/afu-ra/xomsf/\" target=\"_blank\">Afu-Ra</a><a href=\"https://goout.net/en/artists/pio-squad/rqb/\" target=\"_blank\">Pio Squad</a><a href=\"https://goout.net/en/artists/j-paul-getto/hqrcg/\" target=\"_blank\">J Paul Getto</a><a href=\"https://goout.net/en/artists/telly-savalas/wfowf/\" target=\"_blank\">Telly Savalas</a><a href=\"https://goout.net/en/artists/skeledan/bgowf/\" target=\"_blank\">Skeledan</a><a href=\"https://goout.net/en/artists/smeghouse/yfowf/\" target=\"_blank\">Smeghouse</a><a href=\"https://goout.net/en/artists/marvelous-bey/ueosf/\" target=\"_blank\">Marvelous Bey</a><a href=\"https://goout.net/en/artists/babe-ln/alqpf/\" target=\"_blank\">Babe LN</a><a href=\"https://goout.net/en/artists/cut-dem/muppf/\" target=\"_blank\">Cut Dem</a><a href=\"https://goout.net/en/artists/killiekrankie/ukpsf/\" target=\"_blank\">Killiekrankie</a><a href=\"https://goout.net/en/artists/mr-nakashi/yuedg/\" target=\"_blank\">Mr. Nakashi</a><a href=\"https://goout.net/en/artists/mc-louis-de-fumes/keivf/\" target=\"_blank\">MC Louis de Fumés</a><a href=\"https://goout.net/en/artists/dj-coolcream/tbtsf/\" target=\"_blank\">DJ Coolcream</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/4f6ab45943273f0ff6fc597e5936251dabe1aa26.jpg",
+    "price": "100",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/praha-zije-hudbou-afterparty-squad+afu-ra+more/vipe",
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      },
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5650",
+    "event_name": "Balkan & Jungle: Universal Swing Brothers + guests",
+    "event_date": "2019-06-09",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-06-09",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/universal-swing-brothers/yuopf/\" target=\"_blank\">Universal Swing Brothers</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/f9a46cc58db29691e01b301ac5034c0fb3701b11.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5651",
+    "event_name": "Los Tekkenos: Zmar + Majkl + more",
+    "event_date": "2019-06-10",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-06-10",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/zmar/pcfdg/\" target=\"_blank\">Zmar</a><a href=\"https://goout.net/en/artists/iwash/rcfdg/\" target=\"_blank\">Iwash</a><a href=\"https://goout.net/en/artists/majkl-nsk/dtapf/\" target=\"_blank\">Majkl NSK</a><a href=\"https://goout.net/en/artists/mejra/uncwf/\" target=\"_blank\">Mejra</a><a href=\"https://goout.net/en/artists/zhora/tcfdg/\" target=\"_blank\">Zhora</a><a href=\"https://goout.net/en/artists/10k/vcfdg/\" target=\"_blank\">10k</a><a href=\"https://goout.net/en/artists/undead-nation/xcfdg/\" target=\"_blank\">Undead Nation</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/312c9bab269a8d060fb5e6a86e4a37142b2748eb.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5652",
+    "event_name": "Vyprávění příběhů u ohně: Markéta Holá + Pírko",
+    "event_date": "2019-06-11",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-06-11",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/storytelling-cz/crovf/\" target=\"_blank\">Storytelling CZ</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/bf5c3f518558ff39edbf3d8f79549dc1048406f3.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5653",
+    "event_name": "Nylon Jail",
+    "event_date": "2019-06-14",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-06-14",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/nylon-jail/cofg/\" target=\"_blank\">Nylon Jail</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/fa646425d909b64bfc64e9da50358412b864c603.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5654",
+    "event_name": "Velká sýrová nakládačka 2019",
+    "event_date": "2019-06-18",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-06-18",
+    "event_time_until": "18:00:00",
+    "location": "Containall – Stromovka, Stromovka, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/4f082c529c9e374eeb3e4812e69629505ace243f.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stromovka",
+    "location_address": "Stromovka, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Gastro"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5655",
+    "event_name": "Zase spolu: Falafel & Rosé",
+    "event_date": "2019-06-22",
+    "event_time": "13:00:00",
+    "event_date_until": "2019-06-22",
+    "event_time_until": "13:00:00",
+    "location": "Vnitroblock, Tusarova 791/31, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/f015bb764a420440895876c32221b76a4c444762.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Vnitroblock",
+    "location_address": "Tusarova 791/31, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Gastro"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5656",
+    "event_name": "Double Trouble: Volume Plus + Houbass + more",
+    "event_date": "2019-07-05",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-07-05",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "Another event _Double Trouble_ will take place on 5 July at Cross Club.<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/volume-plus/nkxfd/\" target=\"_blank\">Volume Plus</a><a href=\"https://goout.net/en/artists/houbass/vpnsf/\" target=\"_blank\">Houbass</a><a href=\"https://goout.net/en/artists/r-flyer/iakuf/\" target=\"_blank\">R-Flyer</a><a href=\"https://goout.net/en/artists/skacko/qkxfd/\" target=\"_blank\">Skáčko</a><a href=\"https://goout.net/en/artists/chombo/qnlxf/\" target=\"_blank\">Chombo</a><a href=\"https://goout.net/en/artists/lifesize-mc/yltsf/\" target=\"_blank\">Lifesize MC</a><a href=\"https://goout.net/en/artists/blofeld/hhl/\" target=\"_blank\">Blofeld</a><a href=\"https://goout.net/en/artists/fallen-gemini/ogcrf/\" target=\"_blank\">Fallen Gemini</a><a href=\"https://goout.net/en/artists/runky/jutsf/\" target=\"_blank\">Runky</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/5ced2ce36ed629343a6558511f1d998b78cd4ecf.jpg",
+    "price": "50–100",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/double-trouble-volume-plus+houbass+more/yipe",
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5657",
+    "event_name": "Dreadzone + MikkiM + more",
+    "event_date": "2019-07-06",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-07-06",
+    "event_time_until": "19:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "Dreadzone soundsystem members will perform in front of the Cross Club on 4 July. MikkiM & MC Turner and Junglist with Hedone will take care of afterparty. <div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/dreadzone/mmmj/\" target=\"_blank\">Dreadzone</a><a href=\"https://goout.net/en/artists/mikkim/nex/\" target=\"_blank\">MikkiM</a><a href=\"https://goout.net/en/artists/mc-turner/ysxwf/\" target=\"_blank\">MC Turner</a><a href=\"https://goout.net/en/artists/junglist-call-crew/twmqf/\" target=\"_blank\">Junglist Call Crew</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/11ce682fdc3514d694df624c97d9b98a9fb0e6bc.jpg",
+    "price": "150",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/dreadzone+mikkim+more/wipe",
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5658",
+    "event_name": "UpTONE: Press Club",
+    "event_date": "2019-09-15",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-09-15",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/press-club/ikvbg/\" target=\"_blank\">Press Club</a><a href=\"https://goout.net/en/artists/fource-entertainment-cz/qqxpf/\" target=\"_blank\">Fource Entertainment CZ</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/cd5244a649e654ecb303a71a56ff13c3d2123592.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/uptone-press-club/ahpe",
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
     "categories": [
       {
         "subcategory_name": "Koncerty"
