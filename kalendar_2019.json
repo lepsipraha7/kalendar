@@ -66132,5 +66132,317 @@
     ],
     "image": null,
     "goOutInfo": "0"
+  },
+  {
+    "id": "5659",
+    "event_name": "About the courage with Dana Němcová ",
+    "event_date": "2019-06-05",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-06-05",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/16fc17856d258dfbfd7c623d7582725fd6d1a85d.jpg",
+    "price": "+",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5660",
+    "event_name": "Batman #2",
+    "event_date": "2019-06-05",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-06-05",
+    "event_time_until": "19:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/e14478cae7d117de67b139642e67854517636899.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Výstavy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5661",
+    "event_name": "Letenský bazar v Bio Oku",
+    "event_date": "2019-06-08",
+    "event_time": "12:00:00",
+    "event_date_until": "2019-06-08",
+    "event_time_until": "12:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Letná flea market in Bio Oko, except the vintage and modern clothes for boys and girls, you will find there books, home accessories, kitchenware and other valuable goods ",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/5de3401446692eceddd2e12cc94a28d28cec8136.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5662",
+    "event_name": "MultiFest 2019",
+    "event_date": "2019-06-10",
+    "event_time": "15:20:00",
+    "event_date_until": "2019-06-10",
+    "event_time_until": "15:20:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/c2d26840a1fb8e26d405b5cdd3796e9ff9d8e65d.jpg",
+    "price": "120",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Festivaly"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5663",
+    "event_name": "MultiFest 2019",
+    "event_date": "2019-06-10",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-06-10",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/1c2466314200f114e9934735b0e632b359e2f728.jpg",
+    "price": "120",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Festivaly"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5664",
+    "event_name": "Drift",
+    "event_date": "2019-06-12",
+    "event_time": "10:00:00",
+    "event_date_until": "2019-06-12",
+    "event_time_until": "10:00:00",
+    "location": "Výstaviště Praha Holešovice, Výstaviště, Praha 7",
+    "address": "",
+    "description": "_Drift_ is an hour-long, site-specific performance using a simple, yet complex collective choreography of sound and movement designed to the plaza in front of the Industrial Palace. In Drift more then a dozen performers are following invisible pathways covering the plaza and its close surroundings. On these pathways the performers are carrying around portable speakers from which the site-specifically composed score of the piece creating a unique moving soundscape. These layers of interaction between performers and passersby will create a playful, intense presence at the Plaza.<div class=\"\">Autor: David Somló</div><div class=\"\">Umělci: David Somló</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/18b4b5e6359b2a4afd828be8c4d5d8bcae490b23.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Výstaviště Praha Holešovice",
+    "location_address": "Výstaviště, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5665",
+    "event_name": "Kryzka + Ondrej Psyla + more ",
+    "event_date": "2019-06-12",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-06-12",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/kryzka/swvbg/\" target=\"_blank\">Kryzka </a><a href=\"https://goout.net/en/artists/ondrej-psyla/ivw/\" target=\"_blank\">Ondrej Psyla</a><a href=\"https://goout.net/en/artists/dj-panda/gklag/\" target=\"_blank\">DJ Panda</a><a href=\"https://goout.net/en/artists/mp/kfgrf/\" target=\"_blank\">MP</a><a href=\"https://goout.net/en/artists/cuky/poyvf/\" target=\"_blank\">Cuky</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/e4d8a2d5761424ff064b84e62eff3d3cc5817b80.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5666",
+    "event_name": "Justin Lavash + House Flawor",
+    "event_date": "2019-06-12",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-06-12",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/justin-lavash/bfh/\" target=\"_blank\">Justin Lavash</a><a href=\"https://goout.net/en/artists/house-flawor/vifdg/\" target=\"_blank\">House Flawor</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/3770e49139495c33e81b8cab53d3f8fee0530fdf.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5667",
+    "event_name": "Drift",
+    "event_date": "2019-06-13",
+    "event_time": "10:00:00",
+    "event_date_until": "2019-06-13",
+    "event_time_until": "10:00:00",
+    "location": "Výstaviště Praha Holešovice, Výstaviště, Praha 7",
+    "address": "",
+    "description": "_Drift_ is an hour-long, site-specific performance using a simple, yet complex collective choreography of sound and movement designed to the plaza in front of the Industrial Palace. In Drift more then a dozen performers are following invisible pathways covering the plaza and its close surroundings. On these pathways the performers are carrying around portable speakers from which the site-specifically composed score of the piece creating a unique moving soundscape. These layers of interaction between performers and passersby will create a playful, intense presence at the Plaza.<div class=\"\">Autor: David Somló</div><div class=\"\">Umělci: David Somló</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/887ad63cb22395d757b16672a9f1ad7e4af4cd29.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Výstaviště Praha Holešovice",
+    "location_address": "Výstaviště, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5668",
+    "event_name": "Jaikea + support: Z-Kat + Mr. Be + Whatsman",
+    "event_date": "2019-06-13",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-06-13",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/jaikea/cjfdg/\" target=\"_blank\">Jaikea</a><a href=\"https://goout.net/en/artists/z-kat/rujqf/\" target=\"_blank\">Z-Kat</a><a href=\"https://goout.net/en/artists/mr-be/sewuf/\" target=\"_blank\">Mr Be</a><a href=\"https://goout.net/en/artists/whatsman/bjstf/\" target=\"_blank\">Whatsman</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/5cf18188517b8a87be31f913945ddeb575a98d59.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5669",
+    "event_name": "CCTV Allstars + Peeni Walli ",
+    "event_date": "2019-06-13",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-06-13",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/cctv-allstars/lpl/\" target=\"_blank\">CCTV Allstars</a><a href=\"https://goout.net/en/artists/peeni-walli/gmt/\" target=\"_blank\">Peeni Walli</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/ca13aa410492ee80617e94c144c2161b0e8f2a01.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5670",
+    "event_name": "Buty",
+    "event_date": "2019-07-12",
+    "event_time": "18:30:00",
+    "event_date_until": "2019-07-12",
+    "event_time_until": "18:30:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/buty/cpf/\" target=\"_blank\">Buty</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/5dc82e1e1f13a4bb2d3bffc730fdcfeb3bbe5726.jpg",
+    "price": "150–250",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/buty/fmpe",
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
   }
 ]
