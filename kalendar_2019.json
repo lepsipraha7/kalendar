@@ -53984,7 +53984,7 @@
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/much-the-same/vrrcg/\" target=\"_blank\">Much The Same</a><a href=\"https://goout.net/en/artists/mighty-sounds/ofatf/\" target=\"_blank\">Mighty Sounds</a></div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/0d072ddbf45ad892ab6bc6d9ae787e69d1fe3dfa.jpg",
-    "price": "",
+    "price": "0",
     "currency": "CZK",
     "sale_url": null,
     "cancelled": "0",
@@ -62830,7 +62830,7 @@
     "address": "",
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/handa-gote-research-and-development/ekkpf/\" target=\"_blank\">Handa Gote Research & Development</a></div>",
     "image_id": null,
-    "image_src": "wp-content/uploads/goout/47614ce2eeb66ab695059d6a2f2d334e8654b42c.jpg",
+    "image_src": "wp-content/uploads/goout/507784429e3c9715ca21a647a766682e34df15f7.jpg",
     "price": "150–555",
     "currency": "CZK",
     "sale_url": "https://goout.net/en/tickets/dva-sesity/aeoe",
@@ -62856,7 +62856,7 @@
     "address": "",
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/handa-gote-research-and-development/ekkpf/\" target=\"_blank\">Handa Gote Research & Development</a></div>",
     "image_id": null,
-    "image_src": "wp-content/uploads/goout/a10093fc8ade2258f142103538959ee22d67b831.jpg",
+    "image_src": "wp-content/uploads/goout/20c0d4be9e4668c5cac4c4f2ae996ec5c5e81808.jpg",
     "price": "150–555",
     "currency": "CZK",
     "sale_url": "https://goout.net/en/tickets/dva-sesity/beoe",
@@ -62882,7 +62882,7 @@
     "address": "",
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/handa-gote-research-and-development/ekkpf/\" target=\"_blank\">Handa Gote Research & Development</a></div>",
     "image_id": null,
-    "image_src": "wp-content/uploads/goout/a8a3e5e56952bf2f55db3e64d9c1228de3c62329.jpg",
+    "image_src": "wp-content/uploads/goout/c539b9652f42fb015d066d6592040a757b8a4265.jpg",
     "price": "150–555",
     "currency": "CZK",
     "sale_url": "https://goout.net/en/tickets/dva-sesity/ceoe",
@@ -66440,6 +66440,460 @@
     "categories": [
       {
         "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5671",
+    "event_name": "Bez otce",
+    "event_date": "2019-06-01",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-06-01",
+    "event_time_until": "20:00:00",
+    "location": "Pidivadlo, Letohradská 44, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Mikó Csaba</div><div class=\"\">Režisér: Jiří Hajdyla</div><div class=\"\">Umělci: Berenika Anna Mikeschová, Tereza Blažková, Eliška Lešáková, Daniel Šikýř, Teodor Pazderka, Kristýna Adamcová, Jan Dolfi</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/34c3c3188281784d71d6d111997ddd499685aef4.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Pidivadlo",
+    "location_address": "Letohradská 44, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5672",
+    "event_name": "Rodinný den na Výstavišti",
+    "event_date": "2019-06-02",
+    "event_time": "13:00:00",
+    "event_date_until": "2019-06-02",
+    "event_time_until": "13:00:00",
+    "location": "Výstaviště Praha Holešovice, Výstaviště, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/jelen/eps/\" target=\"_blank\">Jelen</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/54a3fd79d961be95001c0ebec111941ff43d2500.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Výstaviště Praha Holešovice",
+    "location_address": "Výstaviště, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      },
+      {
+        "subcategory_name": "Děti a mládež"
+      },
+      {
+        "subcategory_name": "Koncerty"
+      },
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5673",
+    "event_name": "Stalin Siesta: DJ Mvltifidvs ",
+    "event_date": "2019-06-02",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-06-02",
+    "event_time_until": "18:00:00",
+    "location": "Containall – Stalin, Letenské sady, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/dj-mvltifidvs/gqfdg/\" target=\"_blank\">DJ Mvltifidvs</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/2fab9161e4c7dfbb8c018c084b75f3f452068086.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stalin",
+    "location_address": "Letenské sady, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5674",
+    "event_name": "Bez otce",
+    "event_date": "2019-06-02",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-06-02",
+    "event_time_until": "20:00:00",
+    "location": "Pidivadlo, Letohradská 44, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Mikó Csaba</div><div class=\"\">Režisér: Jiří Hajdyla</div><div class=\"\">Umělci: Berenika Anna Mikeschová, Tereza Blažková, Eliška Lešáková, Daniel Šikýř, Teodor Pazderka, Kristýna Adamcová, Jan Dolfi</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/152d206ed8a8a75b94ed7dceb1dab7e53979d2bb.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Pidivadlo",
+    "location_address": "Letohradská 44, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5675",
+    "event_name": "Bez otce",
+    "event_date": "2019-06-04",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-06-04",
+    "event_time_until": "20:00:00",
+    "location": "Pidivadlo, Letohradská 44, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Mikó Csaba</div><div class=\"\">Režisér: Jiří Hajdyla</div><div class=\"\">Umělci: Berenika Anna Mikeschová, Tereza Blažková, Eliška Lešáková, Daniel Šikýř, Teodor Pazderka, Kristýna Adamcová, Jan Dolfi</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/e0e38d7b3b5c81fd3af20611010d46ef1aa48986.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Pidivadlo",
+    "location_address": "Letohradská 44, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5676",
+    "event_name": "Mad4ce + guests",
+    "event_date": "2019-06-11",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-06-11",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/mad4ce/nqupf/\" target=\"_blank\">Mad4ce</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/07de86415d7c1e07e5533ea7c0f2ba31838da1ec.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5677",
+    "event_name": "Co teď? A co pak?",
+    "event_date": "2019-06-12",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-06-12",
+    "event_time_until": "20:00:00",
+    "location": "Pidivadlo, Letohradská 44, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Režisér: David Czesany, Lucie Roznětínská</div><div class=\"\">Umělci: Jana Bergerová, Olga Bojková, Michael Dean, Julia Issa, David Kupček, Margaryta Lebedzeva, Kateřina Nepovímová, Zuzana Repková, Johanka Valášková, Vilém Tichý</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/8c9899b2c676d5dcf60df476ceb32071cccb7dd5.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Pidivadlo",
+    "location_address": "Letohradská 44, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5678",
+    "event_name": "Acoustic Session: Gabriele Felici",
+    "event_date": "2019-06-12",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-06-12",
+    "event_time_until": "19:00:00",
+    "location": "Containall – Stromovka, Stromovka, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/gabriele-felici/qboyf/\" target=\"_blank\">Gabriele Felici</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/60cacae694e5fe8dd55366b9137676177f3405b5.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stromovka",
+    "location_address": "Stromovka, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5679",
+    "event_name": "Space Appeal: Loten Katz + Mad4Ce + Leon Kowalski",
+    "event_date": "2019-06-14",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-06-14",
+    "event_time_until": "18:00:00",
+    "location": "Containall – Stromovka, Stromovka, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/loten-katz/xvxyf/\" target=\"_blank\">Loten Katz</a><a href=\"https://goout.net/en/artists/mad4ce/nqupf/\" target=\"_blank\">Mad4ce</a><a href=\"https://goout.net/en/artists/leon-kowalski/rvxyf/\" target=\"_blank\">Leon Kowalski</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/c479e0a31871fad09578b99234fe30ec43304dbf.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stromovka",
+    "location_address": "Stromovka, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5680",
+    "event_name": "Co teď? A co pak?",
+    "event_date": "2019-06-14",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-06-14",
+    "event_time_until": "20:00:00",
+    "location": "Pidivadlo, Letohradská 44, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Režisér: David Czesany, Lucie Roznětínská</div><div class=\"\">Umělci: Jana Bergerová, Olga Bojková, Michael Dean, Julia Issa, David Kupček, Margaryta Lebedzeva, Kateřina Nepovímová, Zuzana Repková, Johanka Valášková, Vilém Tichý</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/92b5271db32bcb2472281ada4a3bbc702697eab7.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Pidivadlo",
+    "location_address": "Letohradská 44, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5681",
+    "event_name": "Evening Vibes: PSJ",
+    "event_date": "2019-06-15",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-06-15",
+    "event_time_until": "19:00:00",
+    "location": "Containall – Stromovka, Stromovka, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/psj/sraqf/\" target=\"_blank\">PSJ</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/b165d6a3ae9c5323c38def49111244045cd4d414.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stromovka",
+    "location_address": "Stromovka, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5682",
+    "event_name": "Co teď? A co pak?",
+    "event_date": "2019-06-22",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-06-22",
+    "event_time_until": "20:00:00",
+    "location": "Pidivadlo, Letohradská 44, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Režisér: David Czesany, Lucie Roznětínská</div><div class=\"\">Umělci: Jana Bergerová, Olga Bojková, Michael Dean, Julia Issa, David Kupček, Margaryta Lebedzeva, Kateřina Nepovímová, Zuzana Repková, Johanka Valášková, Vilém Tichý</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/453fc7d013cfa51589be92d78c987e9b6e005d27.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Pidivadlo",
+    "location_address": "Letohradská 44, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5683",
+    "event_name": "Co když to (ne)byla láska",
+    "event_date": "2019-06-25",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-06-25",
+    "event_time_until": "20:00:00",
+    "location": "Pidivadlo, Letohradská 44, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Režisér: Karel Kříž</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/735019c7c720a6b1d23249742f28b2e49889a507.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Pidivadlo",
+    "location_address": "Letohradská 44, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5684",
+    "event_name": "Co když to (ne)byla láska",
+    "event_date": "2019-06-27",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-06-27",
+    "event_time_until": "20:00:00",
+    "location": "Pidivadlo, Letohradská 44, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Režisér: Karel Kříž</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/b072ca2afb60d27d04f2a17d6c436b60e63d0868.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Pidivadlo",
+    "location_address": "Letohradská 44, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5685",
+    "event_name": "Stalin Stage x Wave Startér: Hello Marcel + Noise Don’t Cry",
+    "event_date": "2019-07-17",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-07-17",
+    "event_time_until": "20:00:00",
+    "location": "Containall – Stalin, Letenské sady, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/hello-marcel/xffxf/\" target=\"_blank\">Hello Marcel</a><a href=\"https://goout.net/en/artists/noise-dont-cry/iavcg/\" target=\"_blank\">Noise Don't Cry</a><a href=\"https://goout.net/en/artists/radio-wave/mhctf/\" target=\"_blank\">Radio Wave</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/a929ab78e110bde2795c53ec25f70ea279f714f9.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stalin",
+    "location_address": "Letenské sady, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5686",
+    "event_name": "Stalin x Shotgun Festival: N Bug + Skaph + Influence Collective",
+    "event_date": "2019-08-30",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-08-30",
+    "event_time_until": "20:00:00",
+    "location": "Containall – Stalin, Letenské sady, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/n-bug/jducg/\" target=\"_blank\">N Bug</a><a href=\"https://goout.net/en/artists/skaph/rnaqf/\" target=\"_blank\">Skaph</a><a href=\"https://goout.net/en/artists/influence-collective/lqfdg/\" target=\"_blank\">Influence Collective</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/964a90631c1e65e77efa8e353bcb5a6a8b4c1b9e.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stalin",
+    "location_address": "Letenské sady, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5687",
+    "event_name": "Hookah Lover Fest",
+    "event_date": "2019-11-08",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-11-09",
+    "event_time_until": "23:59:59",
+    "location": "Výstaviště Praha Holešovice, Výstaviště, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/5ffde79942af2c0ebc1f1760da1f242385fdb8c1.jpg",
+    "price": "90–390",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/hookah-lover-fest/appe",
+    "cancelled": "0",
+    "location_name": "Výstaviště Praha Holešovice",
+    "location_address": "Výstaviště, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      },
+      {
+        "subcategory_name": "Festivaly"
       }
     ],
     "image": null,
