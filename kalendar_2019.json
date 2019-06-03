@@ -66898,5 +66898,34 @@
     ],
     "image": null,
     "goOutInfo": "0"
+  },
+  {
+    "id": "5688",
+    "event_name": "Hřiště není/jako silnice",
+    "event_date": "2019-06-12",
+    "event_time": "14:00:00",
+    "event_date_until": "2019-06-12",
+    "event_time_until": "17:00:00",
+    "location": "Pionýr z. s., PS Omega, hřiště Sedmikráska",
+    "address": "",
+    "description": "<p>Pionýr z. s., PS Omega pořádá akci</p>\n<p><strong>Hřiště není/jako silnice</strong></p>\n<p style=\"text-align: justify;\">dne 12. června 2019</p>\n<p style=\"text-align: justify;\">Netradiční akce pro všechny, kdo si chtějí připomenout pravidla silničního provozu a přitom si také trochu pohrát, mohou přijít na hřiště Sedmikráska od 14 do 17 hodin.</p>\n<p style=\"text-align: justify;\">Akce se koná díky podpoře MHMP a MŠMT.</p>\n<p style=\"text-align: justify;\">Vyhodnocení proběhne ve čtvrtek 13. 6. po 14. hodině v Základní škole Tusarova 21. Nejlepším luštitelům (1. – 3. místa ceny schováme, další ceny postupují dalším soutěžícím).</p>",
+    "image_id": "16065",
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": "Pionýr z. s., PS Omega",
+    "location_address": "hřiště Sedmikráska",
+    "categories": [
+      {
+        "subcategory_name": "Sport"
+      },
+      {
+        "subcategory_name": "Děti a mládež"
+      }
+    ],
+    "image": "https://www.praha7.cz/wp-content/uploads/2018/04/hriste-není-silnice2-600x400.jpg",
+    "goOutInfo": null
   }
 ]
