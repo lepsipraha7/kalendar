@@ -66927,5 +66927,31 @@
     ],
     "image": "https://www.praha7.cz/wp-content/uploads/2018/04/hriste-není-silnice2-600x400.jpg",
     "goOutInfo": null
+  },
+  {
+    "id": "5689",
+    "event_name": "Zasedání Komise životního prostředí a péče o veřejný prostor Rady MČ Praha 7",
+    "event_date": "2019-06-12",
+    "event_time": "17:00:00",
+    "event_date_until": "2019-06-12",
+    "event_time_until": "17:00:00",
+    "location": "Úřad MČ Praha 7 (č. d. 227), Nábřeží Kapitána Jaroše 1000 (2. patro, č. d. 227)",
+    "address": "",
+    "description": "<p>Zasedání <a href=\"https://www.praha7.cz/radnice/voleni-zastupci-mistni-samospravy/rada-mc-praha-7/komise-praha-7/komise-zivotniho-prostredi-a-pece-o-verejny-prostor-rady-mc-praha-7/\">Komise životního prostředí a péče o veřejný prostor Rady MČ Praha 7</a>. </p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": "Úřad MČ Praha 7 (č. d. 227)",
+    "location_address": "Nábřeží Kapitána Jaroše 1000 (2. patro, č. d. 227)",
+    "categories": [
+      {
+        "subcategory_name": "Zasedání orgánů MČ"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
   }
 ]
