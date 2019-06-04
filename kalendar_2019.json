@@ -66953,5 +66953,161 @@
     ],
     "image": null,
     "goOutInfo": null
+  },
+  {
+    "id": "5690",
+    "event_name": "Pavel Minář: Finger food",
+    "event_date": "2019-06-11",
+    "event_time": "17:00:00",
+    "event_date_until": "2019-06-11",
+    "event_time_until": "17:00:00",
+    "location": "Národní zemědělské muzeum, Kostelní 44, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/f88fbace57e51c555edf44aaefd54250317309af.jpg",
+    "price": "2200",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Národní zemědělské muzeum",
+    "location_address": "Kostelní 44, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Gastro"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5691",
+    "event_name": "7 Pieces Pop-up vol. 2",
+    "event_date": "2019-06-15",
+    "event_time": "10:00:00",
+    "event_date_until": "2019-06-15",
+    "event_time_until": "10:00:00",
+    "location": "Vnitroblock, Tusarova 791/31, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/061cc25247f7e7298b58802831f5efb3fe7af1e4.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Vnitroblock",
+    "location_address": "Tusarova 791/31, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Gastro"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5692",
+    "event_name": "Plný Block vol. 10",
+    "event_date": "2019-06-15",
+    "event_time": "11:00:00",
+    "event_date_until": "2019-06-15",
+    "event_time_until": "11:00:00",
+    "location": "Vnitroblock, Tusarova 791/31, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/54b84c001e604507db029a40d7986fe0a6604558.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Vnitroblock",
+    "location_address": "Tusarova 791/31, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5693",
+    "event_name": "Rascals Drink'n'Draw",
+    "event_date": "2019-06-20",
+    "event_time": "18:30:00",
+    "event_date_until": "2019-06-20",
+    "event_time_until": "18:30:00",
+    "location": "Studio Alta, U Výstaviště 21, Praha 7",
+    "address": "",
+    "description": "_Rascals Drink'n'Draw_ is an event mainly for videogames or film professionals and art students who would like to get better in their craft. Under our Art Director guidance you would be able to try out different poses, lighting exercises and time-stamped \"shorts\" for quick sketches. And if you tire of drawing and sketching you can always exchange tips and news with others over some good beer or wine! ",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/e91123a41944cef61728b8f96ac86e10395d6901.jpg",
+    "price": "120",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/rascals-drinkndraw/sspe",
+    "cancelled": "0",
+    "location_name": "Studio Alta",
+    "location_address": "U Výstaviště 21, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5694",
+    "event_name": "Street Food Jam",
+    "event_date": "2019-07-14",
+    "event_time": "10:00:00",
+    "event_date_until": "2019-07-14",
+    "event_time_until": "10:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/3fb0a1284bb88c9c9e7148a6954bca507970a8fa.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Gastro"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5695",
+    "event_name": "Street Food Jam",
+    "event_date": "2019-08-11",
+    "event_time": "10:00:00",
+    "event_date_until": "2019-08-11",
+    "event_time_until": "10:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/a192581f3862704ba3bde97ba14e5e4804d21630.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Gastro"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
   }
 ]
