@@ -45214,7 +45214,7 @@
     "description": "You probably know the Mexican Day of the Dead celebrations, all full of colour and fun. The living and the dead meet again to celebrate this holiday every autumn. Come join little Lupitina’s family as they get ready for this special day. There will be singing, dancing and storytelling.\n\nA humourous puppet journey to Mexico, reminding one and all that there’s no need to be too scared of death, because it’s a natural part of our lives.\n\n*Performance is suitable for kids 4 and up. It is in Czech.*<div class=\"\">Autor: Dora Bouzková</div><div class=\"\">Režisér: Dora Bouzková</div><div class=\"\">Umělci: Dora Bouzková</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/83a6a132931e424ee2729b568f4d45d4f8c415bd.jpg",
-    "price": "100",
+    "price": "0–100",
     "currency": "CZK",
     "sale_url": "https://goout.net/en/tickets/pribehy-male-lupitiny-gonzalez/bjie",
     "cancelled": "0",
@@ -63172,7 +63172,7 @@
     "price": "350–1400",
     "currency": "CZK",
     "sale_url": "https://goout.net/en/tickets/kurzy-kresleni-s-barou-zizkovou/anoe",
-    "cancelled": "0",
+    "cancelled": "1",
     "location_name": "Vnitroblock",
     "location_address": "Tusarova 791/31, Praha 7",
     "categories": [
@@ -67105,6 +67105,162 @@
     "categories": [
       {
         "subcategory_name": "Gastro"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5696",
+    "event_name": "PQ dětem: Workshop s Aeroškolou",
+    "event_date": "2019-06-09",
+    "event_time": "15:00:00",
+    "event_date_until": "2019-06-09",
+    "event_time_until": "15:00:00",
+    "location": "Výstaviště Praha Holešovice, Výstaviště, Praha 7",
+    "address": "",
+    "description": "Animation workshop: each participant will be able to shoot a short film together with tutors from Aeroškola – LEGO® bricks and pieces and their endless fantasy!\n\n*Weekend workshops are focused primarily on children, but also the general public.*\n*Availability is limited and booking required.*",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/7778d642a376e3e0211f81cdfaf318c48472e90a.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/pq-detem-workshop-s-aeroskolou/yype",
+    "cancelled": "0",
+    "location_name": "Výstaviště Praha Holešovice",
+    "location_address": "Výstaviště, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Děti a mládež"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5697",
+    "event_name": "PQ dětem: Workshop s Aeroškolou",
+    "event_date": "2019-06-09",
+    "event_time": "12:00:00",
+    "event_date_until": "2019-06-09",
+    "event_time_until": "12:00:00",
+    "location": "Výstaviště Praha Holešovice, Výstaviště, Praha 7",
+    "address": "",
+    "description": "Animation workshop: each participant will be able to shoot a short film together with tutors from Aeroškola – LEGO® bricks and pieces and their endless fantasy!\n\n*Weekend workshops are focused primarily on children, but also the general public.*\n*Availability is limited and booking required.*",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/47a9d241065e178b1bc10e8d02e39158a6457609.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/pq-detem-workshop-s-aeroskolou/xype",
+    "cancelled": "0",
+    "location_name": "Výstaviště Praha Holešovice",
+    "location_address": "Výstaviště, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Děti a mládež"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5698",
+    "event_name": "Stalin Nite Shift x Whiskas: Kaa Glo + Lorok + more",
+    "event_date": "2019-06-14",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-06-14",
+    "event_time_until": "20:00:00",
+    "location": "Containall – Stalin, Letenské sady, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/kaa-glo/kfbuf/\" target=\"_blank\">Kaa Glo</a><a href=\"https://goout.net/en/artists/lorok/dsnuf/\" target=\"_blank\">Lorok</a><a href=\"https://goout.net/en/artists/vlad/podqf/\" target=\"_blank\">Vlad</a><a href=\"https://goout.net/en/artists/pech/pbhdg/\" target=\"_blank\">Pech</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/5e385e7a5828e9fd628fe2be9b3700c8160e025e.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stalin",
+    "location_address": "Letenské sady, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5699",
+    "event_name": "PQ dětem: Workshop s Aeroškolou",
+    "event_date": "2019-06-15",
+    "event_time": "15:00:00",
+    "event_date_until": "2019-06-15",
+    "event_time_until": "15:00:00",
+    "location": "Výstaviště Praha Holešovice, Výstaviště, Praha 7",
+    "address": "",
+    "description": "Animation workshop: each participant will be able to shoot a short film together with tutors from Aeroškola – LEGO® bricks and pieces and their endless fantasy!\n\n*Weekend workshops are focused primarily on children, but also the general public.*\n*Availability is limited and booking required.*",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/e7ff3b431f23b4c3a5a5eb9e4ed68ab73eec311f.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/pq-detem-workshop-s-aeroskolou/aaqe",
+    "cancelled": "0",
+    "location_name": "Výstaviště Praha Holešovice",
+    "location_address": "Výstaviště, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Děti a mládež"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5700",
+    "event_name": "Stalin Nite Shift: Mejra",
+    "event_date": "2019-06-28",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-06-28",
+    "event_time_until": "20:00:00",
+    "location": "Containall – Stalin, Letenské sady, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/mejra/uncwf/\" target=\"_blank\">Mejra</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/a71a9e4642ed7ef39f99423f32958e0bea0b39d4.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stalin",
+    "location_address": "Letenské sady, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5701",
+    "event_name": "Stimming + Killiekrankie + more",
+    "event_date": "2019-08-02",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-08-02",
+    "event_time_until": "00:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/stimming/ajmvf/\" target=\"_blank\">Stimming</a><a href=\"https://goout.net/en/artists/killiekrankie/ukpsf/\" target=\"_blank\">Killiekrankie</a><a href=\"https://goout.net/en/artists/insect-elektrika/nhy/\" target=\"_blank\">Insect Elektrika</a><a href=\"https://goout.net/en/artists/midub/cgvag/\" target=\"_blank\">Midub</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/fd026d5d289eb05bd2daaa5b1a8bd6383805da24.jpg",
+    "price": "150–200",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/stimming+killiekrankie+more/ybqe",
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
       }
     ],
     "image": null,
