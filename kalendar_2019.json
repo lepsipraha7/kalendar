@@ -67291,5 +67291,109 @@
     ],
     "image": null,
     "goOutInfo": null
+  },
+  {
+    "id": "5703",
+    "event_name": "Právní poradna pro seniory a další potřebné z Prahy 7",
+    "event_date": "2019-07-24",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-07-24",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>Nevíte si rady s nějakou právní otázkou? Přijďte ji bezplatně prokonzultovat do právní poradny. Poradna je určena výhradně pro seniory z Prahy 7 a další potřebné na základě doporučení sociálního odboru. </p>\n<p>Konzultace probíhají od 15 do 18 hodin na radnici Prahy 7 v zasedací místnosti č. 225.</p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Akce MČ"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  },
+  {
+    "id": "5704",
+    "event_name": "Právní poradna pro seniory a další potřebné z Prahy 7",
+    "event_date": "2019-08-07",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-08-07",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>Nevíte si rady s nějakou právní otázkou? Přijďte ji bezplatně prokonzultovat do právní poradny. Poradna je určena výhradně pro seniory z Prahy 7 a další potřebné na základě doporučení sociálního odboru. </p>\n<p>Konzultace probíhají od 15 do 18 hodin na radnici Prahy 7 v zasedací místnosti č. 225.</p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Akce MČ"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  },
+  {
+    "id": "5705",
+    "event_name": "Právní poradna pro seniory a další potřebné z Prahy 7",
+    "event_date": "2019-08-21",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-08-21",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>Nevíte si rady s nějakou právní otázkou? Přijďte ji bezplatně prokonzultovat do právní poradny. Poradna je určena výhradně pro seniory z Prahy 7 a další potřebné na základě doporučení sociálního odboru. </p>\n<p>Konzultace probíhají od 15 do 18 hodin na radnici Prahy 7 v zasedací místnosti č. 225.</p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Akce MČ"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  },
+  {
+    "id": "5706",
+    "event_name": "Právní poradna pro seniory a další potřebné z Prahy 7",
+    "event_date": "2019-09-11",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-09-11",
+    "event_time_until": "00:00:00",
+    "location": "Úřad MČ Praha 7 (č. d. 225), Nábřeží Kapitána Jaroše 1000",
+    "address": "",
+    "description": "<p>Nevíte si rady s nějakou právní otázkou? Přijďte ji bezplatně prokonzultovat do právní poradny. Poradna je určena výhradně pro seniory z Prahy 7 a další potřebné na základě doporučení sociálního odboru. </p>\n<p>Konzultace probíhají od 15 do 18 hodin na radnici Prahy 7 v zasedací místnosti č. 225.</p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": "Úřad MČ Praha 7 (č. d. 225)",
+    "location_address": "Nábřeží Kapitána Jaroše 1000",
+    "categories": [
+      {
+        "subcategory_name": "Akce MČ"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
   }
 ]
