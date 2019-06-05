@@ -67265,5 +67265,31 @@
     ],
     "image": null,
     "goOutInfo": "0"
+  },
+  {
+    "id": "5702",
+    "event_name": "Právní poradna pro seniory a další potřebné z Prahy 7",
+    "event_date": "2019-07-10",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-07-10",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>Nevíte si rady s nějakou právní otázkou? Přijďte ji bezplatně prokonzultovat do právní poradny. Poradna je určena výhradně pro seniory z Prahy 7 a další potřebné na základě doporučení sociálního odboru. </p>\n<p>Konzultace probíhají od 15 do 18 hodin na radnici Prahy 7 v zasedací místnosti č. 225.</p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Akce MČ"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
   }
 ]
