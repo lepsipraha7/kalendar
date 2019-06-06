@@ -67658,5 +67658,31 @@
     ],
     "image": null,
     "goOutInfo": "0"
+  },
+  {
+    "id": "5717",
+    "event_name": "Pražské Quadriennale 2019",
+    "event_date": "2019-06-06",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-06-16",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>Pražské Quadriennale 2019 se po 12 letech vrátí do prostoru Výstaviště, aby na 11 dní oživilo nejen Průmyslový palác, ale i celý přilehlý areál. Čtrnáctý ročník největší mezinárodní přehlídky divadla a scénografie se odehraje od 6. do 16. června 2019. Jedna z nejvýznamnějších událostí české kultury, která již od roku 1967 mapuje nejnovější trendy scénografie a divadelní architektury, představí tři tematické okruhy: Imaginace, Proměny a Reflexe. Součástí PQ 2019 budou tři soutěžní výstavy: Výstava zemí a regionů, Studentská výstava a Výstava divadelní architektury a prostoru – Naše divadlo světa.</p>\n<p>Českou republiku bude na Výstavě zemí a regionů reprezentovat CAMP Q - koprodukční projekt tří divadel: Divadla LETÍ, Tygra v tísni a Jihočeského divadla. Studentskou expozici Pražského Quadriennale vyhrál kolektiv INTELEKTRURÁLNĚ, který tvoří studenti ateliéru scénografie brněnské JAMU.</p>\n<p>Okruh Imaginace bude zahrnovat Studentskou výstavu – Výstavu prací studentů, mladých scénografů a nových scénografických ateliérů, Site specific festival, program pro začínající divadelní tvůrce PQ Studio a program pro rodiny s dětmi.<br />\nOkruh Proměny bude zahrnovat Výstavu zemí a regionů, Výstavu divadelní architektury a prostoru – Naše divadlo světa, projekt Formace propojující architekturu, urbanismus, tanec a pohybové divadlo, projekt 36Q° věnovaný světelnému a zvukovému designu a sérii prezentací, přednášek a diskuzí PQ Talks.<br />\nOkruh Reflexe bude zahrnovat výstavu Fragmenty. Napříč všemi tematickými okruhy se prolíná projekt Emergence.</p>",
+    "image_id": "26990",
+    "image_src": null,
+    "price": "na stránkách pořadatele",
+    "currency": null,
+    "sale_url": "http://www.pq.cz/cs/hp-karusel/",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Festivaly"
+      }
+    ],
+    "image": "https://www.praha7.cz/wp-content/uploads/2019/06/pq-sitespec-2015-06-26-pq-studio-hrdinu-pietro-filipi-jh-10-web-600x338.jpg",
+    "goOutInfo": null
   }
 ]
