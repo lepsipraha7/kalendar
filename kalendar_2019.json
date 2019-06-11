@@ -57097,9 +57097,9 @@
     "id": "5311",
     "event_name": "39 stupňů",
     "event_date": "2019-06-14",
-    "event_time": "20:00:00",
+    "event_time": "20:30:00",
     "event_date_until": "2019-06-14",
-    "event_time_until": "20:00:00",
+    "event_time_until": "20:30:00",
     "location": "Divadlo Radar, Pplk. Sochora 9, Praha 7",
     "address": "",
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/ty-ja-tr/wqkpf/\" target=\"_blank\">Ty-já-tr</a></div><div class=\"\">Autor: John Buchan, Alfred Hitchcock</div><div class=\"\">Režisér: Barbora Vaněčková, Tomáš Horáček</div>",
@@ -68131,9 +68131,9 @@
     "id": "5735",
     "event_name": "Visions",
     "event_date": "2019-06-15",
-    "event_time": "20:00:00",
+    "event_time": "17:00:00",
     "event_date_until": "2019-06-15",
-    "event_time_until": "20:00:00",
+    "event_time_until": "17:00:00",
     "location": "DOX Centrum současného umění, Poupětova 1, Praha 7",
     "address": "",
     "description": "*International Performing Arts Meeting.*\n\nProfessionals from different countries representing festivals, artists, organisations, and different experimental and innovative projects and initiatives who are active in the field of contemporary performing arts will share their approach to contemporary performing arts curatorial strategies\nin 10-minute video-presentations followed by Q+A sessions.\n\nLanguage: English",
@@ -68564,6 +68564,477 @@
     "categories": [
       {
         "subcategory_name": "Festivaly"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5752",
+    "event_name": "Loves of a Blonde",
+    "event_date": "2019-06-11",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-06-11",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A factory manager in rural Czechoslovakia bargains with the army to send men to the area, to boost the morale of his young female workers, deprived of male company since the local boys have been conscripted. The army sends reservists, mostly married middle-aged men - and the local beauty Andula, spurns those bold enough to try to win her, for the jazz pianist, newly come from Prague to perform. He seduces her and impresses her, telling her \"most women are round, like guitars but you are a guitar by Picasso\". Staying the night with him causes a lecture on a young woman's honour at her hostel so she throws over her other suitors and makes her way to Prague to find the young man. His protective Mamma and weary Pappa are not pleased when she arrives on the doorstep with her suitcase.<div class=\"\">Režisér: Miloš Forman</div><div class=\"\">Umělci: Hana Brejchová, Vladimír Pucholt, Vladimír Menšík, Ivan Kheil, Jiří Hrubý, Milada Ježková, Josef Šebánek, Marie Salačová, Jana Nováková</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/433a59e9505240a8e016ce34a1be27807362fb16.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5753",
+    "event_name": "Soul Kitchen",
+    "event_date": "2019-06-11",
+    "event_time": "21:30:00",
+    "event_date_until": "2019-06-11",
+    "event_time_until": "21:30:00",
+    "location": "Containall – Stromovka, Stromovka, Praha 7",
+    "address": "",
+    "description": "In Hamburg, German-Greek chef Zinos unknowingly disturbs the peace in his locals-only restaurant by hiring a more talented chef.\n<div class=\"\">Režisér: Fatih Akin</div><div class=\"\">Umělci: Adam Bousdoukos, Moritz Bleibtreu, Pheline Roggan, Anna Bederke, Birol Ünel, Wotan Wilke Möhring, Dorka Gryllus, Lucas Gregorowicz, Catrin Striebeck, Cem Akin, Marc Hosemann, Peter Lohmeyer, Maverick Queck, Simon Goerts, Lars Rudolph, Monica Bleibtreu, Udo Kier, Jan Fedder, Demir Gökgöl</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/1071f866bd67116ceb3aec9bde25d884d5f7da0e.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stromovka",
+    "location_address": "Stromovka, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5754",
+    "event_name": "Mirai",
+    "event_date": "2019-06-11",
+    "event_time": "13:00:00",
+    "event_date_until": "2019-06-11",
+    "event_time_until": "13:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A young boy encounters a magical garden which enables him to travel through time and meet his relatives from different eras, with guidance by his younger sister from the future.<div class=\"\">Režisér: Mamoru Hosoda </div><div class=\"\">Umělci: Haru Kuroki, Moka Kamiširaiši, Gen Hošino, Kódži Jakušo, Kumiko Asó, Jošiko Mijazaki</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/69a3d5356e7b9a06e3c9acfe67884369f185f005.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5755",
+    "event_name": "The Favourite",
+    "event_date": "2019-06-12",
+    "event_time": "21:15:00",
+    "event_date_until": "2019-06-12",
+    "event_time_until": "21:15:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "In early 18th century England, a frail Queen Anne (Colman) occupies the throne and her close friend Lady Sarah (Weisz) governs the country in her stead. When a new servant Abigail (Stone) arrives, her charm endears her to Sarah.\n<div class=\"\">Režisér: Yorgos Lanthimos</div><div class=\"\">Umělci: Olivia Colman, Rachel Weisz, Emma Stone, Nicholas Hoult, Joe Alwyn, Mark Gatiss, Wilson Radjou-Pujalte, Basil Eidenbenz, Alfrun Rose, Isaura Barbé-Brown</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/5527130a8fb42a975331129aa0510587987d96bb.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5756",
+    "event_name": "CAMP Q: Komentovaná prohlídka ",
+    "event_date": "2019-06-12",
+    "event_time": "21:00:00",
+    "event_date_until": "2019-06-12",
+    "event_time_until": "21:00:00",
+    "location": "VILA Štvanice, Dům č. p. 858 – Ostrov Štvanice, Praha",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/09744ebdad065674bec8f62a9d00e96f6768e85d.jpg",
+    "price": "50",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/camp-q-komentovana-prohlidka/inqe",
+    "cancelled": "0",
+    "location_name": "VILA Štvanice",
+    "location_address": "Dům č. p. 858 – Ostrov Štvanice, Praha",
+    "categories": [
+      {
+        "subcategory_name": "Výstavy"
+      },
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5757",
+    "event_name": "Blind Date with Oko",
+    "event_date": "2019-06-12",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-06-12",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A blind date with Oko. Till the very last minute you have no clue what film we are going to screen tonight. On the other hand, we you are not asked to buy any tickets – you simply pay after the screening. Please, pick up your free ticket at Bio Oko cash desk only.\n\n",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/a88f695f590b4d61858a62fff8162a297ac6a9c0.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5758",
+    "event_name": "Genesis",
+    "event_date": "2019-06-13",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-06-13",
+    "event_time_until": "20:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Three teenagers are shaken up by their first loves in the turmoil of their youth. At a time when others are conforming, they stand their ground and assert their right to love and be free.\n<div class=\"\">Režisér: Philippe Lesage</div><div class=\"\">Umělci: Noée Abita, Paul Ahmarani, Brett Dier, Pier-Luc Funk, Mylène MacKay, Théodore Pellerin, Emilie Bierre</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/3a108e6a3ad37f3d78ef671687fc0baeffbdebed.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5759",
+    "event_name": "Invisibles",
+    "event_date": "2019-06-14",
+    "event_time": "20:45:00",
+    "event_date_until": "2019-06-14",
+    "event_time_until": "20:45:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "After a municipal decision, a shelter for homeless women, ‘l’Envol’, is about to close. With only three months to re- integrate the women they care for, the social workers do everything they can: pulling-strings, bending the truth, and even outright lies… From now on, everything goes.<div class=\"\">Režisér: Louis-Julien Petit</div><div class=\"\">Umělci: Fatsah Bouyahmed, Audrey Lamy, Déborah Lukumuena, Noémie Lvovsky, Corinne Masiero, Pablo Pauly, Sarah Suco, Natalie Beder</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/044e1dd7b29409f0f555b6f3d73509905a9cf09c.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5760",
+    "event_name": "Pokémon: Detective Pikachu",
+    "event_date": "2019-06-15",
+    "event_time": "10:00:00",
+    "event_date_until": "2019-06-15",
+    "event_time_until": "10:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "In a world where people collect Pokémon to do battle, a boy comes across an intelligent talking Pikachu who seeks to be a detective.\n<div class=\"\">Režisér: Rob Letterman</div><div class=\"\">Umělci: Ryan Reynolds, Justice Smith, Kathryn Newton, Rita Ora, Bill Nighy, Chris Geere, Ken Watanabe</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/f8b511cfe494dac1079d0f111d65a8282fb2152a.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5761",
+    "event_name": "Invisibles",
+    "event_date": "2019-06-15",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-06-15",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "After a municipal decision, a shelter for homeless women, ‘l’Envol’, is about to close. With only three months to re- integrate the women they care for, the social workers do everything they can: pulling-strings, bending the truth, and even outright lies… From now on, everything goes.<div class=\"\">Režisér: Louis-Julien Petit</div><div class=\"\">Umělci: Fatsah Bouyahmed, Audrey Lamy, Déborah Lukumuena, Noémie Lvovsky, Corinne Masiero, Pablo Pauly, Sarah Suco, Natalie Beder</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/6b1da8b5c5dbcac9044f0b7a14451cdd7ca3978e.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5762",
+    "event_name": "Spitfire",
+    "event_date": "2019-06-16",
+    "event_time": "11:45:00",
+    "event_date_until": "2019-06-16",
+    "event_time_until": "11:45:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "They say she was beautiful. A dream. But for all her good looks, she was also a killer. _Spitfire_ is an epic, sweeping tale of determination, vision and courage. It is the story of an aeroplane that was forged in competition, shaped as the war clouds gathered, and refined in the white heat of combat – going on to become the most famous fighter plane ever made. Credited with changing the course of world history, this is the story of the Spitfire – told in the words of the last-surviving combat veterans. With stunning aerial footage from the world’s top aviation photographer, the film also contains rare, digitally re-mastered, archive footage from the tumultuous days of the 1940’s when her power in the skies was unrivalled.\n<div class=\"\">Režisér: David Fairhead,Ant Palmer</div><div class=\"\">Umělci: Charles Dance ( vyp.)</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/6b0d4d037bf4a2f060e5bc8757433836379ba460.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5763",
+    "event_name": "Missing Link",
+    "event_date": "2019-06-16",
+    "event_time": "14:00:00",
+    "event_date_until": "2019-06-16",
+    "event_time_until": "14:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Mr. Link recruits explorer Sir Lionel Frost to help find his long-lost relatives in the fabled valley of Shangri-La. Along with adventurer Adelina Fortnight, this trio of explorers travel the world to help their new friend.<div class=\"\">Režisér: Chris Butler</div><div class=\"\">Umělci: Zoe Saldana, Hugh Jackman, Timothy Olyphant, Emma Thompson, Zach Galifianakis, Amrita Acharia, Stephen Fry, Matt Lucas, David Walliams</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/584db6ab88bcd04be271175ce0e8a389d932ecce.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5764",
+    "event_name": "Extremely Wicked, Shockingly Evil and Vile",
+    "event_date": "2019-06-17",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-06-17",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A chronicle of the crimes of Ted Bundy, from the perspective of his longtime girlfriend, Elizabeth Kloepfer, who refused to believe the truth about him for years.\n<div class=\"\">Režisér: Joe Berlinger</div><div class=\"\">Umělci: Zac Efron, Lily Collins, Kaya Scodelario, Haley Joel Osment, Angela Sarafyan, John Malkovich, Jeffrey Donovan, Jim Parsons, Brian Geraghty, Dylan Baker, Terry Kinney, Grace Victoria Cox, James Hetfield, Kevin McClatchy, Anita Farmer Bergman, Bryan Kruse, Morgan Pyle, Macie Carmosino</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/934326eace4100bdfbd99cec7b0e76c7daf42784.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5765",
+    "event_name": "Dimenze závislosti",
+    "event_date": "2019-06-17",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-06-17",
+    "event_time_until": "19:00:00",
+    "location": "Centrála, Jateční 39, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/3d3f6d84fd2a20133777625b95f930dbec47c19f.jpg",
+    "price": "122",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/dimenze-zavislosti/mnqe",
+    "cancelled": "0",
+    "location_name": "Centrála",
+    "location_address": "Jateční 39, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5766",
+    "event_name": "Pardon",
+    "event_date": "2019-06-17",
+    "event_time": "13:00:00",
+    "event_date_until": "2019-06-17",
+    "event_time_until": "13:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Set in the realities of post-war Poland, the film tells the story of mourning parents setting off on their last journey with their son, as seen from the point of view of their grandson Jan. The son of Hanna and Jacob, a Home Army soldier Waclaw \"Odrowaz\" Szewczyk, is shot by the secret police in the autumn of 1946. After suffering a series of humiliations by the new authorities, who continuously desecrate their child's corpse, Hanna and Jacob decide to provide their son with a proper burial in the Paclawska Calvary, 500 km away. Their venture through Poland - a country still haunted by the post-war nightmare, becomes a metaphorical journey into the depths of the human soul and an attempt to reorder the world in which neighbors turn against each other, and where one's current enemy may become an unexpected ally.<div class=\"\">Režisér: Jan Jakub Kolski </div><div class=\"\">Umělci: Grażyna Błęcka-Kolska, Jan Jankowski, Michał Kaleta, Krzysztof Globisz, Michał Malinowski, Michał Kowalski, Dobromir Dymecki, Wojciech Mecwaldowski</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/6a8aeb93cebc45702fca464989a4ef6581c5728d.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5767",
+    "event_name": "Invisibles",
+    "event_date": "2019-06-18",
+    "event_time": "10:00:00",
+    "event_date_until": "2019-06-18",
+    "event_time_until": "10:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "After a municipal decision, a shelter for homeless women, ‘l’Envol’, is about to close. With only three months to re- integrate the women they care for, the social workers do everything they can: pulling-strings, bending the truth, and even outright lies… From now on, everything goes.<div class=\"\">Režisér: Louis-Julien Petit</div><div class=\"\">Umělci: Fatsah Bouyahmed, Audrey Lamy, Déborah Lukumuena, Noémie Lvovsky, Corinne Masiero, Pablo Pauly, Sarah Suco, Natalie Beder</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/bb96433d51d5a0d5aa759a928769c4eeb9c08f85.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5768",
+    "event_name": "Invisibles",
+    "event_date": "2019-06-19",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-06-19",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "After a municipal decision, a shelter for homeless women, ‘l’Envol’, is about to close. With only three months to re- integrate the women they care for, the social workers do everything they can: pulling-strings, bending the truth, and even outright lies… From now on, everything goes.<div class=\"\">Režisér: Louis-Julien Petit</div><div class=\"\">Umělci: Fatsah Bouyahmed, Audrey Lamy, Déborah Lukumuena, Noémie Lvovsky, Corinne Masiero, Pablo Pauly, Sarah Suco, Natalie Beder</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/ff91aefaa26127acf2e91a5abbd29061c9dcf49a.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5769",
+    "event_name": "Invisibles",
+    "event_date": "2019-06-24",
+    "event_time": "13:00:00",
+    "event_date_until": "2019-06-24",
+    "event_time_until": "13:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "After a municipal decision, a shelter for homeless women, ‘l’Envol’, is about to close. With only three months to re- integrate the women they care for, the social workers do everything they can: pulling-strings, bending the truth, and even outright lies… From now on, everything goes.<div class=\"\">Režisér: Louis-Julien Petit</div><div class=\"\">Umělci: Fatsah Bouyahmed, Audrey Lamy, Déborah Lukumuena, Noémie Lvovsky, Corinne Masiero, Pablo Pauly, Sarah Suco, Natalie Beder</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/1eee2a50f9a32e96b231b17f9146ecffcf41ed80.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
       }
     ],
     "image": null,
