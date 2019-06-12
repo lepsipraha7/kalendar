@@ -6767,32 +6767,6 @@
     "goOutInfo": null
   },
   {
-    "id": "3360",
-    "event_name": "Zasedání Sportovní komise",
-    "event_date": "2019-06-12",
-    "event_time": "16:00:00",
-    "event_date_until": "2019-06-12",
-    "event_time_until": "17:00:00",
-    "location": "budova Úřadu městské části Praha 7, nábř. Kpt. Jaroše 1000",
-    "address": "",
-    "description": "<p>Zasedání se uskuteční v kanceláři č. d. 221, 2. patro, ÚMČ Praha 7 od 16 hodin.  </p>",
-    "image_id": null,
-    "image_src": null,
-    "price": "0",
-    "currency": null,
-    "sale_url": "",
-    "cancelled": "0",
-    "location_name": "budova Úřadu městské části Praha 7",
-    "location_address": "nábř. Kpt. Jaroše 1000",
-    "categories": [
-      {
-        "subcategory_name": "Zasedání orgánů MČ"
-      }
-    ],
-    "image": null,
-    "goOutInfo": null
-  },
-  {
     "id": "3361",
     "event_name": "Zasedání Sportovní komise",
     "event_date": "2019-07-10",
