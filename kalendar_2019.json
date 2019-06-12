@@ -66317,14 +66317,14 @@
   },
   {
     "id": "5666",
-    "event_name": "Justin Lavash + House Flawor",
+    "event_name": "Justin Lavash + Dan Cooley & Pavel Bidlo",
     "event_date": "2019-06-12",
     "event_time": "20:00:00",
     "event_date_until": "2019-06-12",
     "event_time_until": "20:00:00",
     "location": "Cross Club, Plynární 23, Praha 7",
     "address": "",
-    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/justin-lavash/bfh/\" target=\"_blank\">Justin Lavash</a><a href=\"https://goout.net/en/artists/house-flawor/vifdg/\" target=\"_blank\">House Flawor</a></div>",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/justin-lavash/bfh/\" target=\"_blank\">Justin Lavash</a><a href=\"https://goout.net/en/artists/dan-cooley/rif/\" target=\"_blank\">Dan Cooley</a><a href=\"https://goout.net/en/artists/pavel-bidlo/etpdb/\" target=\"_blank\">Pavel Bidlo</a></div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/3770e49139495c33e81b8cab53d3f8fee0530fdf.jpg",
     "price": "",
@@ -69026,6 +69026,292 @@
     "description": "After a municipal decision, a shelter for homeless women, ‘l’Envol’, is about to close. With only three months to re- integrate the women they care for, the social workers do everything they can: pulling-strings, bending the truth, and even outright lies… From now on, everything goes.<div class=\"\">Režisér: Louis-Julien Petit</div><div class=\"\">Umělci: Fatsah Bouyahmed, Audrey Lamy, Déborah Lukumuena, Noémie Lvovsky, Corinne Masiero, Pablo Pauly, Sarah Suco, Natalie Beder</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/1eee2a50f9a32e96b231b17f9146ecffcf41ed80.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5770",
+    "event_name": "DBTR: Peeni Walli + Soundproof",
+    "event_date": "2019-06-13",
+    "event_time": "17:00:00",
+    "event_date_until": "2019-06-13",
+    "event_time_until": "17:00:00",
+    "location": "Containall – Stromovka, Stromovka, Praha 7",
+    "address": "",
+    "description": "Another party from series Down By The Railroad taking place at Stomovka Park. As usual residents from Peeni Walli Sound will play there wide selection of Reggae and Dancehall as well as their guest Dj Czenda from Prague crew Soundproof.<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/peeni-walli/gmt/\" target=\"_blank\">Peeni Walli</a><a href=\"https://goout.net/en/artists/soundproof/pdfuf/\" target=\"_blank\">Soundproof</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/494365fbeb25cbd84764d76e8d1d4b24c0feca46.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stromovka",
+    "location_address": "Stromovka, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5771",
+    "event_name": "Digital Sunday: Ondrej Psyla + Mini S + more",
+    "event_date": "2019-06-16",
+    "event_time": "21:00:00",
+    "event_date_until": "2019-06-16",
+    "event_time_until": "21:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/ondrej-psyla/ivw/\" target=\"_blank\">Ondrej Psyla</a><a href=\"https://goout.net/en/artists/mini-s/xlpxf/\" target=\"_blank\">Mini S</a><a href=\"https://goout.net/en/artists/true-detectives/nsdvf/\" target=\"_blank\">True Detectives</a><a href=\"https://goout.net/en/artists/tod/gqusf/\" target=\"_blank\">TOD</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/2289a872f6be70540d414508d6eda0b6702e6669.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5772",
+    "event_name": "Klasika bez kvádra: PFO Kvartet",
+    "event_date": "2019-06-16",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-06-16",
+    "event_time_until": "19:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/prague-film-orchestra-quartet/iydtf/\" target=\"_blank\">Prague Film Orchestra Quartet</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/9d1138e035dc20c2553a08fefe641d9a833d6aff.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5773",
+    "event_name": "Stalin Siesta : Dj Ultrafino ",
+    "event_date": "2019-06-16",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-06-16",
+    "event_time_until": "18:00:00",
+    "location": "Containall – Stalin, Letenské sady, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/mr-ultrafino/suat/\" target=\"_blank\">Mr. Ultrafino</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/4aeb924c0c762136b3253c6eb610666389779ebf.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stalin",
+    "location_address": "Letenské sady, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5774",
+    "event_name": "Marley Wildthing ",
+    "event_date": "2019-06-20",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-06-20",
+    "event_time_until": "19:30:00",
+    "location": "Containall – Stromovka, Stromovka, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/marley-wildthing/nipuf/\" target=\"_blank\">Marley Wildthing</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/7f39d6fe83fccf9779afe1c54261dfb8fd9df71f.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stromovka",
+    "location_address": "Stromovka, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5775",
+    "event_name": "Stalin Sunset Trip x Blazing Bullets: Martyyna + Bílej kluk + more",
+    "event_date": "2019-06-21",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-06-21",
+    "event_time_until": "20:00:00",
+    "location": "Containall – Stalin, Letenské sady, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/blazing-bullets/yymvf/\" target=\"_blank\">Blazing Bullets</a><a href=\"https://goout.net/en/artists/martyyna/rxduf/\" target=\"_blank\">Martyyna</a><a href=\"https://goout.net/en/artists/bilej-kluk/bvavf/\" target=\"_blank\">Bilej kluk</a><a href=\"https://goout.net/en/artists/dzurillah/pcbtf/\" target=\"_blank\">Dzurillah</a><a href=\"https://goout.net/en/artists/irako-seigen/dyquf/\" target=\"_blank\">Irako Seigen</a><a href=\"https://goout.net/en/artists/dirrtina/eikdg/\" target=\"_blank\">Dirrtina</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/e652d35ec62378071eceaa72a771de395f4dc720.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stalin",
+    "location_address": "Letenské sady, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5776",
+    "event_name": "Evening Vibes: 4Become1",
+    "event_date": "2019-06-21",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-06-21",
+    "event_time_until": "19:00:00",
+    "location": "Containall – Stromovka, Stromovka, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/4become1/doxtf/\" target=\"_blank\">4BeCome1</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/73cabf06a176a65b5f360d3f4adbb20e4c8487b8.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stromovka",
+    "location_address": "Stromovka, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5777",
+    "event_name": "Loro",
+    "event_date": "2019-06-23",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-06-23",
+    "event_time_until": "19:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A film about the life of Silvio Berlusconi.<div class=\"\">Režisér: Paolo Sorrentino</div><div class=\"\">Umělci: Toni Servillo, Kasia Smutniak, Riccardo Scamarcio, Chiara Iezzi, Elena Sofia Ricci, Ricky Memphis</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/8e5d5099146376f8837bcfb1a2bb1958ad3f1b3b.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5778",
+    "event_name": "Evening Vibes: Skanska Sound",
+    "event_date": "2019-06-28",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-06-28",
+    "event_time_until": "19:00:00",
+    "location": "Containall – Stromovka, Stromovka, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/skanska-sound-system/pikdg/\" target=\"_blank\">Skanska sound system</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/f5bce1f84aed04a70d1a21a9d5e265606cc5eb33.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stromovka",
+    "location_address": "Stromovka, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5779",
+    "event_name": "The Cure: Anniversary 1978–2018 Live in Hyde Park",
+    "event_date": "2019-07-11",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-07-11",
+    "event_time_until": "20:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "The Cure, acknowledged as one of the world’s greatest live bands, take the stage on a perfect July evening in London’s Hyde Park 2018 to deliver a set of songs celebrating four decades of music making. The ensuing film “Anniversary 1978-2018”, directed by long-time collaborator Tim Pope, captures them in glorious 4K. The 5.1 audio mix by Robert Smith and Paul Corkett complements and completes this fabulously immersive cinematic experience. From _Lovesong_ to _Lullaby_, from _Boys Don’t Cry_ to _Burn_, from _Fascination Street_ to _Friday I’m in Love_, Robert Smith and his extraordinary band – Simon Gallup, Jason Cooper, Roger O’Donnell and Reeves Gabrels – take us on a magical trip through time.<div class=\"\">Režisér: Tim Pope</div><div class=\"\">Umělci: Jason Cooper, Robert Smith</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/4e946ce66b46c50ad18a5a1c2a9b6fa962e96139.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5780",
+    "event_name": "The Cure: Anniversary 1978–2018 Live in Hyde Park",
+    "event_date": "2019-07-14",
+    "event_time": "15:30:00",
+    "event_date_until": "2019-07-14",
+    "event_time_until": "15:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "The Cure, acknowledged as one of the world’s greatest live bands, take the stage on a perfect July evening in London’s Hyde Park 2018 to deliver a set of songs celebrating four decades of music making. The ensuing film “Anniversary 1978-2018”, directed by long-time collaborator Tim Pope, captures them in glorious 4K. The 5.1 audio mix by Robert Smith and Paul Corkett complements and completes this fabulously immersive cinematic experience. From _Lovesong_ to _Lullaby_, from _Boys Don’t Cry_ to _Burn_, from _Fascination Street_ to _Friday I’m in Love_, Robert Smith and his extraordinary band – Simon Gallup, Jason Cooper, Roger O’Donnell and Reeves Gabrels – take us on a magical trip through time.<div class=\"\">Režisér: Tim Pope</div><div class=\"\">Umělci: Jason Cooper, Robert Smith</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/e72430c21ddbffcd62a3f8325e3c12cd7ac5865f.jpg",
     "price": "",
     "currency": "CZK",
     "sale_url": null,
