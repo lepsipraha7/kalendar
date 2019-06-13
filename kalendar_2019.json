@@ -69505,5 +69505,37 @@
     ],
     "image": null,
     "goOutInfo": "0"
+  },
+  {
+    "id": "5789",
+    "event_name": "Symposium a výstava U-mění",
+    "event_date": "2019-06-20",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-06-22",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>Symposium reflektuje přínos výtvarného umění a vzdělávání pro umělecké, ale především neumělecké obory a jeho společenský přínos. Projekt završí souborná výstava Učebny. V publiku jsou vítáni nejen odborníci na výtvarné umění, ale i pedagogové dalších oborů, rodiče školou povinných dětí a všichni, kteří by rádi slyšeli odpověď na otázku, proč může mít z umění benefit každý.</p>\n<p>Během jednotlivých dnů symposia se představí specialisté na vzdělávání, galerijní pedagogové (např. NGP, DOX), organizace zabývající se vzděláváním (např. Eduin), umělci nebo pedagogové působící ve státním i alternativním školství. Do <a href=\"https://www.artedu.cz/files/u-meni-program.pdf\">programu</a> jsou zařazeny interaktivní workshopy, díky kterým budou moci návštěvníci poznat specifické přístupy k uměleckému vzdělávání jednotlivých odborníků.</p>\n<p>První večer završí vernisáž souborné výstavy čtyřletého projektu Učebny. Na ní budou mimojiné k vidění díla vzniklá v dialogu českých výtvarníků – <strong>Jiřího Davida, Michaela Rittsteina, Veroniky Bromové, Patrika Hábla, Kurta Gebauera, Barbory Klímové, Petra Nikla a Vladimíra Kokolii</strong> – se studenty českých gymnázií. Výstava, sic element projektu „Proč to mám platit“, ovšem i jako autonomní složka, se vypořádává s pozicí, že „umění nemusí být jenom umění“: kreativní, improvizační procesy lze transformovat do jakékoliv složky vzdělávání a života. Výstava projektu Učeben, výsledek společné práce umělců a studentů gymnázií, zde jako představený ostrůvek, který se neutopil v moři klišé voskovek, podzimních obtisknutých listí, neboť přemýšlet kreativně a jednat přitom kolektivně do klišé většinou a priori nesklouzne. Kurátorkou výstavy je Kristýna Kopřivová. Více na <a href=\"https://www.artedu.cz/ucebny\">www.artedu.cz/ucebny</a>.</p>\n<p>Celý projekt organizuje spolek Artedu, který se snaží umožnit lidem zažít umění na vlastní kůži. „<em>Umění umožňuje interdisciplinární vzdělání, které doplňuje sociální a vizuální gramotnost každého jedince. Někoho osloví od dětství a jiného až v dospělosti, ale umožňuje získat a prohloubit vztah k naší kultuře, zemi či planetě. Proto je důležité vytvářet a podporovat umění, platit za něj a organizovat symposia jako je toto,</em>“ říká <strong>spoluorganizátorka Zuzana Dobrovolná</strong> a iniciátorka Učeben Sida Tosew z Artedu.</p>\n<p>Vstup na symposium je zdarma, návštěvníkům, kteří si své místo chtějí rezervovat nabízíme akreditaci v ceně 80,- Kč, která je opravňuje také k účasti na networkingové snídani, konané ve čtvrtek a pátek předcházet hlavnímu programu.</p>\n<p><br />\n<span style=\"font-size: 14px;\"><em>Sympozium se koná za podpory Hlavního města Prahy a Národní galerie Praha pod záštitou MČ Praha 7.</em></span></p>\n<p><a href=\"https://www.artedu.cz/files/u-meni-plakat-a3-fin.pdf\"><img src=\"https://www.praha7.cz/wp-content/uploads/2019/06/Screenshot_2-1-318x400.png\" alt=\"\" width=\"318\" height=\"400\" class=\"alignnone size-medium wp-image-27216\" /></a></p>",
+    "image_id": "27214",
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Festivaly"
+      },
+      {
+        "subcategory_name": "Výstavy"
+      },
+      {
+        "subcategory_name": "Vzdělávání"
+      }
+    ],
+    "image": "https://www.praha7.cz/wp-content/uploads/2019/06/Screenshot_1-1-600x350.png",
+    "goOutInfo": null
   }
 ]
