@@ -26959,7 +26959,7 @@
     "description": "Prago Union and Rest will meet at Cross Square on 28 June 2019. Support will be Douny. Afterparty will take place directly in the club.<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/prago-union/hae/\" target=\"_blank\">Prago Union</a><a href=\"https://goout.net/en/artists/rest/qanpf/\" target=\"_blank\">Rest</a><a href=\"https://goout.net/en/artists/everything-goes-booking/wsmuf/\" target=\"_blank\">Everything Goes booking</a><a href=\"https://goout.net/en/artists/douny/pfrsf/\" target=\"_blank\">Douny</a></div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/616de08cef16df8c74d19b73ae759502adc949bd.jpg",
-    "price": "150–200",
+    "price": "150–250",
     "currency": "CZK",
     "sale_url": "https://goout.net/en/tickets/prago-union+rest+support-douny/bnce",
     "cancelled": "0",
@@ -38195,7 +38195,7 @@
     "address": "",
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/donny-benet/jelwf/\" target=\"_blank\">Donny Benét</a><a href=\"https://goout.net/en/artists/bert-friends/bsstf/\" target=\"_blank\">Bert & Friends</a><a href=\"https://goout.net/en/artists/disco-partysons/exnyf/\" target=\"_blank\">Disco Partysóns</a></div>",
     "image_id": null,
-    "image_src": "wp-content/uploads/goout/aaf5ca43c75f11761a42a49752fd26f92570c157.jpg",
+    "image_src": "wp-content/uploads/goout/0e3286e15cf03f6f8f58ba20dc5f970573bca2ef.jpg",
     "price": "200–250",
     "currency": "CZK",
     "sale_url": "https://goout.net/en/tickets/donny-benet-and-band+bert-and-friends/cbfe",
@@ -69864,7 +69864,7 @@
     "image_src": "wp-content/uploads/goout/335b9a2ebc4c0160611310483b366f225d8b9eed.jpg",
     "price": "500",
     "currency": "CZK",
-    "sale_url": null,
+    "sale_url": "https://goout.net/en/tickets/workshop-with-takashi-ueno/kcre",
     "cancelled": "0",
     "location_name": "Studio Alta",
     "location_address": "U Výstaviště 21, Praha 7",
@@ -69890,7 +69890,7 @@
     "image_src": "wp-content/uploads/goout/64291f25503c66f43a6b40c1298efc429854937b.jpg",
     "price": "1000",
     "currency": "CZK",
-    "sale_url": null,
+    "sale_url": "https://goout.net/en/tickets/workshop-with-xavier-bobes/mcre",
     "cancelled": "0",
     "location_name": "Studio Alta",
     "location_address": "U Výstaviště 21, Praha 7",
@@ -69923,6 +69923,630 @@
     "categories": [
       {
         "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5805",
+    "event_name": "Arthur & Claire",
+    "event_date": "2019-06-17",
+    "event_time": "21:30:00",
+    "event_date_until": "2019-06-17",
+    "event_time_until": "21:30:00",
+    "location": "Containall – Stromovka, Stromovka, Praha 7",
+    "address": "",
+    "description": "Arthur travels to Amsterdam for the last journey in his life, but there he meets Claire and together, they start a trip through the night.\n<div class=\"\">Režisér: Miguel Alexandre</div><div class=\"\">Umělci: Josef Hader, Hannah Hoekstra, Rainer Bock, Florence Kasumba, Errol Trotman-Harewood, Stella McCusker, Pepijn Schoneveld, Guy Clemens, Daron Yates, Ruben Brinkman</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/184d9ba8346d8dd04a7b44b8e1278d65944d134a.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stromovka",
+    "location_address": "Stromovka, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5806",
+    "event_name": "Darkest Hour",
+    "event_date": "2019-06-19",
+    "event_time": "21:30:00",
+    "event_date_until": "2019-06-19",
+    "event_time_until": "21:30:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "During the early days of World War II, the fate of Western Europe hangs on the newly-appointed British Prime Minister Winston Churchill, who must decide whether to negotiate with Hitler, or fight on against incredible odds.<div class=\"\">Režisér: Joe Wright</div><div class=\"\">Umělci: Gary Oldman, Lily James, Ben Mendelsohn, Kristin Scott Thomas, John Hurt, Jordan Waller, Stephen Dillane, Philip Martin Brown, Samuel West, Ronald Pickup, Charley Palmer Rothwell, Hannah Steele, Nicholas Jones, Richard Lumsden, Brian Pettifer, Jeremy Child</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/2ac14181743ea0ca83fa5ea54a77764b6eac9ebf.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5807",
+    "event_name": "Genesis",
+    "event_date": "2019-06-20",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-06-20",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Three teenagers are shaken up by their first loves in the turmoil of their youth. At a time when others are conforming, they stand their ground and assert their right to love and be free.\n<div class=\"\">Režisér: Philippe Lesage</div><div class=\"\">Umělci: Noée Abita, Paul Ahmarani, Brett Dier, Pier-Luc Funk, Mylène MacKay, Théodore Pellerin, Emilie Bierre</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/290b46fa5d0d3915159d1c66075e3a5609f61bb9.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5808",
+    "event_name": "Manou the Swift",
+    "event_date": "2019-06-20",
+    "event_time": "14:30:00",
+    "event_date_until": "2019-06-20",
+    "event_time_until": "14:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "The little swift Manou grows up believing he's a seagull. Learning to fly he finds out he never will be. Shocked, he runs away from home. He meets birds of his own species and finds out who he really is. When both seagulls and swifts face a dangerous threat, Manou becomes the hero of the day.\n\n<div class=\"\">Režisér: Christian Haas,Andrea Block</div><div class=\"\">Umělci: Willem Dafoe, Kate Winslet, Rob Paulsen, David Shaughnessy, Arif S. Kinchen, Cassandra Steen</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/6d479034c78d1f0836b9e7e8a53c2b6ead941b01.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5809",
+    "event_name": "Rocketman",
+    "event_date": "2019-06-20",
+    "event_time": "20:45:00",
+    "event_date_until": "2019-06-20",
+    "event_time_until": "20:45:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A musical fantasy about the fantastical human story of Elton John's breakthrough years.\n<div class=\"\">Režisér: Dexter Fletcher</div><div class=\"\">Umělci: Taron Egerton, Richard Madden, Bryce Dallas Howard, Jamie Bell, Steven Mackintosh, Gemma Jones, Kamil Lemieszewski, Luke White</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/b01bcf369bba2bd495326a27be4901abfe18ee00.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5810",
+    "event_name": "Invisibles",
+    "event_date": "2019-06-21",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-06-21",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "After a municipal decision, a shelter for homeless women, ‘l’Envol’, is about to close. With only three months to re- integrate the women they care for, the social workers do everything they can: pulling-strings, bending the truth, and even outright lies… From now on, everything goes.<div class=\"\">Režisér: Louis-Julien Petit</div><div class=\"\">Umělci: Fatsah Bouyahmed, Audrey Lamy, Déborah Lukumuena, Noémie Lvovsky, Corinne Masiero, Pablo Pauly, Sarah Suco, Natalie Beder</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/d3be735de2075e6a63cab949de0910a8ec847a36.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5811",
+    "event_name": "Three Identical Strangers",
+    "event_date": "2019-06-22",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-06-22",
+    "event_time_until": "20:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "In 1980 New York, three young men who were all adopted meet each other and find out they're triplets who were separated at birth. But their quest to find out why turns into a bizarre and sinister mystery.\n<div class=\"\">Režisér: Tim Wardle</div><div class=\"\">Umělci: Robert Shafran, David Kellman, Eddy Galland ( a.z.), Rachel VanDuzer</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/5e3e368df9470db8156360731a6e41fa9ce9d35a.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5812",
+    "event_name": "Free Solo",
+    "event_date": "2019-06-22",
+    "event_time": "18:15:00",
+    "event_date_until": "2019-06-22",
+    "event_time_until": "18:15:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Follow Alex Honnold as he becomes the first person to ever free solo climb Yosemite's 3,000 ft high El Capitan wall. With no ropes or safety gear, he completed arguably the greatest feat in rock climbing history.\n<div class=\"\">Režisér: Jimmy Chin, Elizabeth Chai Vasarhelyi</div><div class=\"\">Umělci: Alex Honnold, Jimmy Chin</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/b15fcccb4ce196c81e61eed19dca534a596c6621.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5813",
+    "event_name": "Pain & Glory",
+    "event_date": "2019-06-22",
+    "event_time": "12:00:00",
+    "event_date_until": "2019-06-22",
+    "event_time_until": "12:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A film director reflects on the choices he's made in life as past and present come crashing down around him.\n<div class=\"\">Režisér: Pedro Almodóvar</div><div class=\"\">Umělci: Antonio Banderas, Penélope Cruz, Raúl Arévalo, Asier Etxeandia, Leonardo Sbaraglia, Kiti Mánver, Cecilia Roth, Julieta Serrano, Julián López, Nora Navas, Susi Sánchez</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/4d20b8c8fdf7d5aa7cd70bf90daf2ebf1749310f.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5814",
+    "event_name": "Manželské etudy: Nová generace",
+    "event_date": "2019-06-22",
+    "event_time": "16:15:00",
+    "event_date_until": "2019-06-22",
+    "event_time_until": "16:15:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Režisér: Hana Třeštíková</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/9d6aa9079e5633cda244e19f475d5e37e09997bc.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5815",
+    "event_name": "TvMiniUni: The Question Thief",
+    "event_date": "2019-06-22",
+    "event_time": "14:15:00",
+    "event_date_until": "2019-06-22",
+    "event_time_until": "14:15:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Režisér: Jan Jirků</div><div class=\"\">Umělci: Sebastian Pöthe, Barbora Poláková, Jiří Havelka, Pavel Liška, Miroslav Krobot, Petra Domžalová, Zdeněk Julina, Jan Leflík, Radovan Král, Romana Kvapiková-Julinová</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/88975776ef3e6df6942dfccb86b3b68f788d6415.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5816",
+    "event_name": "The Secret Life of Pets 2",
+    "event_date": "2019-06-22",
+    "event_time": "10:00:00",
+    "event_date_until": "2019-06-22",
+    "event_time_until": "10:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Continuing the story of Max and his pet friends, following their secret lives after their owners leave them for work or school each day.\n<div class=\"\">Režisér: Chris Renaud</div><div class=\"\">Umělci: Patton Oswalt, Harrison Ford, Tiffany Haddish, Nick Kroll, Pete Holmes, Kevin Hart, Jenny Slate, Eric Stonestreet, Ellie Kemper, Lake Bell, Dana Carvey, Hannibal Buress, Bobby Moynihan</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/9ad359f5424d5997539e39fd3937ab5fa49c3d12.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5817",
+    "event_name": "Beats",
+    "event_date": "2019-06-23",
+    "event_time": "17:15:00",
+    "event_date_until": "2019-06-23",
+    "event_time_until": "17:15:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "1994. Best mates Johnno and Spanner share a deep bond, forged through childhood. Now on the cusp of adulthood, life is destined to take them in very different directions… But this summer is going to be different for them, and for the country. The explosion of the free party scene and the largest counter-cultural youth movement in recent history is happening across the UK. In pursuit of adventure and escape the boys head out on one last night together to an illegal rave: a journey into an underworld of anarchy and freedom that ends with a full on collision with the forces of law and order. A universal story of friendship, rebellion and the irresistible power of gathered youth, set to a soundtrack as eclectic and electrifying as the scene it gave birth to, _BEATS_ is a story for our time.\n<div class=\"\">Režisér: Brian Welsh</div><div class=\"\">Umělci: Laura Fraser, Amy Manson, Kevin Mains, Rachel Jackson</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/c383b14b27b92d2bec1bb4b7591bcb6dbe6d30c8.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5818",
+    "event_name": "Rocketman",
+    "event_date": "2019-06-23",
+    "event_time": "12:15:00",
+    "event_date_until": "2019-06-23",
+    "event_time_until": "12:15:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A musical fantasy about the fantastical human story of Elton John's breakthrough years.\n<div class=\"\">Režisér: Dexter Fletcher</div><div class=\"\">Umělci: Taron Egerton, Richard Madden, Bryce Dallas Howard, Jamie Bell, Steven Mackintosh, Gemma Jones, Kamil Lemieszewski, Luke White</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/2f4892d1b1f46ab1473ec32137ea55ce409c7fe7.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5819",
+    "event_name": "Pokémon: Detective Pikachu",
+    "event_date": "2019-06-23",
+    "event_time": "10:00:00",
+    "event_date_until": "2019-06-23",
+    "event_time_until": "10:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "In a world where people collect Pokémon to do battle, a boy comes across an intelligent talking Pikachu who seeks to be a detective.\n<div class=\"\">Režisér: Rob Letterman</div><div class=\"\">Umělci: Ryan Reynolds, Justice Smith, Kathryn Newton, Rita Ora, Bill Nighy, Chris Geere, Ken Watanabe</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/a26e79d22212cf4ed46f312d993f9d8a440ac967.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5820",
+    "event_name": "Punk Never Ends!",
+    "event_date": "2019-06-24",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-06-24",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Režisér: Juro Šlauka</div><div class=\"\">Umělci: Pavol Kovačovský, Juraj Gerža, Mário Fríbert, František Škorpík, Patrícia Schürrerová, Ľudmila Marošová, Marián Rác</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/431d72494083f1ff3e751f5e0867414713a12686.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5821",
+    "event_name": "Three Identical Strangers",
+    "event_date": "2019-06-25",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-06-25",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "In 1980 New York, three young men who were all adopted meet each other and find out they're triplets who were separated at birth. But their quest to find out why turns into a bizarre and sinister mystery.\n<div class=\"\">Režisér: Tim Wardle</div><div class=\"\">Umělci: Robert Shafran, David Kellman, Eddy Galland ( a.z.), Rachel VanDuzer</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/a6a40f54e1ad40621f8deae0e40fb450112b657b.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5822",
+    "event_name": "Genesis",
+    "event_date": "2019-06-25",
+    "event_time": "10:00:00",
+    "event_date_until": "2019-06-25",
+    "event_time_until": "10:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Three teenagers are shaken up by their first loves in the turmoil of their youth. At a time when others are conforming, they stand their ground and assert their right to love and be free.\n<div class=\"\">Režisér: Philippe Lesage</div><div class=\"\">Umělci: Noée Abita, Paul Ahmarani, Brett Dier, Pier-Luc Funk, Mylène MacKay, Théodore Pellerin, Emilie Bierre</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/37c54a95b6d972f81cf4b9107e80773c7d3ab6f3.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5823",
+    "event_name": "Invisibles",
+    "event_date": "2019-06-25",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-06-25",
+    "event_time_until": "20:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "After a municipal decision, a shelter for homeless women, ‘l’Envol’, is about to close. With only three months to re- integrate the women they care for, the social workers do everything they can: pulling-strings, bending the truth, and even outright lies… From now on, everything goes.<div class=\"\">Režisér: Louis-Julien Petit</div><div class=\"\">Umělci: Fatsah Bouyahmed, Audrey Lamy, Déborah Lukumuena, Noémie Lvovsky, Corinne Masiero, Pablo Pauly, Sarah Suco, Natalie Beder</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/007928f56f092101ba3182f2242464d29bd35392.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5824",
+    "event_name": "McQueen",
+    "event_date": "2019-06-26",
+    "event_time": "21:30:00",
+    "event_date_until": "2019-06-26",
+    "event_time_until": "21:30:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "Visionary. Rebel. Genius. Alexander McQueen. He came from nowhere and changed the world of fashion forever. An ordinary boy from a poor district of London created a worth millions of dollars, a luxury brand. He became one of the most recognizable icons of contemporary art.<div class=\"\">Režisér: Ian Bonhôte</div><div class=\"\">Umělci: Alexander McQueen ( a.z.)</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/4d4918b33b91f5831f268fb6642d9d2671fa8c83.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5825",
+    "event_name": "Genesis",
+    "event_date": "2019-06-26",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-06-26",
+    "event_time_until": "20:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Three teenagers are shaken up by their first loves in the turmoil of their youth. At a time when others are conforming, they stand their ground and assert their right to love and be free.\n<div class=\"\">Režisér: Philippe Lesage</div><div class=\"\">Umělci: Noée Abita, Paul Ahmarani, Brett Dier, Pier-Luc Funk, Mylène MacKay, Théodore Pellerin, Emilie Bierre</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/46ba6f46630833bb56ab5a97c8964a0c498e04fd.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5826",
+    "event_name": "Pain & Glory",
+    "event_date": "2019-06-26",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-06-26",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A film director reflects on the choices he's made in life as past and present come crashing down around him.\n<div class=\"\">Režisér: Pedro Almodóvar</div><div class=\"\">Umělci: Antonio Banderas, Penélope Cruz, Raúl Arévalo, Asier Etxeandia, Leonardo Sbaraglia, Kiti Mánver, Cecilia Roth, Julieta Serrano, Julián López, Nora Navas, Susi Sánchez</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/8ac6f3df0304f62718bf993605f68cd39477228d.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5827",
+    "event_name": "Hypecon Premier Sneaker And Streetwear Convention Prague",
+    "event_date": "2019-06-30",
+    "event_time": "11:00:00",
+    "event_date_until": "2019-06-30",
+    "event_time_until": "11:00:00",
+    "location": "Vnitroblock, Tusarova 791/31, Praha 7",
+    "address": "",
+    "description": "Hypecon the Premier Sneaker and Streetwear Convention makes it fourth stop after and in combining our strength with Footshop with brick-and-mortar stores in three countries and online store is the biggest local streetwear retailer in Central Europe. As a member of the adidas Consortium family Footshop is bringing exclusive brands and models, including Yeezy's and Y-3. Footshop actively participates and supports social and cultural events, whether by working with local designers or by organizing launch parties and vernissages. Hypecon established in 2017 is a premier sneaker and streetwear convention where style and culture meets friends and community. With stops in Vienna, Prague, Kyiv, Munich, Berlin and Budapest, Hypecon is Central and Eastern Europe's #1 Urban Lifestyle Convention. Taking place in #Prague for the first time on June 23rd, 2019 Hypecon is celebrating urban lifestyle in Prague with, visitors and exhibitors can get access to limited drops from Footshop (TBA), buy_trade_sell limited sneakers, sell their own pieces or bid on grails at the live auction, meet and shop with young designers and streetwear brands, join hypecon_versations panel talks, customize their own sneaker or buy customized pairs, listen to finest beats by Place Crew (VIE), enjoy drinks and snacks and participate at the live raffle. ",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/5e776f0e43b7a9d239bf1c96a1ddb2dc0b79af29.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Vnitroblock",
+    "location_address": "Tusarova 791/31, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5828",
+    "event_name": "UpTONE: Amilli",
+    "event_date": "2019-12-04",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-12-04",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/amilli/djqcg/\" target=\"_blank\">Amilli</a><a href=\"https://goout.net/en/artists/fource-entertainment-cz/qqxpf/\" target=\"_blank\">Fource Entertainment CZ</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/6b449e2f4c0ec8814ad7ac346de112f43f93dca8.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/uptone-amilli/svqe",
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
       }
     ],
     "image": null,
