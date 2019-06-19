@@ -38222,7 +38222,7 @@
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/kevin-saunderson/bjubb/\" target=\"_blank\">Kevin Saunderson</a><a href=\"https://goout.net/en/artists/transglobal-underground/nnjxf/\" target=\"_blank\">Transglobal Underground</a><a href=\"https://goout.net/en/artists/james-cole/xyj/\" target=\"_blank\">James Cole</a><a href=\"https://goout.net/en/artists/android-asteroid/qfumc/\" target=\"_blank\">Android Asteroid</a><a href=\"https://goout.net/en/artists/pisetzky/wdscg/\" target=\"_blank\">Pisetzky</a><a href=\"https://goout.net/en/artists/coincidence/capcg/\" target=\"_blank\">Coincidence</a><a href=\"https://goout.net/en/artists/tomas-bocek/raouf/\" target=\"_blank\">Tomas Bocek</a><a href=\"https://goout.net/en/artists/vec/bnud/\" target=\"_blank\">Vec</a><a href=\"https://goout.net/en/artists/skrupo/deuxf/\" target=\"_blank\">Škrupo</a><a href=\"https://goout.net/en/artists/fobia-kid/arfvf/\" target=\"_blank\">Fobia Kid</a><a href=\"https://goout.net/en/artists/karaoke-tundra/obab/\" target=\"_blank\">Karaoke Tundra</a><a href=\"https://goout.net/en/artists/milli-major/cviwf/\" target=\"_blank\">Milli Major</a><a href=\"https://goout.net/en/artists/president-t/descg/\" target=\"_blank\">President T</a><a href=\"https://goout.net/en/artists/smack/grapf/\" target=\"_blank\">Smack</a><a href=\"https://goout.net/en/artists/tchagun/gfgqf/\" target=\"_blank\">Tchagun</a><a href=\"https://goout.net/en/artists/kerem-akdag/ktmdg/\" target=\"_blank\">Kerem Akdag</a><a href=\"https://goout.net/en/artists/soundokan/auduf/\" target=\"_blank\">Soundokan</a><a href=\"https://goout.net/en/artists/dreadsquad/plguf/\" target=\"_blank\">Dreadsquad</a><a href=\"https://goout.net/en/artists/lua-preta/mghvf/\" target=\"_blank\">Lua Preta</a><a href=\"https://goout.net/en/artists/global-diggers/jxxtf/\" target=\"_blank\">Global Diggers</a></div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/1e014ade613a8dde845cbebf406f6427129af63d.jpg",
-    "price": "400–500",
+    "price": "110–500",
     "currency": "CZK",
     "sale_url": "https://goout.net/en/tickets/cross-festival-2019/lbfe",
     "cancelled": "0",
@@ -53905,7 +53905,7 @@
     "address": "",
     "description": "",
     "image_id": null,
-    "image_src": "wp-content/uploads/goout/1aa4bc6e534ad82fdef8fed3c0570abbff8db2d5.jpg",
+    "image_src": "wp-content/uploads/goout/c17e91c5e2787aa9fb0a9341106e2c437a53418c.jpg",
     "price": "",
     "currency": "CZK",
     "sale_url": null,
@@ -70891,6 +70891,136 @@
     "cancelled": "0",
     "location_name": "Alfred ve dvoře",
     "location_address": "Františka Křížka 36, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5842",
+    "event_name": "Commedia dell' arte II.",
+    "event_date": "2019-09-10",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-09-10",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělci: Pavel Liška, Tatiana Vilhelmová, Marek Daniel, Michal Dalecký, Gabriela Štefanová, Michal Bumbálek, Roman Slovák, Tomáš Milostný</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/fd242b4e9707ee1ac65bbddf80b3efbc587d0266.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5843",
+    "event_name": "The Watcher",
+    "event_date": "2019-09-23",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-09-23",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/420people/wikpf/\" target=\"_blank\">420PEOPLE</a><a href=\"https://goout.net/en/artists/please-the-trees/pwe/\" target=\"_blank\">Please The Trees</a></div><div class=\"\">Autor: 420PEOPLE & Please The Trees</div><div class=\"\">Režisér: Václav Kuneš</div><div class=\"\">Umělci: Francesca Amante, Veronika Čimborová, Fanny Barrouquére, Simona Machovičová, Filip Staněk, Please The Trees</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/a6f1f5094d6516d4d0e242783be5fc1a1621ce04.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5844",
+    "event_name": "The Watcher",
+    "event_date": "2019-10-28",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-28",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/420people/wikpf/\" target=\"_blank\">420PEOPLE</a><a href=\"https://goout.net/en/artists/please-the-trees/pwe/\" target=\"_blank\">Please The Trees</a></div><div class=\"\">Autor: 420PEOPLE & Please The Trees</div><div class=\"\">Režisér: Václav Kuneš</div><div class=\"\">Umělci: Francesca Amante, Veronika Čimborová, Fanny Barrouquére, Simona Machovičová, Filip Staněk, Please The Trees</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/f2227867ec8a0321177fb6c93fbcac9b1bd7a6cd.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5845",
+    "event_name": "The Watcher",
+    "event_date": "2019-10-29",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-29",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/420people/wikpf/\" target=\"_blank\">420PEOPLE</a><a href=\"https://goout.net/en/artists/please-the-trees/pwe/\" target=\"_blank\">Please The Trees</a></div><div class=\"\">Autor: 420PEOPLE & Please The Trees</div><div class=\"\">Režisér: Václav Kuneš</div><div class=\"\">Umělci: Francesca Amante, Veronika Čimborová, Fanny Barrouquére, Simona Machovičová, Filip Staněk, Please The Trees</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/6e5f60fb052d39b1e797643acda5703cb6b90051.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5846",
+    "event_name": "The Watcher",
+    "event_date": "2019-12-08",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-12-08",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/420people/wikpf/\" target=\"_blank\">420PEOPLE</a><a href=\"https://goout.net/en/artists/please-the-trees/pwe/\" target=\"_blank\">Please The Trees</a></div><div class=\"\">Autor: 420PEOPLE & Please The Trees</div><div class=\"\">Režisér: Václav Kuneš</div><div class=\"\">Umělci: Francesca Amante, Veronika Čimborová, Fanny Barrouquére, Simona Machovičová, Filip Staněk, Please The Trees</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/7d4699226a4fbea271a94b5b97fafbefe5c83710.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
     "categories": [
       {
         "subcategory_name": "Divadlo"
