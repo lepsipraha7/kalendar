@@ -71028,5 +71028,31 @@
     ],
     "image": null,
     "goOutInfo": "0"
+  },
+  {
+    "id": "5847",
+    "event_name": "Never Sol",
+    "event_date": "2019-07-16",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-07-16",
+    "event_time_until": "00:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/never-sol/dvnjf/\" target=\"_blank\">Never Sol</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/2ed1270afb0a046f77f0dd32d3d945f631003d5d.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
   }
 ]
