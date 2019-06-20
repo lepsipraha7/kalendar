@@ -71054,5 +71054,109 @@
     ],
     "image": null,
     "goOutInfo": "0"
+  },
+  {
+    "id": "5848",
+    "event_name": "Zábor Přístavní 20",
+    "event_date": "2019-06-17",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-06-21",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>mobilní zábor-horolezci</p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Zábory"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  },
+  {
+    "id": "5849",
+    "event_name": "Zábor Dobrovského 32",
+    "event_date": "2019-06-29",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-06-29",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>kontejner</p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Zábory"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  },
+  {
+    "id": "5850",
+    "event_name": "Zábor Ovenecká 44",
+    "event_date": "2019-06-26",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-06-26",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>kontejner</p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Zábory"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  },
+  {
+    "id": "5851",
+    "event_name": "Zábor Kostelní 6",
+    "event_date": "2019-06-21",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-06-29",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>nepodchodné lešení</p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Zábory"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
   }
 ]
