@@ -69441,7 +69441,7 @@
     "address": "",
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/mucha/wodg/\" target=\"_blank\">Mucha</a><a href=\"https://goout.net/en/artists/houpaci-kone/dgb/\" target=\"_blank\">Houpací koně</a></div>",
     "image_id": null,
-    "image_src": "wp-content/uploads/goout/2df6eaec10073ba086e3888198316e8b3d9792ab.jpg",
+    "image_src": "wp-content/uploads/goout/afa76ddde844d5168c32a56b557b1326f1cd5141.jpg",
     "price": "100",
     "currency": "CZK",
     "sale_url": "https://goout.net/en/tickets/mucha+houpaci-kone/cvqe",
@@ -69835,7 +69835,7 @@
     "address": "",
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/mucha/wodg/\" target=\"_blank\">Mucha</a><a href=\"https://goout.net/en/artists/please-the-trees/pwe/\" target=\"_blank\">Please The Trees</a><a href=\"https://goout.net/en/artists/otk/bex/\" target=\"_blank\">OTK</a><a href=\"https://goout.net/en/artists/terne-chave/kesf/\" target=\"_blank\">Terne Čhave</a><a href=\"https://goout.net/en/artists/tvrdy-pomahac/ixvbg/\" target=\"_blank\">Tvrdý/Pomahač</a><a href=\"https://goout.net/en/artists/sun+dead/bopwf/\" target=\"_blank\">Sun+Dead</a></div>",
     "image_id": null,
-    "image_src": "wp-content/uploads/goout/95162262c74e7590f20b6d0d2cf93359f84330d6.jpg",
+    "image_src": "wp-content/uploads/goout/86f1c052738cbc807b1e314df076398718b9d159.jpg",
     "price": "200",
     "currency": "CZK",
     "sale_url": "https://goout.net/en/tickets/hudba-za-klima-please-the-trees+otk+more/ryqe",
@@ -71158,5 +71158,603 @@
     ],
     "image": null,
     "goOutInfo": null
+  },
+  {
+    "id": "5852",
+    "event_name": "The 39 Steps",
+    "event_date": "2019-06-21",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-06-21",
+    "event_time_until": "19:00:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "What do you get when you blend a juicy spy novel and a 1930's Hitchcock thriller, spice it up with parody and homage at the same time, and wrap it in a crazy package of imagination? The Thirty-Nine Steps! The story of Richard Hannay, a man wrongfully accused of murder who finds himself on the run from foreign agents and tied to a woman who hates his guts, is at the core of this virtuously constructed detective comedy with elements of slapstick and a touch of heart.\n\n<div class=\"\">Režisér: Martin Murín</div><div class=\"\">Umělci: Aleš Gregor, Anna Ebel, David Le Cam, Eleonora Yusupbaeva, Jana Stupková, Luboš Duda, Martina Pham, Mikuláš Mařík, Milan Ondruch, Roger de Brantes, Sonia Bartková, Thomas Begue, Vasilina Pazdnikova, Veronika Gajdošíková</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/c392d237415136f1e7a9214b305a6cd1efe64e12.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5853",
+    "event_name": "The 39 Steps",
+    "event_date": "2019-06-22",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-06-22",
+    "event_time_until": "19:00:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "What do you get when you blend a juicy spy novel and a 1930's Hitchcock thriller, spice it up with parody and homage at the same time, and wrap it in a crazy package of imagination? The Thirty-Nine Steps! The story of Richard Hannay, a man wrongfully accused of murder who finds himself on the run from foreign agents and tied to a woman who hates his guts, is at the core of this virtuously constructed detective comedy with elements of slapstick and a touch of heart.\n\n<div class=\"\">Režisér: Martin Murín</div><div class=\"\">Umělci: Aleš Gregor, Anna Ebel, David Le Cam, Eleonora Yusupbaeva, Jana Stupková, Luboš Duda, Martina Pham, Mikuláš Mařík, Milan Ondruch, Roger de Brantes, Sonia Bartková, Thomas Begue, Vasilina Pazdnikova, Veronika Gajdošíková</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/5eaa8a7d6a1182fb3e68427dad94fafda45ef7f5.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5854",
+    "event_name": "The 39 Steps",
+    "event_date": "2019-06-22",
+    "event_time": "14:00:00",
+    "event_date_until": "2019-06-22",
+    "event_time_until": "14:00:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "What do you get when you blend a juicy spy novel and a 1930's Hitchcock thriller, spice it up with parody and homage at the same time, and wrap it in a crazy package of imagination? The Thirty-Nine Steps! The story of Richard Hannay, a man wrongfully accused of murder who finds himself on the run from foreign agents and tied to a woman who hates his guts, is at the core of this virtuously constructed detective comedy with elements of slapstick and a touch of heart.\n\n<div class=\"\">Režisér: Martin Murín</div><div class=\"\">Umělci: Aleš Gregor, Anna Ebel, David Le Cam, Eleonora Yusupbaeva, Jana Stupková, Luboš Duda, Martina Pham, Mikuláš Mařík, Milan Ondruch, Roger de Brantes, Sonia Bartková, Thomas Begue, Vasilina Pazdnikova, Veronika Gajdošíková</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/7107cf7516efd690a7887a8c926024adcc9480e1.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5855",
+    "event_name": "Fashion",
+    "event_date": "2019-06-23",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-06-23",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/pink-mama-theatre/tuodg/\" target=\"_blank\">Pink Mama Theatre</a></div><div class=\"\">Autor: Sławek Bendrat, Dominik Krawiecki, Valentin Markus Oppermann</div><div class=\"\">Režisér: Sławek Bendrat, Dominik Krawiecki</div><div class=\"\">Umělci: Mark Christoph Klee, Dominik Krawiecki, Charlotte Mclean, Valentin Markus Oppermann, Izabela Orzełowska, Tomek Pomersbach, Marek Wieczorek</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/8d03eca981be8f9da5f2386cb7bf365820b4a9b0.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5856",
+    "event_name": "Fashion",
+    "event_date": "2019-06-24",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-06-24",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/pink-mama-theatre/tuodg/\" target=\"_blank\">Pink Mama Theatre</a></div><div class=\"\">Autor: Sławek Bendrat, Dominik Krawiecki, Valentin Markus Oppermann</div><div class=\"\">Režisér: Sławek Bendrat, Dominik Krawiecki</div><div class=\"\">Umělci: Mark Christoph Klee, Dominik Krawiecki, Charlotte Mclean, Valentin Markus Oppermann, Izabela Orzełowska, Tomek Pomersbach, Marek Wieczorek</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/25e1c30451b58ea5d6eb7512fc356be65052f708.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5857",
+    "event_name": "Beats",
+    "event_date": "2019-06-27",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-06-27",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "1994. Best mates Johnno and Spanner share a deep bond, forged through childhood. Now on the cusp of adulthood, life is destined to take them in very different directions… But this summer is going to be different for them, and for the country. The explosion of the free party scene and the largest counter-cultural youth movement in recent history is happening across the UK. In pursuit of adventure and escape the boys head out on one last night together to an illegal rave: a journey into an underworld of anarchy and freedom that ends with a full on collision with the forces of law and order. A universal story of friendship, rebellion and the irresistible power of gathered youth, set to a soundtrack as eclectic and electrifying as the scene it gave birth to, _BEATS_ is a story for our time.\n<div class=\"\">Režisér: Brian Welsh</div><div class=\"\">Umělci: Laura Fraser, Amy Manson, Kevin Mains, Rachel Jackson</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/4822103f868aed744908c3a4f7760f1a4452430f.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5858",
+    "event_name": "Yesterday",
+    "event_date": "2019-06-28",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-06-28",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A struggling musician realizes he's the only person on Earth who can remember The Beatles after waking up in an alternate timeline where they never existed.\n<div class=\"\">Režisér: Danny Boyle</div><div class=\"\">Umělci: Himesh Patel, Lily James, Kate McKinnon, Ed Sheeran, Ana de Armas, Lamorne Morris, Sophia Di Martino, Joel Fry, Ellise Chappell, Dominic Coleman, Marjana Spivak, Atul Sharma, Jennifer Armour, Camille Chen</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/ddabe8be6c546eb3ce72c4fbd5773dd403e58ce1.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5859",
+    "event_name": "Rocketman",
+    "event_date": "2019-06-28",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-06-28",
+    "event_time_until": "20:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A musical fantasy about the fantastical human story of Elton John's breakthrough years.\n<div class=\"\">Režisér: Dexter Fletcher</div><div class=\"\">Umělci: Taron Egerton, Richard Madden, Bryce Dallas Howard, Jamie Bell, Steven Mackintosh, Gemma Jones, Kamil Lemieszewski, Luke White</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/2ee911f3a71d8eada5416477b243306bcb8cbeb9.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5860",
+    "event_name": "The Secret Life of Pets 2",
+    "event_date": "2019-06-29",
+    "event_time": "14:00:00",
+    "event_date_until": "2019-06-29",
+    "event_time_until": "14:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Continuing the story of Max and his pet friends, following their secret lives after their owners leave them for work or school each day.\n<div class=\"\">Režisér: Chris Renaud</div><div class=\"\">Umělci: Patton Oswalt, Harrison Ford, Tiffany Haddish, Nick Kroll, Pete Holmes, Kevin Hart, Jenny Slate, Eric Stonestreet, Ellie Kemper, Lake Bell, Dana Carvey, Hannibal Buress, Bobby Moynihan</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/d401da763b68527d33bfc38ba7d871fad72f5b26.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5861",
+    "event_name": "John Wick: Chapter 3",
+    "event_date": "2019-06-29",
+    "event_time": "16:00:00",
+    "event_date_until": "2019-06-29",
+    "event_time_until": "16:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Super-Assassin John Wick is on the run after killing a member of the international assassin's guild, and with a $14 million price tag on his head - he is the target of hit men and women everywhere.\n<div class=\"\">Režisér: Chad Stahelski</div><div class=\"\">Umělci: Keanu Reeves, Halle Berry, Ian McShane, Jason Mantzoukas, Asia Kate Dillon, Laurence Fishburne, Anjelica Huston, Lance Reddick, Mark Dacascos, Cecep Arif Rahman, Yayan Ruhian, Tiger Chen Hu, Faith Logan, Oscar Pavlo</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/1b2112217f087f882b21b5a44b5a6ac4cbd3891f.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5862",
+    "event_name": "Never Look Away",
+    "event_date": "2019-06-30",
+    "event_time": "19:45:00",
+    "event_date_until": "2019-06-30",
+    "event_time_until": "19:45:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A film inspired by real events spanning three eras of German history, it tells of a young artist called Kurt Bartnert (Tom Schilling) who falls in love with Ellie (Paula Beer). Her father, Professor Carl Seeband (Sebastian Koch), a famous doctor, fundamentally disagrees with the relationship and is intent upon destroying it. Little do any of them know that in reality, their lives have already been bound together by a terrible crime Professor Seeband had been involved in years earlier…<div class=\"\">Režisér: Florian Henckel Von Donnersmarck</div><div class=\"\">Umělci: Tom Schilling, Paula Beer, Sebastian Koch, Saskia Rosendahl, Oliver Masucci, Cai Cohrs, Ina Weisse, Jevgenij Sidichin, Mark Zak, Lars Eidinger, Rainer Bock, Hanno Koffler, Florian Bartholomäi, Pit Bukowski, Ben Becker, Ulrike C. Tscharre, Jonas Dassler, Johanna Gastdorf, Martin Bruchmann, Jörg Schüttauf</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/9d50fec2524940a99c0a5d33fa8fed37d5be9e08.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5863",
+    "event_name": "The Secret Life of Pets 2",
+    "event_date": "2019-06-30",
+    "event_time": "10:00:00",
+    "event_date_until": "2019-06-30",
+    "event_time_until": "10:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Continuing the story of Max and his pet friends, following their secret lives after their owners leave them for work or school each day.\n<div class=\"\">Režisér: Chris Renaud</div><div class=\"\">Umělci: Patton Oswalt, Harrison Ford, Tiffany Haddish, Nick Kroll, Pete Holmes, Kevin Hart, Jenny Slate, Eric Stonestreet, Ellie Kemper, Lake Bell, Dana Carvey, Hannibal Buress, Bobby Moynihan</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/bb4aa4fcf2244f8b6209cfcadd690cdf77be1dfa.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5864",
+    "event_name": "Beats",
+    "event_date": "2019-07-01",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-07-01",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "1994. Best mates Johnno and Spanner share a deep bond, forged through childhood. Now on the cusp of adulthood, life is destined to take them in very different directions… But this summer is going to be different for them, and for the country. The explosion of the free party scene and the largest counter-cultural youth movement in recent history is happening across the UK. In pursuit of adventure and escape the boys head out on one last night together to an illegal rave: a journey into an underworld of anarchy and freedom that ends with a full on collision with the forces of law and order. A universal story of friendship, rebellion and the irresistible power of gathered youth, set to a soundtrack as eclectic and electrifying as the scene it gave birth to, _BEATS_ is a story for our time.\n<div class=\"\">Režisér: Brian Welsh</div><div class=\"\">Umělci: Laura Fraser, Amy Manson, Kevin Mains, Rachel Jackson</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/8b4fddbee0dfae52a0b3cb402199f6dba5666855.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5865",
+    "event_name": "Il Museo del Prado – La corte delle meraviglie",
+    "event_date": "2019-07-01",
+    "event_time": "13:00:00",
+    "event_date_until": "2019-07-01",
+    "event_time_until": "13:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Režisér: Valeria Parisi</div><div class=\"\">Umělci: Jeremy Irons</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/aed5e8a2eadd8d9bdc8c8735114afde647272c8b.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5866",
+    "event_name": "Pokémon: Detective Pikachu",
+    "event_date": "2019-07-02",
+    "event_time": "13:00:00",
+    "event_date_until": "2019-07-02",
+    "event_time_until": "13:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "In a world where people collect Pokémon to do battle, a boy comes across an intelligent talking Pikachu who seeks to be a detective.\n<div class=\"\">Režisér: Rob Letterman</div><div class=\"\">Umělci: Ryan Reynolds, Justice Smith, Kathryn Newton, Rita Ora, Bill Nighy, Chris Geere, Ken Watanabe</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/f6352739fa96a59f23a33a5383f60e5da2eeb9de.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5867",
+    "event_name": "Yesterday",
+    "event_date": "2019-07-03",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-07-03",
+    "event_time_until": "20:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A struggling musician realizes he's the only person on Earth who can remember The Beatles after waking up in an alternate timeline where they never existed.\n<div class=\"\">Režisér: Danny Boyle</div><div class=\"\">Umělci: Himesh Patel, Lily James, Kate McKinnon, Ed Sheeran, Ana de Armas, Lamorne Morris, Sophia Di Martino, Joel Fry, Ellise Chappell, Dominic Coleman, Marjana Spivak, Atul Sharma, Jennifer Armour, Camille Chen</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/b9235ebd5c10c33c522de6b9914d51737b434c6b.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5868",
+    "event_name": "Rocketman",
+    "event_date": "2019-07-03",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-07-03",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A musical fantasy about the fantastical human story of Elton John's breakthrough years.\n<div class=\"\">Režisér: Dexter Fletcher</div><div class=\"\">Umělci: Taron Egerton, Richard Madden, Bryce Dallas Howard, Jamie Bell, Steven Mackintosh, Gemma Jones, Kamil Lemieszewski, Luke White</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/a2a0ef3414995dc65f137c4f0e75511059c8a51f.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5869",
+    "event_name": "Contagious: Cannes Deconstructed",
+    "event_date": "2019-08-15",
+    "event_time": "15:00:00",
+    "event_date_until": "2019-08-15",
+    "event_time_until": "15:00:00",
+    "location": "Vnitroblock, Tusarova 791/31, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/a787c3dfc79d9f60f05d512bc8a27c99638f07f3.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Vnitroblock",
+    "location_address": "Tusarova 791/31, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5870",
+    "event_name": "Gedeonův uzel",
+    "event_date": "2019-09-09",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-09-09",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Johnna Adams</div><div class=\"\">Režisér: Petr Strnad</div><div class=\"\">Umělci: Kateřina Kaira Hrachovcová, Vilma Cibulková</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/4bc25510a1ae068fca4bfb8a9c61d8cdef27844d.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5871",
+    "event_name": "Duet pro jeden hlas",
+    "event_date": "2019-09-16",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-09-16",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Tom Kempinski</div><div class=\"\">Režisér: Viktor Polesný</div><div class=\"\">Umělci: Zuzana Stivínová, Jan Novotný</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/8b8268248e4e5bfd7af0b0dbb2c4c6f4157807f9.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5872",
+    "event_name": "Refuge",
+    "event_date": "2019-09-30",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-09-30",
+    "event_time_until": "19:00:00",
+    "location": "DOX Centrum současného umění, Poupětova 1, Praha 7",
+    "address": "",
+    "description": "_We hit the bank, we will not drown, we will just remain mad. Just strange. Memory, a handful of coins in a burning lake. And naked unprotected desire. Become a rock, not feel._ – Anna Ondrejková, fragment\n\nThey set off on a journey. From fear. With no guarantees. The paths of three people intersect. Connected to each other, they overcome a region of anxiety, courage, failure and compassion. They seek shelter in an indifferent world. When there is nowhere to return to, all that is left is to be awakened.\n\nThe performance was inspired by interviews with a community of young people living in London who while on the run experienced a limit situation. A stage composition balanced on the border between physical theatre and concert featuring seven exceptional musical and dance performers.\n\n*Created by:* Andrej Petrovič, Rin Kin, Minh - Hieu Nguyen, Hana Varadzinová, Viliam Dočolomanský\n\n<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/farm-in-the-cave/nrypf/\" target=\"_blank\">Farm in the Cave</a></div><div class=\"\">Režisér: Viliam Dočolomanský</div><div class=\"\">Umělci: Andrej Petrovič, Rin Kin, Minh - Hieu Nguyen, Hana Varadzinová, Marcel Bárta, Štěpán Janoušek, Vít Halška</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/0a8d4834bf5ecce822d0c92fb64a8ae6c665ed0b.jpg",
+    "price": "200–330",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/refuge/uwse",
+    "cancelled": "0",
+    "location_name": "DOX Centrum současného umění",
+    "location_address": "Poupětova 1, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5873",
+    "event_name": "Refuge",
+    "event_date": "2019-10-29",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-10-29",
+    "event_time_until": "19:00:00",
+    "location": "DOX Centrum současného umění, Poupětova 1, Praha 7",
+    "address": "",
+    "description": "_We hit the bank, we will not drown, we will just remain mad. Just strange. Memory, a handful of coins in a burning lake. And naked unprotected desire. Become a rock, not feel._ – Anna Ondrejková, fragment\n\nThey set off on a journey. From fear. With no guarantees. The paths of three people intersect. Connected to each other, they overcome a region of anxiety, courage, failure and compassion. They seek shelter in an indifferent world. When there is nowhere to return to, all that is left is to be awakened.\n\nThe performance was inspired by interviews with a community of young people living in London who while on the run experienced a limit situation. A stage composition balanced on the border between physical theatre and concert featuring seven exceptional musical and dance performers.\n\n*Created by:* Andrej Petrovič, Rin Kin, Minh - Hieu Nguyen, Hana Varadzinová, Viliam Dočolomanský\n\n<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/farm-in-the-cave/nrypf/\" target=\"_blank\">Farm in the Cave</a></div><div class=\"\">Režisér: Viliam Dočolomanský</div><div class=\"\">Umělci: Andrej Petrovič, Rin Kin, Minh - Hieu Nguyen, Hana Varadzinová, Marcel Bárta, Štěpán Janoušek, Vít Halška</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/bc3c6eb84d48bbc9edb22cc4deefb03237c6e791.jpg",
+    "price": "200–330",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/refuge/twse",
+    "cancelled": "0",
+    "location_name": "DOX Centrum současného umění",
+    "location_address": "Poupětova 1, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5874",
+    "event_name": "Workshop s Evou Klimáčkovou ",
+    "event_date": "2019-11-25",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-11-29",
+    "event_time_until": "23:59:59",
+    "location": "Studio Alta, U Výstaviště 21, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/18b9d7c55bab71f74bb12d98c82d884b142858bd.jpg",
+    "price": "1500–2000",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/workshop-s-evou-klimackovou/vwse",
+    "cancelled": "0",
+    "location_name": "Studio Alta",
+    "location_address": "U Výstaviště 21, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
   }
 ]
