@@ -72016,5 +72016,31 @@
     ],
     "image": null,
     "goOutInfo": "0"
+  },
+  {
+    "id": "5885",
+    "event_name": "Vyso(ц)ký fest",
+    "event_date": "2019-07-25",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-07-25",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>V den úmrtí ruského básníka a zpěváka Vladimira Vysockého se uskuteční již podruhé jednodenní hudební open-air festival s názvem Vyso(ц)ký fest.</p>\n<p>Ruské, ukrajinské, běloruské a české písničkáře a básníky s kytarami si můžete poslechnout <strong>ve čtvrtek 25. července od 18 do 22 hodin v Letenských sadech</strong>. Vstupné 100 Kč.</p>",
+    "image_id": "27563",
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": "https://www.praha7.cz/wp-content/uploads/2019/06/clovek-gitara-gitarista-302874-600x400.jpg",
+    "goOutInfo": null
   }
 ]
