@@ -72042,5 +72042,138 @@
     ],
     "image": "https://www.praha7.cz/wp-content/uploads/2019/06/clovek-gitara-gitarista-302874-600x400.jpg",
     "goOutInfo": null
+  },
+  {
+    "id": "5886",
+    "event_name": "Zábor - Za Elektrárnou",
+    "event_date": "2019-06-27",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-06-27",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>Magna Erudio s.r.o.<br />\nZábor vozovky<br />\nParkování vozidel z důvodu konání svatebního obřadu<br />\nOsoba zodpovědná za akci: A. Fuchs – 605 409 389</p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Zábory"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  },
+  {
+    "id": "5887",
+    "event_name": "Zábor –  U Trojského zámku 9",
+    "event_date": "2019-06-27",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-07-02",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>Liberty Incetives &amp; Congresses spol. s.r.o.<br />\nZábor vozovky<br />\nZ důvodů konání akce – Výstava šperků na zámku v Troji<br />\nOsoba zodpovědná za akci: M. Hanus – 734 693 123</p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Zábory"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  },
+  {
+    "id": "5888",
+    "event_name": "Zábor – Osadní 7",
+    "event_date": "2019-06-10",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-06-23",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>výkop pro odvlhčení zdiva</p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Zábory"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  },
+  {
+    "id": "5889",
+    "event_name": "Zábor – V Podhoří",
+    "event_date": "2019-06-25",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-07-15",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>Přípojky vody a plynu</p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Zábory"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  },
+  {
+    "id": "5890",
+    "event_name": "Sportovní hry pro aktivní seniory a generaci 50+ – AkSen",
+    "event_date": "2019-09-01",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-09-01",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>AkSen – aktivní senior, z.s. pořádá ve spolupráci s MČ Praha 7 <span style=\"text-decoration: underline;\">AkSenHry</span> – sportovní hry pro aktivní seniory a generaci 50+.</p>\n<p>Kde: ve venkovním sportovním areálu Gymnázia Nad Štolou v Letenských sadech od 9.30 hodin.</p>\n<p>Soutěžit se bude celkem v pěti sportovních disciplínách, ale je možné zúčastnit se jenom některých. Bližší informace o akci a způsobu přihlášení najdete na webových stránkách AkSen –<a href=\"http://www.aksen.cz\"> www.aksen.cz</a>.</p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Senioři"
+      },
+      {
+        "subcategory_name": "Sport"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
   }
 ]
