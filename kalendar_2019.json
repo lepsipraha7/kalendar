@@ -34242,7 +34242,7 @@
     "event_time_until": "20:00:00",
     "location": "Cross Club, Plynární 23, Praha 7",
     "address": "",
-    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/cavetown/vvkbg/\" target=\"_blank\">Cavetown</a><a href=\"https://goout.net/en/artists/spookyghostboy/tvpcg/\" target=\"_blank\">Spookyghostboy </a></div>",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/cavetown/vvkbg/\" target=\"_blank\">Cavetown</a><a href=\"https://goout.net/en/artists/spookyghostboy/tvpcg/\" target=\"_blank\">Spookyghostboy </a><a href=\"https://goout.net/en/artists/fource-entertainment-cz/qqxpf/\" target=\"_blank\">Fource Entertainment CZ</a></div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/dd9e624bbef0cbc35d56ba112668b9a1220da443.jpg",
     "price": "0",
@@ -65664,7 +65664,7 @@
   },
   {
     "id": "5642",
-    "event_name": "Stalin Stage x  Bigg Boss: Hellwana + Mladej Moris + DJ Double J",
+    "event_name": "Stalin Stage x Bigg Boss: Hellwana + Mladej Moris + DJ Double J",
     "event_date": "2019-07-03",
     "event_time": "20:00:00",
     "event_date_until": "2019-07-03",
@@ -68503,7 +68503,7 @@
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/mc-xander/bcbxf/\" target=\"_blank\">MC Xander</a><a href=\"https://goout.net/en/artists/cocoman/uuagb/\" target=\"_blank\">Cocoman</a><a href=\"https://goout.net/en/artists/hash-es-man/yvwpf/\" target=\"_blank\">Hash Es Man</a></div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/e8d0263204f8f0dbeebc676b51a79e4f8c68ce28.jpg",
-    "price": "180–195",
+    "price": "180–210",
     "currency": "CZK",
     "sale_url": "https://goout.net/en/tickets/mc-xander+cocoman+esli/gfqe",
     "cancelled": "0",
@@ -70688,9 +70688,9 @@
   {
     "id": "5834",
     "event_name": "Veronika Motalová: Peru – amazonská očista aneb 10 měsíců mezi šamany",
-    "event_date": "2019-06-26",
+    "event_date": "2019-09-19",
     "event_time": "19:00:00",
-    "event_date_until": "2019-06-26",
+    "event_date_until": "2019-09-19",
     "event_time_until": "19:00:00",
     "location": "Vnitroblock, Tusarova 791/31, Praha 7",
     "address": "",
@@ -71404,7 +71404,7 @@
     "address": "",
     "description": "Super-Assassin John Wick is on the run after killing a member of the international assassin's guild, and with a $14 million price tag on his head - he is the target of hit men and women everywhere.\n<div class=\"\">Režisér: Chad Stahelski</div><div class=\"\">Umělci: Keanu Reeves, Halle Berry, Ian McShane, Jason Mantzoukas, Asia Kate Dillon, Laurence Fishburne, Anjelica Huston, Lance Reddick, Mark Dacascos, Cecep Arif Rahman, Yayan Ruhian, Tiger Chen Hu, Faith Logan, Oscar Pavlo</div>",
     "image_id": null,
-    "image_src": "wp-content/uploads/goout/1b2112217f087f882b21b5a44b5a6ac4cbd3891f.jpg",
+    "image_src": "wp-content/uploads/goout/50e17767c74a1d51825161b10b33644420dcc018.jpg",
     "price": "",
     "currency": "CZK",
     "sale_url": null,
@@ -72175,5 +72175,1542 @@
     ],
     "image": null,
     "goOutInfo": null
+  },
+  {
+    "id": "5891",
+    "event_name": "DBTR: Peeni Walli & Forward March Posse",
+    "event_date": "2019-06-27",
+    "event_time": "17:00:00",
+    "event_date_until": "2019-06-27",
+    "event_time_until": "17:00:00",
+    "location": "Containall – Stromovka, Stromovka, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/peeni-walli/gmt/\" target=\"_blank\">Peeni Walli</a><a href=\"https://goout.net/en/artists/forward-march-posse/xhvpf/\" target=\"_blank\">Forward March Posse</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/ab44eecadb61bc3e81aa55d60893632b4d51f739.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stromovka",
+    "location_address": "Stromovka, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5892",
+    "event_name": "Exhibition Opening: Hoeski",
+    "event_date": "2019-06-28",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-06-28",
+    "event_time_until": "19:00:00",
+    "location": "Page Five, Veverkova 5, Praha 1",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/54a537ec8a88fd04e8e7642b368f90f505a9a1f6.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Page Five",
+    "location_address": "Veverkova 5, Praha 1",
+    "categories": [
+      {
+        "subcategory_name": "Výstavy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5893",
+    "event_name": "Long Day's Journey Into Night",
+    "event_date": "2019-06-30",
+    "event_time": "16:30:00",
+    "event_date_until": "2019-06-30",
+    "event_time_until": "16:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Luo Hongwu returns to Kaili, the hometown from which he fled several years ago. He begins the search for the woman he loved, and whom he has never been able to forget. She said her name was Wan Quiwen…\n\nA hypnotic, romantic neo noir by one of the most talented Chinese directors Gan Biho is a magical meditation about time and space, as well as an enigmatic poem about loss and pain.\n<div class=\"\">Režisér: Gan Bi</div><div class=\"\">Umělci: Wei Tang, Sylvia Chang, Meng Li, Jue Huang, Yongzhong Chen, Hong-Chi Lee</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/dcdc316f5a8063eceafd392d5f49f81822fe56e7.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5894",
+    "event_name": "Genesis",
+    "event_date": "2019-07-02",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-07-02",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Three teenagers are shaken up by their first loves in the turmoil of their youth. At a time when others are conforming, they stand their ground and assert their right to love and be free.\n<div class=\"\">Režisér: Philippe Lesage</div><div class=\"\">Umělci: Noée Abita, Paul Ahmarani, Brett Dier, Pier-Luc Funk, Mylène MacKay, Théodore Pellerin, Emilie Bierre</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/d1eb79aab2cbab7ae02c3529694d723b394bf927.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5895",
+    "event_name": "Vintage Vibes: Kohl & Ben",
+    "event_date": "2019-07-04",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-07-04",
+    "event_time_until": "19:00:00",
+    "location": "Containall – Stromovka, Stromovka, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/djs-kohl-ben/lxttf/\" target=\"_blank\">DJs Kohl & Ben</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/b386a232ddbb1744c107c2b14197b40a7b5b94dd.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stromovka",
+    "location_address": "Stromovka, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5896",
+    "event_name": "Evening Vibes: DJ Ark",
+    "event_date": "2019-07-05",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-07-05",
+    "event_time_until": "19:00:00",
+    "location": "Containall – Stromovka, Stromovka, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/ark3r/sgd/\" target=\"_blank\">Ark3r</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/3737861e58b935cc412cca661cbffdcf154a11e0.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stromovka",
+    "location_address": "Stromovka, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5897",
+    "event_name": "The Lure",
+    "event_date": "2019-07-08",
+    "event_time": "21:00:00",
+    "event_date_until": "2019-07-08",
+    "event_time_until": "21:00:00",
+    "location": "Containall – Stromovka, Stromovka, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Režisér: Agnieszka Smoczynska</div><div class=\"\">Umělci: Marta Mazurek, Michalina Olszańska, Kinga Preis, Jakub Gierszał, Zygmunt Malanowicz, Magdalena Cielecka, Katarzyna Herman, Marcin Kowalczyk, Roma Gąsiorowska, Grzegorz Stelmaszewski</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/3a4744ba1a60052c7260f12f3f2ffb413efa6c6a.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stromovka",
+    "location_address": "Stromovka, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5898",
+    "event_name": "Barbora Tőgel: Hoeski",
+    "event_date": "2019-06-29",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-07-17",
+    "event_time_until": "23:59:59",
+    "location": "Page Five, Veverkova 5, Praha 1",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/383c4e09723955ea624f2c7a0970bddf6b231132.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Page Five",
+    "location_address": "Veverkova 5, Praha 1",
+    "categories": [
+      {
+        "subcategory_name": "Výstavy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5899",
+    "event_name": "Whispers l",
+    "event_date": "2019-07-18",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-07-18",
+    "event_time_until": "19:00:00",
+    "location": "Containall – Stromovka, Stromovka, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/d9da4d3aec68e2bfe4ecbb311154b8474692ae8a.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stromovka",
+    "location_address": "Stromovka, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      },
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5900",
+    "event_name": "Stalin Stage: Ba:zel + Libertae",
+    "event_date": "2019-07-24",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-07-24",
+    "event_time_until": "20:00:00",
+    "location": "Containall – Stalin, Letenské sady, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/ba-zel/iowrf/\" target=\"_blank\">Ba:zel</a><a href=\"https://goout.net/en/artists/libertae/ujyuf/\" target=\"_blank\">Libertae</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/9db3b367cb90f696def2fb13a95c7dee43343011.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stalin",
+    "location_address": "Letenské sady, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5901",
+    "event_name": "Evening Vibes: Magič & Adam Urban",
+    "event_date": "2019-07-24",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-07-24",
+    "event_time_until": "19:00:00",
+    "location": "Containall – Stromovka, Stromovka, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/dj-magic/ntcwf/\" target=\"_blank\">DJ Magič</a><a href=\"https://goout.net/en/artists/adam-urban-renk/pborf/\" target=\"_blank\">Adam Urban (Renk)</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/92b3d5a80fe93bb06160a5f48a64ca556de9c9ee.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stromovka",
+    "location_address": "Stromovka, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5902",
+    "event_name": "Umění v kapse",
+    "event_date": "2019-03-22",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-08-12",
+    "event_time_until": "23:59:59",
+    "location": "DOX Centrum současného umění, Poupětova 1, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/cf0c54ddcc48217d580434416819567957db158f.jpg",
+    "price": "400–600",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "DOX Centrum současného umění",
+    "location_address": "Poupětova 1, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5903",
+    "event_name": "S kůží na trh",
+    "event_date": "2019-03-22",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-08-12",
+    "event_time_until": "23:59:59",
+    "location": "DOX Centrum současného umění, Poupětova 1, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/8d31e7fa0fe42f28021cf8b3fe9576d2ac35c73c.jpg",
+    "price": "400–600",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "DOX Centrum současného umění",
+    "location_address": "Poupětova 1, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5904",
+    "event_name": "Whispers Ii",
+    "event_date": "2019-08-29",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-08-29",
+    "event_time_until": "19:00:00",
+    "location": "Containall – Stromovka, Stromovka, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/88c6913cc5106bd9fd27fe95a8c4cea4bf4db8a8.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stromovka",
+    "location_address": "Stromovka, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5905",
+    "event_name": "ADHD",
+    "event_date": "2019-09-08",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-09-08",
+    "event_time_until": "19:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "*Contemporary circus grotesque, poem, painting as well as dark fury.*\n\n_\"If I did not have ADHD, I would never have been able to create our company. I would never have established Jatka78. If I did not have ADHD, I would never start sports our paint. I have ADHD and thanks to it I can tire myself but also my surroundings. I have ADHD and thanks to it I can ravage myself but also my surroundings. I have ADHD and thanks to it I can destroy myself but also my surroundings. I have ADHD and thanks to it I can create. I myself seek order in chaos. I myself seek joy in chaos. I myself seek smile in chaos. Sometimes I feel my brain will explode and then I am alone. I do not want to be alone, I want to be with you.\"_ Rostislav Novák Jr.\n\n<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/cirk-la-putyka/lhkpf/\" target=\"_blank\">Cirk La Putyka</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/c65ae7c063c9c67d2ba5348737a3e0ff45079571.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5906",
+    "event_name": "ADHD",
+    "event_date": "2019-09-09",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-09-09",
+    "event_time_until": "19:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "*Contemporary circus grotesque, poem, painting as well as dark fury.*\n\n_\"If I did not have ADHD, I would never have been able to create our company. I would never have established Jatka78. If I did not have ADHD, I would never start sports our paint. I have ADHD and thanks to it I can tire myself but also my surroundings. I have ADHD and thanks to it I can ravage myself but also my surroundings. I have ADHD and thanks to it I can destroy myself but also my surroundings. I have ADHD and thanks to it I can create. I myself seek order in chaos. I myself seek joy in chaos. I myself seek smile in chaos. Sometimes I feel my brain will explode and then I am alone. I do not want to be alone, I want to be with you.\"_ Rostislav Novák Jr.\n\n<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/cirk-la-putyka/lhkpf/\" target=\"_blank\">Cirk La Putyka</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/0f490ab16ba07bea7ae747fbd250bc23f2543af5.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5907",
+    "event_name": "ADHD",
+    "event_date": "2019-09-11",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-09-11",
+    "event_time_until": "19:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "*Contemporary circus grotesque, poem, painting as well as dark fury.*\n\n_\"If I did not have ADHD, I would never have been able to create our company. I would never have established Jatka78. If I did not have ADHD, I would never start sports our paint. I have ADHD and thanks to it I can tire myself but also my surroundings. I have ADHD and thanks to it I can ravage myself but also my surroundings. I have ADHD and thanks to it I can destroy myself but also my surroundings. I have ADHD and thanks to it I can create. I myself seek order in chaos. I myself seek joy in chaos. I myself seek smile in chaos. Sometimes I feel my brain will explode and then I am alone. I do not want to be alone, I want to be with you.\"_ Rostislav Novák Jr.\n\n<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/cirk-la-putyka/lhkpf/\" target=\"_blank\">Cirk La Putyka</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/19d33316fbb9cb54a709fd4dde94a59bd32d3290.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5908",
+    "event_name": "ADHD",
+    "event_date": "2019-09-12",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-09-12",
+    "event_time_until": "19:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "*Contemporary circus grotesque, poem, painting as well as dark fury.*\n\n_\"If I did not have ADHD, I would never have been able to create our company. I would never have established Jatka78. If I did not have ADHD, I would never start sports our paint. I have ADHD and thanks to it I can tire myself but also my surroundings. I have ADHD and thanks to it I can ravage myself but also my surroundings. I have ADHD and thanks to it I can destroy myself but also my surroundings. I have ADHD and thanks to it I can create. I myself seek order in chaos. I myself seek joy in chaos. I myself seek smile in chaos. Sometimes I feel my brain will explode and then I am alone. I do not want to be alone, I want to be with you.\"_ Rostislav Novák Jr.\n\n<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/cirk-la-putyka/lhkpf/\" target=\"_blank\">Cirk La Putyka</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/deb3fa427bfa4d7c09511a6eafae780f95f10b48.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5909",
+    "event_name": "ADHD",
+    "event_date": "2019-09-13",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-09-13",
+    "event_time_until": "19:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "*Contemporary circus grotesque, poem, painting as well as dark fury.*\n\n_\"If I did not have ADHD, I would never have been able to create our company. I would never have established Jatka78. If I did not have ADHD, I would never start sports our paint. I have ADHD and thanks to it I can tire myself but also my surroundings. I have ADHD and thanks to it I can ravage myself but also my surroundings. I have ADHD and thanks to it I can destroy myself but also my surroundings. I have ADHD and thanks to it I can create. I myself seek order in chaos. I myself seek joy in chaos. I myself seek smile in chaos. Sometimes I feel my brain will explode and then I am alone. I do not want to be alone, I want to be with you.\"_ Rostislav Novák Jr.\n\n<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/cirk-la-putyka/lhkpf/\" target=\"_blank\">Cirk La Putyka</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/a0eefcf168f7dd5db8ff2622ba1ee54f9e421a64.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5910",
+    "event_name": "Proton!!!",
+    "event_date": "2019-09-17",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-09-17",
+    "event_time_until": "19:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "*Stage radio report about the discovery of a crazy Czech band Proton, which was silenced just before it became famous.*\n\nStriking story of a forgotten musical legend from which the giants of both popular music and underground have been awaiting much more. With the musical star of the dark sky of deep normalisation, there is an unbelievable amount of incredible stories of contemporary musicians.<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/vosto5/rhkpf/\" target=\"_blank\">Vosto5</a></div><div class=\"\">Autor: Ondřej Cihlář a Petr Marek</div><div class=\"\">Režisér: Ondřej Cihlář</div><div class=\"\">Umělci: Ondřej Bauer, Ondřej Cihlář, Jiří Havelka / Robert Mikluš, Tomina Jeřábek, Petr Marek, Petr Prokop a Bára Mišíková</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/878e8ee770f7fe16f1d14362503089be21a12c0f.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5911",
+    "event_name": "Faust",
+    "event_date": "2019-09-19",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-09-19",
+    "event_time_until": "19:00:00",
+    "location": "RockOpera Praha, Komunardů 1, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: J. W. Goethe, Milan Steigerwald, Pavla Forest</div><div class=\"\">Režisér: Roman Štolpa</div><div class=\"\">Umělci: Jiří Zonyga, Daniela Gildenlöw Langrová, Viktor Dyk, Kamil Střihavka / Petr Kutheil, Jan Toužimský / Honza Tláskal, Pavla Forest, Helena Kubelková, Šáren Makovcová, Petr Opava, Petr Semerád a další</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/41fb76cdd73bd69920fe9e2747f9f39ea35c086f.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "RockOpera Praha",
+    "location_address": "Komunardů 1, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5912",
+    "event_name": "Isole",
+    "event_date": "2019-09-21",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-09-21",
+    "event_time_until": "19:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/cirk-la-putyka/lhkpf/\" target=\"_blank\">Cirk La Putyka</a></div><div class=\"\">Režisér: Maksim Komaro</div><div class=\"\">Umělci: Jan Balcar, Andrej Rády, David Hlaváč / Adam Novotný, Veronika Linhartová, Valentin Verdure, Zbyněk Šporc, Anna Schmidtmajerová</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/7c8133c989a5fabbe57184f1b22847f431395d68.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5913",
+    "event_name": "Isole",
+    "event_date": "2019-09-22",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-09-22",
+    "event_time_until": "19:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/cirk-la-putyka/lhkpf/\" target=\"_blank\">Cirk La Putyka</a></div><div class=\"\">Režisér: Maksim Komaro</div><div class=\"\">Umělci: Jan Balcar, Andrej Rády, David Hlaváč / Adam Novotný, Veronika Linhartová, Valentin Verdure, Zbyněk Šporc, Anna Schmidtmajerová</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/dd3a34eb2b71150a948c4fe7a8be3f0dd80b4a2c.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5914",
+    "event_name": "Diáky: Saša jede nejden do Tibetu",
+    "event_date": "2019-09-24",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-09-24",
+    "event_time_until": "20:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Do you think you can go snowshoes trekking through the Swedish wilderness when five weeks old? Is it possible to mountain bike over 5000 m high Tibet passes for a thirteen-month-old boy? Or to be transferred over the Himalayas in 20 months of age? Could barely three years old boy (alone) climb to the still hot volcano in Iceland, the one that stopped air traffic over Europe?\nYes, it is. Come to see Saša and his father telling about their advetures.<div class=\"\">Režisér: Czech Version</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/2a668012fffeb6c38b0eaa42990e041f1a068c5f.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5915",
+    "event_name": "Probuzení",
+    "event_date": "2019-09-26",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-09-26",
+    "event_time_until": "19:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/vosto5/rhkpf/\" target=\"_blank\">Vosto5</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/3c8ddde1409fb11f986fa1fa6f62b67546e93b1e.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5916",
+    "event_name": "Romeo & Julie",
+    "event_date": "2019-09-26",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-09-26",
+    "event_time_until": "19:00:00",
+    "location": "RockOpera Praha, Komunardů 1, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: William Shakespeare, Milan Steigerwald, Pavla Forest</div><div class=\"\">Režisér: Roman Štolpa</div><div class=\"\">Umělci: Jiří Švec, Žofie Dařbujánová, Kamil Střihavka, Pavla Forest, Viktor Dyk, Jan Toužimský, Jiří Valeš, Lukáš Pařík, Jan Danda, Daniela Gildenlöw Langrová, Žántí, Petr Stehlík, Helena Kubelková, Josef Šutara, Matěj Kohout, Ian Kodet, Lukáš Jindra, Michaela Jakerlová, Erika Kolská, Filipa Kraft, Andrea Šebek Procházková, Adéla Kubelková, Jakub Štolpa, Matěj Štolpa, Marie Steigerwaldová, Carmina Bohemica</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/26ff6d6fc66037f6dbe3fcfc84837f1f6109e93a.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "RockOpera Praha",
+    "location_address": "Komunardů 1, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5917",
+    "event_name": "Sancho Panza",
+    "event_date": "2019-10-01",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-01",
+    "event_time_until": "19:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/cirk-la-putyka/lhkpf/\" target=\"_blank\">Cirk La Putyka</a><a href=\"https://goout.net/en/artists/skutr/ckkpf/\" target=\"_blank\">SKUTR</a></div><div class=\"\">Autor: SKUTR (Martin Kukučka a Lukáš Trpišovský)</div><div class=\"\">Umělci: Rostislav Novák ml., Jiří Kohout</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/f3e51963c4638061b28784a35ac3ffbc62a1d4b6.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5918",
+    "event_name": "Oidipus Tyranus",
+    "event_date": "2019-10-02",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-10-02",
+    "event_time_until": "19:00:00",
+    "location": "RockOpera Praha, Komunardů 1, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Sofokles, Milan Steigerwald, Pavla Forest</div><div class=\"\">Režisér: Roman Štolpa</div><div class=\"\">Umělci: Jan Toužimský, Kamil Střihavka, Viktor Dyk, Pavla Forest, Žántí / Linda Fait, Daniela Gildenlöw Langrová, Miroslava Časarová, Petr Opava, Petr Dopita, RAVEN, Aneta Aberlová, Tereza Georgievová, Josef Šutara, Zuzana Dovalová, Linda Mikolášková, Michal Cerman, Petr Semerád, Miloslav Kočí, Šafren Makovcová, Adriana Pítrová, Jana Jiroušková, Andrea Šebek Procházková, David Lapčák, Nikola Lapčáková</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/7fa4cfa1a272f26168ec6548bab85b45ba0ac292.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "RockOpera Praha",
+    "location_address": "Komunardů 1, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5919",
+    "event_name": "Sancho Panza",
+    "event_date": "2019-10-03",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-03",
+    "event_time_until": "19:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/cirk-la-putyka/lhkpf/\" target=\"_blank\">Cirk La Putyka</a><a href=\"https://goout.net/en/artists/skutr/ckkpf/\" target=\"_blank\">SKUTR</a></div><div class=\"\">Autor: SKUTR (Martin Kukučka a Lukáš Trpišovský)</div><div class=\"\">Umělci: Rostislav Novák ml., Jiří Kohout</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/ecd335c2ef5407f724070856fa943d8fd62f37ed.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5920",
+    "event_name": "Sancho Panza",
+    "event_date": "2019-10-04",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-04",
+    "event_time_until": "19:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/cirk-la-putyka/lhkpf/\" target=\"_blank\">Cirk La Putyka</a><a href=\"https://goout.net/en/artists/skutr/ckkpf/\" target=\"_blank\">SKUTR</a></div><div class=\"\">Autor: SKUTR (Martin Kukučka a Lukáš Trpišovský)</div><div class=\"\">Umělci: Rostislav Novák ml., Jiří Kohout</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/366011b3bcfe9019eff280ccc25082f834f2c3b4.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5921",
+    "event_name": "Sancho Panza",
+    "event_date": "2019-10-05",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-05",
+    "event_time_until": "19:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/cirk-la-putyka/lhkpf/\" target=\"_blank\">Cirk La Putyka</a><a href=\"https://goout.net/en/artists/skutr/ckkpf/\" target=\"_blank\">SKUTR</a></div><div class=\"\">Autor: SKUTR (Martin Kukučka a Lukáš Trpišovský)</div><div class=\"\">Umělci: Rostislav Novák ml., Jiří Kohout</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/0446726957e75d4288cfb2ecc8ca54d017af6b76.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5922",
+    "event_name": "Putinovi agenti",
+    "event_date": "2019-10-08",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-08",
+    "event_time_until": "19:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/temporary-collective/swpdg/\" target=\"_blank\">Temporary Collective</a></div><div class=\"\">Režisér: Petra Tejnorová</div><div class=\"\">Umělci: Petr Vančura</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/b0df68426064ca8b1819cc44455358e37fe9cb5e.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5923",
+    "event_name": "Putinovi agenti",
+    "event_date": "2019-10-09",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-09",
+    "event_time_until": "19:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/temporary-collective/swpdg/\" target=\"_blank\">Temporary Collective</a></div><div class=\"\">Režisér: Petra Tejnorová</div><div class=\"\">Umělci: Petr Vančura</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/9e37d9b5ec83a44c8362a8d24196e57d11967cee.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5924",
+    "event_name": "Putinovi agenti",
+    "event_date": "2019-10-10",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-10",
+    "event_time_until": "19:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/temporary-collective/swpdg/\" target=\"_blank\">Temporary Collective</a></div><div class=\"\">Režisér: Petra Tejnorová</div><div class=\"\">Umělci: Petr Vančura</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/e4bf2868567df9597769b0834503849df8461174.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5925",
+    "event_name": "Biograf",
+    "event_date": "2019-10-11",
+    "event_time": "18:30:00",
+    "event_date_until": "2019-10-11",
+    "event_time_until": "18:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "Unique Theatrical Meetings of Yesterday's Film Heroes – This is the basis of the story that you will be guided through by someone who hasn't left the movies to this day. A little director, a bit of a ticket taker, a bit of a projectionist, a bit of a popcorn salesman, but especially an old friend to the now forgotten silver screen heroes – big, small, invisible, inventive, tender, and spooky. Their common stories will be accompanied by a pianist, just as it was during silent films.\n\n_Biograf_ is for lovers of cinemas of all ages.<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/cirk-la-putyka/lhkpf/\" target=\"_blank\">Cirk La Putyka</a></div><div class=\"\">Autor: Marek Zákostelecký, Jiří Kohout, František Karel Tománek</div><div class=\"\">Režisér: Marek Zákostelecký, Jiří Kohout, František Karel Tománek</div><div class=\"\">Umělci: Jiří Kohout, Jan Čtvrtník</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/b40639ef9170429a242b9f44db2d92e1576fe747.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5926",
+    "event_name": "Biograf",
+    "event_date": "2019-10-12",
+    "event_time": "18:30:00",
+    "event_date_until": "2019-10-12",
+    "event_time_until": "18:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "Unique Theatrical Meetings of Yesterday's Film Heroes – This is the basis of the story that you will be guided through by someone who hasn't left the movies to this day. A little director, a bit of a ticket taker, a bit of a projectionist, a bit of a popcorn salesman, but especially an old friend to the now forgotten silver screen heroes – big, small, invisible, inventive, tender, and spooky. Their common stories will be accompanied by a pianist, just as it was during silent films.\n\n_Biograf_ is for lovers of cinemas of all ages.<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/cirk-la-putyka/lhkpf/\" target=\"_blank\">Cirk La Putyka</a></div><div class=\"\">Autor: Marek Zákostelecký, Jiří Kohout, František Karel Tománek</div><div class=\"\">Režisér: Marek Zákostelecký, Jiří Kohout, František Karel Tománek</div><div class=\"\">Umělci: Jiří Kohout, Jan Čtvrtník</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/3d98c5e50fa173d33c7004afa00966c1dab454be.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5927",
+    "event_name": "Biograf",
+    "event_date": "2019-10-12",
+    "event_time": "15:00:00",
+    "event_date_until": "2019-10-12",
+    "event_time_until": "15:00:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "Unique Theatrical Meetings of Yesterday's Film Heroes – This is the basis of the story that you will be guided through by someone who hasn't left the movies to this day. A little director, a bit of a ticket taker, a bit of a projectionist, a bit of a popcorn salesman, but especially an old friend to the now forgotten silver screen heroes – big, small, invisible, inventive, tender, and spooky. Their common stories will be accompanied by a pianist, just as it was during silent films.\n\n_Biograf_ is for lovers of cinemas of all ages.<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/cirk-la-putyka/lhkpf/\" target=\"_blank\">Cirk La Putyka</a></div><div class=\"\">Autor: Marek Zákostelecký, Jiří Kohout, František Karel Tománek</div><div class=\"\">Režisér: Marek Zákostelecký, Jiří Kohout, František Karel Tománek</div><div class=\"\">Umělci: Jiří Kohout, Jan Čtvrtník</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/f411cccf459d98fa5181292f6e9af0086f4e5f5c.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5928",
+    "event_name": "Black Black Woods",
+    "event_date": "2019-10-13",
+    "event_time": "18:30:00",
+    "event_date_until": "2019-10-13",
+    "event_time_until": "18:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "Kalevala, The Peloponnesian War, Dürer’s Melancholia, Fruček, Kapetanea, Novák senior, Novák junior., Mantzoukis, Záveská, Musa, Athens, Prague, Cirk La Putyka, Rootlessroot, combat, tears, hug, embrace, alcohol, laugh, madness, childhood, old age, hyperactivity, support, 1948/1979/2016. Black Black Wood, place of meeting of the father and the son. Some rules cannot be broken; they already are in force for thousands of years.\n\n_„Jozef Fruček asked me if show that I want to produce, shall enjoy a success in Prague, or show, which shall infringe limits of the present performance art in general. Guess, what was my answer.\"_ - Rostislav Novák Jr.\n\n*The rules of the black black woods *\n\nFrom 6.30 to 9 pm, the audience is encouraged to take a break whenever needed, whether for refreshment or bathroom errands. The door to the theatre hall shall be shut at 9.00, after which time no one shall be allowed to enter due to a high number of performers in the space. We thank you for respecting these rules and for your understanding.\n\nCome and stop for a couple of hours and revel in the beauty of the black black woods.\n\n*Partly in Czech.*<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/cirk-la-putyka/lhkpf/\" target=\"_blank\">Cirk La Putyka</a></div><div class=\"\">Režisér: Jozef Fruček, Linda Kapetanea</div><div class=\"\">Umělci: Rostislav Novák ml., Rostislav Novák st.</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/99b73fb19b7cfe27e8aed2f2a8a576322eb05721.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5929",
+    "event_name": "Airground",
+    "event_date": "2019-10-14",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-14",
+    "event_time_until": "19:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "The performance _Airground_ is about the path to independence and playing with gravity. Come experience the sense of rising and falling in a touching story that mixes the circus arts (high-wire acrobatics, acro-yoga and more) with live music and elements of dance and movement theatre.\n\nThey will find themselves amidst memories that have come to bid farewell, they will soar to new heights, jump with a parachute, let themselves be saved and surprised whether it is possible to liberate oneself from the bonds of the past. Each of them must decide how to approach life, even if it is not an easy choice.\n\nGain insight into one life story and let yourself be inspired to new flights of fancy. An event that balances on the boundaries between several theatre genres. What happens if they lose their balance?<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/cirk-la-putyka/lhkpf/\" target=\"_blank\">Cirk La Putyka</a></div><div class=\"\">Autor: Štěpán Benyovszký, Tom Rychetský a kol.</div><div class=\"\">Režisér: Tom Rychetský</div><div class=\"\">Umělci: Anna Schmidtmajerová, Šárka Bočková, Jana Smolíková, David Hlaváč</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/46222982ee9608b14168beec91452cd8383423e3.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5930",
+    "event_name": "Airground",
+    "event_date": "2019-10-15",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-15",
+    "event_time_until": "19:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "The performance _Airground_ is about the path to independence and playing with gravity. Come experience the sense of rising and falling in a touching story that mixes the circus arts (high-wire acrobatics, acro-yoga and more) with live music and elements of dance and movement theatre.\n\nThey will find themselves amidst memories that have come to bid farewell, they will soar to new heights, jump with a parachute, let themselves be saved and surprised whether it is possible to liberate oneself from the bonds of the past. Each of them must decide how to approach life, even if it is not an easy choice.\n\nGain insight into one life story and let yourself be inspired to new flights of fancy. An event that balances on the boundaries between several theatre genres. What happens if they lose their balance?<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/cirk-la-putyka/lhkpf/\" target=\"_blank\">Cirk La Putyka</a></div><div class=\"\">Autor: Štěpán Benyovszký, Tom Rychetský a kol.</div><div class=\"\">Režisér: Tom Rychetský</div><div class=\"\">Umělci: Anna Schmidtmajerová, Šárka Bočková, Jana Smolíková, David Hlaváč</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/ed6b5ada3023d5aa05e97c00834130ecd323d871.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5931",
+    "event_name": "Anna Karenina",
+    "event_date": "2019-10-16",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-10-16",
+    "event_time_until": "19:00:00",
+    "location": "RockOpera Praha, Komunardů 1, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: L. N. Tolstoj, Milan Steigerwald, Pavla Forest</div><div class=\"\">Režisér: Roman Štolpa</div><div class=\"\">Umělci: Pavla Forest, Jiří Zonyga, Jan Toužimský, Viktor Dyk, Žántí, Petr Semerád, Petr Opava, Jana Paňková</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/170f6871f56afa3e10105f31ca940ddfebf20967.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "RockOpera Praha",
+    "location_address": "Komunardů 1, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5932",
+    "event_name": "Probuzení",
+    "event_date": "2019-10-17",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-17",
+    "event_time_until": "19:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/vosto5/rhkpf/\" target=\"_blank\">Vosto5</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/70255073af18a3a2e0b3ff24488ebc5c42bda1d5.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5933",
+    "event_name": "Batacchio",
+    "event_date": "2019-10-19",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-19",
+    "event_time_until": "19:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "The production of _Batacchio_ is inspired by the poetry of old nomadic theater companies that freely combined in their performances all sorts of human skills and creations: from circus figures and theatrical and music scenes to the miracles of the new technologies at that time to the demonstrations of the anatomical anomalies of animals and humans. _Batacchio_ will captivate you with the atmosphere of an old shadow full of magical tricks, breathtaking acrobatics, and humor. On the stage, seven acrobats and actors will appear in an unusual combination of new circus disciplines with those you will not see on the stage anymore.<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/cirk-la-putyka/lhkpf/\" target=\"_blank\">Cirk La Putyka</a></div><div class=\"\">Autor: Maksim Komaro</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/ba9fd4d5757667b4ce5a870881bdb1981404fd9c.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5934",
+    "event_name": "Sezóna X",
+    "event_date": "2019-10-20",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-20",
+    "event_time_until": "19:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/brothers-in-trick/oxepf/\" target=\"_blank\">Brothers in Trick</a></div><div class=\"\">Umělci: Adam Jarchovský, Václav Jelínek a spousta hostů</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/1c4bef0a8a2a9d0439599bcd3ef2fbca83a3c1f7.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5935",
+    "event_name": "Proton!!!",
+    "event_date": "2019-10-21",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-21",
+    "event_time_until": "19:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "*Stage radio report about the discovery of a crazy Czech band Proton, which was silenced just before it became famous.*\n\nStriking story of a forgotten musical legend from which the giants of both popular music and underground have been awaiting much more. With the musical star of the dark sky of deep normalisation, there is an unbelievable amount of incredible stories of contemporary musicians.<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/vosto5/rhkpf/\" target=\"_blank\">Vosto5</a></div><div class=\"\">Autor: Ondřej Cihlář a Petr Marek</div><div class=\"\">Režisér: Ondřej Cihlář</div><div class=\"\">Umělci: Ondřej Bauer, Ondřej Cihlář, Jiří Havelka / Robert Mikluš, Tomina Jeřábek, Petr Marek, Petr Prokop a Bára Mišíková</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/882dbf373c14ba6dbb8f52ab8f15e933537fb99d.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5936",
+    "event_name": "Honey",
+    "event_date": "2019-10-27",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-27",
+    "event_time_until": "19:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "_Honey_ is a love story based on real events. Two sets are played together, and their artistic means are completely different. That is why the idea of ​​working together has arisen. And the desire to combine the authentic personality and chamber dramatic acting of Dejvicka Theater with an equally authentic pure stage \"being\" expressed by the elements of Cirk La Putyk's new circus so that something new, perhaps surprising, and definitely original, is created. They always create something that has not yet occurred in such symbiosis. It is definitely not about creating a first-rate attraction, but a powerful experience that enriches not only the artists of both theaters during the creative process, but which primarily affects all the senses of the viewer.\n<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/cirk-la-putyka/lhkpf/\" target=\"_blank\">Cirk La Putyka</a><a href=\"https://goout.net/en/artists/dejvicke-divadlo/uklvf/\" target=\"_blank\">Dejvické divadlo</a></div><div class=\"\">Autor: Miroslav Krobot, Lubomír Smékal</div><div class=\"\">Režisér: Miroslav Krobot</div><div class=\"\">Umělci: Jan Balcar, Šárka Bočková, Jenovéfa Boková, Vojtěch Fülep / Ondřej Malý, Jana Holcová, Jiří Kohout, Daniel Komarov, Lenka Krobotová, Tereza Nádvorníková, Václav Neužil, Jaroslav Plesl, Vladimír Polívka, Anna Schmidtmajerová, Alexandr Volný, Jiří Weissmann</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/6c94aef08f4133e2e065be3b12ffbb80988c42ed.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5937",
+    "event_name": "Honey",
+    "event_date": "2019-10-28",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-28",
+    "event_time_until": "19:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "_Honey_ is a love story based on real events. Two sets are played together, and their artistic means are completely different. That is why the idea of ​​working together has arisen. And the desire to combine the authentic personality and chamber dramatic acting of Dejvicka Theater with an equally authentic pure stage \"being\" expressed by the elements of Cirk La Putyk's new circus so that something new, perhaps surprising, and definitely original, is created. They always create something that has not yet occurred in such symbiosis. It is definitely not about creating a first-rate attraction, but a powerful experience that enriches not only the artists of both theaters during the creative process, but which primarily affects all the senses of the viewer.\n<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/cirk-la-putyka/lhkpf/\" target=\"_blank\">Cirk La Putyka</a><a href=\"https://goout.net/en/artists/dejvicke-divadlo/uklvf/\" target=\"_blank\">Dejvické divadlo</a></div><div class=\"\">Autor: Miroslav Krobot, Lubomír Smékal</div><div class=\"\">Režisér: Miroslav Krobot</div><div class=\"\">Umělci: Jan Balcar, Šárka Bočková, Jenovéfa Boková, Vojtěch Fülep / Ondřej Malý, Jana Holcová, Jiří Kohout, Daniel Komarov, Lenka Krobotová, Tereza Nádvorníková, Václav Neužil, Jaroslav Plesl, Vladimír Polívka, Anna Schmidtmajerová, Alexandr Volný, Jiří Weissmann</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/b32e029a359e729e8dae6d2f6dcfa4aab812094f.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5938",
+    "event_name": "Honey",
+    "event_date": "2019-10-29",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-29",
+    "event_time_until": "19:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "_Honey_ is a love story based on real events. Two sets are played together, and their artistic means are completely different. That is why the idea of ​​working together has arisen. And the desire to combine the authentic personality and chamber dramatic acting of Dejvicka Theater with an equally authentic pure stage \"being\" expressed by the elements of Cirk La Putyk's new circus so that something new, perhaps surprising, and definitely original, is created. They always create something that has not yet occurred in such symbiosis. It is definitely not about creating a first-rate attraction, but a powerful experience that enriches not only the artists of both theaters during the creative process, but which primarily affects all the senses of the viewer.\n<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/cirk-la-putyka/lhkpf/\" target=\"_blank\">Cirk La Putyka</a><a href=\"https://goout.net/en/artists/dejvicke-divadlo/uklvf/\" target=\"_blank\">Dejvické divadlo</a></div><div class=\"\">Autor: Miroslav Krobot, Lubomír Smékal</div><div class=\"\">Režisér: Miroslav Krobot</div><div class=\"\">Umělci: Jan Balcar, Šárka Bočková, Jenovéfa Boková, Vojtěch Fülep / Ondřej Malý, Jana Holcová, Jiří Kohout, Daniel Komarov, Lenka Krobotová, Tereza Nádvorníková, Václav Neužil, Jaroslav Plesl, Vladimír Polívka, Anna Schmidtmajerová, Alexandr Volný, Jiří Weissmann</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/07a20fac8b14652c360d8d7a4b4c852627a5ac98.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5939",
+    "event_name": "Honey",
+    "event_date": "2019-10-30",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-30",
+    "event_time_until": "19:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "_Honey_ is a love story based on real events. Two sets are played together, and their artistic means are completely different. That is why the idea of ​​working together has arisen. And the desire to combine the authentic personality and chamber dramatic acting of Dejvicka Theater with an equally authentic pure stage \"being\" expressed by the elements of Cirk La Putyk's new circus so that something new, perhaps surprising, and definitely original, is created. They always create something that has not yet occurred in such symbiosis. It is definitely not about creating a first-rate attraction, but a powerful experience that enriches not only the artists of both theaters during the creative process, but which primarily affects all the senses of the viewer.\n<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/cirk-la-putyka/lhkpf/\" target=\"_blank\">Cirk La Putyka</a><a href=\"https://goout.net/en/artists/dejvicke-divadlo/uklvf/\" target=\"_blank\">Dejvické divadlo</a></div><div class=\"\">Autor: Miroslav Krobot, Lubomír Smékal</div><div class=\"\">Režisér: Miroslav Krobot</div><div class=\"\">Umělci: Jan Balcar, Šárka Bočková, Jenovéfa Boková, Vojtěch Fülep / Ondřej Malý, Jana Holcová, Jiří Kohout, Daniel Komarov, Lenka Krobotová, Tereza Nádvorníková, Václav Neužil, Jaroslav Plesl, Vladimír Polívka, Anna Schmidtmajerová, Alexandr Volný, Jiří Weissmann</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/bcfe3b149e9183ae04ebcb5f78437fff429ecc7e.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5940",
+    "event_name": "Frankenstein ",
+    "event_date": "2019-10-30",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-10-30",
+    "event_time_until": "19:00:00",
+    "location": "RockOpera Praha, Komunardů 1, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělci: Viktor Dyk, Jan Toužimský, Žántí, Pavla Forest, Honza Tláskal, Petr Opava, Helena Kubelková, Salvi Salvatore, Magdaléna Tampírová a další</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/9838e7daf7527b69543ca6737bda3526d52b6e84.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "RockOpera Praha",
+    "location_address": "Komunardů 1, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5941",
+    "event_name": "Honey",
+    "event_date": "2019-10-31",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-31",
+    "event_time_until": "19:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "_Honey_ is a love story based on real events. Two sets are played together, and their artistic means are completely different. That is why the idea of ​​working together has arisen. And the desire to combine the authentic personality and chamber dramatic acting of Dejvicka Theater with an equally authentic pure stage \"being\" expressed by the elements of Cirk La Putyk's new circus so that something new, perhaps surprising, and definitely original, is created. They always create something that has not yet occurred in such symbiosis. It is definitely not about creating a first-rate attraction, but a powerful experience that enriches not only the artists of both theaters during the creative process, but which primarily affects all the senses of the viewer.\n<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/cirk-la-putyka/lhkpf/\" target=\"_blank\">Cirk La Putyka</a><a href=\"https://goout.net/en/artists/dejvicke-divadlo/uklvf/\" target=\"_blank\">Dejvické divadlo</a></div><div class=\"\">Autor: Miroslav Krobot, Lubomír Smékal</div><div class=\"\">Režisér: Miroslav Krobot</div><div class=\"\">Umělci: Jan Balcar, Šárka Bočková, Jenovéfa Boková, Vojtěch Fülep / Ondřej Malý, Jana Holcová, Jiří Kohout, Daniel Komarov, Lenka Krobotová, Tereza Nádvorníková, Václav Neužil, Jaroslav Plesl, Vladimír Polívka, Anna Schmidtmajerová, Alexandr Volný, Jiří Weissmann</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/f86feecbb66a21e1d305ba4e15b044d6fa61b1db.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5942",
+    "event_name": "Bloody Sexy Halloweekend",
+    "event_date": "2019-11-01",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-11-02",
+    "event_time_until": "23:59:59",
+    "location": "SaSaZu, Bubenské nábřeží 306, Praha 7",
+    "address": "",
+    "description": "The 10th anniversary of the „naughtiest“ Halloween party in Central Europe takes place at Sasazu.",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/bb3c7eba42c24058325f96d95ea7963c06c7cb06.jpg",
+    "price": "200–1500",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/bloody-sexy-halloweekend/kite",
+    "cancelled": "0",
+    "location_name": "SaSaZu",
+    "location_address": "Bubenské nábřeží 306, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5943",
+    "event_name": "Vymítač",
+    "event_date": "2019-11-07",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-11-07",
+    "event_time_until": "19:00:00",
+    "location": "RockOpera Praha, Komunardů 1, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Milan Steigerwald, Pavla Forest</div><div class=\"\">Režisér: Irina Andreeva</div><div class=\"\">Umělci: Kamil Střihavka, Honza Toužimský / Jan Tláskal, Petr Kutheil, Helena Kubelková, Petr Opava, Pavla Forest, Žántí, Magdaléna Tempírová, ​​Jana Kadeřávková, Alexandra Kalousová, Eva Petrášková, Jana Eichlerová a další</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/abaa3ca6ee3ce75ed021756f4a0fb8feac1a6a4c.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "RockOpera Praha",
+    "location_address": "Komunardů 1, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5944",
+    "event_name": "Svatební Korzování",
+    "event_date": "2019-11-10",
+    "event_time": "10:00:00",
+    "event_date_until": "2019-11-10",
+    "event_time_until": "10:00:00",
+    "location": "Vnitroblock, Tusarova 791/31, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/86abffb96fd71ea54e4c86a2e161aee3246b7d53.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Vnitroblock",
+    "location_address": "Tusarova 791/31, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5945",
+    "event_name": "Malý princ",
+    "event_date": "2019-11-10",
+    "event_time": "15:00:00",
+    "event_date_until": "2019-11-10",
+    "event_time_until": "15:00:00",
+    "location": "RockOpera Praha, Komunardů 1, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Antoine de Saint-Exupéry, Milan Steigerwald, Pavla Forest</div><div class=\"\">Režisér: Irina Andreeva</div><div class=\"\">Umělci: Irina Andreeva, Marie Steigerwaldová, Kamil Střihavka, Matěj Kohout, Vladimir Benderski, Irena Kristeková, Daniela G. Langrová, Salvi Salvatore, Pavla Forest, Lukáš Šimon, Petr Opava​</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/b05fe31ca99a3ea0b9a6886c37e5e26205faf03e.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "RockOpera Praha",
+    "location_address": "Komunardů 1, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5946",
+    "event_name": "Frankenstein ",
+    "event_date": "2019-11-19",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-11-19",
+    "event_time_until": "19:00:00",
+    "location": "RockOpera Praha, Komunardů 1, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělci: Viktor Dyk, Jan Toužimský, Žántí, Pavla Forest, Honza Tláskal, Petr Opava, Helena Kubelková, Salvi Salvatore, Magdaléna Tampírová a další</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/6b15c2952d05f2ee180264ede59abd70cdac60f7.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "RockOpera Praha",
+    "location_address": "Komunardů 1, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5947",
+    "event_name": "7 against Thebes",
+    "event_date": "2019-12-04",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-12-04",
+    "event_time_until": "19:00:00",
+    "location": "RockOpera Praha, Komunardů 1, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Aischylos, Sofokles, Milan Steigerwald, Pavla Forest</div><div class=\"\">Režisér: Roman Štolpa</div><div class=\"\">Umělci: Jan Toužimský, Lukáš Písařík, Jiří Zonyga, Viktor Dyk, Pavla Forest, Josef Šutara, Žántí, Daniela Langerová, Michaela Gemrotová, Miroslava Časarová, Petr Opava, Jiří Valeš a další</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/233fa3cbf92057773b8ff79dd71bb419a32db048.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "RockOpera Praha",
+    "location_address": "Komunardů 1, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5948",
+    "event_name": "Faust",
+    "event_date": "2019-12-13",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-12-13",
+    "event_time_until": "19:00:00",
+    "location": "RockOpera Praha, Komunardů 1, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: J. W. Goethe, Milan Steigerwald, Pavla Forest</div><div class=\"\">Režisér: Roman Štolpa</div><div class=\"\">Umělci: Jiří Zonyga, Daniela Gildenlöw Langrová, Viktor Dyk, Kamil Střihavka / Petr Kutheil, Jan Toužimský / Honza Tláskal, Pavla Forest, Helena Kubelková, Šáren Makovcová, Petr Opava, Petr Semerád a další</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/e9b84e6dfd8fc1c4bc2014cf2faf5ab855230ddd.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "RockOpera Praha",
+    "location_address": "Komunardů 1, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5949",
+    "event_name": "Antigona",
+    "event_date": "2019-12-15",
+    "event_time": "16:00:00",
+    "event_date_until": "2019-12-15",
+    "event_time_until": "16:00:00",
+    "location": "RockOpera Praha, Komunardů 1, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Sofokles, Milan Steigerwald, Pavla Forest</div><div class=\"\">Režisér: Roman Štolpa</div><div class=\"\">Umělci: Linda Fait / Žántí, Viktor Dyk, Honza Tláskal, Pavla Forest, RAVEN, Miroslava Časarová, Petr Opava, Matěj Kohout, Miloslav Kočí, Zuzana Dovalová a další</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/df9dff492c1128c16797150b4baed3a13a774133.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "RockOpera Praha",
+    "location_address": "Komunardů 1, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
   }
 ]
