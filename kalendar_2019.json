@@ -73205,9 +73205,9 @@
     "description": "The performance _Airground_ is about the path to independence and playing with gravity. Come experience the sense of rising and falling in a touching story that mixes the circus arts (high-wire acrobatics, acro-yoga and more) with live music and elements of dance and movement theatre.\n\nThey will find themselves amidst memories that have come to bid farewell, they will soar to new heights, jump with a parachute, let themselves be saved and surprised whether it is possible to liberate oneself from the bonds of the past. Each of them must decide how to approach life, even if it is not an easy choice.\n\nGain insight into one life story and let yourself be inspired to new flights of fancy. An event that balances on the boundaries between several theatre genres. What happens if they lose their balance?<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/cirk-la-putyka/lhkpf/\" target=\"_blank\">Cirk La Putyka</a></div><div class=\"\">Autor: Štěpán Benyovszký, Tom Rychetský a kol.</div><div class=\"\">Režisér: Tom Rychetský</div><div class=\"\">Umělci: Anna Schmidtmajerová, Šárka Bočková, Jana Smolíková, David Hlaváč</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/ed6b5ada3023d5aa05e97c00834130ecd323d871.jpg",
-    "price": "",
+    "price": "390",
     "currency": "CZK",
-    "sale_url": null,
+    "sale_url": "https://goout.net/en/tickets/airground/dtte",
     "cancelled": "0",
     "location_name": "Jatka78",
     "location_address": "Bubenské nábřeží 306/13, Praha 7",
@@ -74176,6 +74176,84 @@
     "categories": [
       {
         "subcategory_name": "Výstavy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5968",
+    "event_name": "Mid90s",
+    "event_date": "2019-07-09",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-07-09",
+    "event_time_until": "20:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Follows Stevie, a thirteen-year-old in 1990s-era Los Angeles who spends his summer navigating between his troubled home life and a group of new friends that he meets at a Motor Avenue skate shop.<div class=\"\">Režisér: Jonah Hill</div><div class=\"\">Umělci: Sunny Suljic, Katherine Waterston, Lucas Hedges, Gio Galicia, Na-kel Smith, Olan Prenatt, Ryder McLaughlin, Alexa Demie, Harmony Korine, Jerrod Carmichael, Zachary Read</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/32236cc1e72bed37338a248c39c11a75ac21bc0e.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5969",
+    "event_name": "Mid90s",
+    "event_date": "2019-07-09",
+    "event_time": "18:30:00",
+    "event_date_until": "2019-07-09",
+    "event_time_until": "18:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Follows Stevie, a thirteen-year-old in 1990s-era Los Angeles who spends his summer navigating between his troubled home life and a group of new friends that he meets at a Motor Avenue skate shop.<div class=\"\">Režisér: Jonah Hill</div><div class=\"\">Umělci: Sunny Suljic, Katherine Waterston, Lucas Hedges, Gio Galicia, Na-kel Smith, Olan Prenatt, Ryder McLaughlin, Alexa Demie, Harmony Korine, Jerrod Carmichael, Zachary Read</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/4c447044c94cd18ceee498886be4fa0fcce3f420.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5970",
+    "event_name": "Hackers Congress Paralelní Polis 2019 Prague",
+    "event_date": "2019-10-04",
+    "event_time": "09:00:00",
+    "event_date_until": "2019-10-06",
+    "event_time_until": "23:59:59",
+    "location": "Paralelní Polis, Dělnická 43, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/8b28c879bceb642c18878af2a994cb3553c57801.jpg",
+    "price": "4900–9900",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Paralelní Polis",
+    "location_address": "Dělnická 43, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
       }
     ],
     "image": null,
