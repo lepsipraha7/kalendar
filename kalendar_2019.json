@@ -67225,7 +67225,7 @@
     "address": "",
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/stimming/ajmvf/\" target=\"_blank\">Stimming</a><a href=\"https://goout.net/en/artists/killiekrankie/ukpsf/\" target=\"_blank\">Killiekrankie</a><a href=\"https://goout.net/en/artists/insect-elektrika/nhy/\" target=\"_blank\">Insect Elektrika</a><a href=\"https://goout.net/en/artists/midub/cgvag/\" target=\"_blank\">Midub</a></div>",
     "image_id": null,
-    "image_src": "wp-content/uploads/goout/fd026d5d289eb05bd2daaa5b1a8bd6383805da24.jpg",
+    "image_src": "wp-content/uploads/goout/5086920424158ceb0c37a220e7df7a54f4cddb43.jpg",
     "price": "150–200",
     "currency": "CZK",
     "sale_url": "https://goout.net/en/tickets/stimming+killiekrankie+more/ybqe",
@@ -72003,9 +72003,9 @@
     "description": "",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/cfb5bedf34a8bc1c95274b60b1bf2d3a58ddf89b.jpg",
-    "price": "",
+    "price": "150–500",
     "currency": "CZK",
-    "sale_url": null,
+    "sale_url": "https://goout.net/en/tickets/joga-pro-dobrou-vec/daue",
     "cancelled": "0",
     "location_name": "Vnitroblock",
     "location_address": "Tusarova 791/31, Praha 7",
@@ -74362,5 +74362,291 @@
     ],
     "image": null,
     "goOutInfo": null
+  },
+  {
+    "id": "5975",
+    "event_name": "Zombie Syndicate: N:Snitch",
+    "event_date": "2019-07-05",
+    "event_time": "21:00:00",
+    "event_date_until": "2019-07-05",
+    "event_time_until": "21:00:00",
+    "location": "Centrála, Jateční 39, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/n-snitch/lsdvf/\" target=\"_blank\">N:Snitch</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/1bd04fb921539755250c6f35a784be1fb63c7546.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Centrála",
+    "location_address": "Jateční 39, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5976",
+    "event_name": "Mike + Calvinium + John T",
+    "event_date": "2019-07-06",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-07-06",
+    "event_time_until": "20:00:00",
+    "location": "Centrála, Jateční 39, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/mike/bxvbg/\" target=\"_blank\">Mike</a><a href=\"https://goout.net/en/artists/john-t/bmrdg/\" target=\"_blank\">John T</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/bbef9bd96e53ff81516b33a3bca15bb94e8e7191.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Centrála",
+    "location_address": "Jateční 39, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5977",
+    "event_name": "Psytrance Sunday: True Detectives + Ondrej Psyla + Cuky ",
+    "event_date": "2019-07-07",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-07-07",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/true-detectives/nsdvf/\" target=\"_blank\">True Detectives</a><a href=\"https://goout.net/en/artists/ondrej-psyla/ivw/\" target=\"_blank\">Ondrej Psyla</a><a href=\"https://goout.net/en/artists/cuky/poyvf/\" target=\"_blank\">Cuky</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/ec03bb16f425ae31547a5501682192b456489991.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5978",
+    "event_name": "Boom Boom Racoon",
+    "event_date": "2019-07-09",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-07-09",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/boom-boom-racoon/sprdg/\" target=\"_blank\">Boom Boom Racoon</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/754edd996eb8defdd3fb6a64a8ca521f334e21bf.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5979",
+    "event_name": "Žižkovské vlny Evy Jiřičné",
+    "event_date": "2019-07-10",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-07-10",
+    "event_time_until": "19:00:00",
+    "location": "DOX Centrum současného umění, Poupětova 1, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/08795373c923cc5f0181c479f43941ae248f6a35.jpg",
+    "price": "0–180",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/zizkovske-vlny-evy-jiricne/kute",
+    "cancelled": "0",
+    "location_name": "DOX Centrum současného umění",
+    "location_address": "Poupětova 1, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5980",
+    "event_name": "Pop-up škola vaření: Světový streetfood",
+    "event_date": "2019-07-23",
+    "event_time": "17:00:00",
+    "event_date_until": "2019-07-23",
+    "event_time_until": "17:00:00",
+    "location": "Vnitroblock, Tusarova 791/31, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/b094102799dd17d910cbe248ec9d8211bffb7a47.jpg",
+    "price": "2700",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/pop-up-skola-vareni-svetovy-streetfood/rxte",
+    "cancelled": "0",
+    "location_name": "Vnitroblock",
+    "location_address": "Tusarova 791/31, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Gastro"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5981",
+    "event_name": "Pop-up škola vaření: Sushi",
+    "event_date": "2019-07-30",
+    "event_time": "17:00:00",
+    "event_date_until": "2019-07-30",
+    "event_time_until": "17:00:00",
+    "location": "Vnitroblock, Tusarova 791/31, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/fd393af7430ff914c0f0eec963d224779c7b16e7.jpg",
+    "price": "2700",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/pop-up-skola-vareni-sushi/sxte",
+    "cancelled": "0",
+    "location_name": "Vnitroblock",
+    "location_address": "Tusarova 791/31, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Gastro"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5982",
+    "event_name": "Pop-up škola vaření: Itálie",
+    "event_date": "2019-08-13",
+    "event_time": "17:00:00",
+    "event_date_until": "2019-08-13",
+    "event_time_until": "17:00:00",
+    "location": "Vnitroblock, Tusarova 791/31, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/08840b5f4cfaacfbac101ad6ba8f8835e70cf27e.jpg",
+    "price": "2700",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/pop-up-skola-vareni-italie/uxte",
+    "cancelled": "0",
+    "location_name": "Vnitroblock",
+    "location_address": "Tusarova 791/31, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Gastro"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5983",
+    "event_name": "Pop-up škola vaření: Kuchyně Skandinávie",
+    "event_date": "2019-08-13",
+    "event_time": "17:00:00",
+    "event_date_until": "2019-08-13",
+    "event_time_until": "17:00:00",
+    "location": "Vnitroblock, Tusarova 791/31, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/0f673fc7b1517ece6e2954aee8ab2109c400858d.jpg",
+    "price": "2700",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/pop-up-skola-vareni-kuchyne-skandinavie/txte",
+    "cancelled": "0",
+    "location_name": "Vnitroblock",
+    "location_address": "Tusarova 791/31, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Gastro"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5984",
+    "event_name": "Pop-up škola vaření: Mexiko",
+    "event_date": "2019-08-20",
+    "event_time": "17:00:00",
+    "event_date_until": "2019-08-20",
+    "event_time_until": "17:00:00",
+    "location": "Vnitroblock, Tusarova 791/31, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/c88c5c0d06fc6875b6a26e2c1856676113f1f83f.jpg",
+    "price": "2700",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/pop-up-skola-vareni-mexiko/vxte",
+    "cancelled": "0",
+    "location_name": "Vnitroblock",
+    "location_address": "Tusarova 791/31, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Gastro"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "5985",
+    "event_name": "Pop-up škola vaření: Brouci v pánvi",
+    "event_date": "2019-08-27",
+    "event_time": "17:00:00",
+    "event_date_until": "2019-08-27",
+    "event_time_until": "17:00:00",
+    "location": "Vnitroblock, Tusarova 791/31, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/52a010d376ff8de2be0b74935f6ec08e856487ad.jpg",
+    "price": "2700",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/pop-up-skola-vareni-brouci-v-panvi/wxte",
+    "cancelled": "0",
+    "location_name": "Vnitroblock",
+    "location_address": "Tusarova 791/31, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Gastro"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
   }
 ]
