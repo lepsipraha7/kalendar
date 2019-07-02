@@ -71031,17 +71031,17 @@
   },
   {
     "id": "5847",
-    "event_name": "Never Sol",
+    "event_name": "Never Sol + Ploy",
     "event_date": "2019-07-16",
-    "event_time": "00:00:00",
+    "event_time": "19:00:00",
     "event_date_until": "2019-07-16",
-    "event_time_until": "00:00:00",
+    "event_time_until": "19:00:00",
     "location": "Cross Club, Plynární 23, Praha 7",
     "address": "",
-    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/never-sol/dvnjf/\" target=\"_blank\">Never Sol</a></div>",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/never-sol/dvnjf/\" target=\"_blank\">Never Sol</a><a href=\"https://goout.net/en/artists/ploy/iing/\" target=\"_blank\">Ploy</a></div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/2ed1270afb0a046f77f0dd32d3d945f631003d5d.jpg",
-    "price": "",
+    "price": "0",
     "currency": "CZK",
     "sale_url": null,
     "cancelled": "0",
@@ -75294,6 +75294,1176 @@
     "categories": [
       {
         "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6011",
+    "event_name": "King Skate",
+    "event_date": "2019-07-04",
+    "event_time": "21:00:00",
+    "event_date_until": "2019-07-04",
+    "event_time_until": "21:00:00",
+    "location": "Containall – Stalin, Letenské sady, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Režisér: Šimon Šafránek</div><div class=\"\">Umělci: Ivan Pelikán</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/28e3aed45eb3464f697e10c4a4aaf8f8c8fe6552.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stalin",
+    "location_address": "Letenské sady, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6012",
+    "event_name": "Aladdin",
+    "event_date": "2019-07-06",
+    "event_time": "15:30:00",
+    "event_date_until": "2019-07-06",
+    "event_time_until": "15:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.\n<div class=\"\">Režisér: Guy Ritchie</div><div class=\"\">Umělci: Mena Massoud, Will Smith, Naomi Scott, Marwan Kenzari, Billy Magnussen, Nasim Pedrad, Navid Negahban, Kamil Lemieszewski, Numan Acar, Joey Ansah</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/5d9b8f1f6fbf080753f789eda518918bc282c5f4.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6013",
+    "event_name": "Cyber Drum: Critical J + Mc Rook + more",
+    "event_date": "2019-07-20",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-07-20",
+    "event_time_until": "20:00:00",
+    "location": "Centrála, Jateční 39, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/critical-j/xsfvf/\" target=\"_blank\">Critical J</a><a href=\"https://goout.net/en/artists/rook/whrwf/\" target=\"_blank\">Rook</a><a href=\"https://goout.net/en/artists/beast-mode/wuoag/\" target=\"_blank\">Beast:mode</a><a href=\"https://goout.net/en/artists/mkay/prnwf/\" target=\"_blank\">MKay</a><a href=\"https://goout.net/en/artists/embryo/uwlrf/\" target=\"_blank\">Embryo</a><a href=\"https://goout.net/en/artists/kahym/disdg/\" target=\"_blank\">Kahym</a><a href=\"https://goout.net/en/artists/underside/obncg/\" target=\"_blank\">Underside</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/098903753512841e27b620683bb92cdc4c5041c0.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Centrála",
+    "location_address": "Jateční 39, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6014",
+    "event_name": "Long Day's Journey Into Night",
+    "event_date": "2019-07-29",
+    "event_time": "13:00:00",
+    "event_date_until": "2019-07-29",
+    "event_time_until": "13:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Luo Hongwu returns to Kaili, the hometown from which he fled several years ago. He begins the search for the woman he loved, and whom he has never been able to forget. She said her name was Wan Quiwen…\n\nA hypnotic, romantic neo noir by one of the most talented Chinese directors Gan Biho is a magical meditation about time and space, as well as an enigmatic poem about loss and pain.\n<div class=\"\">Režisér: Gan Bi</div><div class=\"\">Umělci: Wei Tang, Sylvia Chang, Meng Li, Jue Huang, Yongzhong Chen, Hong-Chi Lee</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/92c57b6cac412b10625956e4770e4f362c52f6af.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6015",
+    "event_name": "Úplné zatmění",
+    "event_date": "2019-08-08",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-08-08",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Christopher Hampton</div><div class=\"\">Režisér: Jakub Čermák</div><div class=\"\">Umělci: Daniel Krejčík, Matěj Stropnický, Sandra Nováková</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/fd26a9b84aaa8db6ba8186e8c0bb4ae29c151c8d.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6016",
+    "event_name": "Tango, ó tango",
+    "event_date": "2019-09-07",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-09-07",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Režisér: Anna Polívková, Slobodanka Radun</div><div class=\"\">Umělci: Anna Polívková, Michal Kurtiš, Tereza Bufková, Tomáš Slavíček, Háta Hlavatá, Jiří Zeman, Háta Hlavatá</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/964e47f14140f2ade109919d09007d47417f3e02.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6017",
+    "event_name": "Duet pro jeden hlas",
+    "event_date": "2019-09-15",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-09-15",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Tom Kempinski</div><div class=\"\">Režisér: Viktor Polesný</div><div class=\"\">Umělci: Zuzana Stivínová, Jan Novotný</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/f9ebe64062617db9b944df6bc84b784e706f9474.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6018",
+    "event_name": "Breaking the Waves",
+    "event_date": "2019-09-16",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-09-16",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Vivian Nielsenová</div><div class=\"\">Režisér: Viktorie Čermáková</div><div class=\"\">Umělci: Roman Zach, Petra Horváthová, Lenka Zahradnická / Sandra Nováková, Daniel Krejčík, Marcela Nohýnková</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/13096ed3d3c049adee88106d641ea26c8151e7c6.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6019",
+    "event_name": "Úplné zatmění",
+    "event_date": "2019-09-23",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-09-23",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Christopher Hampton</div><div class=\"\">Režisér: Jakub Čermák</div><div class=\"\">Umělci: Daniel Krejčík, Matěj Stropnický, Sandra Nováková</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/3c253b188e6ce71087867cb0f865413401e8080a.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6020",
+    "event_name": "V hodině rysa",
+    "event_date": "2019-09-24",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-09-24",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Per Olov Enquist</div><div class=\"\">Režisér: Radim Špaček</div><div class=\"\">Umělci: Zuzana Bydžovská, Petra Horváthová, Daniel Krejčík</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/063ec6c80db8ae79e7eeeb3b21173243a02e8035.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6021",
+    "event_name": "Největší přání",
+    "event_date": "2019-09-24",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-09-24",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/burki-com/gepsf/\" target=\"_blank\">Burki&com</a></div><div class=\"\">Režisér: Jana Burkiewiczová</div><div class=\"\">Umělci: Markéta Jandová, Eva Stará, Jakub Sedláček, Filip Staněk, Mutanti hledaj východisko / Jiří Konvalinka, Jan Vejražka</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/294ae148e703c471b47438cc333a601fd170cd6d.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6022",
+    "event_name": "Zdává se mi o zářné budoucnosti",
+    "event_date": "2019-09-25",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-09-25",
+    "event_time_until": "20:00:00",
+    "location": "Alfred ve dvoře, Františka Křížka 36, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Režisér: George Cremaschi, Jana Novorytová</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/43b75384e1757dc93eb6b0177abb111a0ea768ec.jpg",
+    "price": "150–555",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/zdava-se-mi-o-zarne-budoucnosti/deue",
+    "cancelled": "0",
+    "location_name": "Alfred ve dvoře",
+    "location_address": "Františka Křížka 36, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6023",
+    "event_name": "Božena",
+    "event_date": "2019-09-25",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-09-25",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělci: Eva Stará, Karolína Křížková, Andrea Vykysalá</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/6b584d8a78ce2cc3f9f7d04effc8ad6ce433494e.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6024",
+    "event_name": "Zdává se mi o zářné budoucnosti",
+    "event_date": "2019-09-26",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-09-26",
+    "event_time_until": "20:00:00",
+    "location": "Alfred ve dvoře, Františka Křížka 36, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Režisér: George Cremaschi, Jana Novorytová</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/ff741c6b29dc0846f233dca37e9c7cddee4c50a8.jpg",
+    "price": "150–555",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/zdava-se-mi-o-zarne-budoucnosti/eeue",
+    "cancelled": "0",
+    "location_name": "Alfred ve dvoře",
+    "location_address": "Františka Křížka 36, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6025",
+    "event_name": "Krasavice interkontinentální",
+    "event_date": "2019-09-28",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-09-28",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělci: Martha Issová, Anna Polívková</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/b552a3c773c3657655f81f2b02cc5176798894ab.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6026",
+    "event_name": "Krasavice interkontinentální",
+    "event_date": "2019-09-29",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-09-29",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělci: Martha Issová, Anna Polívková</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/45a86500e47114098bf3c8e1292d984b8242348a.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6027",
+    "event_name": "Lov",
+    "event_date": "2019-10-08",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-08",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/holektiv/anhvf/\" target=\"_blank\">Holektiv</a><a href=\"https://goout.net/en/artists/brothers-in-trick/oxepf/\" target=\"_blank\">Brothers in Trick</a></div><div class=\"\">Autor: Holektiv a Bratři v tricku</div><div class=\"\">Režisér: Veronika Poldauf Riedlbauchová</div><div class=\"\">Umělci: Andrea Vykysalá, Karolína Křížková, Eva Stará, Adam Jarchovský, Václav Jelínek</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/6b4e87408f58af6d7811fe4f2c7d181ba921fe85.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6028",
+    "event_name": "Breaking the Waves",
+    "event_date": "2019-10-09",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-09",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Vivian Nielsenová</div><div class=\"\">Režisér: Viktorie Čermáková</div><div class=\"\">Umělci: Roman Zach, Petra Horváthová, Lenka Zahradnická / Sandra Nováková, Daniel Krejčík, Marcela Nohýnková</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/1a036a03c93b9d6dd8ca67e935ad774762ee1928.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6029",
+    "event_name": "Duet pro jeden hlas",
+    "event_date": "2019-10-11",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-11",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Tom Kempinski</div><div class=\"\">Režisér: Viktor Polesný</div><div class=\"\">Umělci: Zuzana Stivínová, Jan Novotný</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/ee8ea9d60b42e52505a1beca2bcf73f580dc9689.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6030",
+    "event_name": "Tango, ó tango",
+    "event_date": "2019-10-11",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-11",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Režisér: Anna Polívková, Slobodanka Radun</div><div class=\"\">Umělci: Anna Polívková, Michal Kurtiš, Tereza Bufková, Tomáš Slavíček, Háta Hlavatá, Jiří Zeman, Háta Hlavatá</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/dfdf8382af372f51bf084efcecc859d96d8f9b60.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6031",
+    "event_name": "Ego",
+    "event_date": "2019-10-12",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-12",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/losers-cirque-company/euisf/\" target=\"_blank\">Losers Cirque Company</a></div><div class=\"\">Režisér: Radim Vizváry, Daniel Špinar</div><div class=\"\">Umělci: Jindřich Panský, Petr Horníček</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/dfb6ff26d0f75000a5a7b78b4ded4c4caab6ba92.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6032",
+    "event_name": "Federer – Nadal",
+    "event_date": "2019-10-13",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-13",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Petr Kolečko</div><div class=\"\">Režisér: Jakub Prachař, Marek Taclík, Petr Kolečko</div><div class=\"\">Umělci: Jakub Prachař, Marek Taclík, Petr Kolečko</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/b5adad7c3a67bbfa331475ac4422afd2e8aeb393.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6033",
+    "event_name": "Commedia dell' arte II.",
+    "event_date": "2019-10-14",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-14",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělci: Pavel Liška, Tatiana Vilhelmová, Marek Daniel, Michal Dalecký, Gabriela Štefanová, Michal Bumbálek, Roman Slovák, Tomáš Milostný</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/46eba732616e6cc7cb08f46d1ae8d9f7b2e23679.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6034",
+    "event_name": "Gedeonův uzel",
+    "event_date": "2019-10-17",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-17",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Johnna Adams</div><div class=\"\">Režisér: Petr Strnad</div><div class=\"\">Umělci: Kateřina Kaira Hrachovcová, Vilma Cibulková</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/c6053615c6d86b143c4a5ac4f3ff7c59fb302630.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6035",
+    "event_name": "Duet pro jeden hlas",
+    "event_date": "2019-10-20",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-20",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Tom Kempinski</div><div class=\"\">Režisér: Viktor Polesný</div><div class=\"\">Umělci: Zuzana Stivínová, Jan Novotný</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/061044378f0fe85447fe65169006e3ad4c77cbaa.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6036",
+    "event_name": "Tango, ó tango",
+    "event_date": "2019-10-29",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-29",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Režisér: Anna Polívková, Slobodanka Radun</div><div class=\"\">Umělci: Anna Polívková, Michal Kurtiš, Tereza Bufková, Tomáš Slavíček, Háta Hlavatá, Jiří Zeman, Háta Hlavatá</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/f46bbed22941eb3a5fb2d25dbad6ba275ed36504.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6037",
+    "event_name": "Božena",
+    "event_date": "2019-10-30",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-30",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělci: Eva Stará, Karolína Křížková, Andrea Vykysalá</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/b172f7ee1e6107a7c30d3775c9b1f4ac3b246bb5.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6038",
+    "event_name": "Úplné zatmění",
+    "event_date": "2019-11-04",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-11-04",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Christopher Hampton</div><div class=\"\">Režisér: Jakub Čermák</div><div class=\"\">Umělci: Daniel Krejčík, Matěj Stropnický, Sandra Nováková</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/75696f15631e47d196425eb53156bb7fcda31644.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6039",
+    "event_name": "Kleopatra",
+    "event_date": "2019-11-05",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-11-05",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Petr Kolečko</div><div class=\"\">Režisér: Ondřej Pavelka</div><div class=\"\">Umělci: Jitka Čvančarová, Michal Malátný</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/b38c16bd14c0db3b18090169c0d8fc2d83e2c4f2.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6040",
+    "event_name": "Lov",
+    "event_date": "2019-11-12",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-11-12",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/holektiv/anhvf/\" target=\"_blank\">Holektiv</a><a href=\"https://goout.net/en/artists/brothers-in-trick/oxepf/\" target=\"_blank\">Brothers in Trick</a></div><div class=\"\">Autor: Holektiv a Bratři v tricku</div><div class=\"\">Režisér: Veronika Poldauf Riedlbauchová</div><div class=\"\">Umělci: Andrea Vykysalá, Karolína Křížková, Eva Stará, Adam Jarchovský, Václav Jelínek</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/a2f20943c2e82cfdcdc175b2295a02283ff36d0d.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6041",
+    "event_name": "Federer – Nadal",
+    "event_date": "2019-11-13",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-11-13",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Petr Kolečko</div><div class=\"\">Režisér: Jakub Prachař, Marek Taclík, Petr Kolečko</div><div class=\"\">Umělci: Jakub Prachař, Marek Taclík, Petr Kolečko</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/e9f6584ac5528f9094c417b783110b2b51d4ce5b.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6042",
+    "event_name": "Duet pro jeden hlas",
+    "event_date": "2019-11-20",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-11-20",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Tom Kempinski</div><div class=\"\">Režisér: Viktor Polesný</div><div class=\"\">Umělci: Zuzana Stivínová, Jan Novotný</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/b5640c19270d86c9dc8b9af2f7b03c2a25a1bbe6.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6043",
+    "event_name": "Gedeonův uzel",
+    "event_date": "2019-11-20",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-11-20",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Johnna Adams</div><div class=\"\">Režisér: Petr Strnad</div><div class=\"\">Umělci: Kateřina Kaira Hrachovcová, Vilma Cibulková</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/cec96849788bc8a65ae1eeef0b65e402b90ceab4.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6044",
+    "event_name": "Vzduchem",
+    "event_date": "2019-11-23",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-11-23",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "*A dance-acrobatic show based on a book by Richard Bach Jonathan Livingston Seagull.*\n\nThe creators of this performance was inspired by the main plot of the book, the seagull surpass himself thanks to his passion for flight, learning everything he can about flying and than encouraging others to do the same. The audience will witness a path of a man who wants something bigger than everybody else, who’s full of passion for flight. Thanks to the fire and determination the man is able to push the limits and move the boundaries of what he can or cannot do. The main character in this performance is not afraid of failing, he keeps trying new techniques and discovers what his body is capable of. He jumps and falls, again and again.<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/losers-cirque-company/euisf/\" target=\"_blank\">Losers Cirque Company</a></div><div class=\"\">Autor: Matyáš Ramba</div><div class=\"\">Režisér: Matyáš Ramba, SKUTR</div><div class=\"\">Umělci: Kristýna Stránská, Vítězslav Ramba, Pavel Mašek, Tomáš Pražák, Jan Jirák, Vojtěch Glaser, Vladimír Mikláš</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/085f245745bd62d716740bdf5ba9e9e32368aae7.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6045",
+    "event_name": "Vzduchem",
+    "event_date": "2019-11-24",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-11-24",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "*A dance-acrobatic show based on a book by Richard Bach Jonathan Livingston Seagull.*\n\nThe creators of this performance was inspired by the main plot of the book, the seagull surpass himself thanks to his passion for flight, learning everything he can about flying and than encouraging others to do the same. The audience will witness a path of a man who wants something bigger than everybody else, who’s full of passion for flight. Thanks to the fire and determination the man is able to push the limits and move the boundaries of what he can or cannot do. The main character in this performance is not afraid of failing, he keeps trying new techniques and discovers what his body is capable of. He jumps and falls, again and again.<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/losers-cirque-company/euisf/\" target=\"_blank\">Losers Cirque Company</a></div><div class=\"\">Autor: Matyáš Ramba</div><div class=\"\">Režisér: Matyáš Ramba, SKUTR</div><div class=\"\">Umělci: Kristýna Stránská, Vítězslav Ramba, Pavel Mašek, Tomáš Pražák, Jan Jirák, Vojtěch Glaser, Vladimír Mikláš</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/7c246782f6bf525b485df9c2a5626d8e89e7f9a2.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6046",
+    "event_name": "Úplné zatmění",
+    "event_date": "2019-11-26",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-11-26",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Christopher Hampton</div><div class=\"\">Režisér: Jakub Čermák</div><div class=\"\">Umělci: Daniel Krejčík, Matěj Stropnický, Sandra Nováková</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/c6451991aa05ca03aeb4c9fc9288910d0a3e70c5.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6047",
+    "event_name": "Největší přání",
+    "event_date": "2019-11-27",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-11-27",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/burki-com/gepsf/\" target=\"_blank\">Burki&com</a></div><div class=\"\">Režisér: Jana Burkiewiczová</div><div class=\"\">Umělci: Markéta Jandová, Eva Stará, Jakub Sedláček, Filip Staněk, Mutanti hledaj východisko / Jiří Konvalinka, Jan Vejražka</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/0f09df142615a7833233d38f8e40a9a1bdbfb6b2.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6048",
+    "event_name": "Breaking the Waves",
+    "event_date": "2019-12-03",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-12-03",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Vivian Nielsenová</div><div class=\"\">Režisér: Viktorie Čermáková</div><div class=\"\">Umělci: Roman Zach, Petra Horváthová, Lenka Zahradnická / Sandra Nováková, Daniel Krejčík, Marcela Nohýnková</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/7ee860037fe650487330d188200de7f8a70b1361.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6049",
+    "event_name": "Federer – Nadal",
+    "event_date": "2019-12-03",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-12-03",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Petr Kolečko</div><div class=\"\">Režisér: Jakub Prachař, Marek Taclík, Petr Kolečko</div><div class=\"\">Umělci: Jakub Prachař, Marek Taclík, Petr Kolečko</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/157c8373b4e2b95b0ad554edd79f603bf598ef4f.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6050",
+    "event_name": "Commedia Dell` Arte",
+    "event_date": "2019-12-05",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-12-05",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělci: Tatiana Vilhelmová, Pavel Liška, Marek Daniel, Michal Dalecký, Roman Slovák, Andrea Marečková</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/a518e6d4373aa073dd0065c8c59a14928108906c.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6051",
+    "event_name": "Úplné zatmění",
+    "event_date": "2019-12-05",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-12-05",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Christopher Hampton</div><div class=\"\">Režisér: Jakub Čermák</div><div class=\"\">Umělci: Daniel Krejčík, Matěj Stropnický, Sandra Nováková</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/f940567d240aab314b91f388087159f5421065a2.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6052",
+    "event_name": "V hodině rysa",
+    "event_date": "2019-12-07",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-12-07",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Per Olov Enquist</div><div class=\"\">Režisér: Radim Špaček</div><div class=\"\">Umělci: Zuzana Bydžovská, Petra Horváthová, Daniel Krejčík</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/bde24584d7cccd46d7e24db71b361a8c81366a27.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6053",
+    "event_name": "Duet pro jeden hlas",
+    "event_date": "2019-12-09",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-12-09",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Tom Kempinski</div><div class=\"\">Režisér: Viktor Polesný</div><div class=\"\">Umělci: Zuzana Stivínová, Jan Novotný</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/307572bc7a1d91a68ec80ad1bd6e4c08684ae40c.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6054",
+    "event_name": "Federer – Nadal",
+    "event_date": "2019-12-11",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-12-11",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Petr Kolečko</div><div class=\"\">Režisér: Jakub Prachař, Marek Taclík, Petr Kolečko</div><div class=\"\">Umělci: Jakub Prachař, Marek Taclík, Petr Kolečko</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/49fb66bbe22e75415dcef1f2f8bfd66f11c74292.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6055",
+    "event_name": "Ego",
+    "event_date": "2019-12-16",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-12-16",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/losers-cirque-company/euisf/\" target=\"_blank\">Losers Cirque Company</a></div><div class=\"\">Režisér: Radim Vizváry, Daniel Špinar</div><div class=\"\">Umělci: Jindřich Panský, Petr Horníček</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/ac275f2ba4bf353244fbb904a7464e3f63c8229a.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
       }
     ],
     "image": null,
