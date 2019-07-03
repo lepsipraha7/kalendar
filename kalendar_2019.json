@@ -72308,14 +72308,14 @@
   },
   {
     "id": "5896",
-    "event_name": "Evening Vibes: DJ Ark",
+    "event_name": "Evening Vibes: DJ Ark3r + Alfred Czital + De Mode",
     "event_date": "2019-07-05",
     "event_time": "19:00:00",
     "event_date_until": "2019-07-05",
     "event_time_until": "19:00:00",
     "location": "Containall – Stromovka, Stromovka, Praha 7",
     "address": "",
-    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/ark3r/sgd/\" target=\"_blank\">Ark3r</a></div>",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/ark3r/sgd/\" target=\"_blank\">Ark3r</a><a href=\"https://goout.net/en/artists/alfred-czital/ewewf/\" target=\"_blank\">Alfred Czital</a><a href=\"https://goout.net/en/artists/de-mode/bvsdg/\" target=\"_blank\">De Mode</a></div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/708cc50fbdd8ed723087cd19fa9d44c2f322c898.jpg",
     "price": "0",
@@ -72519,7 +72519,7 @@
   },
   {
     "id": "5904",
-    "event_name": "Whispers Ii",
+    "event_name": "Whispers II",
     "event_date": "2019-08-29",
     "event_time": "19:00:00",
     "event_date_until": "2019-08-29",
@@ -76464,6 +76464,272 @@
     "categories": [
       {
         "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6056",
+    "event_name": "Stalin x Mezibranská: Inne Lyd + Umresh + more",
+    "event_date": "2019-07-05",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-07-05",
+    "event_time_until": "20:00:00",
+    "location": "Containall – Stalin, Letenské sady, Praha 7",
+    "address": "",
+    "description": "Showcase of Mezibranská on July 5th at Stalin. Mezibranská is a community created in a flat on Mezibranská street to organize good parties and artistic events with focus on people, creativity and freedom. Starting from hosting djs and visual artists from all over the world for special events in one room on a well-known street, Mezibranská's made its way to creating a techno parties OM Event Series based on the community with dozens of people involved and ideas of a safe place for all nice people, line-ups carefully thought through and impressive visual experience. <div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/inne-lyd/dkouf/\" target=\"_blank\">Inne Lyd</a><a href=\"https://goout.net/en/artists/avdeeva-dasha-umresh/sbmwf/\" target=\"_blank\">Avdeeva Dasha (Umresh)</a><a href=\"https://goout.net/en/artists/arno/otktf/\" target=\"_blank\">Arnø</a><a href=\"https://goout.net/en/artists/rajv/nousf/\" target=\"_blank\">Räjv</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/9cf080107e9c3ea8af37920f83f7a63cbafc3798.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stalin",
+    "location_address": "Letenské sady, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      },
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6057",
+    "event_name": "Evening Vibes: Sady Woodcraft ",
+    "event_date": "2019-07-06",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-07-06",
+    "event_time_until": "18:00:00",
+    "location": "Containall – Stromovka, Stromovka, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/75047b4bf0f70b3da0d2b6362b967ae9203edb26.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stromovka",
+    "location_address": "Stromovka, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6058",
+    "event_name": "Stalin Stage x Biggboss: Ježíš táhne na Berlín",
+    "event_date": "2019-07-10",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-07-10",
+    "event_time_until": "20:30:00",
+    "location": "Containall – Stalin, Letenské sady, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/jezis-tahne-na-berlin/msy/\" target=\"_blank\">Ježíš táhne na Berlín</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/00d7af7c1bd5f223bbed7ef15ba15d7ece7f7fb6.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stalin",
+    "location_address": "Letenské sady, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6059",
+    "event_name": "UP Festival X Vnitroblock: Tikno + Yan + more",
+    "event_date": "2019-07-12",
+    "event_time": "16:00:00",
+    "event_date_until": "2019-07-12",
+    "event_time_until": "16:00:00",
+    "location": "Vnitroblock, Tusarova 791/31, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/tikno/saidg/\" target=\"_blank\">TIKNO</a><a href=\"https://goout.net/en/artists/yan/xqyrf/\" target=\"_blank\">Yan</a><a href=\"https://goout.net/en/artists/alfred-czital/ewewf/\" target=\"_blank\">Alfred Czital</a><a href=\"https://goout.net/en/artists/ghandi/ievpf/\" target=\"_blank\">Ghándí</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/81c225dc77d028530b68590802351e3b193bc766.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Vnitroblock",
+    "location_address": "Tusarova 791/31, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      },
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6060",
+    "event_name": "Stalin Sunset Trip: Copenhagen Showband + Dj Romario + Joe Harper",
+    "event_date": "2019-07-12",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-07-12",
+    "event_time_until": "19:00:00",
+    "location": "Containall – Stalin, Letenské sady, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/copenhagen-showband/dtsdg/\" target=\"_blank\">Copenhagen Showband</a><a href=\"https://goout.net/en/artists/dj-romario/jkxfd/\" target=\"_blank\">DJ Romario</a><a href=\"https://goout.net/en/artists/joe-harper/jhhqf/\" target=\"_blank\">Joe Harper</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/3d4a3df62bab6d4641df7101cb3f2435d44e5d1d.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stalin",
+    "location_address": "Letenské sady, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6061",
+    "event_name": "Evening Vibes: Mr. Ultrafino",
+    "event_date": "2019-07-12",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-07-12",
+    "event_time_until": "19:00:00",
+    "location": "Containall – Stromovka, Stromovka, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/mr-ultrafino/suat/\" target=\"_blank\">Mr. Ultrafino</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/5d996baeb6dd54562647d1ae1bc22a9c2c834747.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stromovka",
+    "location_address": "Stromovka, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6062",
+    "event_name": "Evening Vibes: Dj Sta",
+    "event_date": "2019-07-13",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-07-13",
+    "event_time_until": "19:00:00",
+    "location": "Containall – Stromovka, Stromovka, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/sta/odldg/\" target=\"_blank\">Sta</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/60c427e18e856278bd7a9a5da100ab0998666df0.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stromovka",
+    "location_address": "Stromovka, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6063",
+    "event_name": "Stalin Nite Shift x Sub Tropical Sounds: Tris Kayo + Loic Deniro",
+    "event_date": "2019-07-13",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-07-13",
+    "event_time_until": "20:00:00",
+    "location": "Containall – Stalin, Letenské sady, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/tris-kayo/vmjsf/\" target=\"_blank\">Tris Kayo</a><a href=\"https://goout.net/en/artists/loic-deniro/iblwf/\" target=\"_blank\">Loic DeNiro</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/01d2c5a345ec7d2670974554a6187e6a69849079.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stalin",
+    "location_address": "Letenské sady, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6064",
+    "event_name": "Stalin x Dub Club Prague: Rybydub + Dread K + Natty Youth Sound",
+    "event_date": "2019-07-26",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-07-26",
+    "event_time_until": "20:00:00",
+    "location": "Containall – Stalin, Letenské sady, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/rybydub/hgilc/\" target=\"_blank\">Rybydub</a><a href=\"https://goout.net/en/artists/dread-k/ppdyf/\" target=\"_blank\">Dread K</a><a href=\"https://goout.net/en/artists/natty-youth-sound/vpaxf/\" target=\"_blank\">Natty Youth Sound</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/ce93b0d9266f15fa56134c8cb94df03a38676677.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stalin",
+    "location_address": "Letenské sady, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6065",
+    "event_name": "Burnin': Jah Atom Sound & Waddup Sound + Fyah Son Bantu",
+    "event_date": "2019-08-10",
+    "event_time": "16:00:00",
+    "event_date_until": "2019-08-10",
+    "event_time_until": "16:00:00",
+    "location": "Containall – Stromovka, Stromovka, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/jah-atom-sound/tl/\" target=\"_blank\">JAH Atom Sound</a><a href=\"https://goout.net/en/artists/waddup-sound/qpvpf/\" target=\"_blank\">Waddup Sound</a><a href=\"https://goout.net/en/artists/fyah-son-bantu/inftf/\" target=\"_blank\">Fyah Son Bantu</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/60fe93fdc6dd28e5f98974bb39fcb493104583f9.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stromovka",
+    "location_address": "Stromovka, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
       }
     ],
     "image": null,
