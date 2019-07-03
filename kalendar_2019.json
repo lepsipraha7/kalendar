@@ -76734,5 +76734,31 @@
     ],
     "image": null,
     "goOutInfo": "0"
+  },
+  {
+    "id": "6066",
+    "event_name": "Výstava ilustrací časopisu Hobulet",
+    "event_date": "2019-07-03",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-09-13",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "Galerie na Miladě, Milady Horákové 2",
+    "description": "<p>Městská část Praha 7 vás srdečně zve na retrospektivní výstavu ilustrací obálek časopisu Hobulet. Výstava poběží od 3. července do 13. září 2019 v Galerii na Miladě a představí na 44 ilustrací u příležitosti 4. narozenin měsíčníku Prahy 7 v nové podobě. Za tuto dobu do časopisu graficky přispělo mnoho renomovaných umělců, jakými jsou Josef Bolf, Eva Koťátková, Vladimír 518 nebo Jan Vytiska.</p>\n<p>Výstava je přístupná v otevíracích hodinách <a href=\"https://www.praha7.cz/radnice/organizacni-struktura/odbor-spravnich-agend/oddeleni-egovernment/pracoviste-informacniho-centra-milady-horakove/\">Informačního centra</a> Milady Horákové 2, Praha 7:</p>\n<p>pondělí a středa: 7.30 – 11.30 12.30 – 15.00<br />\núterý a čtvrtek: 7.30 – 12.30 13.30 – 18.00<br />\npátek: 7.30 – 12.00 12.30 – 14.00</p>",
+    "image_id": "27898",
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Výstavy"
+      }
+    ],
+    "image": "https://www.praha7.cz/wp-content/uploads/2019/07/65678616_895686577440346_2009984418956967936_o-533x400.jpg",
+    "goOutInfo": null
   }
 ]
