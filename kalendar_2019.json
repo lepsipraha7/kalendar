@@ -17580,7 +17580,7 @@
     "description": "*On the occasion of Eva Jiricna's jubilee, a retrospective exhibition of the world-famous Czech architect will take place, presenting work from her professional beginnings to the present day.*\n\nThe aim of the multimedia exhibition is to introduce the development process and the realization of individual projects of Eva Jiřičná's, as well as the sources of their inspiration. There will be exhibited parts of original projects and documentation about their fulfillment, their architectural models, and examples of interior design and film projections associated with the life and work of Eva Jiřičná. The original monumental glass staircase created for the interior of the Parisian branch of Joan & David's shop in 1994 will also be reinstalled in the exhibition. .\n\nEva Jiřičná (* 1939) is the world's most respected architect of Czech origin. She became a prominent representative of the high tech style, but in her work we also find echoes of organic or minimalist architecture, which continually emphasizes the application of glass and metal in bold constructions that allow a flood of natural light into the interior of buildings. It is characterized by its shapely elegance, lightness of expression, but also the harmony between form and function. It focuses on the detailed elaboration of all technical elements that are beautiful in their utility. She is inspired by technique and nature in design, combining rational approach with involvement of intuition. This architectural versatility is typical for Eva Jiřičná. It takes the form of interiors and family houses, designs public buildings of various orientations, including a library, hotel, school, congress center, and transport terminal.",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/de25e682a6de465ae1c2bff86a846dcb7c29a3e2.jpg",
-    "price": "",
+    "price": "40–300",
     "currency": "CZK",
     "sale_url": null,
     "cancelled": "0",
@@ -72002,7 +72002,7 @@
     "address": "",
     "description": "",
     "image_id": null,
-    "image_src": "wp-content/uploads/goout/cfb5bedf34a8bc1c95274b60b1bf2d3a58ddf89b.jpg",
+    "image_src": "wp-content/uploads/goout/df0587df2236c5f76bc59535a51bd27b27987f19.jpg",
     "price": "150–500",
     "currency": "CZK",
     "sale_url": "https://goout.net/en/tickets/joga-pro-dobrou-vec/daue",
@@ -76552,7 +76552,7 @@
   },
   {
     "id": "6059",
-    "event_name": "UP Festival X Vnitroblock: Tikno + Yan + more",
+    "event_name": "UP Festival x Vnitroblock: Tikno + Yan + more",
     "event_date": "2019-07-12",
     "event_time": "16:00:00",
     "event_date_until": "2019-07-12",
@@ -76760,5 +76760,242 @@
     ],
     "image": "https://www.praha7.cz/wp-content/uploads/2019/07/65678616_895686577440346_2009984418956967936_o-533x400.jpg",
     "goOutInfo": null
+  },
+  {
+    "id": "6067",
+    "event_name": "Guided tour of the exhibition Jiřičná",
+    "event_date": "2019-07-14",
+    "event_time": "16:00:00",
+    "event_date_until": "2019-07-14",
+    "event_time_until": "16:00:00",
+    "location": "DOX Centrum současného umění, Poupětova 1, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/6023015b0552b48ceffddd3f97128bbe4a4a6c36.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "DOX Centrum současného umění",
+    "location_address": "Poupětova 1, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Výstavy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6068",
+    "event_name": "Guided tour of the exhibition Art-Brut-All with curators",
+    "event_date": "2019-07-25",
+    "event_time": "18:30:00",
+    "event_date_until": "2019-07-25",
+    "event_time_until": "18:30:00",
+    "location": "DOX Centrum současného umění, Poupětova 1, Praha 7",
+    "address": "",
+    "description": "Guided tour of the exhibition _Art-Brut-All_ with curators Pavel Forman and Tomáš Koudel.",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/22be0eb06c8d5fadd7eb22eae999a4b31ab92117.jpg",
+    "price": "0–60",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/guided-tour-of-the-exhibition-art-brut-all-with-curators/vgue",
+    "cancelled": "0",
+    "location_name": "DOX Centrum současného umění",
+    "location_address": "Poupětova 1, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Výstavy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6069",
+    "event_name": "Zdeněk Paták: Zbyněk Havlíček – Otevřít po mé smrti",
+    "event_date": "2019-07-01",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-08-04",
+    "event_time_until": "23:59:59",
+    "location": "DOX Centrum současného umění, Poupětova 1, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/e02e13098fa62bec7aaeed800cf4a620d775fa69.jpg",
+    "price": "40–300",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "DOX Centrum současného umění",
+    "location_address": "Poupětova 1, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Výstavy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6070",
+    "event_name": "Guided tour of the exhibition Art-Brut-All with curators",
+    "event_date": "2019-08-19",
+    "event_time": "16:30:00",
+    "event_date_until": "2019-08-19",
+    "event_time_until": "16:30:00",
+    "location": "DOX Centrum současného umění, Poupětova 1, Praha 7",
+    "address": "",
+    "description": "Guided tour of the exhibition _Art-Brut-All_ with curators Pavel Forman and Tomáš Koudel.",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/328d7e11b3ce41d96c4b2f089bf2bccb5ad04e5b.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "DOX Centrum současného umění",
+    "location_address": "Poupětova 1, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Výstavy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6071",
+    "event_name": "Art-Brut-All: Autorské čtení ",
+    "event_date": "2019-09-07",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-09-07",
+    "event_time_until": "19:00:00",
+    "location": "DOX Centrum současného umění, Poupětova 1, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/4398d5b82735aee638b1a805baae60f48b55ca11.jpg",
+    "price": "40–60",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "DOX Centrum současného umění",
+    "location_address": "Poupětova 1, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6072",
+    "event_name": "Art-Brut-All: Cyklus odborných přednášek",
+    "event_date": "2019-09-07",
+    "event_time": "15:00:00",
+    "event_date_until": "2019-09-07",
+    "event_time_until": "15:00:00",
+    "location": "DOX Centrum současného umění, Poupětova 1, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/0168cf356a6c54adddae3c76762a6a8431cb5213.jpg",
+    "price": "40–60",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "DOX Centrum současného umění",
+    "location_address": "Poupětova 1, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6073",
+    "event_name": "Art-Brut-All",
+    "event_date": "2019-06-28",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-09-16",
+    "event_time_until": "23:59:59",
+    "location": "DOX Centrum současného umění, Poupětova 1, Praha 7",
+    "address": "",
+    "description": "*The exhibition project entitled Art-Brut-All is an empirical test of the possible cohesion of approaches with which metal subculture operates, principles or strategies in contemporary art, and current social trends. The exhibition features 42 artists from Georgia to Iceland.*\n\nMetal music can be a symbol of redneckery for some; it can also be a lifestyle, an ironic worldview, or a means of escape from this world. It is a subcultural sign. It is connected to a certain generation and aesthetics. Metal has an unmistakeable (sometimes even theatrical) visual language. It can me macho, feministic, or pathetic, but in most cases is aggressive. And poetic. Metal has avoided all fads and intellectual conceits and countless trends. A pathetic attitude that is free of cynical humour and self-depreciative irony is hard to market. And this is also one of the reasons it remains authentic.\n\nEven the name of the exhibition project is a play on words. It is based on the name of the _Brutal Assault_ festival, where it was first featured, and from “Art Brut”, the term for unschooled art, art in its raw form. Even though the exhibiting artists are mostly unschooled, they work with elementary art expression, form, and content. It gives that which under certain circumstances can be seen and heard as brutal and raw the opportunity to be understood and experienced as authentic and original, both on the metal scene and in art culture. The name can then be understood not only as the main slogan of the exhibition, but also as “massive support” for an everyday perception of the world from many angles.\n\n*Artists:* Daniel Balabán, Kateřina Barabášová, Erik Binder, Tereza Eisnerová, Pavel Forman, Martin Gerboc, Xénie Hoffmeisterová, Vendula Chalánková, Chen Qingqing, Junichiro Ischii, Paweł Jarodzki, Martin Juef, MK Kaehne, Martin Kocourek, Tomáš Koudela, František Kowolowski, Jiří Krtička, Jiří Kuděla, Zorka Lednárová, Petr Lysáček, Barbora Maštrlová, Stefan Milkov, Nicolai, Jiří Petrbok, Antti Pussinen, Rafani, Václav Rodek, Sadofsky a Trantina, Helena Sequens, Marek Schovánek, Paulina Skavová, Adam Stanko, Ivo Sumec, Jiří Surůvka, Marek Škubal, Ivana Štenclová, František Štorm, Niko Tschekladze, Jan Vytiska, Krzysztof Walaszek, Iliko Zautashvili ",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/3134269532afb0f7b5c5da420f272dab090e3dd5.jpg",
+    "price": "40–300",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "DOX Centrum současného umění",
+    "location_address": "Poupětova 1, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Výstavy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6074",
+    "event_name": "Riot Over River 2019",
+    "event_date": "2019-09-21",
+    "event_time": "14:00:00",
+    "event_date_until": "2019-09-21",
+    "event_time_until": "14:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/mad-duck-booking/tqmuf/\" target=\"_blank\">Mad Duck booking</a><a href=\"https://goout.net/en/artists/misa-histerica/secwf/\" target=\"_blank\">Misa Histerica</a><a href=\"https://goout.net/en/artists/stalker/nysdg/\" target=\"_blank\">Stalker</a><a href=\"https://goout.net/en/artists/beton/anirf/\" target=\"_blank\">Beton</a><a href=\"https://goout.net/en/artists/the-wilderness/eycrf/\" target=\"_blank\">The Wilderness</a><a href=\"https://goout.net/en/artists/drom/rgw/\" target=\"_blank\">Drom</a><a href=\"https://goout.net/en/artists/just-war/oderf/\" target=\"_blank\">Just Wär</a><a href=\"https://goout.net/en/artists/prumyslova-smrt/eckf/\" target=\"_blank\">Průmyslová smrt</a><a href=\"https://goout.net/en/artists/bowel-fuck/pysdg/\" target=\"_blank\">Bowel Fuck</a><a href=\"https://goout.net/en/artists/scalp/sttf/\" target=\"_blank\">Scalp</a><a href=\"https://goout.net/en/artists/acid-row/wlqqf/\" target=\"_blank\">Acid Row</a><a href=\"https://goout.net/en/artists/homesick/jjetf/\" target=\"_blank\">Homesick</a><a href=\"https://goout.net/en/artists/kraost/eibqf/\" target=\"_blank\">Kraost</a><a href=\"https://goout.net/en/artists/miea/swlwf/\" target=\"_blank\">Miea</a><a href=\"https://goout.net/en/artists/exude/ipoag/\" target=\"_blank\">Exude</a><a href=\"https://goout.net/en/artists/commodore-64/aqrvf/\" target=\"_blank\">Commodore 64</a><a href=\"https://goout.net/en/artists/kunta-kinte/mlyrf/\" target=\"_blank\">Kunta Kinte</a><a href=\"https://goout.net/en/artists/clovek-v-plisni/rysdg/\" target=\"_blank\">Člověk v plísni</a><a href=\"https://goout.net/en/artists/tart/tysdg/\" target=\"_blank\">Tart</a><a href=\"https://goout.net/en/artists/scholl-division/vysdg/\" target=\"_blank\">Scholl Division</a><a href=\"https://goout.net/en/artists/trahir/fkywf/\" target=\"_blank\">Trahir</a><a href=\"https://goout.net/en/artists/rotting-beetroot/yjgvf/\" target=\"_blank\">Rotting BeetRoot</a><a href=\"https://goout.net/en/artists/bambulkyne-dobrodruzstva/kdqsf/\" target=\"_blank\">Bambulkyne dobrodružstvá</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/a4a443ccbd353a9cc707936a56f4f7c1a421dac7.jpg",
+    "price": "+",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      },
+      {
+        "subcategory_name": "Festivaly"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6075",
+    "event_name": "Reduced Visibility of Ordinary Things",
+    "event_date": "2019-06-28",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-09-30",
+    "event_time_until": "23:59:59",
+    "location": "DOX Centrum současného umění, Poupětova 1, Praha 7",
+    "address": "",
+    "description": "*The exhibition “Reduced Visibility of Ordinary Things” by duo Sadofsky & Trantina presents a selection of works from 2016 as well as the latest work - expressive abstract paintings and spatial objects.*\n\nWithin the context of the art world, the name of this exhibition by the artistic duo of Sadofsky & Trantina is seemingly senseless. Visibility is always limited, and ordinary things don’t exist. This name is thus intended to provoke, ridicule, and camouflage. The work of Sadofsky & Trantina doesn’t hold anything back, and their apparent anarchistic radicalism amplified by “bitter” creativity does not just involve formal gymnastics, albeit possessing undeniable technical bravado.\n\nTheir position is clearly defined in their declarations and texts: The role of art and artwork greatly exceeds the “art world”, which does not actually exist in and of itself. Today’s aesthetic categories aren’t defined by artists. They are defined by the market, marketing, the entertainment industry, and by advertising. Regardless of what a number of theoreticians continue to believe, contemporary art is not here for the sake of creation of new artistic styles and for art to fulfill its own history. Art should be perceived as a means to an end, and not the end itself. It is a method for achieving a certain type of knowledge that is based on direct experience. The professional and artistic background of both artists allows them to perceive the art world as a certain type of “super-game” and to subverts its rules from within.\n\nMultiplicity, ferocity, colourfulness, self-confidence, and radical gestures. All is allowed, it seems. But only at first glance. Coming from the Sadofsky & Trantina artistic duo, that which can seem to be mere parody and cynicism is authentic testimony and reflection of not only the contemporary art world, but above all the world outside it.",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/4fe2e49fa1cd42946a7c85592a18a6272589cd0f.jpg",
+    "price": "40–300",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "DOX Centrum současného umění",
+    "location_address": "Poupětova 1, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Výstavy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
   }
 ]
