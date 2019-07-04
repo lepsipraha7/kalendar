@@ -77001,7 +77001,7 @@
   {
     "id": "6076",
     "event_name": "Historie a současnost AVU",
-    "event_date": "2019-07-01",
+    "event_date": "2019-07-08",
     "event_time": "00:00:00",
     "event_date_until": "2019-12-31",
     "event_time_until": "00:00:00",
@@ -77022,6 +77022,32 @@
       }
     ],
     "image": "https://www.praha7.cz/wp-content/uploads/2019/07/20180612_94Q2984-585x400.jpg",
+    "goOutInfo": null
+  },
+  {
+    "id": "6077",
+    "event_name": "Výstava studentů VŠ ARCHIP",
+    "event_date": "2019-07-03",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-09-22",
+    "event_time_until": "00:00:00",
+    "location": "Galerie na Úřadě MČ Praha 7, 2. patro, nábř. Kpt. Jaroše 1000",
+    "address": "",
+    "description": "<p>Městská část Praha 7 vás srdečně zve na výstavu architektonických projektů, které vytvořili studenti mezinárodní vysoké školy architektury ARCHIP. Projekty řeší téma Návrh pro novou Trojskou lávku a Instalace ve velké dvoraně Veletržního paláce. Výstavu můžete navštívit od 3. července do 22. září 2019 v Galerii na úřadě, nábř. Kpt. Jaroše 1000, Praha 7 (2. patro).</p>\n<p><strong>Vystavené projekty:</strong></p>\n<p>Amberlynn Blankenship: Bend, Don't Break</p>\n<p>Mariam Makaradze: Blurry Structures</p>\n<p>Jesse Melchiskey: Rocks</p>",
+    "image_id": "27939",
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": "Galerie na Úřadě MČ Praha 7",
+    "location_address": "2. patro, nábř. Kpt. Jaroše 1000",
+    "categories": [
+      {
+        "subcategory_name": "Výstavy"
+      }
+    ],
+    "image": "https://www.praha7.cz/wp-content/uploads/2019/07/IMG_3307-533x400.jpg",
     "goOutInfo": null
   }
 ]
