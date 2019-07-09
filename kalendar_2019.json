@@ -53948,14 +53948,14 @@
   },
   {
     "id": "5192",
-    "event_name": "Much The Same + Hit The Switch",
+    "event_name": "Much The Same + Hit The Switch + Straightline",
     "event_date": "2019-08-07",
     "event_time": "20:00:00",
     "event_date_until": "2019-08-07",
     "event_time_until": "20:00:00",
     "location": "Cross Club, Plynární 23, Praha 7",
     "address": "",
-    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/much-the-same/vrrcg/\" target=\"_blank\">Much The Same</a><a href=\"https://goout.net/en/artists/mighty-sounds/ofatf/\" target=\"_blank\">Mighty Sounds</a><a href=\"https://goout.net/en/artists/hit-the-switch/bcicg/\" target=\"_blank\">Hit The Switch</a></div>",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/much-the-same/vrrcg/\" target=\"_blank\">Much The Same</a><a href=\"https://goout.net/en/artists/mighty-sounds/ofatf/\" target=\"_blank\">Mighty Sounds</a><a href=\"https://goout.net/en/artists/hit-the-switch/bcicg/\" target=\"_blank\">Hit The Switch</a><a href=\"https://goout.net/en/artists/straightline/xtnqf/\" target=\"_blank\">Straightline</a></div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/0d072ddbf45ad892ab6bc6d9ae787e69d1fe3dfa.jpg",
     "price": "0",
@@ -76685,14 +76685,14 @@
   },
   {
     "id": "6064",
-    "event_name": "Stalin x Dub Club Prague: Rybydub + Dread K + Natty Youth Sound",
+    "event_name": "Stalin x Dub Club Prague: Rybydub + Dread K + more",
     "event_date": "2019-07-26",
-    "event_time": "20:00:00",
+    "event_time": "17:00:00",
     "event_date_until": "2019-07-26",
-    "event_time_until": "20:00:00",
+    "event_time_until": "17:00:00",
     "location": "Containall – Stalin, Letenské sady, Praha 7",
     "address": "",
-    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/rybydub/hgilc/\" target=\"_blank\">Rybydub</a><a href=\"https://goout.net/en/artists/dread-k/ppdyf/\" target=\"_blank\">Dread K</a><a href=\"https://goout.net/en/artists/natty-youth-sound/vpaxf/\" target=\"_blank\">Natty Youth Sound</a></div>",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/rybydub/hgilc/\" target=\"_blank\">Rybydub</a><a href=\"https://goout.net/en/artists/dread-k/ppdyf/\" target=\"_blank\">Dread K</a><a href=\"https://goout.net/en/artists/natty-youth-sound/vpaxf/\" target=\"_blank\">Natty Youth Sound</a><a href=\"https://goout.net/en/artists/mad4ce/nqupf/\" target=\"_blank\">Mad4ce</a><a href=\"https://goout.net/en/artists/raveboy/irusf/\" target=\"_blank\">Raveboy</a></div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/ce93b0d9266f15fa56134c8cb94df03a38676677.jpg",
     "price": "",
@@ -76704,6 +76704,9 @@
     "categories": [
       {
         "subcategory_name": "Jiné"
+      },
+      {
+        "subcategory_name": "Párty"
       }
     ],
     "image": null,
@@ -78284,7 +78287,7 @@
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/nora-en-pure/ayatf/\" target=\"_blank\">Nora En Pure</a></div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/897eeb50a01f0b9168caf1060a3c42be956a3c03.jpg",
-    "price": "490",
+    "price": "490–1490",
     "currency": "CZK",
     "sale_url": "https://goout.net/en/tickets/purified-nora-en-pure/xiue",
     "cancelled": "0",
@@ -78294,6 +78297,578 @@
       {
         "subcategory_name": "Koncerty"
       },
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6126",
+    "event_name": "Manželské etudy: Nová generace",
+    "event_date": "2019-07-10",
+    "event_time": "21:30:00",
+    "event_date_until": "2019-07-10",
+    "event_time_until": "21:30:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Režisér: Hana Třeštíková</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/064e426a10142dd39bcab1eaa50b452f3618d6e3.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6127",
+    "event_name": "Acoustic Session: Don Juan ",
+    "event_date": "2019-07-10",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-07-10",
+    "event_time_until": "19:00:00",
+    "location": "Containall – Stromovka, Stromovka, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/don-juan/ltaxf/\" target=\"_blank\">Don Juan</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/4b798aa4bad2384afd46ea1ca10aee12695efdf8.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stromovka",
+    "location_address": "Stromovka, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6128",
+    "event_name": "DBTR: Peeni Walli + King Sound Steppaz",
+    "event_date": "2019-07-11",
+    "event_time": "17:00:00",
+    "event_date_until": "2019-07-11",
+    "event_time_until": "17:00:00",
+    "location": "Containall – Stromovka, Stromovka, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/peeni-walli/gmt/\" target=\"_blank\">Peeni Walli</a><a href=\"https://goout.net/en/artists/king-sound-steppaz/ijpsf/\" target=\"_blank\">King Sound Steppaz</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/fabac965c348fedccc5dbdcb176802d2ff8ac29e.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stromovka",
+    "location_address": "Stromovka, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6129",
+    "event_name": "Mad4ce + Disco Partysóns + more",
+    "event_date": "2019-07-11",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-07-11",
+    "event_time_until": "18:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/mad4ce/nqupf/\" target=\"_blank\">Mad4ce</a><a href=\"https://goout.net/en/artists/disco-partysons/exnyf/\" target=\"_blank\">Disco Partysóns</a><a href=\"https://goout.net/en/artists/telly-savalas/wfowf/\" target=\"_blank\">Telly Savalas</a><a href=\"https://goout.net/en/artists/skeledan/bgowf/\" target=\"_blank\">Skeledan</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/0fb059e195841b93523a23dd76ef77c998f14af5.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6130",
+    "event_name": "Marvelous Bey + JHNS + more",
+    "event_date": "2019-07-12",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-07-12",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/marvelous-bey/ueosf/\" target=\"_blank\">Marvelous Bey</a><a href=\"https://goout.net/en/artists/jhns/vkhwf/\" target=\"_blank\">JHNS</a><a href=\"https://goout.net/en/artists/dansi/iogrf/\" target=\"_blank\">Dansi</a><a href=\"https://goout.net/en/artists/volume-plus/nkxfd/\" target=\"_blank\">Volume Plus</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/76acbf26e97a9b1dad484d1477bc8149f2b13d08.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6131",
+    "event_name": "Deorbital Night: Trei + Kanjacca + more",
+    "event_date": "2019-07-12",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-07-12",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/trei/ssirf/\" target=\"_blank\">Trei</a><a href=\"https://goout.net/en/artists/kan-jacca/bfqpf/\" target=\"_blank\">Kan-Jacca</a><a href=\"https://goout.net/en/artists/mersi/nimqf/\" target=\"_blank\">Mersi</a><a href=\"https://goout.net/en/artists/morphose/cuwxf/\" target=\"_blank\">Morphose</a><a href=\"https://goout.net/en/artists/furious-freaks/ukupf/\" target=\"_blank\">Furious Freaks</a><a href=\"https://goout.net/en/artists/deltaphoenix/gunuf/\" target=\"_blank\">Deltaphoenix</a><a href=\"https://goout.net/en/artists/gloom/abkuf/\" target=\"_blank\">Gloom</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/9037005f166cc309b6151ccd4a75372299a7606d.jpg",
+    "price": "0–150",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6132",
+    "event_name": "Nmss + Dmit.ry + Drag & Drop",
+    "event_date": "2019-07-13",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-07-13",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/nmss/epudg/\" target=\"_blank\">NMSS</a><a href=\"https://goout.net/en/artists/dmit-ry/ppf/\" target=\"_blank\">dMIT.RY</a><a href=\"https://goout.net/en/artists/drag-and-drop-djs/owosf/\" target=\"_blank\">Drag and Drop DJs</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/7e4bdaeca297e02075f66114298447cbeade7123.jpg",
+    "price": "200",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6133",
+    "event_name": "Jeb System Night: Dollar Prynce + Hugo Toxxx + more ",
+    "event_date": "2019-07-13",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-07-13",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/dollar-prync/ehwwf/\" target=\"_blank\">Dollar Prync</a><a href=\"https://goout.net/en/artists/hugo-toxxx/jyx/\" target=\"_blank\">Hugo Toxxx</a><a href=\"https://goout.net/en/artists/adlan/gnudg/\" target=\"_blank\">Adlan</a><a href=\"https://goout.net/en/artists/koukr-wave-young-koukr/inudg/\" target=\"_blank\">Koukr Wave (Young Koukr)</a><a href=\"https://goout.net/en/artists/luciano/gupxf/\" target=\"_blank\">Luciano</a><a href=\"https://goout.net/en/artists/je-mah/unudg/\" target=\"_blank\">Je Mah</a><a href=\"https://goout.net/en/artists/alex-dzurko/wnudg/\" target=\"_blank\">Alex Dzurko</a><a href=\"https://goout.net/en/artists/profit/ynudg/\" target=\"_blank\">Profit</a><a href=\"https://goout.net/en/artists/mrshl/houdg/\" target=\"_blank\">Mrshl</a><a href=\"https://goout.net/en/artists/ekoo/boudg/\" target=\"_blank\">EkoO</a><a href=\"https://goout.net/en/artists/vizcor-beatz/fbywf/\" target=\"_blank\">Vizcor Beatz</a><a href=\"https://goout.net/en/artists/larch/doudg/\" target=\"_blank\">Larch</a><a href=\"https://goout.net/en/artists/dj-saybon/kftvb/\" target=\"_blank\">DJ Saybon</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/328ef43eca97ed7d3e2212d9e534859da7facd53.jpg",
+    "price": "200",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6134",
+    "event_name": "Stalin Siesta: Dj Magič, Dj Wavezz",
+    "event_date": "2019-07-14",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-07-14",
+    "event_time_until": "18:00:00",
+    "location": "Containall – Stalin, Letenské sady, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/magic-and-wavezz/pklag/\" target=\"_blank\">Magič & Wavezz</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/28b458165ba05e84671c5fe1bead32fa5ee99e5b.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stalin",
+    "location_address": "Letenské sady, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6135",
+    "event_name": "Fefe + Cinic ",
+    "event_date": "2019-07-14",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-07-14",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/fefe/bimqf/\" target=\"_blank\">Fefe</a><a href=\"https://goout.net/en/artists/dj-cinic/krgtf/\" target=\"_blank\">DJ Cinic</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/cf581f16da97a163915575cec7deb3a8b0b86115.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6136",
+    "event_name": "Doctor Jeep + Alyaz + more",
+    "event_date": "2019-07-14",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-07-14",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/doctor-jeep/hrudg/\" target=\"_blank\">Doctor Jeep</a><a href=\"https://goout.net/en/artists/dj-alyaz/oeypf/\" target=\"_blank\">DJ Alyaz</a><a href=\"https://goout.net/en/artists/dj-tuco/ipj/\" target=\"_blank\">DJ Tuco</a><a href=\"https://goout.net/en/artists/chef3000/nrudg/\" target=\"_blank\">Chef3000</a><a href=\"https://goout.net/en/artists/buki/qterf/\" target=\"_blank\">Buki</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/e227052f4a9d775babaa4218e4e2dba65310e2cf.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6137",
+    "event_name": "Loveling",
+    "event_date": "2019-07-15",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-07-15",
+    "event_time_until": "20:00:00",
+    "location": "Containall – Stromovka, Stromovka, Praha 7",
+    "address": "",
+    "description": "Irene has only a few days to surpass the anxiety and discover a new strength before sending her eldest son away to the world.\n<div class=\"\">Režisér: Gustavo Pizzi</div><div class=\"\">Umělci: Karine Teles, César Troncoso, Mateus Solano, Ariclenes Barroso</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/5947d34c66c9814a9595c105c73818c526bf5df4.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stromovka",
+    "location_address": "Stromovka, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6138",
+    "event_name": "Adelia + Broke Heretik + Efective",
+    "event_date": "2019-07-15",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-07-15",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/adelia/nygqf/\" target=\"_blank\">Adelia</a><a href=\"https://goout.net/en/artists/broke-heretik/nsudg/\" target=\"_blank\">Broke Heretik</a><a href=\"https://goout.net/en/artists/efective/pjqdg/\" target=\"_blank\">Efective</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/1737ca1b85a444d1e66458ddc88c29a69e233b9b.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6139",
+    "event_name": "La Armada + Domi ",
+    "event_date": "2019-07-15",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-07-15",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/la-armada/wrudg/\" target=\"_blank\">La Armada</a><a href=\"https://goout.net/en/artists/domi/fxacg/\" target=\"_blank\">Domi </a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/d35f0cb0eb7534d9127ef1c09ad98d4946cfb866.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6140",
+    "event_name": "Get Dead + The Rabies + more",
+    "event_date": "2019-07-16",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-07-16",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/get-dead/rmm/\" target=\"_blank\">Get Dead</a><a href=\"https://goout.net/en/artists/rabies/ptsf/\" target=\"_blank\">Rabies</a><a href=\"https://goout.net/en/artists/the-junk-food/wyrtf/\" target=\"_blank\">The Junk Food</a><a href=\"https://goout.net/en/artists/cybi/cdysf/\" target=\"_blank\">CYBi</a><a href=\"https://goout.net/en/artists/gosh/bxivf/\" target=\"_blank\">Gosh</a><a href=\"https://goout.net/en/artists/furious-freaks/ukupf/\" target=\"_blank\">Furious Freaks</a><a href=\"https://goout.net/en/artists/blofeld/hhl/\" target=\"_blank\">Blofeld</a><a href=\"https://goout.net/en/artists/magicka/djvcg/\" target=\"_blank\">Magicka</a><a href=\"https://goout.net/en/artists/no-cure/abwqf/\" target=\"_blank\">No Cure</a><a href=\"https://goout.net/en/artists/futical/hdysf/\" target=\"_blank\">Futical</a><a href=\"https://goout.net/en/artists/ne/tixag/\" target=\"_blank\">Ne</a><a href=\"https://goout.net/en/artists/soulparts/cmycg/\" target=\"_blank\">Soulparts</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/14091993eb2afa8e1b4f441d6937b4d7564f5979.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6141",
+    "event_name": "Evening Vibes: Ahz + Annita + Honey T",
+    "event_date": "2019-07-17",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-07-17",
+    "event_time_until": "19:00:00",
+    "location": "Containall – Stromovka, Stromovka, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/ahz-ahonz/odqpf/\" target=\"_blank\">Ahz (Ahonz)</a><a href=\"https://goout.net/en/artists/annita/axvpf/\" target=\"_blank\">Annita</a><a href=\"https://goout.net/en/artists/honey-t/lfqpf/\" target=\"_blank\">Honey T</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/1cca253ca6cdee21f26185e82f750c426cb1925e.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stromovka",
+    "location_address": "Stromovka, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6142",
+    "event_name": "Kashmir + Jenda Legenda + more",
+    "event_date": "2019-07-17",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-07-17",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/kashmir/sptsf/\" target=\"_blank\">Kashmir</a><a href=\"https://goout.net/en/artists/jenda-legenda/qjsvf/\" target=\"_blank\">Jenda Legenda</a><a href=\"https://goout.net/en/artists/psyrix/vfvtf/\" target=\"_blank\">Psyrix</a><a href=\"https://goout.net/en/artists/ondrej-psyla/ivw/\" target=\"_blank\">Ondrej Psyla</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/c56f376bfa85e14aed335cb8b8b431e4a8032558.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6143",
+    "event_name": "Manatapu + Peeni Walli Sound",
+    "event_date": "2019-07-17",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-07-17",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/manatapu/vuudg/\" target=\"_blank\">Manatapu</a><a href=\"https://goout.net/en/artists/peeni-walli/gmt/\" target=\"_blank\">Peeni Walli</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/b81687b2cbea85650d407e6301a8f67aaaefb119.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6144",
+    "event_name": "Paul SG + MC Conrad + more",
+    "event_date": "2019-07-19",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-07-19",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/paul-sg/mqarf/\" target=\"_blank\">Paul SG</a><a href=\"https://goout.net/en/artists/mc-conrad/puftf/\" target=\"_blank\">MC Conrad</a><a href=\"https://goout.net/en/artists/rudeboy/wqpad/\" target=\"_blank\">Rudeboy</a><a href=\"https://goout.net/en/artists/peejay/giypf/\" target=\"_blank\">Peejay</a><a href=\"https://goout.net/en/artists/brada/mxppf/\" target=\"_blank\">Brada</a><a href=\"https://goout.net/en/artists/mireau/duudg/\" target=\"_blank\">Mireau</a><a href=\"https://goout.net/en/artists/annita/axvpf/\" target=\"_blank\">Annita</a><a href=\"https://goout.net/en/artists/kamcza/xtfqf/\" target=\"_blank\">Kamcza</a><a href=\"https://goout.net/en/artists/ahz-ahonz/odqpf/\" target=\"_blank\">Ahz (Ahonz)</a><a href=\"https://goout.net/en/artists/mc-toshi/fuudg/\" target=\"_blank\">MC Toshi </a><a href=\"https://goout.net/en/artists/norman-methner/fsqvf/\" target=\"_blank\">Norman Methner</a><a href=\"https://goout.net/en/artists/spigl/nmupf/\" target=\"_blank\">Spigl</a><a href=\"https://goout.net/en/artists/dj-face-myclick/kns/\" target=\"_blank\">DJ Face (Myclick)</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/fd46e3830d6a3a5e0799d8cc83ed4566ee5d78c9.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6145",
+    "event_name": "Evening Vibes: Skanska Sound",
+    "event_date": "2019-07-20",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-07-20",
+    "event_time_until": "19:00:00",
+    "location": "Containall – Stromovka, Stromovka, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/skanska-sound-system/pikdg/\" target=\"_blank\">Skanska sound system</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/7c33aaa23644069f19030ce80975e800e0910691.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stromovka",
+    "location_address": "Stromovka, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6146",
+    "event_name": "100 Things",
+    "event_date": "2019-07-21",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-07-21",
+    "event_time_until": "20:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Best friends Toni and Paul decide to relinquish all of their belongings for 100 days, whereby they receive one of their items back on each day. During this challenge the two realize, that the only thing they cannot be without is their friendship. A story about contemporary materialism and the quest for the truely important things in life.\n\n<div class=\"\">Režisér: Florian David Fitz</div><div class=\"\">Umělci: Florian David Fitz, Matthias Schweighöfer, Miriam Stein, Hannelore Elsner, Wolfgang Stumph, Katharina Thalbach, Johannes Allmayer, Maria Furtwängler, Sarah Viktoria Frick, Artjom Gilz, Daniel Flieger, Nora Boeckler</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/6c0ef1b44d845d81ae908584d5247becf6333b14.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6147",
+    "event_name": "Urban Legends: Moscoman + DJ Slater & Urban Legends + more",
+    "event_date": "2019-09-13",
+    "event_time": "21:00:00",
+    "event_date_until": "2019-09-13",
+    "event_time_until": "21:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/moscoman/aittf/\" target=\"_blank\">Moscoman</a><a href=\"https://goout.net/en/artists/dj-slater-urban-legends/mnguf/\" target=\"_blank\">DJ Slater & Urban Legends</a><a href=\"https://goout.net/en/artists/dj-schwa/pgi/\" target=\"_blank\">DJ Schwa</a><a href=\"https://goout.net/en/artists/fatty-m/pdy/\" target=\"_blank\">Fatty M</a><a href=\"https://goout.net/en/artists/yan/xqyrf/\" target=\"_blank\">Yan</a><a href=\"https://goout.net/en/artists/alfred-czital/ewewf/\" target=\"_blank\">Alfred Czital</a><a href=\"https://goout.net/en/artists/eva-porating/ajjj/\" target=\"_blank\">Eva Porating</a><a href=\"https://goout.net/en/artists/dash/qevpf/\" target=\"_blank\">Dash</a><a href=\"https://goout.net/en/artists/josef-sedlon/ks/\" target=\"_blank\">Josef Sedloň</a><a href=\"https://goout.net/en/artists/biodan/wld/\" target=\"_blank\">Biodan</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/b21718475f52de33db332d19691bd34a73d635b0.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
       {
         "subcategory_name": "Párty"
       }
