@@ -79161,5 +79161,31 @@
     ],
     "image": null,
     "goOutInfo": null
+  },
+  {
+    "id": "6159",
+    "event_name": "Zábor – Strojnická 17",
+    "event_date": "2019-07-16",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-07-16",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>kontejner</p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Zábory"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
   }
 ]
