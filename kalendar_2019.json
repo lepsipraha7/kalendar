@@ -66396,9 +66396,9 @@
   {
     "id": "5670",
     "event_name": "Buty",
-    "event_date": "2019-07-12",
+    "event_date": "2019-08-15",
     "event_time": "18:30:00",
-    "event_date_until": "2019-07-12",
+    "event_date_until": "2019-08-15",
     "event_time_until": "18:30:00",
     "location": "Cross Club, Plynární 23, Praha 7",
     "address": "",
@@ -70771,7 +70771,7 @@
   },
   {
     "id": "5837",
-    "event_name": "Stalin Night Shift: Eddie Mur",
+    "event_name": "Stalin Nite Shift: Eddie Mur",
     "event_date": "2019-07-11",
     "event_time": "22:00:00",
     "event_date_until": "2019-07-11",
@@ -72417,9 +72417,9 @@
     "id": "5900",
     "event_name": "Stalin Stage: Ba:zel + Libertae",
     "event_date": "2019-07-24",
-    "event_time": "20:00:00",
+    "event_time": "21:00:00",
     "event_date_until": "2019-07-24",
-    "event_time_until": "20:00:00",
+    "event_time_until": "21:00:00",
     "location": "Containall – Stalin, Letenské sady, Praha 7",
     "address": "",
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/ba-zel/iowrf/\" target=\"_blank\">Ba:zel</a><a href=\"https://goout.net/en/artists/libertae/ujyuf/\" target=\"_blank\">Libertae</a></div>",
@@ -72434,6 +72434,9 @@
     "categories": [
       {
         "subcategory_name": "Koncerty"
+      },
+      {
+        "subcategory_name": "Párty"
       }
     ],
     "image": null,
@@ -77603,9 +77606,9 @@
     "id": "6099",
     "event_name": "Loveling",
     "event_date": "2019-07-15",
-    "event_time": "21:00:00",
+    "event_time": "20:00:00",
     "event_date_until": "2019-07-15",
-    "event_time_until": "21:00:00",
+    "event_time_until": "20:00:00",
     "location": "Containall – Stromovka, Stromovka, Praha 7",
     "address": "",
     "description": "Irene has only a few days to surpass the anxiety and discover a new strength before sending her eldest son away to the world.\n<div class=\"\">Režisér: Gustavo Pizzi</div><div class=\"\">Umělci: Karine Teles, César Troncoso, Mateus Solano, Ariclenes Barroso</div>",
@@ -78540,14 +78543,14 @@
   },
   {
     "id": "6135",
-    "event_name": "Fefe + Cinic ",
+    "event_name": "Fefe + Cinic + more",
     "event_date": "2019-07-14",
     "event_time": "20:00:00",
     "event_date_until": "2019-07-14",
     "event_time_until": "20:00:00",
     "location": "Cross Club, Plynární 23, Praha 7",
     "address": "",
-    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/fefe/bimqf/\" target=\"_blank\">Fefe</a><a href=\"https://goout.net/en/artists/dj-cinic/krgtf/\" target=\"_blank\">DJ Cinic</a></div>",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/fefe/bimqf/\" target=\"_blank\">Fefe</a><a href=\"https://goout.net/en/artists/dj-cinic/krgtf/\" target=\"_blank\">DJ Cinic</a><a href=\"https://goout.net/en/artists/massta/qtvdg/\" target=\"_blank\">Massta</a><a href=\"https://goout.net/en/artists/motive/stvdg/\" target=\"_blank\">Motive</a><a href=\"https://goout.net/en/artists/abx/utvdg/\" target=\"_blank\">Abx</a><a href=\"https://goout.net/en/artists/beedix/wtvdg/\" target=\"_blank\">Beedix</a></div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/cf581f16da97a163915575cec7deb3a8b0b86115.jpg",
     "price": "0",
@@ -78618,14 +78621,14 @@
   },
   {
     "id": "6138",
-    "event_name": "Adelia + Broke Heretik + Efective",
+    "event_name": "Adelia + Broke Heretik + more",
     "event_date": "2019-07-15",
     "event_time": "20:00:00",
     "event_date_until": "2019-07-15",
     "event_time_until": "20:00:00",
     "location": "Cross Club, Plynární 23, Praha 7",
     "address": "",
-    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/adelia/nygqf/\" target=\"_blank\">Adelia</a><a href=\"https://goout.net/en/artists/broke-heretik/nsudg/\" target=\"_blank\">Broke Heretik</a><a href=\"https://goout.net/en/artists/efective/pjqdg/\" target=\"_blank\">Efective</a></div>",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/adelia/nygqf/\" target=\"_blank\">Adelia</a><a href=\"https://goout.net/en/artists/broke-heretik/nsudg/\" target=\"_blank\">Broke Heretik</a><a href=\"https://goout.net/en/artists/efective/pjqdg/\" target=\"_blank\">Efective</a><a href=\"https://goout.net/en/artists/pluge/tnkpe/\" target=\"_blank\">Pluge</a><a href=\"https://goout.net/en/artists/akasha-84/gwpwf/\" target=\"_blank\">Akasha 84</a></div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/1737ca1b85a444d1e66458ddc88c29a69e233b9b.jpg",
     "price": "0",
@@ -79187,5 +79190,797 @@
     ],
     "image": null,
     "goOutInfo": null
+  },
+  {
+    "id": "6160",
+    "event_name": "Mosh Split",
+    "event_date": "2019-07-15",
+    "event_time": "20:15:00",
+    "event_date_until": "2019-07-15",
+    "event_time_until": "20:15:00",
+    "location": "Výstaviště Praha Holešovice, Výstaviště, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/sisus-sirkus/quvdg/\" target=\"_blank\">Sisus Sirkus</a></div><div class=\"\">Umělci: Iida Sipilä, Inka Pehkonen, Milla Lahtinen, Rosa Tyyskä/Nelli Kujansivu/Heidi Latva, Sofia Defour</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/4f62d2d2adec5fc1340bd1d6869e84f7c827025b.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Výstaviště Praha Holešovice",
+    "location_address": "Výstaviště, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6161",
+    "event_name": "Shamaniac",
+    "event_date": "2019-07-15",
+    "event_time": "21:30:00",
+    "event_date_until": "2019-07-15",
+    "event_time_until": "21:30:00",
+    "location": "Výstaviště Praha Holešovice, Výstaviště, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/blackout-paradox/xktdg/\" target=\"_blank\">Blackout Paradox</a></div><div class=\"\">Autor: Michael Bartizal a Michaela Hradecká</div><div class=\"\">Režisér: Michaela Hradecká</div><div class=\"\">Umělci: Michael Bartizal, Michaela Hradecká, Viktor Artner, Jiří Badal, Aurora Apetaurová, Petr Novák, Richard Vit, Jan Lacina, Timur Aiderbekov, Sofiya Pekaryk</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/4ffe29aaf2a2fcab03f556efb79c09043a831581.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Výstaviště Praha Holešovice",
+    "location_address": "Výstaviště, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6162",
+    "event_name": "Letkyně",
+    "event_date": "2019-07-16",
+    "event_time": "18:30:00",
+    "event_date_until": "2019-07-16",
+    "event_time_until": "18:30:00",
+    "location": "Výstaviště Praha Holešovice, Výstaviště, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/holektiv/anhvf/\" target=\"_blank\">Holektiv</a></div><div class=\"\">Autor: Eva Stará, Andrea Vykysalá, Karolína Křížková</div><div class=\"\">Umělci: Eva Stará, Andrea Vykysalá, Karolína Křížková</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/dba2526a9005c0ec134cbff7b8c9c94ea3849ebd.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Výstaviště Praha Holešovice",
+    "location_address": "Výstaviště, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6163",
+    "event_name": "Městský astronaut",
+    "event_date": "2019-07-16",
+    "event_time": "17:30:00",
+    "event_date_until": "2019-07-16",
+    "event_time_until": "17:30:00",
+    "location": "Výstaviště Praha Holešovice, Výstaviště, Praha 7",
+    "address": "",
+    "description": "Urban Astronaut is a walkabout piece and physical performance exploring the environmental issue of air pollution, one of the most serious problems affecting the environment today. An astronaut is suspended up to 20ft in the air, walking as if without gravity, spinning and turning, using a flying machine attached by harness at the hips, aerial performance without strings. The astronaut is a traveller from a future version of earth, which has been destroyed and made inhospitable through our continued lack of respect for air pollution. The astronaut has returned to the past to find an answer to this future crisis. The answer is found when the astronaut encounters a girl who is able to convince him that the human race still has the ability to make the changes needed now to save our planet in the future.<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/highly-sprung/xuvdg/\" target=\"_blank\">Highly Sprung</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/dfcfb538b478b609cf067fe2111d8d85ec18eb83.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Výstaviště Praha Holešovice",
+    "location_address": "Výstaviště, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6164",
+    "event_name": "Kabinet pamětí ",
+    "event_date": "2019-07-16",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-07-16",
+    "event_time_until": "20:00:00",
+    "location": "Výstaviště Praha Holešovice, Výstaviště, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/le-cabaret-nomade/ctgvf/\" target=\"_blank\">Le Cabaret Nomade</a></div><div class=\"\">Autor: Aude Martin Stulírová</div><div class=\"\">Režisér: Aude Martin Stulírová</div><div class=\"\">Umělci: Aude Martin Stulírová, Drahomír Stulír, Marie Svobodová, Kristýna Trojanová</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/1501c5abe759d623cc88fbf7be62fc1d3e00be1b.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Výstaviště Praha Holešovice",
+    "location_address": "Výstaviště, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6165",
+    "event_name": "Kabinet pamětí ",
+    "event_date": "2019-07-16",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-07-16",
+    "event_time_until": "18:00:00",
+    "location": "Výstaviště Praha Holešovice, Výstaviště, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/le-cabaret-nomade/ctgvf/\" target=\"_blank\">Le Cabaret Nomade</a></div><div class=\"\">Autor: Aude Martin Stulírová</div><div class=\"\">Režisér: Aude Martin Stulírová</div><div class=\"\">Umělci: Aude Martin Stulírová, Drahomír Stulír, Marie Svobodová, Kristýna Trojanová</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/549339ec30cfc18ec82c1730bbb26a03d4fd7e42.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Výstaviště Praha Holešovice",
+    "location_address": "Výstaviště, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6166",
+    "event_name": "Foxtrot",
+    "event_date": "2019-07-17",
+    "event_time": "21:30:00",
+    "event_date_until": "2019-07-17",
+    "event_time_until": "21:30:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "A troubled family must face the facts when something goes terribly wrong at their son's desolate military post.<div class=\"\">Režisér: Samuel Maoz</div><div class=\"\">Umělci: Lior Ashkenazi, Sarah Adler, Yehuda Almagor, Shira Haas, Irit Kaplan, Firas Nassar, Karin Ugowski</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/4cf253c92b8d37c84d6e28a8caa4a82307a2583e.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6167",
+    "event_name": "Běžkařská odysea",
+    "event_date": "2019-07-17",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-07-17",
+    "event_time_until": "19:00:00",
+    "location": "Výstaviště Praha Holešovice, Výstaviště, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/brothers-in-trick/oxepf/\" target=\"_blank\">Brothers in Trick</a></div><div class=\"\">Umělci: Adam Jarchovský, Václav Jelínek</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/047e68f2c1f27f30c318f0094d667cbcb2cc6e0f.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Výstaviště Praha Holešovice",
+    "location_address": "Výstaviště, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6168",
+    "event_name": "Zuna",
+    "event_date": "2019-07-17",
+    "event_time": "17:00:00",
+    "event_date_until": "2019-07-17",
+    "event_time_until": "17:00:00",
+    "location": "Výstaviště Praha Holešovice, Výstaviště, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/divadlo-continuo/bxkpf/\" target=\"_blank\">Divadlo Continuo</a></div><div class=\"\">Režisér: Natália Vaňová</div><div class=\"\">Umělci: Natália Vaňová a Filip Bednár</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/360fe40876bc55866b213cdf1748ce6babc9f457.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Výstaviště Praha Holešovice",
+    "location_address": "Výstaviště, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Děti a mládež"
+      },
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6169",
+    "event_name": "Carmen Funebre",
+    "event_date": "2019-07-17",
+    "event_time": "21:15:00",
+    "event_date_until": "2019-07-17",
+    "event_time_until": "21:15:00",
+    "location": "Výstaviště Praha Holešovice, Výstaviště, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/teatr-biuro-podrozy/flcyf/\" target=\"_blank\">Teatr Biuro Podróży</a></div><div class=\"\">Režisér: Paweł Szkotak</div><div class=\"\">Umělci: Marta Strzałko, Justyna Paluszyńska, Jarosław Siejkowski, Tomasz Wrzalik, Bartosz Borowski, Łukasz Kowalski, Piotr Wojtyniak, GrzegorzArtman/Jurij Chebotarov/Maciej Zakrzewski</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/f35e066872147f026b8c9c2220ed7f34b361298c.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Výstaviště Praha Holešovice",
+    "location_address": "Výstaviště, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6170",
+    "event_name": "De Gillende Keukenprins ",
+    "event_date": "2019-07-17",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-07-17",
+    "event_time_until": "20:30:00",
+    "location": "Výstaviště Praha Holešovice, Výstaviště, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Bram Graafland</div><div class=\"\">Umělci: Bram Graafland</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/f581f7ef2b07b4a73cc35b38004945aebf79c01f.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Výstaviště Praha Holešovice",
+    "location_address": "Výstaviště, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6171",
+    "event_name": "Za dveřmi 2019 ",
+    "event_date": "2019-07-15",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-07-18",
+    "event_time_until": "23:59:59",
+    "location": "Výstaviště Praha Holešovice, Výstaviště, Praha 7",
+    "address": "",
+    "description": "Street theatre is going to light up Prague. New circus, buffoonery and street theatre!\n",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/59d76ae1f0785bb63cc9cc3f9cb5a585f314a87e.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Výstaviště Praha Holešovice",
+    "location_address": "Výstaviště, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      },
+      {
+        "subcategory_name": "Festivaly"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6172",
+    "event_name": "Návštěvníci",
+    "event_date": "2019-07-18",
+    "event_time": "22:00:00",
+    "event_date_until": "2019-07-18",
+    "event_time_until": "22:00:00",
+    "location": "Výstaviště Praha Holešovice, Výstaviště, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/v-o-s-a/ywtsf/\" target=\"_blank\">V.O.S.A.</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/de1c59863b014be5579681f4f132b9571d9a1e18.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Výstaviště Praha Holešovice",
+    "location_address": "Výstaviště, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6173",
+    "event_name": "De Gillende Keukenprins ",
+    "event_date": "2019-07-18",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-07-18",
+    "event_time_until": "19:00:00",
+    "location": "Výstaviště Praha Holešovice, Výstaviště, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Bram Graafland</div><div class=\"\">Umělci: Bram Graafland</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/fbce0cb044bdef78e9b3d229ea2ec0e0e079262b.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Výstaviště Praha Holešovice",
+    "location_address": "Výstaviště, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6174",
+    "event_name": "Dryman + Freezer + more",
+    "event_date": "2019-07-18",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-07-18",
+    "event_time_until": "18:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/freezer/slbqf/\" target=\"_blank\">Freezer</a><a href=\"https://goout.net/en/artists/dryman/odupf/\" target=\"_blank\">Dryman</a><a href=\"https://goout.net/en/artists/mr-be/sewuf/\" target=\"_blank\">Mr Be</a><a href=\"https://goout.net/en/artists/scratch/xbi/\" target=\"_blank\">Scratch</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/32daef66aeded69a7a6fd4f6cac0fae370e5b9a5.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6175",
+    "event_name": "Stalin Nite Shift: Da Moon",
+    "event_date": "2019-07-19",
+    "event_time": "21:00:00",
+    "event_date_until": "2019-07-19",
+    "event_time_until": "21:00:00",
+    "location": "Containall – Stalin, Letenské sady, Praha 7",
+    "address": "",
+    "description": "Da Moon comes to Stalin with selected tracks full of house, italo disco and new wave in all night long Dj set. <div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/da-moon/fhvpf/\" target=\"_blank\">Da Moon</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/82e3ca68339d39fdda78c7e6a189c5be89883561.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stalin",
+    "location_address": "Letenské sady, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6176",
+    "event_name": "Stalin Nite Shift: Slater + Silhouette + Scannt",
+    "event_date": "2019-07-20",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-07-20",
+    "event_time_until": "19:00:00",
+    "location": "Containall – Stalin, Letenské sady, Praha 7",
+    "address": "",
+    "description": "Trinity Slater, Scannt and Silhouette / Vision of 1994 will release their new EP _Overture in Black_ at Stalin on July 20.<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/slater/tpxnb/\" target=\"_blank\">Slater</a><a href=\"https://goout.net/en/artists/silhouette/jfgqf/\" target=\"_blank\">Silhouette</a><a href=\"https://goout.net/en/artists/scannt/dvpsf/\" target=\"_blank\">Scannt</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/445204f5f8e9dd6d36d898db68617034c0bab96e.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stalin",
+    "location_address": "Letenské sady, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6177",
+    "event_name": "Selector Boldrik",
+    "event_date": "2019-07-21",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-07-21",
+    "event_time_until": "19:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/selector-boldrik/pnqpf/\" target=\"_blank\">Selector Boldrik</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/ce8fed6b7967e3946e82ef29d04d0fab842358f9.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6178",
+    "event_name": "Selector Boldrik",
+    "event_date": "2019-07-21",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-07-21",
+    "event_time_until": "19:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/selector-boldrik/pnqpf/\" target=\"_blank\">Selector Boldrik</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/0a4a2cb9bf4b3f364e175745931d3f5a30dfaa48.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6179",
+    "event_name": "James Wing",
+    "event_date": "2019-07-21",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-07-21",
+    "event_time_until": "19:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/dj-james-wing/wpvpf/\" target=\"_blank\">DJ James Wing</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/95ff42d3cd37c66883d8059233682e109be57e07.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      },
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6180",
+    "event_name": "Klasika bez kvádra: PFO Kvartet",
+    "event_date": "2019-07-21",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-07-21",
+    "event_time_until": "19:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/prague-film-orchestra-quartet/iydtf/\" target=\"_blank\">Prague Film Orchestra Quartet</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/93e3ba6336af4eb75a6f99dbdafaa9e7fe3233f7.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6181",
+    "event_name": "DJ Tráva + Risto",
+    "event_date": "2019-07-22",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-07-22",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/dj-trava/ce/\" target=\"_blank\">DJ Tráva</a><a href=\"https://goout.net/en/artists/risto/vvwpf/\" target=\"_blank\">Risto</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/17fac050feba9da346794dea046f0dd3bcf6027f.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6182",
+    "event_name": "Jayah + I-wet",
+    "event_date": "2019-07-23",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-07-23",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/jayah/tieuf/\" target=\"_blank\">Jayah</a><a href=\"https://goout.net/en/artists/i-wet/acavf/\" target=\"_blank\">I-Wet</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/3ee7e6d93d02569e12806ffd1e7e07f215e5d4c6.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6183",
+    "event_name": "John Simon",
+    "event_date": "2019-07-23",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-07-23",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/john-simon/paywf/\" target=\"_blank\">John Simon</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/3ccce46c0256a077c38bcf15aaeccef4893c70b7.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6184",
+    "event_name": "Insect Elektrika",
+    "event_date": "2019-07-24",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-07-24",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/insect-elektrika/nhy/\" target=\"_blank\">Insect Elektrika</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/87de155033d33f16a04e9d0403e023fb098ed85e.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6185",
+    "event_name": "Chuť žít: Telly Savalas + Smeghouse + Skeledan",
+    "event_date": "2019-07-24",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-07-24",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/telly-savalas/wfowf/\" target=\"_blank\">Telly Savalas</a><a href=\"https://goout.net/en/artists/smeghouse/yfowf/\" target=\"_blank\">Smeghouse</a><a href=\"https://goout.net/en/artists/skeledan/bgowf/\" target=\"_blank\">Skeledan</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/c29c4b824e47b75c9b422d44f562ba92eb2a362d.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6186",
+    "event_name": "Stalin Stage: Awali + Brigitte Noir",
+    "event_date": "2019-07-31",
+    "event_time": "21:00:00",
+    "event_date_until": "2019-07-31",
+    "event_time_until": "21:00:00",
+    "location": "Containall – Stalin, Letenské sady, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/awali/fexfd/\" target=\"_blank\">Awali</a><a href=\"https://goout.net/en/artists/brigitte-noir/vqvyf/\" target=\"_blank\">Brigitte Noir</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/b97222d67a5998b814bba7ecec1b8f857f59f3d6.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stalin",
+    "location_address": "Letenské sady, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6187",
+    "event_name": "Stalin Stage: Viah + Barbora",
+    "event_date": "2019-08-07",
+    "event_time": "21:00:00",
+    "event_date_until": "2019-08-07",
+    "event_time_until": "21:00:00",
+    "location": "Containall – Stalin, Letenské sady, Praha 7",
+    "address": "",
+    "description": "After having recently won Czeching, the music export competition powered by Czech Radio's youth station Radio Wave, the Czech-Vietnamese electropop singer Viah is taking over the Stalin Stage on August 7th. Combining minimal electronic beats with powerful statements sung by an intimate voice, whilst creating an almost theatre-like experience with her dance moves. And whilst the sun is setting, DJ Barbora (Tetris) shall finish off the night with her killer dance set.<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/viah/brnxf/\" target=\"_blank\">Viah</a><a href=\"https://goout.net/en/artists/barbora/puhtf/\" target=\"_blank\">Barbora</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/42f87b7296b40e2b239c7681ef0680fc3a9a2785.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stalin",
+    "location_address": "Letenské sady, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6188",
+    "event_name": " Argišt Alaverdyan: Role-playing",
+    "event_date": "2019-07-11",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-08-31",
+    "event_time_until": "23:59:59",
+    "location": "Holešovická Šachta, Bubenská 14, Praha",
+    "address": "",
+    "description": "Argišt Alaverdyan presents a new set of figurative paintings. The images stimulate a stream of ideas about how the role is changing in different social situations or fictional worlds. Themes are based, among other things, on the phenomenon of role-playing games in which alter ego is realized.",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/151752dd16041fa63643c689e0874d7406bb6686.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Holešovická Šachta",
+    "location_address": "Bubenská 14, Praha",
+    "categories": [
+      {
+        "subcategory_name": "Výstavy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6189",
+    "event_name": "FoodNotBombs Vegan Fest",
+    "event_date": "2019-09-21",
+    "event_time": "12:00:00",
+    "event_date_until": "2019-09-21",
+    "event_time_until": "12:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/f5ac20a17c77da14127c50db6a5a78f3902f39ce.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Gastro"
+      },
+      {
+        "subcategory_name": "Festivaly"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
   }
 ]
