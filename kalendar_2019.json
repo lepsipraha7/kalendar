@@ -73304,9 +73304,9 @@
     "id": "5934",
     "event_name": "Sezóna X",
     "event_date": "2019-10-20",
-    "event_time": "19:30:00",
+    "event_time": "18:30:00",
     "event_date_until": "2019-10-20",
-    "event_time_until": "19:30:00",
+    "event_time_until": "18:30:00",
     "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
     "address": "",
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/brothers-in-trick/oxepf/\" target=\"_blank\">Brothers in Trick</a></div><div class=\"\">Umělci: Adam Jarchovský, Václav Jelínek a spousta hostů</div>",
@@ -78046,7 +78046,7 @@
   },
   {
     "id": "6116",
-    "event_name": "Lví král",
+    "event_name": "The Lion King",
     "event_date": "2019-07-21",
     "event_time": "15:30:00",
     "event_date_until": "2019-07-21",
@@ -78908,9 +78908,9 @@
   {
     "id": "6149",
     "event_name": "Biosphere & Initi",
-    "event_date": "2019-09-19",
+    "event_date": "2019-09-12",
     "event_time": "19:30:00",
-    "event_date_until": "2019-09-19",
+    "event_date_until": "2019-09-12",
     "event_time_until": "19:30:00",
     "location": "Prague Planetarium, Královská obora 233, Praha 7",
     "address": "",
@@ -79956,7 +79956,7 @@
   },
   {
     "id": "6189",
-    "event_name": "FoodNotBombs Vegan Fest",
+    "event_name": "FoodNotBombs Vegan Fest 2019",
     "event_date": "2019-09-21",
     "event_time": "12:00:00",
     "event_date_until": "2019-09-21",
@@ -79965,7 +79965,7 @@
     "address": "",
     "description": "",
     "image_id": null,
-    "image_src": "wp-content/uploads/goout/f5ac20a17c77da14127c50db6a5a78f3902f39ce.jpg",
+    "image_src": "wp-content/uploads/goout/2af2d88b9486c3b44a4e322bf777d8c97ca13527.jpg",
     "price": "0",
     "currency": "CZK",
     "sale_url": null,
@@ -79978,6 +79978,304 @@
       },
       {
         "subcategory_name": "Festivaly"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6190",
+    "event_name": "Wolf Lady",
+    "event_date": "2019-07-15",
+    "event_time": "19:15:00",
+    "event_date_until": "2019-07-15",
+    "event_time_until": "19:15:00",
+    "location": "Výstaviště Praha Holešovice, Výstaviště, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/wolf-lady/eewdg/\" target=\"_blank\">Wolf Lady</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/c56f53cb8bd55232cf92d3ebba51f870eda36d5d.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Výstaviště Praha Holešovice",
+    "location_address": "Výstaviště, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      },
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6191",
+    "event_name": "Letkyně",
+    "event_date": "2019-07-16",
+    "event_time": "18:30:00",
+    "event_date_until": "2019-07-16",
+    "event_time_until": "18:30:00",
+    "location": "Výstaviště Praha Holešovice, Výstaviště, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/holektiv/anhvf/\" target=\"_blank\">Holektiv</a></div><div class=\"\">Autor: Eva Stará, Andrea Vykysalá, Karolína Křížková</div><div class=\"\">Umělci: Eva Stará, Andrea Vykysalá, Karolína Křížková</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/cfcddd102e631a0a6d2756b0b5681c8b07ac49b1.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Výstaviště Praha Holešovice",
+    "location_address": "Výstaviště, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6192",
+    "event_name": "Výroba loutek",
+    "event_date": "2019-07-17",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-07-17",
+    "event_time_until": "18:00:00",
+    "location": "Výstaviště Praha Holešovice, Výstaviště, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/583bb5cbbbf97ec15c89de6913a17fa2806a624b.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Výstaviště Praha Holešovice",
+    "location_address": "Výstaviště, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Děti a mládež"
+      },
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6193",
+    "event_name": "Par a Didl Drummers",
+    "event_date": "2019-07-18",
+    "event_time": "17:30:00",
+    "event_date_until": "2019-07-18",
+    "event_time_until": "17:30:00",
+    "location": "Výstaviště Praha Holešovice, Výstaviště, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/par-a-didl-drummers/lktdg/\" target=\"_blank\">Par a Didl Drummers</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/78ce0ab61f909684a950c5a875a56cd02c614bee.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Výstaviště Praha Holešovice",
+    "location_address": "Výstaviště, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6194",
+    "event_name": "Stalin X Mikro: Lucas Hulan",
+    "event_date": "2019-08-03",
+    "event_time": "21:00:00",
+    "event_date_until": "2019-08-03",
+    "event_time_until": "21:00:00",
+    "location": "Containall – Stalin, Letenské sady, Praha 7",
+    "address": "",
+    "description": "Lucas Hulan has been for a number of years one of Prague's favourites and a local music head. Runs his label Nightphunk Recordings where he brings together a mixture of styles roaming from deep to techno. His music most definetely known to most of clubbers and ravers but always leaving space for something new, a new vinyl... The mystery surrounding his djs set is what makes him the artists he is now.<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/lucas-hulan/rrd/\" target=\"_blank\">Lucas Hulan</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/dbba143dd491569490038dbef54d1193807312c9.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stalin",
+    "location_address": "Letenské sady, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6195",
+    "event_name": "Batman",
+    "event_date": "2019-08-05",
+    "event_time": "21:30:00",
+    "event_date_until": "2019-08-05",
+    "event_time_until": "21:30:00",
+    "location": "Containall – Stromovka, Stromovka, Praha 7",
+    "address": "",
+    "description": "Crime boss Carl Grissom (Jack Palance) effectively runs the town but there's a new crime fighter in town - Batman (Michael Keaton). Grissom's right-hand man is Jack Napier (Jack Nicholson), a brutal man who is not entirely sane. After falling out between the two Grissom has Napier set up with the Police and Napier falls to his apparent death in a vat of chemicals. However, he soon reappears as The Joker and starts a reign of terror in Gotham City. Meanwhile, reporter Vicki Vale (Kim Basinger) is in the city to do an article on Batman. She soon starts a relationship with Batman's everyday persona, billionaire Bruce Wayne.<div class=\"\">Režisér: Tim Burton</div><div class=\"\">Umělci: Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl, Pat Hingle, Billy Dee Williams, Michael Gough, Jerry Hall, Jack Palance, Tracey Walter, Lee Wallace, Mac McDonald, Philip Tan, Garrick Hagon</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/0f4ecaf183e287af9591e1cd92ff7cbfaed0680e.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stromovka",
+    "location_address": "Stromovka, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6196",
+    "event_name": "4. piknik pro lidi bez domova",
+    "event_date": "2019-08-08",
+    "event_time": "11:00:00",
+    "event_date_until": "2019-08-08",
+    "event_time_until": "11:00:00",
+    "location": "VILA Štvanice, Dům č. p. 858 – Ostrov Štvanice, Praha",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/1a76217a642fb8c6e22d995f14a72a5bbf0044fb.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "VILA Štvanice",
+    "location_address": "Dům č. p. 858 – Ostrov Štvanice, Praha",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      },
+      {
+        "subcategory_name": "Gastro"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6197",
+    "event_name": "Queens Kitchen Wanton Mee ",
+    "event_date": "2019-08-27",
+    "event_time": "11:00:00",
+    "event_date_until": "2019-08-27",
+    "event_time_until": "11:00:00",
+    "location": "Vnitroblock, Tusarova 791/31, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/3ceb105cd2e2ea89a9d94796fdb649bd3d1fc053.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Vnitroblock",
+    "location_address": "Tusarova 791/31, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Gastro"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6198",
+    "event_name": "Hra na budúcnosť ",
+    "event_date": "2019-10-14",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-10-14",
+    "event_time_until": "20:00:00",
+    "location": "Alfred ve dvoře, Františka Křížka 36, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Petra Fornayová</div><div class=\"\">Režisér: Petra Fornayová</div><div class=\"\">Umělci: Petra Fornayová, Adam Hanuljak, Natália Okolicsányiová, Ján Šimko</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/91e10877525e2e2c4119b0cc4d12903a30609054.jpg",
+    "price": "150",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Alfred ve dvoře",
+    "location_address": "Františka Křížka 36, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6199",
+    "event_name": "Robinson",
+    "event_date": "2019-10-16",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-10-16",
+    "event_time_until": "20:00:00",
+    "location": "Alfred ve dvoře, Františka Křížka 36, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/kald-damu/aseuf/\" target=\"_blank\">KALD DAMU</a></div><div class=\"\">Umělci: Jakub Šulík, Eliška Říhová</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/19b29d3fd12bc9f6ab220d5616ca90bea2cab612.jpg",
+    "price": "100",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Alfred ve dvoře",
+    "location_address": "Františka Křížka 36, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6200",
+    "event_name": "Biojarmark 2019",
+    "event_date": "2019-10-19",
+    "event_time": "09:00:00",
+    "event_date_until": "2019-10-19",
+    "event_time_until": "09:00:00",
+    "location": "Národní zemědělské muzeum, Kostelní 44, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/93a15d12ac9358493bacfb4e9a3ca3dca7157010.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Národní zemědělské muzeum",
+    "location_address": "Kostelní 44, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      },
+      {
+        "subcategory_name": "Gastro"
       }
     ],
     "image": null,
