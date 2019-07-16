@@ -75235,7 +75235,7 @@
     "address": "",
     "description": "A struggling musician realizes he's the only person on Earth who can remember The Beatles after waking up in an alternate timeline where they never existed.\n<div class=\"\">Režisér: Danny Boyle</div><div class=\"\">Umělci: Himesh Patel, Lily James, Kate McKinnon, Ed Sheeran, Ana de Armas, Lamorne Morris, Sophia Di Martino, Joel Fry, Ellise Chappell, Dominic Coleman, Marjana Spivak, Atul Sharma, Jennifer Armour, Camille Chen</div>",
     "image_id": null,
-    "image_src": "wp-content/uploads/goout/aa857ae8627018cfd2e1d1662ac32850a4c30654.jpg",
+    "image_src": "wp-content/uploads/goout/588c4bde27322a4b833acd17247246a6c20063d2.jpg",
     "price": "",
     "currency": "CZK",
     "sale_url": null,
@@ -75834,7 +75834,7 @@
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/losers-cirque-company/euisf/\" target=\"_blank\">Losers Cirque Company</a></div><div class=\"\">Režisér: Radim Vizváry, Daniel Špinar</div><div class=\"\">Umělci: Jindřich Panský, Petr Horníček</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/dfb6ff26d0f75000a5a7b78b4ded4c4caab6ba92.jpg",
-    "price": "",
+    "price": "490",
     "currency": "CZK",
     "sale_url": null,
     "cancelled": "0",
@@ -76172,7 +76172,7 @@
     "description": "*A dance-acrobatic show based on a book by Richard Bach Jonathan Livingston Seagull.*\n\nThe creators of this performance was inspired by the main plot of the book, the seagull surpass himself thanks to his passion for flight, learning everything he can about flying and than encouraging others to do the same. The audience will witness a path of a man who wants something bigger than everybody else, who’s full of passion for flight. Thanks to the fire and determination the man is able to push the limits and move the boundaries of what he can or cannot do. The main character in this performance is not afraid of failing, he keeps trying new techniques and discovers what his body is capable of. He jumps and falls, again and again.<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/losers-cirque-company/euisf/\" target=\"_blank\">Losers Cirque Company</a></div><div class=\"\">Autor: Matyáš Ramba</div><div class=\"\">Režisér: Matyáš Ramba, SKUTR</div><div class=\"\">Umělci: Kristýna Stránská, Vítězslav Ramba, Pavel Mašek, Tomáš Pražák, Jan Jirák, Vojtěch Glaser, Vladimír Mikláš</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/085f245745bd62d716740bdf5ba9e9e32368aae7.jpg",
-    "price": "",
+    "price": "490",
     "currency": "CZK",
     "sale_url": null,
     "cancelled": "0",
@@ -76198,7 +76198,7 @@
     "description": "*A dance-acrobatic show based on a book by Richard Bach Jonathan Livingston Seagull.*\n\nThe creators of this performance was inspired by the main plot of the book, the seagull surpass himself thanks to his passion for flight, learning everything he can about flying and than encouraging others to do the same. The audience will witness a path of a man who wants something bigger than everybody else, who’s full of passion for flight. Thanks to the fire and determination the man is able to push the limits and move the boundaries of what he can or cannot do. The main character in this performance is not afraid of failing, he keeps trying new techniques and discovers what his body is capable of. He jumps and falls, again and again.<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/losers-cirque-company/euisf/\" target=\"_blank\">Losers Cirque Company</a></div><div class=\"\">Autor: Matyáš Ramba</div><div class=\"\">Režisér: Matyáš Ramba, SKUTR</div><div class=\"\">Umělci: Kristýna Stránská, Vítězslav Ramba, Pavel Mašek, Tomáš Pražák, Jan Jirák, Vojtěch Glaser, Vladimír Mikláš</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/7c246782f6bf525b485df9c2a5626d8e89e7f9a2.jpg",
-    "price": "",
+    "price": "490",
     "currency": "CZK",
     "sale_url": null,
     "cancelled": "0",
@@ -76458,7 +76458,7 @@
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/losers-cirque-company/euisf/\" target=\"_blank\">Losers Cirque Company</a></div><div class=\"\">Režisér: Radim Vizváry, Daniel Špinar</div><div class=\"\">Umělci: Jindřich Panský, Petr Horníček</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/ac275f2ba4bf353244fbb904a7464e3f63c8229a.jpg",
-    "price": "",
+    "price": "490",
     "currency": "CZK",
     "sale_url": null,
     "cancelled": "0",
@@ -76688,7 +76688,7 @@
   },
   {
     "id": "6064",
-    "event_name": "Stalin x Dub Club Prague: Rybydub + Dread K + more",
+    "event_name": "Dub Club Prague: Rybydub + Dread K + more",
     "event_date": "2019-07-26",
     "event_time": "17:00:00",
     "event_date_until": "2019-07-26",
@@ -79598,7 +79598,7 @@
   },
   {
     "id": "6175",
-    "event_name": "Stalin Nite Shift: Da Moon",
+    "event_name": "Stalin Sunset Trip: Da Moon",
     "event_date": "2019-07-19",
     "event_time": "21:00:00",
     "event_date_until": "2019-07-19",
@@ -80285,6 +80285,893 @@
       },
       {
         "subcategory_name": "Gastro"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6203",
+    "event_name": "When Harry Met Sally...",
+    "event_date": "2019-07-18",
+    "event_time": "21:30:00",
+    "event_date_until": "2019-07-18",
+    "event_time_until": "21:30:00",
+    "location": "Containall – Stalin, Letenské sady, Praha 7",
+    "address": "",
+    "description": "Harry and Sally have known each other for years, and are very good friends, but they fear sex would ruin the friendship.\n<div class=\"\">Režisér: Rob Reiner</div><div class=\"\">Umělci: Billy Crystal, Meg Ryan, Carrie Fisher, Bruno Kirby, Steven Ford, Lisa Jane Persky, Michelle Nicastro, Gretchen Palmer, Harley Jane Kozak, Connie Sawyer, Kyle T. Heffner, Franc Luz, Robert Alan Beuth, Tracy Reiner, Joe Viviani, Kimberley LaMarque, Estelle Reiner, Dona Hardy, Peter Pan, Bernie Hern, Jane Chung, Charles Dugan, Katherine Squire, Al Christy, Frances Chaney</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/7241deb072bd8f87d742ed41d74cb2a12c8a20ac.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stalin",
+    "location_address": "Letenské sady, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6204",
+    "event_name": "Evening Vibes: 4Become1",
+    "event_date": "2019-07-19",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-07-19",
+    "event_time_until": "19:00:00",
+    "location": "Containall – Stromovka, Stromovka, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/4become1/doxtf/\" target=\"_blank\">4BeCome1</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/960a35c5a36a08c516a162e33dd6bb657e175810.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stromovka",
+    "location_address": "Stromovka, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6205",
+    "event_name": "Hip hop freestyle (rap open mic)",
+    "event_date": "2019-07-22",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-07-22",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/491f67072077239e042b354fb2935c57386e3836.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6206",
+    "event_name": "Captain Fantastic",
+    "event_date": "2019-07-24",
+    "event_time": "21:30:00",
+    "event_date_until": "2019-07-24",
+    "event_time_until": "21:30:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "In the forests of the Pacific Northwest, a father devoted to raising his six kids with a rigorous physical and intellectual education is forced to leave his paradise and enter the world, challenging his idea of what it means to be a parent.<div class=\"\">Režisér: Matt Ross</div><div class=\"\">Umělci: Viggo Mortensen, George MacKay, Samantha Isler, Nicholas Hamilton, Frank Langella, Missi Pyle, Steve Zahn, Kathryn Hahn, Erin Moriarty, Annalise Basso, Ann Dowd, Shree Crooks, Yolanda Aragon, Charlie Shotwell, Trin Miller, Elijah Stevenson, Teddy Van Ee</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/1930b400a5585367027d807fb10fef9e8eb833f4.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6207",
+    "event_name": "Yacube + Eddie Mur + Peter Costa",
+    "event_date": "2019-07-25",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-07-25",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/yacube/khvpf/\" target=\"_blank\">Yacube</a><a href=\"https://goout.net/en/artists/eddie-mur/bufrf/\" target=\"_blank\">Eddie Mur</a><a href=\"https://goout.net/en/artists/peter-costa/qdvpf/\" target=\"_blank\">Peter Costa</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/bff7ac93547c9a7ecefc4c3a3046e827644b1746.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6208",
+    "event_name": "The Pau & Bolehlav + Pedro Zakatchu + more",
+    "event_date": "2019-07-25",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-07-25",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/the-pau/hwduf/\" target=\"_blank\">The Pau</a><a href=\"https://goout.net/en/artists/bolehlav/kjebg/\" target=\"_blank\">Bolehlav</a><a href=\"https://goout.net/en/artists/pedro-zakatchku/vkog/\" target=\"_blank\">Pedro Zakatchku</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/58613da86fc2cbc90a2c9ae7f3d0f0cb960cca7b.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6209",
+    "event_name": "Dreadsquad + Lua Preta + more",
+    "event_date": "2019-07-26",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-07-26",
+    "event_time_until": "18:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/dreadsquad/plguf/\" target=\"_blank\">Dreadsquad</a><a href=\"https://goout.net/en/artists/lua-preta/mghvf/\" target=\"_blank\">Lua Preta</a><a href=\"https://goout.net/en/artists/global-diggers/jxxtf/\" target=\"_blank\">Global Diggers</a><a href=\"https://goout.net/en/artists/tris-kayo/vmjsf/\" target=\"_blank\">Tris Kayo</a><a href=\"https://goout.net/en/artists/loic-deniro/iblwf/\" target=\"_blank\">Loic DeNiro</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/228b951fbc164560a0ebec24e7e91ab9119f5615.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6210",
+    "event_name": "Karaoke Tundra + Fobia Kid + more",
+    "event_date": "2019-07-26",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-07-26",
+    "event_time_until": "18:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/karaoke-tundra/obab/\" target=\"_blank\">Karaoke Tundra</a><a href=\"https://goout.net/en/artists/vec/bnud/\" target=\"_blank\">Vec</a><a href=\"https://goout.net/en/artists/fobia-kid/arfvf/\" target=\"_blank\">Fobia Kid</a><a href=\"https://goout.net/en/artists/next-gen-crew/exovf/\" target=\"_blank\">Next:Gen Crew</a><a href=\"https://goout.net/en/artists/matzet/ijttf/\" target=\"_blank\">Matzet</a><a href=\"https://goout.net/en/artists/magenta/ubcqf/\" target=\"_blank\">Magenta</a><a href=\"https://goout.net/en/artists/critical-j/xsfvf/\" target=\"_blank\">Critical J</a><a href=\"https://goout.net/en/artists/dj-skrupo/bxxdg/\" target=\"_blank\">DJ Skrupo</a><a href=\"https://goout.net/en/artists/marmite/luwag/\" target=\"_blank\">Marmite</a><a href=\"https://goout.net/en/artists/rocki/rhrwf/\" target=\"_blank\">Rocki</a><a href=\"https://goout.net/en/artists/mc-jelen/fllvf/\" target=\"_blank\">MC Jelen</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/5473b3338bc107b70198b259931ca7426adc5ab1.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6211",
+    "event_name": "Soundokan + Transglobal Underground",
+    "event_date": "2019-07-26",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-07-26",
+    "event_time_until": "18:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/soundokan/auduf/\" target=\"_blank\">Soundokan</a><a href=\"https://goout.net/en/artists/transglobal-underground/nnjxf/\" target=\"_blank\">Transglobal Underground</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/d6dd5ca4da412fb66ebb12b74ccf15407254c48d.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6212",
+    "event_name": "Smeghouse + Telly Savalas + more",
+    "event_date": "2019-07-27",
+    "event_time": "16:00:00",
+    "event_date_until": "2019-07-27",
+    "event_time_until": "16:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/smeghouse/yfowf/\" target=\"_blank\">Smeghouse</a><a href=\"https://goout.net/en/artists/telly-savalas/wfowf/\" target=\"_blank\">Telly Savalas</a><a href=\"https://goout.net/en/artists/skeledan/bgowf/\" target=\"_blank\">Skeledan</a><a href=\"https://goout.net/en/artists/spencer-zabiela/ydtuf/\" target=\"_blank\">Spencer Zabiela</a><a href=\"https://goout.net/en/artists/nico-kass/gpldg/\" target=\"_blank\">Nico Kass</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/1759ed5574610f93df10405f5e81207fdcc27922.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6213",
+    "event_name": "Dryman & Denoir + 2x Tolik Crew + more",
+    "event_date": "2019-07-27",
+    "event_time": "16:00:00",
+    "event_date_until": "2019-07-27",
+    "event_time_until": "16:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/dryman/odupf/\" target=\"_blank\">Dryman</a><a href=\"https://goout.net/en/artists/denoir/mtrpf/\" target=\"_blank\">Denoir</a><a href=\"https://goout.net/en/artists/2xtolik-crew/itbcg/\" target=\"_blank\">2xTolik Crew</a><a href=\"https://goout.net/en/artists/mad4ce/nqupf/\" target=\"_blank\">Mad4ce</a><a href=\"https://goout.net/en/artists/akira/dgyof/\" target=\"_blank\">Akira</a><a href=\"https://goout.net/en/artists/hundread/xbcqf/\" target=\"_blank\">Hundread</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/77a9669f0d39233a78634202eed71f119a07ea66.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6214",
+    "event_name": "Scrufizzer + Sam Wise + more ",
+    "event_date": "2019-07-27",
+    "event_time": "16:00:00",
+    "event_date_until": "2019-07-27",
+    "event_time_until": "16:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/scrufizzer/xewrf/\" target=\"_blank\">Scrufizzer</a><a href=\"https://goout.net/en/artists/sam-wise/mwxdg/\" target=\"_blank\">Sam Wise</a><a href=\"https://goout.net/en/artists/asap-jarda-casablanca/ahdxf/\" target=\"_blank\">ASAP Jarda & Casablanca</a><a href=\"https://goout.net/en/artists/fefe/bimqf/\" target=\"_blank\">Fefe</a><a href=\"https://goout.net/en/artists/kerem-akdag/ktmdg/\" target=\"_blank\">Kerem Akdag</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/7671e6135424119fc899f98b6519921c4983cade.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6215",
+    "event_name": "The Lion King",
+    "event_date": "2019-07-28",
+    "event_time": "15:00:00",
+    "event_date_until": "2019-07-28",
+    "event_time_until": "15:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.\n<div class=\"\">Režisér: Jon Favreau</div><div class=\"\">Umělci: Donald Glover, Seth Rogen, James Earl Jones, Billy Eichner, Keegan-Michael Key, Chiwetel Ejiofor, Alfre Woodard, Florence Kasumba, Beyoncé, John Oliver, Eric André, John Kani, Shahadi Wright Joseph, JD McCrary, Amy Sedaris</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/b567ddec8d91a0c34801de3aec2d4b3699c96c1b.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6216",
+    "event_name": "Sta & Ahz & Annita + Disco Partysons",
+    "event_date": "2019-07-28",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-07-28",
+    "event_time_until": "19:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/sta/odldg/\" target=\"_blank\">Sta</a><a href=\"https://goout.net/en/artists/ahz-ahonz/odqpf/\" target=\"_blank\">Ahz (Ahonz)</a><a href=\"https://goout.net/en/artists/annita/axvpf/\" target=\"_blank\">Annita</a><a href=\"https://goout.net/en/artists/disco-partysons/exnyf/\" target=\"_blank\">Disco Partysóns</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/cc97596bc648702bfcfad4e852ca2fafe20675d2.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6217",
+    "event_name": "John Simon + Beast:mode + more",
+    "event_date": "2019-07-28",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-07-28",
+    "event_time_until": "19:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/john-simon/paywf/\" target=\"_blank\">John Simon</a><a href=\"https://goout.net/en/artists/beast-mode/wuoag/\" target=\"_blank\">Beast:mode</a><a href=\"https://goout.net/en/artists/drumbassterds-crew/oby/\" target=\"_blank\">Drumbassterds Crew</a><a href=\"https://goout.net/en/artists/mersi/nimqf/\" target=\"_blank\">Mersi</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/bbfadad9c926471b847371c8df79c212c72452e1.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6218",
+    "event_name": "Android Asteroid + James Cole",
+    "event_date": "2019-07-28",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-07-28",
+    "event_time_until": "19:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/android-asteroid/qfumc/\" target=\"_blank\">Android Asteroid</a><a href=\"https://goout.net/en/artists/james-cole/xyj/\" target=\"_blank\">James Cole</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/06fdde8083bcae0caa8363b29d34c045feb342f8.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6219",
+    "event_name": "Do the Right Thing",
+    "event_date": "2019-07-29",
+    "event_time": "21:30:00",
+    "event_date_until": "2019-07-29",
+    "event_time_until": "21:30:00",
+    "location": "Containall – Stromovka, Stromovka, Praha 7",
+    "address": "",
+    "description": "On the hottest day of the year on a street in the Bedford-Stuyvesant section of Brooklyn, everyone's hate and bigotry smolders and builds until it explodes into violence.\n<div class=\"\">Režisér: Spike Lee</div><div class=\"\">Umělci: Danny Aiello, Ossie Davis, Ruby Dee, Richard Edson, Giancarlo Esposito, Spike Lee, Bill Nunn, John Turturro, Paul Benjamin, Frankie Faison, Joie Lee, Miguel Sandoval, John Savage, Samuel L. Jackson, Rosie Perez, Roger Guenveur Smith, Martin Lawrence, Frank Vincent, Erik Dellums, Shawn Elliott, Luis Antonio Ramos, Nicholas Turturro</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/66b7c027b4a4629c4e80dd00af9da379ee50a3da.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stromovka",
+    "location_address": "Stromovka, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6220",
+    "event_name": "Glory",
+    "event_date": "2019-08-01",
+    "event_time": "21:30:00",
+    "event_date_until": "2019-08-01",
+    "event_time_until": "21:30:00",
+    "location": "Containall – Stalin, Letenské sady, Praha 7",
+    "address": "",
+    "description": "A reclusive Bulgarian railway trackman finds millions of cash spilled on the tracks and turns them in to the police. When the transport ministry's head of PR Julia Staikova decides to use him as a diversion from a corruption scandal, his simple life falls victim to the grinder of bureaucracy.<div class=\"\">Režisér: Kristina Grozeva,Petar Valchanov</div><div class=\"\">Umělci: Stefan Denolyubov, Margita Gosheva</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/bd0fec62d541e78c1e5c42f86cf77394653e2b6c.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stalin",
+    "location_address": "Letenské sady, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6221",
+    "event_name": "Dirty x Stalin Night Shift : Eddie Mur + Yacube",
+    "event_date": "2019-08-02",
+    "event_time": "21:00:00",
+    "event_date_until": "2019-08-02",
+    "event_time_until": "21:00:00",
+    "location": "Containall – Stalin, Letenské sady, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/eddie-mur/bufrf/\" target=\"_blank\">Eddie Mur</a><a href=\"https://goout.net/en/artists/yacube/khvpf/\" target=\"_blank\">Yacube</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/9a0d3ebfd9612d4899d18dfdd641aab1255a1b2a.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stalin",
+    "location_address": "Letenské sady, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6222",
+    "event_name": "Stalin Nite Shift x Sub Tropical Sounds: Tris Kayo + Loic Deniro",
+    "event_date": "2019-09-06",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-09-06",
+    "event_time_until": "20:00:00",
+    "location": "Containall – Stalin, Letenské sady, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/tris-kayo/vmjsf/\" target=\"_blank\">Tris Kayo</a><a href=\"https://goout.net/en/artists/loic-deniro/iblwf/\" target=\"_blank\">Loic DeNiro</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/6de559cdf7e9b9fee6c2b2b03394c53204173cd2.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stalin",
+    "location_address": "Letenské sady, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6223",
+    "event_name": "Panthera",
+    "event_date": "2019-09-10",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-09-10",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/420people/wikpf/\" target=\"_blank\">420PEOPLE</a></div><div class=\"\">Režisér: Václav Kuneš</div><div class=\"\">Umělci: Francesca Amante, Fanny Barroquère, Veronika Tököly, Viktor Konvalinka, Filip Staněk</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/23e0a4230f3b790010e25517897f759de4f8a02c.jpg",
+    "price": "250–350",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6224",
+    "event_name": "Panthera",
+    "event_date": "2019-09-11",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-09-11",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/420people/wikpf/\" target=\"_blank\">420PEOPLE</a></div><div class=\"\">Režisér: Václav Kuneš</div><div class=\"\">Umělci: Francesca Amante, Fanny Barroquère, Veronika Tököly, Viktor Konvalinka, Filip Staněk</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/b0da810cd7dc716067bd92a230a81bfb74d304f9.jpg",
+    "price": "250–350",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6225",
+    "event_name": "Jacques Pellarin",
+    "event_date": "2019-09-11",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-09-11",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/jacques-pellarin/mkxdg/\" target=\"_blank\">Jacques Pellarin</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/b7b5141b7d3ea7a4361c07fccc74859c191677bc.jpg",
+    "price": "250",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6226",
+    "event_name": "Bratři",
+    "event_date": "2019-09-21",
+    "event_time": "17:00:00",
+    "event_date_until": "2019-09-21",
+    "event_time_until": "17:00:00",
+    "location": "Studio Alta, U Výstaviště 21, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Lenka Tretiagová</div><div class=\"\">Režisér: Dora Hoštová</div><div class=\"\">Umělci: David Králík, Jan Čtvrtník, Dora Sulženko Hoštová / Eva Stará, Martin Lerch</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/691e4a0790a53600dd54bf5c37ec53a61ff10143.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Studio Alta",
+    "location_address": "U Výstaviště 21, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Děti a mládež"
+      },
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6227",
+    "event_name": "Panthera",
+    "event_date": "2019-09-30",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-09-30",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/420people/wikpf/\" target=\"_blank\">420PEOPLE</a></div><div class=\"\">Režisér: Václav Kuneš</div><div class=\"\">Umělci: Francesca Amante, Fanny Barroquère, Veronika Tököly, Viktor Konvalinka, Filip Staněk</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/c784b632c1d452782bd4a7e478a3fa90d3a7ec61.jpg",
+    "price": "250–350",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6228",
+    "event_name": "Up End Down",
+    "event_date": "2019-10-09",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-09",
+    "event_time_until": "19:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "The project _Up'End'Down_ by the Cirk La Putyka is a follow-up of the previous La Putyka show developing its genre but with one big difference: none of our actors, dancers and athletes was involved with the circus disciplines chosen for the new project (teeter board, silks, ropes, straps, wu-shu) before the rehearsals for the show began.\n\nThe show tells the story of a man living uniquely with his memories. He lives through his flights and falls but is unable to break free from the luggage he carries in himself to live in a relaxed and liberated way. _Up'End'Down_ is looking at the journey from birth to death, the journey from the earth to the heaven and back through the prism of our fantasy. A crossroads between two streets, between heaven and earth, between the memories and the present, between smile and tears, taking off and falling. A crossroad of genres.\n\n_Up'End'Down_ has appeared at the festival „Janvier dans les étoiles“ (La Seyne Sur Mer). As well, this production has been invited at the Festival Roundhouse (London) and Festival des 7 collines (Saint-Etienne).\n\n*Partly in Czech.*<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/cirk-la-putyka/lhkpf/\" target=\"_blank\">Cirk La Putyka</a></div><div class=\"\">Režisér: Rostislav Novák Jr.</div><div class=\"\">Umělci: Rostislav Novák Sr. / Jiří Kohout, Vojtěch Fülep, Rostislav Novák Jr., Jan Balcar, Andrej Rády, Jan Kletenský, Zuzana Havrlantová / Šárka Bočková, Zbyněk Šporc, Jiří Weissmann, Alexandr Volný, Anna Schmidtmajerová, Jana Smolíková, Daniel Komarov, Michal Boltnar</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/b80f7d309d0decf12fffd5cb947dcffcc972686e.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6229",
+    "event_name": "Up End Down",
+    "event_date": "2019-10-10",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-10",
+    "event_time_until": "19:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "The project _Up'End'Down_ by the Cirk La Putyka is a follow-up of the previous La Putyka show developing its genre but with one big difference: none of our actors, dancers and athletes was involved with the circus disciplines chosen for the new project (teeter board, silks, ropes, straps, wu-shu) before the rehearsals for the show began.\n\nThe show tells the story of a man living uniquely with his memories. He lives through his flights and falls but is unable to break free from the luggage he carries in himself to live in a relaxed and liberated way. _Up'End'Down_ is looking at the journey from birth to death, the journey from the earth to the heaven and back through the prism of our fantasy. A crossroads between two streets, between heaven and earth, between the memories and the present, between smile and tears, taking off and falling. A crossroad of genres.\n\n_Up'End'Down_ has appeared at the festival „Janvier dans les étoiles“ (La Seyne Sur Mer). As well, this production has been invited at the Festival Roundhouse (London) and Festival des 7 collines (Saint-Etienne).\n\n*Partly in Czech.*<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/cirk-la-putyka/lhkpf/\" target=\"_blank\">Cirk La Putyka</a></div><div class=\"\">Režisér: Rostislav Novák Jr.</div><div class=\"\">Umělci: Rostislav Novák Sr. / Jiří Kohout, Vojtěch Fülep, Rostislav Novák Jr., Jan Balcar, Andrej Rády, Jan Kletenský, Zuzana Havrlantová / Šárka Bočková, Zbyněk Šporc, Jiří Weissmann, Alexandr Volný, Anna Schmidtmajerová, Jana Smolíková, Daniel Komarov, Michal Boltnar</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/b98987c3e0224e2981bdc1235e7b11c5687eceaa.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6230",
+    "event_name": "Panthera",
+    "event_date": "2019-10-21",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-21",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/420people/wikpf/\" target=\"_blank\">420PEOPLE</a></div><div class=\"\">Režisér: Václav Kuneš</div><div class=\"\">Umělci: Francesca Amante, Fanny Barroquère, Veronika Tököly, Viktor Konvalinka, Filip Staněk</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/66bfb704ea64bdccd00dd9bf846abb1ceef6675d.jpg",
+    "price": "250–350",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6231",
+    "event_name": "Panthera",
+    "event_date": "2019-10-22",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-22",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/420people/wikpf/\" target=\"_blank\">420PEOPLE</a></div><div class=\"\">Režisér: Václav Kuneš</div><div class=\"\">Umělci: Francesca Amante, Fanny Barroquère, Veronika Tököly, Viktor Konvalinka, Filip Staněk</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/8ee3207cbcf3650e1e27f1adc887a9d70c1e5e25.jpg",
+    "price": "250–350",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6232",
+    "event_name": "Ego",
+    "event_date": "2019-10-30",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-30",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/losers-cirque-company/euisf/\" target=\"_blank\">Losers Cirque Company</a></div><div class=\"\">Režisér: Radim Vizváry, Daniel Špinar</div><div class=\"\">Umělci: Jindřich Panský, Petr Horníček</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/8a6e479912468d565f6d0a6848240619d832c027.jpg",
+    "price": "490",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6233",
+    "event_name": "Vzduchem",
+    "event_date": "2019-11-06",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-11-06",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "*A dance-acrobatic show based on a book by Richard Bach Jonathan Livingston Seagull.*\n\nThe creators of this performance was inspired by the main plot of the book, the seagull surpass himself thanks to his passion for flight, learning everything he can about flying and than encouraging others to do the same. The audience will witness a path of a man who wants something bigger than everybody else, who’s full of passion for flight. Thanks to the fire and determination the man is able to push the limits and move the boundaries of what he can or cannot do. The main character in this performance is not afraid of failing, he keeps trying new techniques and discovers what his body is capable of. He jumps and falls, again and again.<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/losers-cirque-company/euisf/\" target=\"_blank\">Losers Cirque Company</a></div><div class=\"\">Autor: Matyáš Ramba</div><div class=\"\">Režisér: Matyáš Ramba, SKUTR</div><div class=\"\">Umělci: Kristýna Stránská, Vítězslav Ramba, Pavel Mašek, Tomáš Pražák, Jan Jirák, Vojtěch Glaser, Vladimír Mikláš</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/2e8efd39bbb2b428e27e611d5c34782090cf6d14.jpg",
+    "price": "490",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6234",
+    "event_name": "Panthera",
+    "event_date": "2019-11-18",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-11-18",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/420people/wikpf/\" target=\"_blank\">420PEOPLE</a></div><div class=\"\">Režisér: Václav Kuneš</div><div class=\"\">Umělci: Francesca Amante, Fanny Barroquère, Veronika Tököly, Viktor Konvalinka, Filip Staněk</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/9c8827f39fb6fe84fb2ff3ab26a809e6f0644297.jpg",
+    "price": "250–350",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6235",
+    "event_name": "Panthera",
+    "event_date": "2019-11-19",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-11-19",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/420people/wikpf/\" target=\"_blank\">420PEOPLE</a></div><div class=\"\">Režisér: Václav Kuneš</div><div class=\"\">Umělci: Francesca Amante, Fanny Barroquère, Veronika Tököly, Viktor Konvalinka, Filip Staněk</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/d74aa5aca09cd4c6e4b9dd76d916374f3ebacf61.jpg",
+    "price": "250–350",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6236",
+    "event_name": "Commedia Dell` Arte",
+    "event_date": "2019-12-05",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-12-05",
+    "event_time_until": "18:00:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělci: Tatiana Vilhelmová, Pavel Liška, Marek Daniel, Michal Dalecký, Roman Slovák, Andrea Marečková</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/b06b6ecd04d2ea8aa329cd70fa8b987129f9b1d7.jpg",
+    "price": "350",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
       }
     ],
     "image": null,
