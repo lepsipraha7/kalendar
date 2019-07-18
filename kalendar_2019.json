@@ -81517,5 +81517,31 @@
     ],
     "image": null,
     "goOutInfo": "0"
+  },
+  {
+    "id": "6250",
+    "event_name": "50 let na Měsíci",
+    "event_date": "2019-07-20",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-10-30",
+    "event_time_until": "00:00:00",
+    "location": "Planetárium Praha, Královská obora 233, Praha 7",
+    "address": "",
+    "description": "<p>U příležitosti 50. výročí přistání na Měsíci pořádá Planetárium Praha i Štefánikova hvězdárna výstavu 50 let na <a href=\"http://www.planetum.cz/planetum/50-let-na-mesici/\">Měsíci</a>.</p>\n<p>Dne 20. července uplynulo 50 let od přistání člověka na Měsíci. Od tohoto dne je také v planetáriu vystaven lunární modul Eagle, který člověka na Měsíc dopravil. Pražské planetárium se tak stane jediným místem na světě, které umožní prohlídku modulu i zevnitř. Exponát je reálným modelem v měřítku 1:1, tedy 8 metrů na výšku se základnou 9 x 9 metrů. Model je vystaven před planetáriem, zvenčí si jej tak můžete prohlédnout zdarma. Ve vnitřních prostorách máte následně za vstupné možnost navštívit rozsáhlou expozici. <br />\n<br />\n</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+    "image_id": "28253",
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": "Planetárium Praha",
+    "location_address": "Královská obora 233, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Výstavy"
+      }
+    ],
+    "image": "https://www.praha7.cz/wp-content/uploads/2019/07/050311-F-1234P-004-400x400.jpg",
+    "goOutInfo": null
   }
 ]
