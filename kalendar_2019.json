@@ -78038,7 +78038,7 @@
     "address": "",
     "description": "A look at the life and work of opera legend Luciano Pavarotti.\n<div class=\"\">Režisér: Ron Howard</div><div class=\"\">Umělci: Luciano Pavarotti ( a.z.)</div>",
     "image_id": null,
-    "image_src": "wp-content/uploads/goout/c11941ecef0eb68182b044b873ba3a6e07f69e11.jpg",
+    "image_src": "wp-content/uploads/goout/ffa6246453f5ca64af7fe9f5a3de6439b3bd7aca.jpg",
     "price": "",
     "currency": "CZK",
     "sale_url": null,
@@ -81400,7 +81400,7 @@
     "description": "Aslaug Holm follows closely her two young sons Markus and Lukas in their everyday life, while being sons, close brothers, as well as being kids having pleasures and disappointments.<div class=\"\">Režisér: Aslaug Holm</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/d36f6dc5ef4b1acf3bde2c2fa4e2dca124c418d8.jpg",
-    "price": "50",
+    "price": "0–50",
     "currency": "CZK",
     "sale_url": "https://goout.net/en/tickets/brothers/uqwe",
     "cancelled": "0",
@@ -81426,7 +81426,7 @@
     "description": "Through its unique approach to its protagonist Marish, the film reveals a specific case of slavery, a shocking phenomenon in contemporary Europe. Twenty-five-year-old Edith, whose owner Eta gave her the new name Marish, has lived with her mistress for 10 years. She does all her housework 12 hours a day, usually at weekends too, and only for food, housing and cigarettes. After dinner, Marish still goes to her job at the factory, but must give her entire pay cheque to Eta. She must not leave the house without permission. From time to time Eta beats her. Although Marish's teenage daughter ran away from the torturer's house several years ago, her mother is too afraid. It is estimated that around 45 million people around the world live in modern slavery. In Hungary alone there are about 22,000. Will Marish remain one of them?<div class=\"\">Režisér: Bernadett Tuza-Ritter</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/aca66d4cc03b1344644be5631b6894d6b915734e.jpg",
-    "price": "50",
+    "price": "0–50",
     "currency": "CZK",
     "sale_url": "https://goout.net/en/tickets/a-woman-captured/vqwe",
     "cancelled": "0",
@@ -81504,7 +81504,7 @@
     "description": "<div class=\"\">Režisér: Vít Janeček, Zuzana Piussi</div><div class=\"\">Umělci: Bohdan Bláhovec, Jiří Drahoš, Noam Chomsky, Vít Klusák, Karel Vachek</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/10ca3d890184478ec16328aa5c741dc4a25c1828.jpg",
-    "price": "50",
+    "price": "0–50",
     "currency": "CZK",
     "sale_url": "https://goout.net/en/tickets/university-and-freedom/wqwe",
     "cancelled": "0",
@@ -81543,5 +81543,83 @@
     ],
     "image": "https://www.praha7.cz/wp-content/uploads/2019/07/050311-F-1234P-004-400x400.jpg",
     "goOutInfo": null
+  },
+  {
+    "id": "6251",
+    "event_name": "Foreign Beggars",
+    "event_date": "2019-09-06",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-09-06",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/foreign-beggars/uqac/\" target=\"_blank\">Foreign Beggars</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/0ea0b8ac6a464e9c302f7880c9d0e42dcb469451.jpg",
+    "price": "250–300",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/foreign-beggars/ctwe",
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6252",
+    "event_name": "Head First, or The Contractions of Expanding Time",
+    "event_date": "2019-11-15",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-11-15",
+    "event_time_until": "19:30:00",
+    "location": "Studio Alta, U Výstaviště 21, Praha 7",
+    "address": "",
+    "description": "_We don’t remember how we were born, and we won’t be able to tell the story of our dying. Giving birth is an equally elemental, borderline event, outside real space and time — an extraordinary experience._\n\nIn their brand new production, The Symptoms attempt to recall, unravel and articulate the experience of childbirth, using body parts, words, and images. The four dancers rely on their own personal memories of giving birth, including body functions, traumatic and euphoric events at the same time. They try to turn everything that happened to them in the unconscious realm inside out, beyond the closed eyes and beneath the skin.<div class=\"\">Autor: Réka Szabó</div><div class=\"\">Režisér: Réka Szabó</div><div class=\"\">Umělci: Dóra Furulyás, Csilla Nagy, Melinda Virág, Viktória Dányi / Juli Huzella</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/e1becf84e411412cddb6d719526e77d047e286a6.jpg",
+    "price": "120–220",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/head-first-or-the-contractions-of-expanding-time/mtwe",
+    "cancelled": "0",
+    "location_name": "Studio Alta",
+    "location_address": "U Výstaviště 21, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6253",
+    "event_name": "Ouvrir Le Temps",
+    "event_date": "2019-11-29",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-11-29",
+    "event_time_until": "19:30:00",
+    "location": "Studio Alta, U Výstaviště 21, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor:  Eva Klimáčková, Laurent Goldring</div><div class=\"\">Umělci: Eva Klimáčková</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/8c263cb691499bd20da620d76139369ecef63924.jpg",
+    "price": "120–220",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/ouvrir-le-temps/ntwe",
+    "cancelled": "0",
+    "location_name": "Studio Alta",
+    "location_address": "U Výstaviště 21, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
   }
 ]
