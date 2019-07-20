@@ -76688,7 +76688,7 @@
   },
   {
     "id": "6064",
-    "event_name": "Dub Club Prague: Rybydub + Dread K + more",
+    "event_name": "Stalin x Dub Club Prague: Rybydub + Dread K + more",
     "event_date": "2019-07-26",
     "event_time": "17:00:00",
     "event_date_until": "2019-07-26",
@@ -81614,6 +81614,87 @@
     "cancelled": "0",
     "location_name": "Studio Alta",
     "location_address": "U Výstaviště 21, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6254",
+    "event_name": "Stalin Siesta: Biodan & Jana Věnečková",
+    "event_date": "2019-07-28",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-07-28",
+    "event_time_until": "18:00:00",
+    "location": "Containall – Stalin, Letenské sady, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/biodan/wld/\" target=\"_blank\">Biodan</a><a href=\"https://goout.net/en/artists/jana-veneckova/ditwf/\" target=\"_blank\">Jana Věnečková</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/9a095d5f2ba68a36ce0df19c6fe6c3bda51adf02.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stalin",
+    "location_address": "Letenské sady, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      },
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6255",
+    "event_name": "Where the desert meets the ocean",
+    "event_date": "2019-08-08",
+    "event_time": "21:30:00",
+    "event_date_until": "2019-08-08",
+    "event_time_until": "21:30:00",
+    "location": "Containall – Stalin, Letenské sady, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/prazskej-serfovej-klub/xgrag/\" target=\"_blank\">Pražskej serfovej klub</a></div><div class=\"\">Režisér: Václav Píša</div><div class=\"\">Umělci: Matyáš Menšík, Dan Peřina, Jakub Michna, Václav Píša</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/d6cf18f8e969ff37eb96e62dbcc5fddbaba59823.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stalin",
+    "location_address": "Letenské sady, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6256",
+    "event_name": "Cross slam – nová generace vol. 14",
+    "event_date": "2019-08-12",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-08-12",
+    "event_time_until": "19:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/slam-poetry/xsctf/\" target=\"_blank\">Slam poetry</a><a href=\"https://goout.net/en/artists/anatol-svahilec/ilauf/\" target=\"_blank\">Anatol Svahilec</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/a1a4b97df5549eb2467285b8ab68dd9ba784b5c5.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
     "categories": [
       {
         "subcategory_name": "Divadlo"
