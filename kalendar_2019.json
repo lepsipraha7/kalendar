@@ -76852,15 +76852,15 @@
     "id": "6070",
     "event_name": "Guided tour of the exhibition Art-Brut-All with curators",
     "event_date": "2019-08-19",
-    "event_time": "16:30:00",
+    "event_time": "16:00:00",
     "event_date_until": "2019-08-19",
-    "event_time_until": "16:30:00",
+    "event_time_until": "16:00:00",
     "location": "DOX Centrum současného umění, Poupětova 1, Praha 7",
     "address": "",
     "description": "Guided tour of the exhibition _Art-Brut-All_ with curators Pavel Forman and Tomáš Koudel.",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/328d7e11b3ce41d96c4b2f089bf2bccb5ad04e5b.jpg",
-    "price": "",
+    "price": "0–60",
     "currency": "CZK",
     "sale_url": null,
     "cancelled": "0",
@@ -79906,6 +79906,9 @@
     "categories": [
       {
         "subcategory_name": "Párty"
+      },
+      {
+        "subcategory_name": "Koncerty"
       }
     ],
     "image": null,
@@ -80104,7 +80107,7 @@
   },
   {
     "id": "6194",
-    "event_name": "Stalin X Mikro: Lucas Hulan",
+    "event_name": "Stalin x Mikro: Lucas Hulan",
     "event_date": "2019-08-03",
     "event_time": "21:00:00",
     "event_date_until": "2019-08-03",
@@ -80578,14 +80581,14 @@
   },
   {
     "id": "6214",
-    "event_name": "Scrufizzer + Sam Wise + more ",
+    "event_name": "Scrufizzer + Smack + more ",
     "event_date": "2019-07-27",
     "event_time": "16:00:00",
     "event_date_until": "2019-07-27",
     "event_time_until": "16:00:00",
     "location": "Cross Club, Plynární 23, Praha 7",
     "address": "",
-    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/scrufizzer/xewrf/\" target=\"_blank\">Scrufizzer</a><a href=\"https://goout.net/en/artists/sam-wise/mwxdg/\" target=\"_blank\">Sam Wise</a><a href=\"https://goout.net/en/artists/smack/grapf/\" target=\"_blank\">Smack</a><a href=\"https://goout.net/en/artists/tchagun/gfgqf/\" target=\"_blank\">Tchagun</a><a href=\"https://goout.net/en/artists/asap-jarda-casablanca/ahdxf/\" target=\"_blank\">ASAP Jarda & Casablanca</a><a href=\"https://goout.net/en/artists/fefe/bimqf/\" target=\"_blank\">Fefe</a></div>",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/scrufizzer/xewrf/\" target=\"_blank\">Scrufizzer</a><a href=\"https://goout.net/en/artists/smack/grapf/\" target=\"_blank\">Smack</a><a href=\"https://goout.net/en/artists/tchagun/gfgqf/\" target=\"_blank\">Tchagun</a><a href=\"https://goout.net/en/artists/asap-jarda-casablanca/ahdxf/\" target=\"_blank\">ASAP Jarda & Casablanca</a><a href=\"https://goout.net/en/artists/fefe/bimqf/\" target=\"_blank\">Fefe</a></div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/7671e6135424119fc899f98b6519921c4983cade.jpg",
     "price": "",
@@ -81698,6 +81701,838 @@
     "categories": [
       {
         "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6257",
+    "event_name": "Mid90s",
+    "event_date": "2019-07-25",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-07-25",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Follows Stevie, a thirteen-year-old in 1990s-era Los Angeles who spends his summer navigating between his troubled home life and a group of new friends that he meets at a Motor Avenue skate shop.<div class=\"\">Režisér: Jonah Hill</div><div class=\"\">Umělci: Sunny Suljic, Katherine Waterston, Lucas Hedges, Gio Galicia, Na-kel Smith, Olan Prenatt, Ryder McLaughlin, Alexa Demie, Harmony Korine, Jerrod Carmichael, Zachary Read</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/1a40311f7d0d0a1b71d6d562331e939b75148d4a.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6258",
+    "event_name": "Stuber",
+    "event_date": "2019-07-25",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-07-25",
+    "event_time_until": "20:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A detective recruits his Uber driver into an unexpected night of adventure.\n<div class=\"\">Režisér: Michael Dowse</div><div class=\"\">Umělci: Kumail Nanjiani, Dave Bautista, Betty Gilpin, Iko Uwais, Joshua Mikel, Amin Joseph, Christine Horn, Scott Lawrence, Lyon Beckwith, Karen Gillan, Natalie Morales, Mira Sorvino, Jimmy Tatro</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/6e8a98d8a2062f06500f99cbff4214c7403ee344.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6259",
+    "event_name": "A White, White Day",
+    "event_date": "2019-07-26",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-07-26",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "In a remote Icelandic town, an off duty police chief begins to suspect a local man for having had an affair with his wife, who recently died in a car accident. Gradually his obsession for finding out the truth accumulates and inevitably begins to endanger himself and his loved ones. A story of grief, revenge and unconditional love.\n\n<div class=\"\">Režisér: Hlynur Pálmason</div><div class=\"\">Umělci: Ingvar Sigurðsson, Ída Mekkín Hlynsdóttir, Hilmir Snær Guðnason, Sara Dögg Ásgeirsdóttir, Elma Stefanía Ágústsdóttir, Laufey Elíasdóttir, Sigurður Sigurjónsson, Sverrir Þór Sverrisson</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/c9c3e8bdfa97ff0123fdbc4512e2dfcde950c246.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6260",
+    "event_name": "Diego Maradona",
+    "event_date": "2019-07-26",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-07-26",
+    "event_time_until": "20:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Constructed from over 500 hours of never-before-seen footage, this documentary centers on the career of celebrated football player Diego Armando Maradona, who played for S.S.C. Napoli in the 1980s.\n<div class=\"\">Režisér: Asif Kapadia</div><div class=\"\">Umělci: Diego Armando Maradona</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/830a5e4350e8e56dad2d6f72e57bbc09f7e8e2bc.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6261",
+    "event_name": "The Dead Don't Die",
+    "event_date": "2019-07-27",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-07-27",
+    "event_time_until": "20:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "The peaceful town of Centerville finds itself battling a zombie horde as the dead start rising from their graves.<div class=\"\">Režisér: Jim Jarmusch</div><div class=\"\">Umělci: Bill Murray, Adam Driver, Tilda Swinton, Chloë Sevigny, Steve Buscemi, Danny Glover, Caleb Landry Jones, Rosie Perez, Iggy Pop, Sara Driver, RZA, Selena Gomez, Carol Kane, Tom Waits, Austin Butler, Sturgill Simpson</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/6079f6b88c18ac932fa2cf05ff8bda4bc8c0329a.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6262",
+    "event_name": "Mid90s",
+    "event_date": "2019-07-27",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-07-27",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Follows Stevie, a thirteen-year-old in 1990s-era Los Angeles who spends his summer navigating between his troubled home life and a group of new friends that he meets at a Motor Avenue skate shop.<div class=\"\">Režisér: Jonah Hill</div><div class=\"\">Umělci: Sunny Suljic, Katherine Waterston, Lucas Hedges, Gio Galicia, Na-kel Smith, Olan Prenatt, Ryder McLaughlin, Alexa Demie, Harmony Korine, Jerrod Carmichael, Zachary Read</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/f80cfcd36d308468122b6420e64775df9199819d.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6263",
+    "event_name": "The Secret Life of Pets 2",
+    "event_date": "2019-07-27",
+    "event_time": "15:45:00",
+    "event_date_until": "2019-07-27",
+    "event_time_until": "15:45:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Continuing the story of Max and his pet friends, following their secret lives after their owners leave them for work or school each day.\n<div class=\"\">Režisér: Chris Renaud</div><div class=\"\">Umělci: Patton Oswalt, Harrison Ford, Tiffany Haddish, Nick Kroll, Pete Holmes, Kevin Hart, Jenny Slate, Eric Stonestreet, Ellie Kemper, Lake Bell, Dana Carvey, Hannibal Buress, Bobby Moynihan</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/33812957cfb366e8f3e686dbcf2393827778869d.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6264",
+    "event_name": "Diego Maradona",
+    "event_date": "2019-07-27",
+    "event_time": "13:00:00",
+    "event_date_until": "2019-07-27",
+    "event_time_until": "13:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Constructed from over 500 hours of never-before-seen footage, this documentary centers on the career of celebrated football player Diego Armando Maradona, who played for S.S.C. Napoli in the 1980s.\n<div class=\"\">Režisér: Asif Kapadia</div><div class=\"\">Umělci: Diego Armando Maradona</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/9bff25ccaee14436c6b5caa2bb083f8d73f48927.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6265",
+    "event_name": "Free Solo",
+    "event_date": "2019-07-28",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-07-28",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Follow Alex Honnold as he becomes the first person to ever free solo climb Yosemite's 3,000 ft high El Capitan wall. With no ropes or safety gear, he completed arguably the greatest feat in rock climbing history.\n<div class=\"\">Režisér: Jimmy Chin, Elizabeth Chai Vasarhelyi</div><div class=\"\">Umělci: Alex Honnold, Jimmy Chin</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/d6d5ae648bf66054a4c76cad3c541e7f37300289.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6266",
+    "event_name": "Mid90s",
+    "event_date": "2019-07-28",
+    "event_time": "13:00:00",
+    "event_date_until": "2019-07-28",
+    "event_time_until": "13:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Follows Stevie, a thirteen-year-old in 1990s-era Los Angeles who spends his summer navigating between his troubled home life and a group of new friends that he meets at a Motor Avenue skate shop.<div class=\"\">Režisér: Jonah Hill</div><div class=\"\">Umělci: Sunny Suljic, Katherine Waterston, Lucas Hedges, Gio Galicia, Na-kel Smith, Olan Prenatt, Ryder McLaughlin, Alexa Demie, Harmony Korine, Jerrod Carmichael, Zachary Read</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/ca8baf991f8d9195b6067cecfc93b279713d4f56.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6267",
+    "event_name": "Rocketman",
+    "event_date": "2019-07-28",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-07-28",
+    "event_time_until": "20:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A musical fantasy about the fantastical human story of Elton John's breakthrough years.\n<div class=\"\">Režisér: Dexter Fletcher</div><div class=\"\">Umělci: Taron Egerton, Richard Madden, Bryce Dallas Howard, Jamie Bell, Steven Mackintosh, Gemma Jones, Kamil Lemieszewski, Luke White</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/3970f43105196f3617d74779e9934b6129c7b838.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6268",
+    "event_name": "Savage",
+    "event_date": "2019-07-29",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-07-29",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Léo views men as just as interchangeable as the days he struggles through. His past is unknown to us, his future uncertain. The only stable point in the twenty-two-year-old man’s life is the present, and it isn’t exactly bright: he sells his body in the streets, he has nowhere to sleep and his only escape is provided by drugs. Moreover, unlike other prostitutes, he doesn’t go with his clients to make money, but to enjoy for a few fleeting moments the intimacy and warmth of the bodies he should satisfy. But it’s as if he didn’t belong in the world of impersonal meetings, violence, and competition. That’s because it is difficult to satisfy the need for love when all inhibitions have vanished. Camille Vidal-Naquet’s harsh debut examines a world of absolute freedom and tells the story of an individual who approaches life passively, but demands its gentle attention. This provocatively physical drama premiered in The International Critics’ Week in Cannes and offers a blunt insight into nooks that normally remain hidden.<div class=\"\">Režisér: Camille Vidal-Naquet</div><div class=\"\">Umělci: Félix Maritaud, Philippe Ohrel, Marie Seux, Eric Bernard, Noureddine Maamar</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/9cce139d49f3821876efc704df2f652c2e6bb433.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6269",
+    "event_name": "Wuthering Heights",
+    "event_date": "2019-07-29",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-07-29",
+    "event_time_until": "20:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Kaya Scodelario (Skins) as Cathy and James Howson as Heathcliff lead an impressive British cast in this timeless tale of two of the most memorable lovers in literature. A Yorkshire hill farmer on a visit to Liverpool finds a homeless boy on the streets. He takes him home to live as part of his family on the isolated Yorkshire moors where the boy forges an obsessive relationship with the farmer's daughter. One of the most startlingly original, gritty and radical adaptations of Emily Brontë's novel nevertheless remains utterly faithful to the text’s essential roots. Eschewing none of the style that made her early work so unique, Andrea Arnold captures the spirit of life on the Yorkshire moors and the danger of an illicit romance. Beautifully shot by Robbie Ryan, who makes the most of the harsh climate and misty landscape, this is a refreshing take on a familiar story.\n<div class=\"\">Režisér: Andrea Arnold</div><div class=\"\">Umělci: James Howson, Kaya Scodelario, Nichola Burley, Oliver Milburn, Paul Hilton, Steve Evets, Solomon Glave, Shannon Beer, Lee Shaw, Amy Wren</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/6dc62bf957c9a8cd08f7b4c40d1f72f105b98a90.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6270",
+    "event_name": "Mid90s",
+    "event_date": "2019-07-30",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-07-30",
+    "event_time_until": "20:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Follows Stevie, a thirteen-year-old in 1990s-era Los Angeles who spends his summer navigating between his troubled home life and a group of new friends that he meets at a Motor Avenue skate shop.<div class=\"\">Režisér: Jonah Hill</div><div class=\"\">Umělci: Sunny Suljic, Katherine Waterston, Lucas Hedges, Gio Galicia, Na-kel Smith, Olan Prenatt, Ryder McLaughlin, Alexa Demie, Harmony Korine, Jerrod Carmichael, Zachary Read</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/3f92807cee67aef48515a22ead7503df22638dc0.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6271",
+    "event_name": "The Bookshop",
+    "event_date": "2019-07-30",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-07-30",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Based on Penelope Fitzgerald’s novel, _The Bookshop_ is set in 1959, and Florence Green (Emily Mortimer), is a free-spirited widow, puts grief behind her and risks everything to open up a bookshop – the first such shop in a sleepy seaside town in England. Fighting damp, cold and considerable local apathy she struggles to establish herself but soon her fortunes change for the better. By exposing the narrow-minded local townsfolk to the best literature of the day, she opens their eyes thereby causing a cultural awakening in a town which has not changed for centuries.\n\nHer activities bring her a kindred spirit and ally in the figure of Mr. Brundish (Bill Nighy) who is himself sick of the town’s stale atmosphere. But this mini social revolution soon brings her fierce enemies: she invites the hostility of the town’s less prosperous shopkeepers and also crosses Mrs. Gamart (Patricia Clarkson), Hardborough’s vengeful, embittered alpha female who is herself a wannabe doyenne of the local arts scene.\n\nWhen Florence refuses to bend to Gamart’s will, they begin a struggle not just for the bookshop but for the very heart and soul of the town.<div class=\"\">Režisér: Isabel Coixet</div><div class=\"\">Umělci: Emily Mortimer, Bill Nighy, Patricia Clarkson</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/554bf92288bd33dc4ed26189252036676fb03b01.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6272",
+    "event_name": "TvMiniUni: The Question Thief",
+    "event_date": "2019-07-30",
+    "event_time": "13:00:00",
+    "event_date_until": "2019-07-30",
+    "event_time_until": "13:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Režisér: Jan Jirků</div><div class=\"\">Umělci: Sebastian Pöthe, Barbora Poláková, Jiří Havelka, Pavel Liška, Miroslav Krobot, Petra Domžalová, Zdeněk Julina, Jan Leflík, Radovan Král, Romana Kvapiková-Julinová</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/1eac8befb11b3b0939c6fa1937c8b388d46ad261.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6273",
+    "event_name": "The Dead Don't Die",
+    "event_date": "2019-07-31",
+    "event_time": "20:45:00",
+    "event_date_until": "2019-07-31",
+    "event_time_until": "20:45:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "The peaceful town of Centerville finds itself battling a zombie horde as the dead start rising from their graves.<div class=\"\">Režisér: Jim Jarmusch</div><div class=\"\">Umělci: Bill Murray, Adam Driver, Tilda Swinton, Chloë Sevigny, Steve Buscemi, Danny Glover, Caleb Landry Jones, Rosie Perez, Iggy Pop, Sara Driver, RZA, Selena Gomez, Carol Kane, Tom Waits, Austin Butler, Sturgill Simpson</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/9149db1b7a0285649f3a14f0fe60e99e4a20770a.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6274",
+    "event_name": "Czechitas Talks & Bazaar",
+    "event_date": "2019-07-31",
+    "event_time": "15:00:00",
+    "event_date_until": "2019-07-31",
+    "event_time_until": "15:00:00",
+    "location": "Vnitroblock, Tusarova 791/31, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/cb4c5babe5f7a89c301da6e9ffeeb09014d201ce.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Vnitroblock",
+    "location_address": "Tusarova 791/31, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6275",
+    "event_name": "Diego Maradona",
+    "event_date": "2019-07-31",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-07-31",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Constructed from over 500 hours of never-before-seen footage, this documentary centers on the career of celebrated football player Diego Armando Maradona, who played for S.S.C. Napoli in the 1980s.\n<div class=\"\">Režisér: Asif Kapadia</div><div class=\"\">Umělci: Diego Armando Maradona</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/5fd3bd14fb7cae32182dd367ecc8a0e96940128d.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6276",
+    "event_name": "Long Shot",
+    "event_date": "2019-08-01",
+    "event_time": "10:00:00",
+    "event_date_until": "2019-08-01",
+    "event_time_until": "10:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Journalist Fred Flarsky reunites with his childhood crush, Charlotte Field, now one of the most influential women in the world. As she prepares to make a run for the Presidency, Charlotte hires Fred as her speechwriter and sparks fly.\n<div class=\"\">Režisér: Jonathan Levine</div><div class=\"\">Umělci: Charlize Theron, Seth Rogen, Alexander Skarsgård, Andy Serkis, O'Shea Jackson Jr., June Diane Raphael, Randall Park, Ravi Patel, Tristan D. Lalla, Bob Odenkirk, Xiao Sun, Anton Koval</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/36cf84dc4a57e0a6408c7347be461597a2df4e02.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6277",
+    "event_name": "A White, White Day",
+    "event_date": "2019-08-05",
+    "event_time": "13:00:00",
+    "event_date_until": "2019-08-05",
+    "event_time_until": "13:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "In a remote Icelandic town, an off duty police chief begins to suspect a local man for having had an affair with his wife, who recently died in a car accident. Gradually his obsession for finding out the truth accumulates and inevitably begins to endanger himself and his loved ones. A story of grief, revenge and unconditional love.\n\n<div class=\"\">Režisér: Hlynur Pálmason</div><div class=\"\">Umělci: Ingvar Sigurðsson, Ída Mekkín Hlynsdóttir, Hilmir Snær Guðnason, Sara Dögg Ásgeirsdóttir, Elma Stefanía Ágústsdóttir, Laufey Elíasdóttir, Sigurður Sigurjónsson, Sverrir Þór Sverrisson</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/e508752c0ccc053486e3f51d90ab078a6ff4950d.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6278",
+    "event_name": "Diego Maradona",
+    "event_date": "2019-08-08",
+    "event_time": "10:00:00",
+    "event_date_until": "2019-08-08",
+    "event_time_until": "10:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Constructed from over 500 hours of never-before-seen footage, this documentary centers on the career of celebrated football player Diego Armando Maradona, who played for S.S.C. Napoli in the 1980s.\n<div class=\"\">Režisér: Asif Kapadia</div><div class=\"\">Umělci: Diego Armando Maradona</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/7a2c0db6511ca5c992e68cbcd1c77074bf0b8594.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6279",
+    "event_name": "Klasika bez kvádra: PFO sexteto + Bohemian Cristal instrument",
+    "event_date": "2019-08-09",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-08-09",
+    "event_time_until": "18:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/bohemian-cristal-instrument/blpvf/\" target=\"_blank\">Bohemian Cristal Instrument</a><a href=\"https://goout.net/en/artists/pfo-sexteto/xgbeg/\" target=\"_blank\">PFO sexteto</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/e4d79ec403bbacd4f7758bc757da2c44f432502a.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6280",
+    "event_name": "The Hateful Eight",
+    "event_date": "2019-08-12",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-08-12",
+    "event_time_until": "20:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "In the dead of a Wyoming winter, a bounty hunter and his prisoner find shelter in a cabin currently inhabited by a collection of nefarious characters.\n<div class=\"\">Režisér: Quentin Tarantino</div><div class=\"\">Umělci: Samuel L. Jackson, Walton Goggins, Kurt Russell, Jennifer Jason Leigh, Tim Roth, Michael Madsen, Bruce Dern, Demian Bichir, Channing Tatum, Zoë Bell, Dana Gourrier, James Parks, Lee Horsley, Gene Jones</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/18acd893b1a7425b03e5fd3dbe355e72d76eabec.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6281",
+    "event_name": "Mid90s",
+    "event_date": "2019-08-12",
+    "event_time": "13:00:00",
+    "event_date_until": "2019-08-12",
+    "event_time_until": "13:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Follows Stevie, a thirteen-year-old in 1990s-era Los Angeles who spends his summer navigating between his troubled home life and a group of new friends that he meets at a Motor Avenue skate shop.<div class=\"\">Režisér: Jonah Hill</div><div class=\"\">Umělci: Sunny Suljic, Katherine Waterston, Lucas Hedges, Gio Galicia, Na-kel Smith, Olan Prenatt, Ryder McLaughlin, Alexa Demie, Harmony Korine, Jerrod Carmichael, Zachary Read</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/feca73dbf188b3352b36a4770b2974f42bbbf9af.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6282",
+    "event_name": "Inglourious Basterds",
+    "event_date": "2019-08-15",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-08-15",
+    "event_time_until": "20:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.\n<div class=\"\">Režisér: Quentin Tarantino</div><div class=\"\">Umělci: Brad Pitt, Mélanie Laurent, Christoph Waltz, Eli Roth, Michael Fassbender, Diane Kruger, Daniel Brühl, Til Schweiger, Gedeon Burkhard, Jacky Ido, B. J. Novak, Omar Doom, August Diehl, Denis Ménochet, Sylvester Groth, Martin Wuttke, Mike Myers, Julie Dreyfus, Richard Sammel, Alexander Fehling</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/2f8d7ff2c34b7cf49bb4673f9c2dd6377416fba7.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6283",
+    "event_name": "The Bookshop",
+    "event_date": "2019-08-15",
+    "event_time": "10:00:00",
+    "event_date_until": "2019-08-15",
+    "event_time_until": "10:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Based on Penelope Fitzgerald’s novel, _The Bookshop_ is set in 1959, and Florence Green (Emily Mortimer), is a free-spirited widow, puts grief behind her and risks everything to open up a bookshop – the first such shop in a sleepy seaside town in England. Fighting damp, cold and considerable local apathy she struggles to establish herself but soon her fortunes change for the better. By exposing the narrow-minded local townsfolk to the best literature of the day, she opens their eyes thereby causing a cultural awakening in a town which has not changed for centuries.\n\nHer activities bring her a kindred spirit and ally in the figure of Mr. Brundish (Bill Nighy) who is himself sick of the town’s stale atmosphere. But this mini social revolution soon brings her fierce enemies: she invites the hostility of the town’s less prosperous shopkeepers and also crosses Mrs. Gamart (Patricia Clarkson), Hardborough’s vengeful, embittered alpha female who is herself a wannabe doyenne of the local arts scene.\n\nWhen Florence refuses to bend to Gamart’s will, they begin a struggle not just for the bookshop but for the very heart and soul of the town.<div class=\"\">Režisér: Isabel Coixet</div><div class=\"\">Umělci: Emily Mortimer, Bill Nighy, Patricia Clarkson</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/ee7b06081b74daa28c42594e782b6e2d77e37ede.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6284",
+    "event_name": "Pulp Fiction",
+    "event_date": "2019-08-16",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-08-16",
+    "event_time_until": "20:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.\n<div class=\"\">Režisér: Quentin Tarantino</div><div class=\"\">Umělci: John Travolta, Samuel L. Jackson, Tim Roth, Uma Thurman, Christopher Walken, Bruce Willis, Harvey Keitel, Amanda Plummer, Rosanna Arquette, Eric Stoltz, Ving Rhames</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/e355b6c80904adce7c25eb2796cab74a030c496e.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6285",
+    "event_name": "Wuthering Heights",
+    "event_date": "2019-08-19",
+    "event_time": "13:00:00",
+    "event_date_until": "2019-08-19",
+    "event_time_until": "13:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Kaya Scodelario (Skins) as Cathy and James Howson as Heathcliff lead an impressive British cast in this timeless tale of two of the most memorable lovers in literature. A Yorkshire hill farmer on a visit to Liverpool finds a homeless boy on the streets. He takes him home to live as part of his family on the isolated Yorkshire moors where the boy forges an obsessive relationship with the farmer's daughter. One of the most startlingly original, gritty and radical adaptations of Emily Brontë's novel nevertheless remains utterly faithful to the text’s essential roots. Eschewing none of the style that made her early work so unique, Andrea Arnold captures the spirit of life on the Yorkshire moors and the danger of an illicit romance. Beautifully shot by Robbie Ryan, who makes the most of the harsh climate and misty landscape, this is a refreshing take on a familiar story.\n<div class=\"\">Režisér: Andrea Arnold</div><div class=\"\">Umělci: James Howson, Kaya Scodelario, Nichola Burley, Oliver Milburn, Paul Hilton, Steve Evets, Solomon Glave, Shannon Beer, Lee Shaw, Amy Wren</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/9714abf1931cb30d338e65746a4ed02777813942.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6286",
+    "event_name": "Crazy Town",
+    "event_date": "2019-08-21",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-08-21",
+    "event_time_until": "20:00:00",
+    "location": "Cross Club, Plynární 23, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/crazy-town/otauf/\" target=\"_blank\">Crazy Town</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/e28e1cf7feda3e7338245d6034aedcf0d06524d3.jpg",
+    "price": "420–550",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/crazy-town/iywe",
+    "cancelled": "0",
+    "location_name": "Cross Club",
+    "location_address": "Plynární 23, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6287",
+    "event_name": "A War Within",
+    "event_date": "2019-08-22",
+    "event_time": "10:00:00",
+    "event_date_until": "2019-08-22",
+    "event_time_until": "10:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "When Esben flees the trenches of WWI, after three years at the front, it's so he can return to his beloved wife Kirstine and son Karl. But everything at home has changed - A charming German Officer, Gerhard, has done everything he can to win Kirstine's heart and replace Esbens role as Karls father. As Esben's family tries to adjust to his return from the front, the bonds of love and loyalty are stretched to the breaking point in this taut and profoundly moving film. From his hideout, Esben becomes a witness to a horrific nightmare watching his family slowly disappear in front of him as he fights for their love and survival and as he tries desperately to save his family. IN LOVE and WAR is an epic romantic drama, based on a true story.\n\n<div class=\"\">Režisér: Kasper Torsting</div><div class=\"\">Umělci: Sebastian Jessen, Rosalinde Mynster, Tom Wlaschiha, Thure Lindhardt, Ulrich Thomsen, Natalie Madueño, Karel Dobrý, Morten Brovn Jørgensen, Morten Holst, Kristo Ferkic, Hedi Kriegeskotte, Veit Stübner, Jakob Agermose Pedersen, Werner Wölbern, Alexander Wüst</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/a7b3d1f38b713dae817c567dc179fde9176173e7.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6288",
+    "event_name": "Late Night",
+    "event_date": "2019-08-29",
+    "event_time": "10:00:00",
+    "event_date_until": "2019-08-29",
+    "event_time_until": "10:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A late-night talk-show host suspects that she may soon lose her long-running show.\n<div class=\"\">Režisér: Nisha Ganatra</div><div class=\"\">Umělci: Emma Thompson, Mindy Kaling, John Lithgow, Hugh Dancy, Reid Scott, Denis O'Hare, Max Casella, Paul Walter Hauser, John Early, Ike Barinholtz, Marc Kudisch, Amy Ryan, Megalyn Echikunwoke, Bill Maher, Seth Meyers, Annaleigh Ashford, Halston Sage, Maria Dizzia, Sakina Jaffrey, Faith Logan, Doris McCarthy</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/2287a30799315d06ecbdeb0c5741cb83ed377e42.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
       }
     ],
     "image": null,
