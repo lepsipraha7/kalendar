@@ -74537,7 +74537,7 @@
     "price": "2700",
     "currency": "CZK",
     "sale_url": "https://goout.net/en/tickets/pop-up-skola-vareni-sushi/sxte",
-    "cancelled": "0",
+    "cancelled": "1",
     "location_name": "Vnitroblock",
     "location_address": "Tusarova 791/31, Praha 7",
     "categories": [
@@ -76860,9 +76860,9 @@
     "description": "Guided tour of the exhibition _Art-Brut-All_ with curators Pavel Forman and Tomáš Koudel.",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/328d7e11b3ce41d96c4b2f089bf2bccb5ad04e5b.jpg",
-    "price": "0–60",
+    "price": "40–60",
     "currency": "CZK",
-    "sale_url": null,
+    "sale_url": "https://goout.net/en/tickets/guided-tour-of-the-exhibition-art-brut-all-with-curators/rdxe",
     "cancelled": "0",
     "location_name": "DOX Centrum současného umění",
     "location_address": "Poupětova 1, Praha 7",
@@ -76961,7 +76961,7 @@
     "event_time_until": "14:00:00",
     "location": "Cross Club, Plynární 23, Praha 7",
     "address": "",
-    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/mad-duck-booking/tqmuf/\" target=\"_blank\">Mad Duck booking</a><a href=\"https://goout.net/en/artists/misa-histerica/secwf/\" target=\"_blank\">Misa Histerica</a><a href=\"https://goout.net/en/artists/stalker/nysdg/\" target=\"_blank\">Stalker</a><a href=\"https://goout.net/en/artists/beton/anirf/\" target=\"_blank\">Beton</a><a href=\"https://goout.net/en/artists/the-wilderness/eycrf/\" target=\"_blank\">The Wilderness</a><a href=\"https://goout.net/en/artists/drom/rgw/\" target=\"_blank\">Drom</a><a href=\"https://goout.net/en/artists/just-war/oderf/\" target=\"_blank\">Just Wär</a><a href=\"https://goout.net/en/artists/prumyslova-smrt/eckf/\" target=\"_blank\">Průmyslová smrt</a><a href=\"https://goout.net/en/artists/bowel-fuck/pysdg/\" target=\"_blank\">Bowel Fuck</a><a href=\"https://goout.net/en/artists/scalp/sttf/\" target=\"_blank\">Scalp</a><a href=\"https://goout.net/en/artists/acid-row/wlqqf/\" target=\"_blank\">Acid Row</a><a href=\"https://goout.net/en/artists/homesick/jjetf/\" target=\"_blank\">Homesick</a><a href=\"https://goout.net/en/artists/kraost/eibqf/\" target=\"_blank\">Kraost</a><a href=\"https://goout.net/en/artists/miea/swlwf/\" target=\"_blank\">Miea</a><a href=\"https://goout.net/en/artists/exude/ipoag/\" target=\"_blank\">Exude</a><a href=\"https://goout.net/en/artists/commodore-64/aqrvf/\" target=\"_blank\">Commodore 64</a><a href=\"https://goout.net/en/artists/kunta-kinte/mlyrf/\" target=\"_blank\">Kunta Kinte</a><a href=\"https://goout.net/en/artists/clovek-v-plisni/rysdg/\" target=\"_blank\">Člověk v plísni</a><a href=\"https://goout.net/en/artists/tart/tysdg/\" target=\"_blank\">Tart</a><a href=\"https://goout.net/en/artists/scholl-division/vysdg/\" target=\"_blank\">Scholl Division</a><a href=\"https://goout.net/en/artists/trahir/fkywf/\" target=\"_blank\">Trahir</a><a href=\"https://goout.net/en/artists/rotting-beetroot/yjgvf/\" target=\"_blank\">Rotting BeetRoot</a><a href=\"https://goout.net/en/artists/bambulkyne-dobrodruzstva/kdqsf/\" target=\"_blank\">Bambulkyne dobrodružstvá</a></div>",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/mad-duck-booking/tqmuf/\" target=\"_blank\">Mad Duck booking</a><a href=\"https://goout.net/en/artists/misa-histerica/secwf/\" target=\"_blank\">Misa Histerica</a><a href=\"https://goout.net/en/artists/stalker/nysdg/\" target=\"_blank\">Stalker</a><a href=\"https://goout.net/en/artists/beton/anirf/\" target=\"_blank\">Beton</a><a href=\"https://goout.net/en/artists/the-wilderness/eycrf/\" target=\"_blank\">The Wilderness</a><a href=\"https://goout.net/en/artists/drom/rgw/\" target=\"_blank\">Drom</a><a href=\"https://goout.net/en/artists/just-war/oderf/\" target=\"_blank\">Just War</a><a href=\"https://goout.net/en/artists/prumyslova-smrt/eckf/\" target=\"_blank\">Průmyslová smrt</a><a href=\"https://goout.net/en/artists/bowel-fuck/pysdg/\" target=\"_blank\">Bowel Fuck</a><a href=\"https://goout.net/en/artists/scalp/sttf/\" target=\"_blank\">Scalp</a><a href=\"https://goout.net/en/artists/acid-row/wlqqf/\" target=\"_blank\">Acid Row</a><a href=\"https://goout.net/en/artists/homesick/jjetf/\" target=\"_blank\">Homesick</a><a href=\"https://goout.net/en/artists/kraost/eibqf/\" target=\"_blank\">Kraost</a><a href=\"https://goout.net/en/artists/miea/swlwf/\" target=\"_blank\">Miea</a><a href=\"https://goout.net/en/artists/exude/ipoag/\" target=\"_blank\">Exude</a><a href=\"https://goout.net/en/artists/commodore-64/aqrvf/\" target=\"_blank\">Commodore 64</a><a href=\"https://goout.net/en/artists/kunta-kinte/mlyrf/\" target=\"_blank\">Kunta Kinte</a><a href=\"https://goout.net/en/artists/clovek-v-plisni/rysdg/\" target=\"_blank\">Člověk v plísni</a><a href=\"https://goout.net/en/artists/tart/tysdg/\" target=\"_blank\">Tart</a><a href=\"https://goout.net/en/artists/scholl-division/vysdg/\" target=\"_blank\">Scholl Division</a><a href=\"https://goout.net/en/artists/trahir/fkywf/\" target=\"_blank\">Trahir</a><a href=\"https://goout.net/en/artists/rotting-beetroot/yjgvf/\" target=\"_blank\">Rotting BeetRoot</a><a href=\"https://goout.net/en/artists/bambulkyne-dobrodruzstva/kdqsf/\" target=\"_blank\">Bambulkyne dobrodružstvá</a></div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/a4a443ccbd353a9cc707936a56f4f7c1a421dac7.jpg",
     "price": "+",
@@ -82533,6 +82533,87 @@
     "categories": [
       {
         "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6289",
+    "event_name": "Prezentace studentů KATaP DAMU",
+    "event_date": "2019-08-27",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-08-27",
+    "event_time_until": "19:30:00",
+    "location": "Studio Alta, U Výstaviště 21, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělci: Barbora Drástová, Sára Friedlaenderová, Nikola Janković, Anežka Prosecká, Markéta Štauberová, Vítek Zeman, Alex Asikainen, Kierstan DeVoe, Nirav Prajapati</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/66ca30653ba9771543eb61e6a4d47af1c54204d8.jpg",
+    "price": "+",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Studio Alta",
+    "location_address": "U Výstaviště 21, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6290",
+    "event_name": "JAF 34: Audio-vizuální show konceptu Empty",
+    "event_date": "2019-09-18",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-09-18",
+    "event_time_until": "18:00:00",
+    "location": "Vnitroblock, Tusarova 791/31, Praha 7",
+    "address": "",
+    "description": "_We live in the 21st century and while the technology and the shape of the world move forward and change themselves rapidly, art should not get left behind in it's own evolution._\n\nConceptual project called _JAF 34_ aims to create a futuristic piece of art with honest and real meaning by using a varied spectrum of media elements. The project's body is made by a musical record on which on every track there's a different ensemble of musicians working under the acronym _JAF 34_, thus creating original songs that together tell one complex story in the language of alternative rock in combination with electro. The visual part of the projects is not just an accessory or an afterthought but an independent and sovereign tool, that acts as even partner to the music. Mysterious music videos, large format chromed canvases and futuristic poster create one complex whole which will make you think.\n\n_JAF 34_ will climax with the combination of a concert, a visual show and an exhibition on September 18th 2019 at Vnitroblock. ",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/662a61c8ff2b285cbb7d1ce4809f1b1e6077ba8c.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Vnitroblock",
+    "location_address": "Tusarova 791/31, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Výstavy"
+      },
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6291",
+    "event_name": "Ztracená",
+    "event_date": "2019-09-18",
+    "event_time": "19:00:00",
+    "event_date_until": "2019-09-18",
+    "event_time_until": "19:00:00",
+    "location": "Studio Alta, U Výstaviště 21, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/9a1552f63e6aee46c41cca7e17357941937d5d07.jpg",
+    "price": "+",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Studio Alta",
+    "location_address": "U Výstaviště 21, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
       }
     ],
     "image": null,
