@@ -50193,6 +50193,9 @@
     "categories": [
       {
         "subcategory_name": "Divadlo"
+      },
+      {
+        "subcategory_name": "Jiné"
       }
     ],
     "image": null,
@@ -83080,6 +83083,604 @@
       },
       {
         "subcategory_name": "Děti a mládež"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6310",
+    "event_name": "Midsommar",
+    "event_date": "2019-08-01",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-08-01",
+    "event_time_until": "20:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A couple travels to Sweden to visit a rural hometown's fabled mid-summer festival. What begins as an idyllic retreat quickly devolves into an increasingly violent and bizarre competition at the hands of a pagan cult.<div class=\"\">Režisér:  Ari Aster</div><div class=\"\">Umělci: Florence Pugh, Jack Reynor, William Jackson Harper, Vilhelm Blomgren, Archie Madekwe, Ellora Torchia, Will Poulter, Julia Ragnarsson, Anna Åström, Anki Larsson, Lars Väringer, Anders Back, Katarina Weidhagen van Hal, Liv Mjönes, Henrik Norlén, Louise Peterhoff, Björn Andrésen, Gunnel Fred, Mats Blomgren, Anders Beckman</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/4e0f42e3fcfe999968597233ba7bfa3d5389a72b.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6311",
+    "event_name": "Rocketman",
+    "event_date": "2019-08-01",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-08-01",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A musical fantasy about the fantastical human story of Elton John's breakthrough years.\n<div class=\"\">Režisér: Dexter Fletcher</div><div class=\"\">Umělci: Taron Egerton, Richard Madden, Bryce Dallas Howard, Jamie Bell, Steven Mackintosh, Gemma Jones, Kamil Lemieszewski, Luke White</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/17bb978fb307308789f1806554d3edbc3c816836.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6312",
+    "event_name": "Midsommar",
+    "event_date": "2019-08-02",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-08-02",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A couple travels to Sweden to visit a rural hometown's fabled mid-summer festival. What begins as an idyllic retreat quickly devolves into an increasingly violent and bizarre competition at the hands of a pagan cult.<div class=\"\">Režisér:  Ari Aster</div><div class=\"\">Umělci: Florence Pugh, Jack Reynor, William Jackson Harper, Vilhelm Blomgren, Archie Madekwe, Ellora Torchia, Will Poulter, Julia Ragnarsson, Anna Åström, Anki Larsson, Lars Väringer, Anders Back, Katarina Weidhagen van Hal, Liv Mjönes, Henrik Norlén, Louise Peterhoff, Björn Andrésen, Gunnel Fred, Mats Blomgren, Anders Beckman</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/417f6c72220f4d22288bca8fc38008deddae12dc.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6313",
+    "event_name": "Mid90s",
+    "event_date": "2019-08-02",
+    "event_time": "21:00:00",
+    "event_date_until": "2019-08-02",
+    "event_time_until": "21:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Follows Stevie, a thirteen-year-old in 1990s-era Los Angeles who spends his summer navigating between his troubled home life and a group of new friends that he meets at a Motor Avenue skate shop.<div class=\"\">Režisér: Jonah Hill</div><div class=\"\">Umělci: Sunny Suljic, Katherine Waterston, Lucas Hedges, Gio Galicia, Na-kel Smith, Olan Prenatt, Ryder McLaughlin, Alexa Demie, Harmony Korine, Jerrod Carmichael, Zachary Read</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/9775f2693717e613ea5c94c30e8b583a117ee7ce.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6314",
+    "event_name": "The Cremator",
+    "event_date": "2019-08-03",
+    "event_time": "13:00:00",
+    "event_date_until": "2019-08-03",
+    "event_time_until": "13:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Režisér: Juraj Herz</div><div class=\"\">Umělci: Rudolf Hrušínský, Vlasta Chramostová, Jana Stehnová, Miloš Vognič, Ilja Prachař, Zora Božinová, Eduard Kohout, Jiří Lír, Dimitrij Rafalský, Jan Vlček, Václav Halama</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/be590230aa834d9d08082bc95e0b276abbd31d55.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6315",
+    "event_name": "The Dead Don't Die",
+    "event_date": "2019-08-03",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-08-03",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "The peaceful town of Centerville finds itself battling a zombie horde as the dead start rising from their graves.<div class=\"\">Režisér: Jim Jarmusch</div><div class=\"\">Umělci: Bill Murray, Adam Driver, Tilda Swinton, Chloë Sevigny, Steve Buscemi, Danny Glover, Caleb Landry Jones, Rosie Perez, Iggy Pop, Sara Driver, RZA, Selena Gomez, Carol Kane, Tom Waits, Austin Butler, Sturgill Simpson</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/86149305303ae00b59cfc409e4d0e4fa4b7cbbc8.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6316",
+    "event_name": "The Lion King",
+    "event_date": "2019-08-03",
+    "event_time": "15:30:00",
+    "event_date_until": "2019-08-03",
+    "event_time_until": "15:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.\n<div class=\"\">Režisér: Jon Favreau</div><div class=\"\">Umělci: Donald Glover, Seth Rogen, James Earl Jones, Billy Eichner, Keegan-Michael Key, Chiwetel Ejiofor, Alfre Woodard, Florence Kasumba, Beyoncé, John Oliver, Eric André, John Kani, Shahadi Wright Joseph, JD McCrary, Amy Sedaris</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/1a65fdeb5fef05cd69da44774bacd454c4bf5e60.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6317",
+    "event_name": "Diego Maradona",
+    "event_date": "2019-08-03",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-08-03",
+    "event_time_until": "20:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Constructed from over 500 hours of never-before-seen footage, this documentary centers on the career of celebrated football player Diego Armando Maradona, who played for S.S.C. Napoli in the 1980s.\n<div class=\"\">Režisér: Asif Kapadia</div><div class=\"\">Umělci: Diego Armando Maradona</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/b737bb3f1a78aa3cb29c5a48c3de8e3ad3288d34.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6318",
+    "event_name": "Three Identical Strangers",
+    "event_date": "2019-08-04",
+    "event_time": "13:00:00",
+    "event_date_until": "2019-08-04",
+    "event_time_until": "13:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "In 1980 New York, three young men who were all adopted meet each other and find out they're triplets who were separated at birth. But their quest to find out why turns into a bizarre and sinister mystery.\n<div class=\"\">Režisér: Tim Wardle</div><div class=\"\">Umělci: Robert Shafran, David Kellman, Eddy Galland ( a.z.), Rachel VanDuzer</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/76ae7c07b7cbfcde439aab21f7ac911ab5f89bd3.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6319",
+    "event_name": "Midsommar",
+    "event_date": "2019-08-04",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-08-04",
+    "event_time_until": "20:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A couple travels to Sweden to visit a rural hometown's fabled mid-summer festival. What begins as an idyllic retreat quickly devolves into an increasingly violent and bizarre competition at the hands of a pagan cult.<div class=\"\">Režisér:  Ari Aster</div><div class=\"\">Umělci: Florence Pugh, Jack Reynor, William Jackson Harper, Vilhelm Blomgren, Archie Madekwe, Ellora Torchia, Will Poulter, Julia Ragnarsson, Anna Åström, Anki Larsson, Lars Väringer, Anders Back, Katarina Weidhagen van Hal, Liv Mjönes, Henrik Norlén, Louise Peterhoff, Björn Andrésen, Gunnel Fred, Mats Blomgren, Anders Beckman</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/ef03ef4ee7fca3b7ab39d44f8efd94c79dc27309.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6320",
+    "event_name": "I Feel Good",
+    "event_date": "2019-08-04",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-08-04",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Pushed out of the home by his old parents, Jacques decided at 40 years of age to become rich and famous, exploiting the lode of Aesthetic Surgery low cost. To develop its business project, he took refuge by his sister, director of a village Emmaus. At the force of their make promises a better future, he will eventually take a whole group of companions in a clinic in Romania - for all return more beautiful.\n\n<div class=\"\">Režisér: Benoît Delépine, Gustave Kervern</div><div class=\"\">Umělci: Jean Dujardin, Yolande Moreau, Jean-Benoît Ugeux, Xavier Mathieu, Jana Bittnerová</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/717668fd42f1c86aedbf0ead6e17f3903df920ef.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6321",
+    "event_name": "Paw Patrol: Mighty Pups",
+    "event_date": "2019-08-04",
+    "event_time": "15:30:00",
+    "event_date_until": "2019-08-04",
+    "event_time_until": "15:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Paw Patrol Mighty Pups: When their latest scheme goes awry, Mayor Humdinger and his nephew Harold accidentally divert a meteor towards Adventure Bay. The meteor's golden energy grants the PAW Patrol superpowers. The heroic MIGHTY PUPS are on a roll to super-save the day.\n\n<div class=\"\">Režisér: Charles E. Bastien</div><div class=\"\">Umělci: Drew Davis, Chance Hurstfield</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/220449dc9028c91ff92191189d4426e34af47fa8.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6322",
+    "event_name": "Mid90s",
+    "event_date": "2019-08-05",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-08-05",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Follows Stevie, a thirteen-year-old in 1990s-era Los Angeles who spends his summer navigating between his troubled home life and a group of new friends that he meets at a Motor Avenue skate shop.<div class=\"\">Režisér: Jonah Hill</div><div class=\"\">Umělci: Sunny Suljic, Katherine Waterston, Lucas Hedges, Gio Galicia, Na-kel Smith, Olan Prenatt, Ryder McLaughlin, Alexa Demie, Harmony Korine, Jerrod Carmichael, Zachary Read</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/23f0d1c680038691576831238fb318c5ff28cb32.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6323",
+    "event_name": "100 Things",
+    "event_date": "2019-08-05",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-08-05",
+    "event_time_until": "20:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Best friends Toni and Paul decide to relinquish all of their belongings for 100 days, whereby they receive one of their items back on each day. During this challenge the two realize, that the only thing they cannot be without is their friendship. A story about contemporary materialism and the quest for the truely important things in life.\n\n<div class=\"\">Režisér: Florian David Fitz</div><div class=\"\">Umělci: Florian David Fitz, Matthias Schweighöfer, Miriam Stein, Hannelore Elsner, Wolfgang Stumph, Katharina Thalbach, Johannes Allmayer, Maria Furtwängler, Sarah Viktoria Frick, Artjom Gilz, Daniel Flieger, Nora Boeckler</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/4586eb8a7cc30d2ad178fbdc5ce13d0f62d68512.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6324",
+    "event_name": "Free Solo",
+    "event_date": "2019-08-06",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-08-06",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Follow Alex Honnold as he becomes the first person to ever free solo climb Yosemite's 3,000 ft high El Capitan wall. With no ropes or safety gear, he completed arguably the greatest feat in rock climbing history.\n<div class=\"\">Režisér: Jimmy Chin, Elizabeth Chai Vasarhelyi</div><div class=\"\">Umělci: Alex Honnold, Jimmy Chin</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/9858cddca7e1e0748a587383a13e1d07d045124a.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6325",
+    "event_name": "Midsommar",
+    "event_date": "2019-08-06",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-08-06",
+    "event_time_until": "20:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A couple travels to Sweden to visit a rural hometown's fabled mid-summer festival. What begins as an idyllic retreat quickly devolves into an increasingly violent and bizarre competition at the hands of a pagan cult.<div class=\"\">Režisér:  Ari Aster</div><div class=\"\">Umělci: Florence Pugh, Jack Reynor, William Jackson Harper, Vilhelm Blomgren, Archie Madekwe, Ellora Torchia, Will Poulter, Julia Ragnarsson, Anna Åström, Anki Larsson, Lars Väringer, Anders Back, Katarina Weidhagen van Hal, Liv Mjönes, Henrik Norlén, Louise Peterhoff, Björn Andrésen, Gunnel Fred, Mats Blomgren, Anders Beckman</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/df110675c6febeb40c6117c4d5b0f6421d9e0591.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6326",
+    "event_name": "Terra Willy: Planète inconnue",
+    "event_date": "2019-08-06",
+    "event_time": "13:00:00",
+    "event_date_until": "2019-08-06",
+    "event_time_until": "13:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Following the destruction of their ship, the young Willy is separated from his parents with whom he traveled in space. His spare capsule lands on a wild and unexplored planet. With the help of Buck, a survival robot, he will have to hold until the arrival of a rescue mission.\n\n<div class=\"\">Režisér: Eric Tosti</div><div class=\"\">Umělci: Edouard Baer, Timothé Vom Dorp</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/eec56b67abe7b1110f2d909c65962894c6583654.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6327",
+    "event_name": "A White, White Day",
+    "event_date": "2019-08-07",
+    "event_time": "20:45:00",
+    "event_date_until": "2019-08-07",
+    "event_time_until": "20:45:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "In a remote Icelandic town, an off duty police chief begins to suspect a local man for having had an affair with his wife, who recently died in a car accident. Gradually his obsession for finding out the truth accumulates and inevitably begins to endanger himself and his loved ones. A story of grief, revenge and unconditional love.\n\n<div class=\"\">Režisér: Hlynur Pálmason</div><div class=\"\">Umělci: Ingvar Sigurðsson, Ída Mekkín Hlynsdóttir, Hilmir Snær Guðnason, Sara Dögg Ásgeirsdóttir, Elma Stefanía Ágústsdóttir, Laufey Elíasdóttir, Sigurður Sigurjónsson, Sverrir Þór Sverrisson</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/b25c591ae8fc0c7dcffdca302cb70f52c3945023.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6328",
+    "event_name": "Diego Maradona",
+    "event_date": "2019-08-07",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-08-07",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Constructed from over 500 hours of never-before-seen footage, this documentary centers on the career of celebrated football player Diego Armando Maradona, who played for S.S.C. Napoli in the 1980s.\n<div class=\"\">Režisér: Asif Kapadia</div><div class=\"\">Umělci: Diego Armando Maradona</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/1130821d8fef2ca6575d186c031bfdc4f43555b2.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6329",
+    "event_name": "Up End Down",
+    "event_date": "2019-10-09",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-09",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "The project _Up'End'Down_ by the Cirk La Putyka is a follow-up of the previous La Putyka show developing its genre but with one big difference: none of our actors, dancers and athletes was involved with the circus disciplines chosen for the new project (teeter board, silks, ropes, straps, wu-shu) before the rehearsals for the show began.\n\nThe show tells the story of a man living uniquely with his memories. He lives through his flights and falls but is unable to break free from the luggage he carries in himself to live in a relaxed and liberated way. _Up'End'Down_ is looking at the journey from birth to death, the journey from the earth to the heaven and back through the prism of our fantasy. A crossroads between two streets, between heaven and earth, between the memories and the present, between smile and tears, taking off and falling. A crossroad of genres.\n\n_Up'End'Down_ has appeared at the festival „Janvier dans les étoiles“ (La Seyne Sur Mer). As well, this production has been invited at the Festival Roundhouse (London) and Festival des 7 collines (Saint-Etienne).\n\n*Partly in Czech.*<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/cirk-la-putyka/lhkpf/\" target=\"_blank\">Cirk La Putyka</a></div><div class=\"\">Režisér: Rostislav Novák Jr.</div><div class=\"\">Umělci: Rostislav Novák Sr. / Jiří Kohout, Vojtěch Fülep, Rostislav Novák Jr., Jan Balcar, Andrej Rády, Jan Kletenský, Zuzana Havrlantová / Šárka Bočková, Zbyněk Šporc, Jiří Weissmann, Alexandr Volný, Anna Schmidtmajerová, Jana Smolíková, Daniel Komarov, Michal Boltnar</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/658760222d9c2ab05a6bc51ccf826cb47979d305.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6330",
+    "event_name": "Up End Down",
+    "event_date": "2019-10-10",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-10",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "The project _Up'End'Down_ by the Cirk La Putyka is a follow-up of the previous La Putyka show developing its genre but with one big difference: none of our actors, dancers and athletes was involved with the circus disciplines chosen for the new project (teeter board, silks, ropes, straps, wu-shu) before the rehearsals for the show began.\n\nThe show tells the story of a man living uniquely with his memories. He lives through his flights and falls but is unable to break free from the luggage he carries in himself to live in a relaxed and liberated way. _Up'End'Down_ is looking at the journey from birth to death, the journey from the earth to the heaven and back through the prism of our fantasy. A crossroads between two streets, between heaven and earth, between the memories and the present, between smile and tears, taking off and falling. A crossroad of genres.\n\n_Up'End'Down_ has appeared at the festival „Janvier dans les étoiles“ (La Seyne Sur Mer). As well, this production has been invited at the Festival Roundhouse (London) and Festival des 7 collines (Saint-Etienne).\n\n*Partly in Czech.*<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/cirk-la-putyka/lhkpf/\" target=\"_blank\">Cirk La Putyka</a></div><div class=\"\">Režisér: Rostislav Novák Jr.</div><div class=\"\">Umělci: Rostislav Novák Sr. / Jiří Kohout, Vojtěch Fülep, Rostislav Novák Jr., Jan Balcar, Andrej Rády, Jan Kletenský, Zuzana Havrlantová / Šárka Bočková, Zbyněk Šporc, Jiří Weissmann, Alexandr Volný, Anna Schmidtmajerová, Jana Smolíková, Daniel Komarov, Michal Boltnar</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/565140b7ef44c833f54eedf40c8b9da3e7813cfa.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6331",
+    "event_name": "Zabiják Joe ",
+    "event_date": "2019-11-03",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-11-03",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Tracy Letts</div><div class=\"\">Režisér: Jiří Pokorný</div><div class=\"\">Umělci: Šimon Kroupa, Tereza Cisovská, Michal Čapka, Kristýna Krajíčková, Josef Kaluža</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/f834b9ff20e6edc30be0090e3c707c899f19578c.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6332",
+    "event_name": "Mandragora",
+    "event_date": "2019-11-04",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-11-04",
+    "event_time_until": "19:30:00",
+    "location": "La Fabrika, Komunardů 30, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Niccolò Machiavelli</div><div class=\"\">Režisér: Ivan Krejčí</div><div class=\"\">Umělci: Šimon Krupa, Adam Langer j. h., Josef Kaluža, Michal Čapka, Dana Fialková j.h., Vladislav Georgiev, Pavla Dostálová, Petr Pěnkava j. h.</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/567deb1cc227df565bdae7659cb88bb3d5be8f5f.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "La Fabrika",
+    "location_address": "Komunardů 30, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
       }
     ],
     "image": null,
