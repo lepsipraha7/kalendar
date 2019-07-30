@@ -79900,7 +79900,7 @@
     "event_time_until": "21:00:00",
     "location": "Containall – Stalin, Letenské sady, Praha 7",
     "address": "",
-    "description": "After having recently won Czeching, the music export competition powered by Czech Radio's youth station Radio Wave, the Czech-Vietnamese electropop singer Viah is taking over the Stalin Stage on August 7th. Combining minimal electronic beats with powerful statements sung by an intimate voice, whilst creating an almost theatre-like experience with her dance moves. And whilst the sun is setting, DJ Barbora (Tetris) shall finish off the night with her killer dance set.<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/viah/brnxf/\" target=\"_blank\">Viah</a><a href=\"https://goout.net/en/artists/barbora/puhtf/\" target=\"_blank\">Barbora</a></div>",
+    "description": "After having recently won Czeching, the music export competition powered by Czech Radio's youth station Radio Wave, the Czech-Vietnamese electropop singer Viah is taking over the Stalin Stage on August 7th. Combining minimal electronic beats with powerful statements sung by an intimate voice, whilst creating an almost theatre-like experience with her dance moves. And whilst the sun is setting, DJ Barbora (Tetris) shall finish off the night with her “killer dance set”.<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/viah/brnxf/\" target=\"_blank\">Viah</a><a href=\"https://goout.net/en/artists/barbora/puhtf/\" target=\"_blank\">Barbora</a></div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/42f87b7296b40e2b239c7681ef0680fc3a9a2785.jpg",
     "price": "",
@@ -79912,6 +79912,9 @@
     "categories": [
       {
         "subcategory_name": "Párty"
+      },
+      {
+        "subcategory_name": "Koncerty"
       }
     ],
     "image": null,
@@ -83919,5 +83922,83 @@
     ],
     "image": null,
     "goOutInfo": null
+  },
+  {
+    "id": "6342",
+    "event_name": "Jedem s medem!",
+    "event_date": "2019-09-22",
+    "event_time": "17:00:00",
+    "event_date_until": "2019-09-22",
+    "event_time_until": "17:00:00",
+    "location": "VILA Štvanice, Dům č. p. 858 – Ostrov Štvanice, Praha",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/geisslers-hofcomoedianten/ooarf/\" target=\"_blank\">Geisslers Hofcomoedianten</a></div><div class=\"\">Autor: Helena Koblischková</div><div class=\"\">Režisér: Petr Hašek</div><div class=\"\">Umělci: Martin Bohadlo, Kateřina Bohadlová, Kristýna Matěj Dámová, Claudia Eftimiadisová</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/e42f954989c87ec59636ff076e437dea62893c54.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "VILA Štvanice",
+    "location_address": "Dům č. p. 858 – Ostrov Štvanice, Praha",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6343",
+    "event_name": "Dvě komedie v komedii",
+    "event_date": "2019-09-28",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-09-28",
+    "event_time_until": "20:00:00",
+    "location": "VILA Štvanice, Dům č. p. 858 – Ostrov Štvanice, Praha",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/geisslers-hofcomoedianten/ooarf/\" target=\"_blank\">Geisslers Hofcomoedianten</a></div><div class=\"\">Autor: G. B. Andreini, Geisslers Hofcomoedianten</div><div class=\"\">Režisér: Petr Hašek</div><div class=\"\">Umělci: Jacob Erftemeijer, Kristýna Matěj Dámová / Michaela Váňová, Martin Bohadlo, Alena Bazalová, Claudia Eftimiadisová, Bartoloměj Veselý</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/3fdaa117a6828dda1699bd1fbbe913e50aa2c29b.jpg",
+    "price": "280",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/dve-komedie-v-komedii/ktxe",
+    "cancelled": "0",
+    "location_name": "VILA Štvanice",
+    "location_address": "Dům č. p. 858 – Ostrov Štvanice, Praha",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6344",
+    "event_name": "Olga (Horrory z Hrádečku)",
+    "event_date": "2019-09-29",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-09-29",
+    "event_time_until": "20:00:00",
+    "location": "VILA Štvanice, Dům č. p. 858 – Ostrov Štvanice, Praha",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/divadlo-leti/bhkpf/\" target=\"_blank\">Divadlo Letí</a></div><div class=\"\">Autor: Anna Saavedra</div><div class=\"\">Režisér: Martina Schlegelová</div><div class=\"\">Umělci: Pavlína Štorková, Jiří Böhm, Tomáš Kobr, Vladimír Marek, Pavol Smolárik</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/ff3cea35eccfd704269bd0606194c79868a93827.jpg",
+    "price": "350",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/olga-horrory-z-hradecku/ltxe",
+    "cancelled": "0",
+    "location_name": "VILA Štvanice",
+    "location_address": "Dům č. p. 858 – Ostrov Štvanice, Praha",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
   }
 ]
