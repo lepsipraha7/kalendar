@@ -83937,7 +83937,7 @@
     "image_src": "wp-content/uploads/goout/e42f954989c87ec59636ff076e437dea62893c54.jpg",
     "price": "",
     "currency": "CZK",
-    "sale_url": null,
+    "sale_url": "https://goout.net/en/tickets/jedem-s-medem/nuxe",
     "cancelled": "0",
     "location_name": "VILA Štvanice",
     "location_address": "Dům č. p. 858 – Ostrov Štvanice, Praha",
@@ -83958,7 +83958,7 @@
     "event_time_until": "20:00:00",
     "location": "VILA Štvanice, Dům č. p. 858 – Ostrov Štvanice, Praha",
     "address": "",
-    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/geisslers-hofcomoedianten/ooarf/\" target=\"_blank\">Geisslers Hofcomoedianten</a></div><div class=\"\">Autor: G. B. Andreini, Geisslers Hofcomoedianten</div><div class=\"\">Režisér: Petr Hašek</div><div class=\"\">Umělci: Jacob Erftemeijer, Kristýna Matěj Dámová / Michaela Váňová, Martin Bohadlo, Alena Bazalová, Claudia Eftimiadisová, Bartoloměj Veselý</div>",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/geisslers-hofcomoedianten/ooarf/\" target=\"_blank\">Geisslers Hofcomoedianten</a></div><div class=\"\">Autor: G. B. Andreini, Geisslers Hofcomoedianten</div><div class=\"\">Režisér: Petr Hašek</div><div class=\"\">Umělci: Petr Šmíd, Kristýna Matěj Dámová / Michaela Váňová, Martin Bohadlo, Alena Bazalová, Claudia Eftimiadisová, Vojtěch Franců</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/3fdaa117a6828dda1699bd1fbbe913e50aa2c29b.jpg",
     "price": "280",
@@ -83996,6 +83996,32 @@
     "categories": [
       {
         "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6345",
+    "event_name": "Fotgjengeren",
+    "event_date": "2019-08-30",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-08-30",
+    "event_time_until": "20:30:00",
+    "location": "Studio Alta, U Výstaviště 21, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/fotgjengeren/xpeeg/\" target=\"_blank\">Fotgjengeren</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/e9ae93168cec1d12ee80ae1c51224f04058b2ddb.jpg",
+    "price": "100",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/fotgjengeren/txxe",
+    "cancelled": "0",
+    "location_name": "Studio Alta",
+    "location_address": "U Výstaviště 21, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
       }
     ],
     "image": null,
