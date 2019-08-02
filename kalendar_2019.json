@@ -23930,7 +23930,7 @@
     "description": "Permanent exhibition of the NTM _Sugar and Chocolate_ is devoted to Czech sugar production industry. Sugar was a very strategical resource for Czechoslovakia and its production also had political influence that is the reason why the sugar was also called “Whiten Gold”. In addition magnates of sugar production industry funded the construction of NTM building in 1908.",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/0270477410ad707ea06b2662340f6865a05f7bfe.jpg",
-    "price": "100–420",
+    "price": "130–470",
     "currency": "CZK",
     "sale_url": null,
     "cancelled": "0",
@@ -84022,6 +84022,688 @@
     "categories": [
       {
         "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6346",
+    "event_name": "The Dead Don't Die",
+    "event_date": "2019-08-08",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-08-08",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "The peaceful town of Centerville finds itself battling a zombie horde as the dead start rising from their graves.<div class=\"\">Režisér: Jim Jarmusch</div><div class=\"\">Umělci: Bill Murray, Adam Driver, Tilda Swinton, Chloë Sevigny, Steve Buscemi, Danny Glover, Caleb Landry Jones, Rosie Perez, Iggy Pop, Sara Driver, RZA, Selena Gomez, Carol Kane, Tom Waits, Austin Butler, Sturgill Simpson</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/e7dfcbcdfcdece6d6c6c73f17dfc453241b29f31.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6347",
+    "event_name": "Mid90s",
+    "event_date": "2019-08-08",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-08-08",
+    "event_time_until": "20:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Follows Stevie, a thirteen-year-old in 1990s-era Los Angeles who spends his summer navigating between his troubled home life and a group of new friends that he meets at a Motor Avenue skate shop.<div class=\"\">Režisér: Jonah Hill</div><div class=\"\">Umělci: Sunny Suljic, Katherine Waterston, Lucas Hedges, Gio Galicia, Na-kel Smith, Olan Prenatt, Ryder McLaughlin, Alexa Demie, Harmony Korine, Jerrod Carmichael, Zachary Read</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/4663133797169cba92cf032f1d07d0c746f418d5.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6348",
+    "event_name": "Midsommar",
+    "event_date": "2019-08-09",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-08-09",
+    "event_time_until": "20:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A couple travels to Sweden to visit a rural hometown's fabled mid-summer festival. What begins as an idyllic retreat quickly devolves into an increasingly violent and bizarre competition at the hands of a pagan cult.<div class=\"\">Režisér:  Ari Aster</div><div class=\"\">Umělci: Florence Pugh, Jack Reynor, William Jackson Harper, Vilhelm Blomgren, Archie Madekwe, Ellora Torchia, Will Poulter, Julia Ragnarsson, Anna Åström, Anki Larsson, Lars Väringer, Anders Back, Katarina Weidhagen van Hal, Liv Mjönes, Henrik Norlén, Louise Peterhoff, Björn Andrésen, Gunnel Fred, Mats Blomgren, Anders Beckman</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/09bbea46e4711b091fb4e3d3cd770878759675c7.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6349",
+    "event_name": "Rocketman",
+    "event_date": "2019-08-09",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-08-09",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A musical fantasy about the fantastical human story of Elton John's breakthrough years.\n<div class=\"\">Režisér: Dexter Fletcher</div><div class=\"\">Umělci: Taron Egerton, Richard Madden, Bryce Dallas Howard, Jamie Bell, Steven Mackintosh, Gemma Jones, Kamil Lemieszewski, Luke White</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/14a234932de94f0a4e2887349e4601898fe57bb4.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6350",
+    "event_name": "Free Solo",
+    "event_date": "2019-08-10",
+    "event_time": "13:00:00",
+    "event_date_until": "2019-08-10",
+    "event_time_until": "13:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Follow Alex Honnold as he becomes the first person to ever free solo climb Yosemite's 3,000 ft high El Capitan wall. With no ropes or safety gear, he completed arguably the greatest feat in rock climbing history.\n<div class=\"\">Režisér: Jimmy Chin, Elizabeth Chai Vasarhelyi</div><div class=\"\">Umělci: Alex Honnold, Jimmy Chin</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/891ea17486ee4faf3ac14398f16376406d5bcfe3.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6351",
+    "event_name": "Midsommar",
+    "event_date": "2019-08-10",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-08-10",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A couple travels to Sweden to visit a rural hometown's fabled mid-summer festival. What begins as an idyllic retreat quickly devolves into an increasingly violent and bizarre competition at the hands of a pagan cult.<div class=\"\">Režisér:  Ari Aster</div><div class=\"\">Umělci: Florence Pugh, Jack Reynor, William Jackson Harper, Vilhelm Blomgren, Archie Madekwe, Ellora Torchia, Will Poulter, Julia Ragnarsson, Anna Åström, Anki Larsson, Lars Väringer, Anders Back, Katarina Weidhagen van Hal, Liv Mjönes, Henrik Norlén, Louise Peterhoff, Björn Andrésen, Gunnel Fred, Mats Blomgren, Anders Beckman</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/22b2f55489f92d2dcf5fb9d6b8d9b7b4f2871a9b.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6352",
+    "event_name": "Toy Story 4",
+    "event_date": "2019-08-10",
+    "event_time": "15:15:00",
+    "event_date_until": "2019-08-10",
+    "event_time_until": "15:15:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Režisér: Josh Cooley</div><div class=\"\">Umělci: Tom Hanks, Patricia Arquette, Tim Allen, Joan Cusack, Laurie Metcalf, Annie Potts, Bonnie Hunt, John Ratzenberger, Wallace Shawn, Jodi Benson, Don Rickles, Blake Clark, Alec Medlock, Fred Tatasciore, Estelle Harris, Keanu Reeves, Christina Hendricks, Jordan Peele, Jay Hernandez, Timothy Dalton</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/4d7d967da600f2cc2ee6918a4f5df5ec1bf4de14.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6353",
+    "event_name": "Diego Maradona",
+    "event_date": "2019-08-10",
+    "event_time": "21:00:00",
+    "event_date_until": "2019-08-10",
+    "event_time_until": "21:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Constructed from over 500 hours of never-before-seen footage, this documentary centers on the career of celebrated football player Diego Armando Maradona, who played for S.S.C. Napoli in the 1980s.\n<div class=\"\">Režisér: Asif Kapadia</div><div class=\"\">Umělci: Diego Armando Maradona</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/c6d118c997b517493c7c2fa9267788c306c2e8d4.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6354",
+    "event_name": "A White, White Day",
+    "event_date": "2019-08-11",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-08-11",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "In a remote Icelandic town, an off duty police chief begins to suspect a local man for having had an affair with his wife, who recently died in a car accident. Gradually his obsession for finding out the truth accumulates and inevitably begins to endanger himself and his loved ones. A story of grief, revenge and unconditional love.\n\n<div class=\"\">Režisér: Hlynur Pálmason</div><div class=\"\">Umělci: Ingvar Sigurðsson, Ída Mekkín Hlynsdóttir, Hilmir Snær Guðnason, Sara Dögg Ásgeirsdóttir, Elma Stefanía Ágústsdóttir, Laufey Elíasdóttir, Sigurður Sigurjónsson, Sverrir Þór Sverrisson</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/fdd4a36544287e905c6d42ee9fdbb5488f8fd8fb.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6355",
+    "event_name": "The Lion King",
+    "event_date": "2019-08-11",
+    "event_time": "15:30:00",
+    "event_date_until": "2019-08-11",
+    "event_time_until": "15:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.\n<div class=\"\">Režisér: Jon Favreau</div><div class=\"\">Umělci: Donald Glover, Seth Rogen, James Earl Jones, Billy Eichner, Keegan-Michael Key, Chiwetel Ejiofor, Alfre Woodard, Florence Kasumba, Beyoncé, John Oliver, Eric André, John Kani, Shahadi Wright Joseph, JD McCrary, Amy Sedaris</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/4a12ee3dd3311adbfa0007a2bf0023d5475374d1.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6356",
+    "event_name": "Yesterday",
+    "event_date": "2019-08-11",
+    "event_time": "13:00:00",
+    "event_date_until": "2019-08-11",
+    "event_time_until": "13:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A struggling musician realizes he's the only person on Earth who can remember The Beatles after waking up in an alternate timeline where they never existed.\n<div class=\"\">Režisér: Danny Boyle</div><div class=\"\">Umělci: Himesh Patel, Lily James, Kate McKinnon, Ed Sheeran, Ana de Armas, Lamorne Morris, Sophia Di Martino, Joel Fry, Ellise Chappell, Dominic Coleman, Marjana Spivak, Atul Sharma, Jennifer Armour, Camille Chen</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/1b3725af2f8633cf0af8efe30c205ef8bbe9b5b0.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6357",
+    "event_name": "Scary Stories to Tell in the Dark",
+    "event_date": "2019-08-11",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-08-11",
+    "event_time_until": "20:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A group of teens face their fears in order to save their lives.\n<div class=\"\">Režisér: André Øvredal</div><div class=\"\">Umělci: Zoe Margaret Colletti, Gabriel Rush, Austin Abrams, Dean Norris, Gil Bellows, Lorraine Toussaint, Javier Botet, Stephanie Belding</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/63e7e356ffcc8d7190fc753d79b8eb667ea6275c.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6358",
+    "event_name": "Midsommar",
+    "event_date": "2019-08-13",
+    "event_time": "17:30:00",
+    "event_date_until": "2019-08-13",
+    "event_time_until": "17:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A couple travels to Sweden to visit a rural hometown's fabled mid-summer festival. What begins as an idyllic retreat quickly devolves into an increasingly violent and bizarre competition at the hands of a pagan cult.<div class=\"\">Režisér:  Ari Aster</div><div class=\"\">Umělci: Florence Pugh, Jack Reynor, William Jackson Harper, Vilhelm Blomgren, Archie Madekwe, Ellora Torchia, Will Poulter, Julia Ragnarsson, Anna Åström, Anki Larsson, Lars Väringer, Anders Back, Katarina Weidhagen van Hal, Liv Mjönes, Henrik Norlén, Louise Peterhoff, Björn Andrésen, Gunnel Fred, Mats Blomgren, Anders Beckman</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/6951742095ed8b087eabe11c02ff1f13eb749fab.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6359",
+    "event_name": "The Lion King",
+    "event_date": "2019-08-13",
+    "event_time": "13:00:00",
+    "event_date_until": "2019-08-13",
+    "event_time_until": "13:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.\n<div class=\"\">Režisér: Jon Favreau</div><div class=\"\">Umělci: Donald Glover, Seth Rogen, James Earl Jones, Billy Eichner, Keegan-Michael Key, Chiwetel Ejiofor, Alfre Woodard, Florence Kasumba, Beyoncé, John Oliver, Eric André, John Kani, Shahadi Wright Joseph, JD McCrary, Amy Sedaris</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/8d4d1a9a0b0a1ea2471a3be254c97c18e0c4f0fa.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6360",
+    "event_name": "Diego Maradona",
+    "event_date": "2019-08-14",
+    "event_time": "17:45:00",
+    "event_date_until": "2019-08-14",
+    "event_time_until": "17:45:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Constructed from over 500 hours of never-before-seen footage, this documentary centers on the career of celebrated football player Diego Armando Maradona, who played for S.S.C. Napoli in the 1980s.\n<div class=\"\">Režisér: Asif Kapadia</div><div class=\"\">Umělci: Diego Armando Maradona</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/f1f5de92d6079025187d2d4e8f7d786f91dacebb.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6361",
+    "event_name": "Snídaně s Jankou: Láska jako životní princip",
+    "event_date": "2019-08-30",
+    "event_time": "09:00:00",
+    "event_date_until": "2019-08-30",
+    "event_time_until": "09:00:00",
+    "location": "Vnitroblock, Tusarova 791/31, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/983c455bc234f4d34e177f227be2ce9ce0821da3.jpg",
+    "price": "750",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Vnitroblock",
+    "location_address": "Tusarova 791/31, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Gastro"
+      },
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6362",
+    "event_name": "Kamil Hilbert, Architect, 1869–1933",
+    "event_date": "2019-04-19",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-09-15",
+    "event_time_until": "23:59:59",
+    "location": "Národní technické muzeum, Kostelní 42, Praha 7",
+    "address": "",
+    "description": "On the anniversary of 150th years from the birth of Kamil Hilbert, National Technical Museum opened a new exhibition dedicated to this exceptional architect. It is also 120th years ago when he was appointed to be in charge of finishing the construction of Saint Vitus Cathedral. Kamil Hilbert signed into the history of Czech architecture as a man who retakes after Josef Mocker the construction works on unfinished St. Vitus Cathedral. His work was not easy at all especially according to the bad shape of the construction that was damaged during two disastrous fires first in 1541 and by the second one in 1757. The director of Architecture and Building Museum of NTM doctor Martin Ebel says: _“Thanks to Hilbert we can admire the shape of the cathedral and the view on Hradčany district as we know it. It was him who rejected to make the tower of the cathedral in new-gothic shape and let it be the late-baroque one. It showed up earlier that it was a very good decision.”_",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/6478cb9e57465594b3ea28f7ad2ba330b45ac4e6.jpg",
+    "price": "130–470",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Národní technické muzeum",
+    "location_address": "Kostelní 42, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Výstavy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6363",
+    "event_name": "Vila Live: Divnotaj (album release)",
+    "event_date": "2019-09-19",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-09-19",
+    "event_time_until": "20:00:00",
+    "location": "VILA Štvanice, Dům č. p. 858 – Ostrov Štvanice, Praha",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/divnotaj/lpkvf/\" target=\"_blank\">Divnotaj</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/2e4f54f23ff44b6ff0f0d3236e3d95d4e44dc01f.jpg",
+    "price": "150",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/vila-live-divnotaj-album-release/idye",
+    "cancelled": "0",
+    "location_name": "VILA Štvanice",
+    "location_address": "Dům č. p. 858 – Ostrov Štvanice, Praha",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6364",
+    "event_name": "Spolek sochařů České republiky: Amongst Technique and Art ",
+    "event_date": "2019-06-20",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-09-22",
+    "event_time_until": "23:59:59",
+    "location": "Národní technické muzeum, Kostelní 42, Praha 7",
+    "address": "",
+    "description": "The exhibition of sculptural portraits represent portraits made within the competion _Amongst Technique and Art_. This year guests will be able to see portratis of František Drtikol (photographer), František Janeček (founder of Jawa company) and czech-french painter known under the name Toyen.",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/646c0efdab6f5d7f82ca79ad45dd427a46d771ec.jpg",
+    "price": "130–470",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Národní technické muzeum",
+    "location_address": "Kostelní 42, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Výstavy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6365",
+    "event_name": "Unhappy Happy",
+    "event_date": "2019-09-24",
+    "event_time": "21:00:00",
+    "event_date_until": "2019-09-24",
+    "event_time_until": "21:00:00",
+    "location": "VILA Štvanice, Dům č. p. 858 – Ostrov Štvanice, Praha",
+    "address": "",
+    "description": "<div class=\"\">Autor: Vincent Venera, Oliver Sacks</div><div class=\"\">Režisér: Jan Kačena</div><div class=\"\">Umělci: Petr Reif</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/4b2afd5baf2688e5a0833d16fb58fe42f07cc49a.jpg",
+    "price": "250",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/unhappy-happy/jdye",
+    "cancelled": "0",
+    "location_name": "VILA Štvanice",
+    "location_address": "Dům č. p. 858 – Ostrov Štvanice, Praha",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6366",
+    "event_name": "Kde identita má? ",
+    "event_date": "2019-09-25",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-09-25",
+    "event_time_until": "19:30:00",
+    "location": "Studio Alta, U Výstaviště 21, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Zlatko Teskere</div><div class=\"\">Režisér: Zlatko Teskere, Barbora Johansson</div><div class=\"\">Umělci: Zlatko Teskere</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/b8c9dabe396cc294df0fcf8952bad8651934293c.jpg",
+    "price": "120–220",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/kde-identita-ma/fdye",
+    "cancelled": "0",
+    "location_name": "Studio Alta",
+    "location_address": "U Výstaviště 21, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6367",
+    "event_name": "Unhappy Happy",
+    "event_date": "2019-09-27",
+    "event_time": "21:00:00",
+    "event_date_until": "2019-09-27",
+    "event_time_until": "21:00:00",
+    "location": "VILA Štvanice, Dům č. p. 858 – Ostrov Štvanice, Praha",
+    "address": "",
+    "description": "<div class=\"\">Autor: Vincent Venera, Oliver Sacks</div><div class=\"\">Režisér: Jan Kačena</div><div class=\"\">Umělci: Petr Reif</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/eb55cacadd1968b44dc2958b64b0c5310327e82a.jpg",
+    "price": "250",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/unhappy-happy/kdye",
+    "cancelled": "0",
+    "location_name": "VILA Štvanice",
+    "location_address": "Dům č. p. 858 – Ostrov Štvanice, Praha",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6368",
+    "event_name": "Thajsko očima skeptického dobrodruha ",
+    "event_date": "2019-10-09",
+    "event_time": "17:30:00",
+    "event_date_until": "2019-10-09",
+    "event_time_until": "17:30:00",
+    "location": "Vnitroblock, Tusarova 791/31, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/0eba6e90b5233ff4b0ddde59a6c4907e9bbfec3a.jpg",
+    "price": "100–130",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Vnitroblock",
+    "location_address": "Tusarova 791/31, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6369",
+    "event_name": "Půl roku na cestě a jak se z toho nepodělat ",
+    "event_date": "2019-10-09",
+    "event_time": "19:20:00",
+    "event_date_until": "2019-10-09",
+    "event_time_until": "19:20:00",
+    "location": "Vnitroblock, Tusarova 791/31, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/269cd2aa0080f4550a2391db8f2b2188e87a27bd.jpg",
+    "price": "100–130",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Vnitroblock",
+    "location_address": "Tusarova 791/31, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6370",
+    "event_name": "Century with Aero Brand",
+    "event_date": "2019-03-22",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-11-17",
+    "event_time_until": "23:59:59",
+    "location": "Národní technické muzeum, Kostelní 42, Praha 7",
+    "address": "",
+    "description": "Aero company is one of the first aircraft company in Czechoslovakia. The company was founded in 1919. The aircraft production has been managed to continue in these days. Under Areo brand was also produced cars or sidecars for motorcycles. The renowened plane made by Aero company are Aero L-29 Delfín, Aero L-39 Albatros or Aero L-159 ALCA.",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/b677d9dc921197cf16841b4b15bc8f113c6cd588.jpg",
+    "price": "130–470",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Národní technické muzeum",
+    "location_address": "Kostelní 42, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Výstavy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6371",
+    "event_name": "The 47th International Children’s Exhibition of Fine Arts Lidice",
+    "event_date": "2019-05-29",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-11-24",
+    "event_time_until": "23:59:59",
+    "location": "Národní technické muzeum, Kostelní 42, Praha 7",
+    "address": "",
+    "description": "_The International Children’s Exhibition of Fine Arts Lidice (ICEFA Lidice)_ was established in 1967 to commemorate the child victims from the Czech village of Lidice murdered by German Nazis, as well as all other children who have died in wars. This year the exhibition takes place in two different places at once. At the Lidice gallery and at National Technical Museum. The topic for this year is chemistry. Visitors will have the opportunity to admire the art pieces from children from different countries all over the world in memory of children that were murdered in Lidice during the war. This year will also remind ourselves the 150th anniversary of sorting the chemical elements into the periodic table so the chemistry was chosen as the topic and the exhibition bears the title: _“Focus on Lidice, let's examine the art.”_",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/31a62cef8150b98389efbf3ea1c71cdb17f5fc6f.jpg",
+    "price": "130–470",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Národní technické muzeum",
+    "location_address": "Kostelní 42, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Děti a mládež"
+      },
+      {
+        "subcategory_name": "Výstavy"
       }
     ],
     "image": null,

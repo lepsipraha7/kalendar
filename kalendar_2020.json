@@ -154,5 +154,31 @@
     ],
     "image": null,
     "goOutInfo": "0"
+  },
+  {
+    "id": "6372",
+    "event_name": "Three Identical Strangers",
+    "event_date": "2020-05-23",
+    "event_time": "18:00:00",
+    "event_date_until": "2020-05-23",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "In 1980 New York, three young men who were all adopted meet each other and find out they're triplets who were separated at birth. But their quest to find out why turns into a bizarre and sinister mystery.\n<div class=\"\">Režisér: Tim Wardle</div><div class=\"\">Umělci: Robert Shafran, David Kellman, Eddy Galland ( a.z.), Rachel VanDuzer</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/f1e522e571c6f25f069b92040b4fa118972656fe.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
   }
 ]
