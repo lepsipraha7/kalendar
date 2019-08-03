@@ -180,5 +180,57 @@
     ],
     "image": null,
     "goOutInfo": "0"
+  },
+  {
+    "id": "6396",
+    "event_name": "University and Freedom",
+    "event_date": "2020-05-28",
+    "event_time": "18:00:00",
+    "event_date_until": "2020-05-28",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Režisér: Vít Janeček, Zuzana Piussi</div><div class=\"\">Umělci: Bohdan Bláhovec, Jiří Drahoš, Noam Chomsky, Vít Klusák, Karel Vachek</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/9b418c278d94e19689962590fed06c7689ce5777.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6397",
+    "event_name": "Bye Bye Children's Home",
+    "event_date": "2020-05-30",
+    "event_time": "18:30:00",
+    "event_date_until": "2020-05-30",
+    "event_time_until": "18:30:00",
+    "location": "Paralelní Polis, Dělnická 43, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Režisér: Hana Ludvíková</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/ce279d506f800c94bf3cc335c08d432ccb439bc0.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Paralelní Polis",
+    "location_address": "Dělnická 43, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
   }
 ]
