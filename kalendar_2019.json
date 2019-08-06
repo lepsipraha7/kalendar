@@ -85315,5 +85315,57 @@
     ],
     "image": null,
     "goOutInfo": "0"
+  },
+  {
+    "id": "6398",
+    "event_name": "Savušun",
+    "event_date": "2019-10-12",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-10-12",
+    "event_time_until": "18:00:00",
+    "location": "DOX Centrum současného umění, Poupětova 1, Praha 7",
+    "address": "",
+    "description": "Each year, Shiites lament the death of Imam Husayn in collective acts of mourning – involving ritualised gestures, self-flagellation, dancing and song. In Savušun, Sorour Darabi, an artist of Iranian descent, moves with great humour and tact between real and symbolic loss, undermining representations of sorrow and victimhood. Darabi’s non-binary corporeality manifests on the stage as subversion and symbolises the dissolution, blurring and fragile certainty of prefabricated (gender) categories.<div class=\"\">Autor: Sorour Darabi </div><div class=\"\">Režisér: Sorour Darabi </div><div class=\"\">Umělci: Sorour Darabi</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/0aab099ce242bdbc8f9e595a367845f9542fbe05.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "DOX Centrum současného umění",
+    "location_address": "Poupětova 1, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6399",
+    "event_name": "Netsky",
+    "event_date": "2019-12-13",
+    "event_time": "21:00:00",
+    "event_date_until": "2019-12-13",
+    "event_time_until": "21:00:00",
+    "location": "Výstaviště Praha Holešovice, Výstaviště, Praha 7",
+    "address": "",
+    "description": "Belgian d'n'b DJ and producer will perform in Prague on 13 December. <div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/netsky/wlu/\" target=\"_blank\">Netsky</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/338889db080da61e0be2d80a6edb9fd6dd66db64.jpg",
+    "price": "495–550",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/netsky/xjye",
+    "cancelled": "0",
+    "location_name": "Výstaviště Praha Holešovice",
+    "location_address": "Výstaviště, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
   }
 ]
