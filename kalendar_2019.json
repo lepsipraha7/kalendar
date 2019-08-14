@@ -86023,5 +86023,34 @@
     ],
     "image": null,
     "goOutInfo": "0"
+  },
+  {
+    "id": "6425",
+    "event_name": "Swingová tančírna a veřejná lekce retro tanců",
+    "event_date": "2019-09-05",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-09-05",
+    "event_time_until": "23:00:00",
+    "location": "Kavárna Liberál, Heřmanova 6, Praha 7",
+    "address": "",
+    "description": "<p>Přijďte ve čtvrtek 5. září od 18 hodin zažít atmosféru první republiky do stylového prostoru Café Liberál a naučit se moderní americké tance. Vyučují lektoři tanečního studia <a href=\"https://www.zig-zag.cz/\">ZIG-ZAG</a>. K tanci a poslechu hraje Swing Session se zpěvačkou Petrou Ernyie.</p>\n<p>Program <br />\n18:00 začátek<br />\n18:30 lekce Lindy Hop<br />\n19:30 lekce Balboa<br />\n20:15 živá hudba</p>\n<p>Swingová tančírna a veřejná lekce retro tanců jsou realizovány za finanční podpory MČ Praha 7.</p>",
+    "image_id": "28769",
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": "Kavárna Liberál",
+    "location_address": "Heřmanova 6, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Akce MČ"
+      },
+      {
+        "subcategory_name": "Ostatní"
+      }
+    ],
+    "image": "https://www.praha7.cz/wp-content/uploads/2019/08/Screenshot_4-600x352.png",
+    "goOutInfo": null
   }
 ]
