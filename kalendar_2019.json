@@ -72977,7 +72977,7 @@
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/temporary-collective/swpdg/\" target=\"_blank\">Temporary Collective</a></div><div class=\"\">Režisér: Petra Tejnorová</div><div class=\"\">Umělci: Petr Vančura</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/b0df68426064ca8b1819cc44455358e37fe9cb5e.jpg",
-    "price": "",
+    "price": "450",
     "currency": "CZK",
     "sale_url": "https://goout.net/en/tickets/putinovi-agenti/hpte",
     "cancelled": "0",
@@ -82789,7 +82789,7 @@
   },
   {
     "id": "6299",
-    "event_name": "Příběhy malé Lupitiny Gonzáles",
+    "event_name": "Příběhy malé Lupitiny González",
     "event_date": "2019-11-09",
     "event_time": "15:00:00",
     "event_date_until": "2019-11-09",
@@ -82801,7 +82801,7 @@
     "image_src": "wp-content/uploads/goout/02f12f395cc857027fe798474adc8be18ed7ff0a.jpg",
     "price": "150",
     "currency": "CZK",
-    "sale_url": "https://goout.net/en/tickets/pribehy-male-lupitiny-gonzales/bnxe",
+    "sale_url": "https://goout.net/en/tickets/pribehy-male-lupitiny-gonzalez/bnxe",
     "cancelled": "0",
     "location_name": "Jatka78",
     "location_address": "Bubenské nábřeží 306/13, Praha 7",
@@ -83935,7 +83935,7 @@
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/geisslers-hofcomoedianten/ooarf/\" target=\"_blank\">Geisslers Hofcomoedianten</a></div><div class=\"\">Autor: Helena Koblischková</div><div class=\"\">Režisér: Petr Hašek</div><div class=\"\">Umělci: Martin Bohadlo, Kateřina Bohadlová, Kristýna Matěj Dámová, Claudia Eftimiadisová</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/e42f954989c87ec59636ff076e437dea62893c54.jpg",
-    "price": "",
+    "price": "150–280",
     "currency": "CZK",
     "sale_url": "https://goout.net/en/tickets/jedem-s-medem/nuxe",
     "cancelled": "0",
@@ -85318,7 +85318,7 @@
   },
   {
     "id": "6398",
-    "event_name": "Savušun",
+    "event_name": "Šavašun",
     "event_date": "2019-10-12",
     "event_time": "18:00:00",
     "event_date_until": "2019-10-12",
@@ -85328,9 +85328,9 @@
     "description": "Each year, Shiites lament the death of Imam Husayn in collective acts of mourning – involving ritualised gestures, self-flagellation, dancing and song. In Savušun, Sorour Darabi, an artist of Iranian descent, moves with great humour and tact between real and symbolic loss, undermining representations of sorrow and victimhood. Darabi’s non-binary corporeality manifests on the stage as subversion and symbolises the dissolution, blurring and fragile certainty of prefabricated (gender) categories.<div class=\"\">Autor: Sorour Darabi </div><div class=\"\">Režisér: Sorour Darabi </div><div class=\"\">Umělci: Sorour Darabi</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/0aab099ce242bdbc8f9e595a367845f9542fbe05.jpg",
-    "price": "",
+    "price": "190–380",
     "currency": "CZK",
-    "sale_url": null,
+    "sale_url": "https://goout.net/en/tickets/savasun/gjaf",
     "cancelled": "0",
     "location_name": "DOX Centrum současného umění",
     "location_address": "Poupětova 1, Praha 7",
@@ -85863,6 +85863,162 @@
     "categories": [
       {
         "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6419",
+    "event_name": "Stalin Stage x Radio Wave Startér: Aldente + Bols",
+    "event_date": "2019-08-28",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-08-28",
+    "event_time_until": "20:00:00",
+    "location": "Containall – Stalin, Letenské sady, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/aldente/xtjeg/\" target=\"_blank\">Aldente</a><a href=\"https://goout.net/en/artists/bols/ngbcg/\" target=\"_blank\">BoLs</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/12cf2fb4c8b266395eca81408c2681d7110341ed.jpg",
+    "price": "0",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Containall – Stalin",
+    "location_address": "Letenské sady, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6420",
+    "event_name": "Bull",
+    "event_date": "2019-09-19",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-09-19",
+    "event_time_until": "19:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/divadlo-6-16/hhbbg/\" target=\"_blank\">Divadlo 6-16</a></div><div class=\"\">Autor: Mike Bartlett</div><div class=\"\">Režisér: Filip Nuckolls</div><div class=\"\">Umělci: Kryštof Rímský, Kamila Trnková / Hana Kusnjerová, Jan Jankovský, Ladislav Hampl / Filip Nuckolls</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/89226547a06d7863e1936d6b51d69b833775106e.jpg",
+    "price": "200–250",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/bull/ugaf",
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6421",
+    "event_name": "Hard Sell",
+    "event_date": "2019-09-20",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-09-20",
+    "event_time_until": "19:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "A modern black farce with an unexpected finale. For the first time, the Czech premiere of _Hard Sell_ hits the stage. Translated by Petr Čepek and directed by Filip Nuckolls, the text is altered to reflect post-revolutionary realities of the 1990s.\n\n_Two policemen, one corpse, and one witness. Is he culprit or victim? Why is he silent? A brilliant comedy about how much men of the law must use their imaginations in order to bring about justice. Can they manage it?_<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/divadlo-6-16/hhbbg/\" target=\"_blank\">Divadlo 6-16</a></div><div class=\"\">Režisér: Filip Nuckolls</div><div class=\"\">Umělci: Kryštof Rímský, Jan Jankovský, Jana Polášková</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/eebcdaa2cb9881c53feec57b164744e0c42fa34d.jpg",
+    "price": "200–250",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/hard-sell/ygaf",
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6422",
+    "event_name": "Correspondence",
+    "event_date": "2019-09-23",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-09-23",
+    "event_time_until": "19:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/divadlo-6-16/hhbbg/\" target=\"_blank\">Divadlo 6-16</a></div><div class=\"\">Autor: Claire MacDonald</div><div class=\"\">Režisér: Paul Bourne</div><div class=\"\">Umělci: Petra Špalková, Jan Jankovský</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/fa2073f516c023e8beec72f0a648489e944485e9.jpg",
+    "price": "200–250",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/correspondence/bhaf",
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6423",
+    "event_name": "Hard Sell",
+    "event_date": "2019-10-06",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-06",
+    "event_time_until": "19:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "A modern black farce with an unexpected finale. For the first time, the Czech premiere of _Hard Sell_ hits the stage. Translated by Petr Čepek and directed by Filip Nuckolls, the text is altered to reflect post-revolutionary realities of the 1990s.\n\n_Two policemen, one corpse, and one witness. Is he culprit or victim? Why is he silent? A brilliant comedy about how much men of the law must use their imaginations in order to bring about justice. Can they manage it?_<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/divadlo-6-16/hhbbg/\" target=\"_blank\">Divadlo 6-16</a></div><div class=\"\">Režisér: Filip Nuckolls</div><div class=\"\">Umělci: Kryštof Rímský, Jan Jankovský, Jana Polášková</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/f7576fc3c91426932742eaedbd9431d4dbd1291b.jpg",
+    "price": "200–250",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/hard-sell/xgaf",
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6424",
+    "event_name": "Nick",
+    "event_date": "2019-10-22",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-22",
+    "event_time_until": "19:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "_Nick_ is a story about a boy from Texas who disappears at the age of thirteen. The year is 1994 and gradually a story unfolds about his sister’s relentless effort at finding him and her eventual success, about a merry reunion with the family and about everything that followed. But what if things are not what they seem to be? Some stories are so fictitious that we simply believe them, whether we wish to or not. New perspectives and new data can change our interpretation of events. Each single piece of information is an important part of a jigsaw, whatever place it falls into. What and under what circumstances are we willing to believe in? It is up to the spectators to put together a story and decide whether it deserves their trust.<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/stk-theatre-concept/fpirf/\" target=\"_blank\">STK Theatre Concept</a></div><div class=\"\">Režisér: Petra Tejnorová</div><div class=\"\">Umělci: Hana Vagnerová, Michal Sieczkowski, Jiří Konvalinka</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/418fad28c0c904a6883120223292ba4a4acc9723.jpg",
+    "price": "0–250",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/nick/jhaf",
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
       }
     ],
     "image": null,
