@@ -85906,9 +85906,9 @@
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/divadlo-6-16/hhbbg/\" target=\"_blank\">Divadlo 6-16</a></div><div class=\"\">Autor: Mike Bartlett</div><div class=\"\">Režisér: Filip Nuckolls</div><div class=\"\">Umělci: Kryštof Rímský, Kamila Trnková / Hana Kusnjerová, Jan Jankovský, Ladislav Hampl / Filip Nuckolls</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/89226547a06d7863e1936d6b51d69b833775106e.jpg",
-    "price": "200–250",
+    "price": "",
     "currency": "CZK",
-    "sale_url": "https://goout.net/en/tickets/bull/ugaf",
+    "sale_url": "https://goout.net/en/tickets/bull/wmaf",
     "cancelled": "0",
     "location_name": "Jatka78",
     "location_address": "Bubenské nábřeží 306/13, Praha 7",
@@ -85932,9 +85932,9 @@
     "description": "A modern black farce with an unexpected finale. For the first time, the Czech premiere of _Hard Sell_ hits the stage. Translated by Petr Čepek and directed by Filip Nuckolls, the text is altered to reflect post-revolutionary realities of the 1990s.\n\n_Two policemen, one corpse, and one witness. Is he culprit or victim? Why is he silent? A brilliant comedy about how much men of the law must use their imaginations in order to bring about justice. Can they manage it?_<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/divadlo-6-16/hhbbg/\" target=\"_blank\">Divadlo 6-16</a></div><div class=\"\">Režisér: Filip Nuckolls</div><div class=\"\">Umělci: Kryštof Rímský, Jan Jankovský, Jana Polášková</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/eebcdaa2cb9881c53feec57b164744e0c42fa34d.jpg",
-    "price": "200–250",
+    "price": "",
     "currency": "CZK",
-    "sale_url": "https://goout.net/en/tickets/hard-sell/ygaf",
+    "sale_url": "https://goout.net/en/tickets/hard-sell/vlaf",
     "cancelled": "0",
     "location_name": "Jatka78",
     "location_address": "Bubenské nábřeží 306/13, Praha 7",
@@ -85958,7 +85958,7 @@
     "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/divadlo-6-16/hhbbg/\" target=\"_blank\">Divadlo 6-16</a></div><div class=\"\">Autor: Claire MacDonald</div><div class=\"\">Režisér: Paul Bourne</div><div class=\"\">Umělci: Petra Špalková, Jan Jankovský</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/fa2073f516c023e8beec72f0a648489e944485e9.jpg",
-    "price": "200–250",
+    "price": "",
     "currency": "CZK",
     "sale_url": "https://goout.net/en/tickets/correspondence/bhaf",
     "cancelled": "0",
@@ -85984,9 +85984,9 @@
     "description": "A modern black farce with an unexpected finale. For the first time, the Czech premiere of _Hard Sell_ hits the stage. Translated by Petr Čepek and directed by Filip Nuckolls, the text is altered to reflect post-revolutionary realities of the 1990s.\n\n_Two policemen, one corpse, and one witness. Is he culprit or victim? Why is he silent? A brilliant comedy about how much men of the law must use their imaginations in order to bring about justice. Can they manage it?_<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/divadlo-6-16/hhbbg/\" target=\"_blank\">Divadlo 6-16</a></div><div class=\"\">Režisér: Filip Nuckolls</div><div class=\"\">Umělci: Kryštof Rímský, Jan Jankovský, Jana Polášková</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/f7576fc3c91426932742eaedbd9431d4dbd1291b.jpg",
-    "price": "200–250",
+    "price": "",
     "currency": "CZK",
-    "sale_url": "https://goout.net/en/tickets/hard-sell/xgaf",
+    "sale_url": "https://goout.net/en/tickets/hard-sell/ulaf",
     "cancelled": "0",
     "location_name": "Jatka78",
     "location_address": "Bubenské nábřeží 306/13, Praha 7",
@@ -86010,9 +86010,9 @@
     "description": "_Nick_ is a story about a boy from Texas who disappears at the age of thirteen. The year is 1994 and gradually a story unfolds about his sister’s relentless effort at finding him and her eventual success, about a merry reunion with the family and about everything that followed. But what if things are not what they seem to be? Some stories are so fictitious that we simply believe them, whether we wish to or not. New perspectives and new data can change our interpretation of events. Each single piece of information is an important part of a jigsaw, whatever place it falls into. What and under what circumstances are we willing to believe in? It is up to the spectators to put together a story and decide whether it deserves their trust.<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/stk-theatre-concept/fpirf/\" target=\"_blank\">STK Theatre Concept</a></div><div class=\"\">Režisér: Petra Tejnorová</div><div class=\"\">Umělci: Hana Vagnerová, Michal Sieczkowski, Jiří Konvalinka</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/418fad28c0c904a6883120223292ba4a4acc9723.jpg",
-    "price": "0–250",
+    "price": "",
     "currency": "CZK",
-    "sale_url": "https://goout.net/en/tickets/nick/jhaf",
+    "sale_url": "https://goout.net/en/tickets/nick/dmaf",
     "cancelled": "0",
     "location_name": "Jatka78",
     "location_address": "Bubenské nábřeží 306/13, Praha 7",
@@ -86052,5 +86052,86 @@
     ],
     "image": "https://www.praha7.cz/wp-content/uploads/2019/08/Screenshot_4-600x352.png",
     "goOutInfo": null
+  },
+  {
+    "id": "6426",
+    "event_name": "Correspondence",
+    "event_date": "2019-09-23",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-09-23",
+    "event_time_until": "19:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/divadlo-6-16/hhbbg/\" target=\"_blank\">Divadlo 6-16</a></div><div class=\"\">Autor: Claire MacDonald</div><div class=\"\">Režisér: Paul Bourne</div><div class=\"\">Umělci: Petra Špalková, Jan Jankovský</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/b8e6d5aab1123d446bdfda9cc83418c7b9c20d57.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/correspondence/bmaf",
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6427",
+    "event_name": "Lunchmeat x FACT: Dasha Rush – „Aurora Cerebralis\" 360° AV live – festival opening",
+    "event_date": "2019-09-30",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-09-30",
+    "event_time_until": "20:30:00",
+    "location": "Planetárium Praha, Královská obora 233, Praha 7",
+    "address": "",
+    "description": "Berlin-based producer, experimental sound artist, and DJ Dasha Rush transforms the powerful forces of nature into emotion-driven sound pieces. Whether it’s her curiosity for astrophysics, fascination with extreme natural phenomena or the deepest desires of the human psyche, Dasha threads together her wildest dreams with many-layered dense techno, visual explorations, and performative art. In _Aurora Cerebralis_, images and sounds de-synchronize and synchronize in real-time, and the complex spatial sound evokes transient, neurological shimmers that alter our perception of time in the same measure as they bend or expand the real space. Dasha Rush developed her audio-visual performance together with digital artist Alex Guevara and the two will present it in an immersive 360° live version in the dome of Prague’s Planetárium. With its 8K digital projection and 23,5 meters in diameter, the building is one of the biggest planetariums in the world.<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/dasha-rush/vvosf/\" target=\"_blank\">Dasha Rush</a><a href=\"https://goout.net/en/artists/lunchmeat/pjwqf/\" target=\"_blank\">Lunchmeat</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/b03f1cbd8929ffd2e8fcf40eab734895e3f8b09d.jpg",
+    "price": "350",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/lunchmeat-x-fact-dasha-rush-aurora-cerebralis-360-av-live-festival/mmaf",
+    "cancelled": "0",
+    "location_name": "Planetárium Praha",
+    "location_address": "Královská obora 233, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Párty"
+      },
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6428",
+    "event_name": "Invisibles",
+    "event_date": "2019-10-14",
+    "event_time": "17:30:00",
+    "event_date_until": "2019-10-14",
+    "event_time_until": "17:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "After a municipal decision, a shelter for homeless women, ‘l’Envol’, is about to close. With only three months to re- integrate the women they care for, the social workers do everything they can: pulling-strings, bending the truth, and even outright lies… From now on, everything goes.<div class=\"\">Režisér: Louis-Julien Petit</div><div class=\"\">Umělci: Fatsah Bouyahmed, Audrey Lamy, Déborah Lukumuena, Noémie Lvovsky, Corinne Masiero, Pablo Pauly, Sarah Suco, Natalie Beder</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/5da9192da5963530de94ba67b4d86d749e9988c9.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
   }
 ]
