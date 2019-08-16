@@ -86795,5 +86795,187 @@
     ],
     "image": null,
     "goOutInfo": "0"
+  },
+  {
+    "id": "6454",
+    "event_name": "Duše jako múza",
+    "event_date": "2019-09-25",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-10-25",
+    "event_time_until": "00:00:00",
+    "location": "Café Lajka, U Akademie 366/11, Praha 7",
+    "address": "",
+    "description": "<p>Fokus Praha srdečně zve v úterý 20. srpna od 17 hodin na první vernisáž ze série výstav <a href=\"https://www.ceskegalerie.cz/cs/skupina-f\">Skupiny F</a>. Ta proběhne v podniku V. koloně v areálu Psychiatrické nemocnice Bohnice a otevře cyklus výstav Duše jako múza, kde nikdo už neví, kdo je vlastně normální. Prodejní výstava nadějných a zkušených umělců, z nichž někteří společně bojují o duševní zdraví, následně poputuje do Café Lajka a Týnské literární kavárny.</p>\n<p>Výtvarný talent a duševní nemoc často provázejí tvůrce společně. Fokus Praha se zaměřuje na obě tyto oblasti. Primárně v rámci poskytování psychosociálních služeb, ale také provozováním arteterapie, uměleckých projektů či v sociálním podniku České galerie.</p>\n<p><strong>Pozvánka na cyklus výstav </strong><br />\n20. 8. – 15. 9. 2019 V. kolona (areál Psychiatrické nemocnice Bohnice)<br />\n25. 9. – 25. 10. 2019 Café Lajka (U Akademie 11)<br />\n1. 11. – 30. 11. 2019 Týnská literární kavárna (Týnská 6)<br />\n<br />\n<a href=\"https://www.facebook.com/events/457264608185824/\">FB Události Vernisáž k výstavě Skupiny F – Duše jako múza &amp; Výstava Duše jako múza</a></p>\n<p><a href=\"https://fokus-praha.cz/cz/\">Fokus Praha</a> již od roku 1990 pomáhá lidem s problémy v oblasti duševního zdraví najít cestu ke spokojenému, důstojnému a perspektivnímu životu.  Je průvodcem v řešení otázek bydlení, práce, terapie, sociálních vazeb i volnočasových aktivit. Vzdělává odbornou veřejnost. Provozuje sociální firmy, jejichž smyslem je zaměstnávání lidí, kteří jsou znevýhodnění na otevřeném trhu práce. Zakládá a provozuje centra duševního zdraví poskytující komplexní komunitní péči. Bojuje s předsudky a mýty v oblasti duševního zdraví, které ve společnosti panují.</p>\n<p>Fokus Praha se aktivně zasazuje o změnu přístupu k lidem se zkušeností s duševním onemocněním a prosazuje nezbytnost reformy psychiatrické péče v České republice</p>",
+    "image_id": "28694",
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": "Café Lajka",
+    "location_address": "U Akademie 366/11, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Výstavy"
+      }
+    ],
+    "image": "https://www.praha7.cz/wp-content/uploads/2019/08/67978454_1053346938167574_8165610085356142592_n-477x400.jpg",
+    "goOutInfo": null
+  },
+  {
+    "id": "6455",
+    "event_name": "Zábor – Tusarova, V Háji",
+    "event_date": "2019-08-24",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-08-07",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>Natáčení TVC spotu<br />\nOsoba zodpovědná za akci: T. Honzátko – 777 185 161</p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Zábory"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  },
+  {
+    "id": "6456",
+    "event_name": "Zábor – Vodácká",
+    "event_date": "2019-09-02",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-09-09",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>Z důvodu konání sportovní akce: 2019 ICF Canoe Slalom World Cup<br />\nOsoba zodpovědná za akci: M. Říhová – 607 593 653</p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Zábory"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  },
+  {
+    "id": "6457",
+    "event_name": "Zábor – U Sparty (u stadionu)",
+    "event_date": "2019-08-18",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-08-18",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>Z důvodu konání fotbalového utkání<br />\nOsoba zodpovědná za akci: D. Hamzová – 296 111 127</p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Zábory"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  },
+  {
+    "id": "6458",
+    "event_name": "Zábor – Jankovcova 29",
+    "event_date": "2019-08-09",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-08-16",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>horkovod</p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Zábory"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  },
+  {
+    "id": "6459",
+    "event_name": "Zábor – Šimáčkova 10",
+    "event_date": "2019-08-12",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-08-19",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>tel. kabel</p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Zábory"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  },
+  {
+    "id": "6460",
+    "event_name": "Zábor – Malířská 13",
+    "event_date": "2019-08-12",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-08-19",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>tel. kabel</p>\n<p>&nbsp;</p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Zábory"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
   }
 ]
