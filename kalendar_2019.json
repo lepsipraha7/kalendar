@@ -85960,7 +85960,7 @@
     "image_src": "wp-content/uploads/goout/fa2073f516c023e8beec72f0a648489e944485e9.jpg",
     "price": "",
     "currency": "CZK",
-    "sale_url": "https://goout.net/en/tickets/correspondence/bhaf",
+    "sale_url": null,
     "cancelled": "0",
     "location_name": "Jatka78",
     "location_address": "Bubenské nábřeží 306/13, Praha 7",
@@ -86129,6 +86129,668 @@
     "categories": [
       {
         "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6429",
+    "event_name": "Once Upon a Time in Hollywood",
+    "event_date": "2019-08-22",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-08-22",
+    "event_time_until": "20:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood's Golden Age in 1969 Los Angeles.\n<div class=\"\">Režisér: Quentin Tarantino</div><div class=\"\">Umělci: Leonardo DiCaprio, Brad Pitt, Margot Robbie, Al Pacino, Kurt Russell, Tim Roth, Michael Madsen, Damian Lewis, Timothy Olyphant, Emile Hirsch, Damon Herriman, Dakota Fanning, Lena Dunham, Lorenza Izzo, Clifton Collins Jr., Bruce Dern, Luke Perry, Austin Butler, James Marsden, Rafał Zawierucha</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/c1d86f2727dc4a0ff46d082a41f3b658eb03063f.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6430",
+    "event_name": "The Bookshop",
+    "event_date": "2019-08-22",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-08-22",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Based on Penelope Fitzgerald’s novel, _The Bookshop_ is set in 1959, and Florence Green (Emily Mortimer), is a free-spirited widow, puts grief behind her and risks everything to open up a bookshop – the first such shop in a sleepy seaside town in England. Fighting damp, cold and considerable local apathy she struggles to establish herself but soon her fortunes change for the better. By exposing the narrow-minded local townsfolk to the best literature of the day, she opens their eyes thereby causing a cultural awakening in a town which has not changed for centuries.\n\nHer activities bring her a kindred spirit and ally in the figure of Mr. Brundish (Bill Nighy) who is himself sick of the town’s stale atmosphere. But this mini social revolution soon brings her fierce enemies: she invites the hostility of the town’s less prosperous shopkeepers and also crosses Mrs. Gamart (Patricia Clarkson), Hardborough’s vengeful, embittered alpha female who is herself a wannabe doyenne of the local arts scene.\n\nWhen Florence refuses to bend to Gamart’s will, they begin a struggle not just for the bookshop but for the very heart and soul of the town.<div class=\"\">Režisér: Isabel Coixet</div><div class=\"\">Umělci: Emily Mortimer, Bill Nighy, Patricia Clarkson</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/9d828062f60804812078dad9425305ab09bef720.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6431",
+    "event_name": "Midsommar",
+    "event_date": "2019-08-23",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-08-23",
+    "event_time_until": "20:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A couple travels to Sweden to visit a rural hometown's fabled mid-summer festival. What begins as an idyllic retreat quickly devolves into an increasingly violent and bizarre competition at the hands of a pagan cult.<div class=\"\">Režisér:  Ari Aster</div><div class=\"\">Umělci: Florence Pugh, Jack Reynor, William Jackson Harper, Vilhelm Blomgren, Archie Madekwe, Ellora Torchia, Will Poulter, Julia Ragnarsson, Anna Åström, Anki Larsson, Lars Väringer, Anders Back, Katarina Weidhagen van Hal, Liv Mjönes, Henrik Norlén, Louise Peterhoff, Björn Andrésen, Gunnel Fred, Mats Blomgren, Anders Beckman</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/3e289fba7f07438531d3c96e33bbd695b963e6d5.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6432",
+    "event_name": "Mid90s",
+    "event_date": "2019-08-23",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-08-23",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Follows Stevie, a thirteen-year-old in 1990s-era Los Angeles who spends his summer navigating between his troubled home life and a group of new friends that he meets at a Motor Avenue skate shop.<div class=\"\">Režisér: Jonah Hill</div><div class=\"\">Umělci: Sunny Suljic, Katherine Waterston, Lucas Hedges, Gio Galicia, Na-kel Smith, Olan Prenatt, Ryder McLaughlin, Alexa Demie, Harmony Korine, Jerrod Carmichael, Zachary Read</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/a701de5f47d1135b254761e7960a5714d1e92d20.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6433",
+    "event_name": "Once Upon a Time in Hollywood",
+    "event_date": "2019-08-24",
+    "event_time": "17:30:00",
+    "event_date_until": "2019-08-24",
+    "event_time_until": "17:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood's Golden Age in 1969 Los Angeles.\n<div class=\"\">Režisér: Quentin Tarantino</div><div class=\"\">Umělci: Leonardo DiCaprio, Brad Pitt, Margot Robbie, Al Pacino, Kurt Russell, Tim Roth, Michael Madsen, Damian Lewis, Timothy Olyphant, Emile Hirsch, Damon Herriman, Dakota Fanning, Lena Dunham, Lorenza Izzo, Clifton Collins Jr., Bruce Dern, Luke Perry, Austin Butler, James Marsden, Rafał Zawierucha</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/382161e9d6fcfe899494086885795c8d5a67e055.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6434",
+    "event_name": "The Cremator",
+    "event_date": "2019-08-24",
+    "event_time": "13:00:00",
+    "event_date_until": "2019-08-24",
+    "event_time_until": "13:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Režisér: Juraj Herz</div><div class=\"\">Umělci: Rudolf Hrušínský, Vlasta Chramostová, Jana Stehnová, Miloš Vognič, Ilja Prachař, Zora Božinová, Eduard Kohout, Jiří Lír, Dimitrij Rafalský, Jan Vlček, Václav Halama</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/2d948bc6b36fb169162ba1eb0ad57d0ef0107d41.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6435",
+    "event_name": "The Lion King",
+    "event_date": "2019-08-24",
+    "event_time": "15:00:00",
+    "event_date_until": "2019-08-24",
+    "event_time_until": "15:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.\n<div class=\"\">Režisér: Jon Favreau</div><div class=\"\">Umělci: Donald Glover, Seth Rogen, James Earl Jones, Billy Eichner, Keegan-Michael Key, Chiwetel Ejiofor, Alfre Woodard, Florence Kasumba, Beyoncé, John Oliver, Eric André, John Kani, Shahadi Wright Joseph, JD McCrary, Amy Sedaris</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/e03d35881b6df7c627dafcf593f1d3d013016086.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6436",
+    "event_name": "Diego Maradona",
+    "event_date": "2019-08-24",
+    "event_time": "20:45:00",
+    "event_date_until": "2019-08-24",
+    "event_time_until": "20:45:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Constructed from over 500 hours of never-before-seen footage, this documentary centers on the career of celebrated football player Diego Armando Maradona, who played for S.S.C. Napoli in the 1980s.\n<div class=\"\">Režisér: Asif Kapadia</div><div class=\"\">Umělci: Diego Armando Maradona</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/0fcff539b9d17f0710fa90c4cd62b4840fe7af1d.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6437",
+    "event_name": "Once Upon a Time in Hollywood",
+    "event_date": "2019-08-25",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-08-25",
+    "event_time_until": "20:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood's Golden Age in 1969 Los Angeles.\n<div class=\"\">Režisér: Quentin Tarantino</div><div class=\"\">Umělci: Leonardo DiCaprio, Brad Pitt, Margot Robbie, Al Pacino, Kurt Russell, Tim Roth, Michael Madsen, Damian Lewis, Timothy Olyphant, Emile Hirsch, Damon Herriman, Dakota Fanning, Lena Dunham, Lorenza Izzo, Clifton Collins Jr., Bruce Dern, Luke Perry, Austin Butler, James Marsden, Rafał Zawierucha</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/96aadcadae6838f3a3ce273198866a4b3083851c.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6438",
+    "event_name": "Midsommar",
+    "event_date": "2019-08-25",
+    "event_time": "17:30:00",
+    "event_date_until": "2019-08-25",
+    "event_time_until": "17:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A couple travels to Sweden to visit a rural hometown's fabled mid-summer festival. What begins as an idyllic retreat quickly devolves into an increasingly violent and bizarre competition at the hands of a pagan cult.<div class=\"\">Režisér:  Ari Aster</div><div class=\"\">Umělci: Florence Pugh, Jack Reynor, William Jackson Harper, Vilhelm Blomgren, Archie Madekwe, Ellora Torchia, Will Poulter, Julia Ragnarsson, Anna Åström, Anki Larsson, Lars Väringer, Anders Back, Katarina Weidhagen van Hal, Liv Mjönes, Henrik Norlén, Louise Peterhoff, Björn Andrésen, Gunnel Fred, Mats Blomgren, Anders Beckman</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/c7410c5d37ec29124cafbe3890c23ac695a154ba.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6439",
+    "event_name": "Mid90s",
+    "event_date": "2019-08-25",
+    "event_time": "13:00:00",
+    "event_date_until": "2019-08-25",
+    "event_time_until": "13:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Follows Stevie, a thirteen-year-old in 1990s-era Los Angeles who spends his summer navigating between his troubled home life and a group of new friends that he meets at a Motor Avenue skate shop.<div class=\"\">Režisér: Jonah Hill</div><div class=\"\">Umělci: Sunny Suljic, Katherine Waterston, Lucas Hedges, Gio Galicia, Na-kel Smith, Olan Prenatt, Ryder McLaughlin, Alexa Demie, Harmony Korine, Jerrod Carmichael, Zachary Read</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/164fc5f76fae0a9ce4952288657a2f20aaa8d190.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6440",
+    "event_name": "A White, White Day",
+    "event_date": "2019-08-26",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-08-26",
+    "event_time_until": "20:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "In a remote Icelandic town, an off duty police chief begins to suspect a local man for having had an affair with his wife, who recently died in a car accident. Gradually his obsession for finding out the truth accumulates and inevitably begins to endanger himself and his loved ones. A story of grief, revenge and unconditional love.\n\n<div class=\"\">Režisér: Hlynur Pálmason</div><div class=\"\">Umělci: Ingvar Sigurðsson, Ída Mekkín Hlynsdóttir, Hilmir Snær Guðnason, Sara Dögg Ásgeirsdóttir, Elma Stefanía Ágústsdóttir, Laufey Elíasdóttir, Sigurður Sigurjónsson, Sverrir Þór Sverrisson</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/2b98cc12f4dc7169301e8109d857a153f083df6f.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6441",
+    "event_name": "100 Things",
+    "event_date": "2019-08-26",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-08-26",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Best friends Toni and Paul decide to relinquish all of their belongings for 100 days, whereby they receive one of their items back on each day. During this challenge the two realize, that the only thing they cannot be without is their friendship. A story about contemporary materialism and the quest for the truely important things in life.\n\n<div class=\"\">Režisér: Florian David Fitz</div><div class=\"\">Umělci: Florian David Fitz, Matthias Schweighöfer, Miriam Stein, Hannelore Elsner, Wolfgang Stumph, Katharina Thalbach, Johannes Allmayer, Maria Furtwängler, Sarah Viktoria Frick, Artjom Gilz, Daniel Flieger, Nora Boeckler</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/56c76e4a1f2aa49a2a90888ebe6b003b857bc52e.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6442",
+    "event_name": "Once Upon a Time in Hollywood",
+    "event_date": "2019-08-27",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-08-27",
+    "event_time_until": "20:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood's Golden Age in 1969 Los Angeles.\n<div class=\"\">Režisér: Quentin Tarantino</div><div class=\"\">Umělci: Leonardo DiCaprio, Brad Pitt, Margot Robbie, Al Pacino, Kurt Russell, Tim Roth, Michael Madsen, Damian Lewis, Timothy Olyphant, Emile Hirsch, Damon Herriman, Dakota Fanning, Lena Dunham, Lorenza Izzo, Clifton Collins Jr., Bruce Dern, Luke Perry, Austin Butler, James Marsden, Rafał Zawierucha</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/5dfd299e1cdc3b95874f8c324fb77b46e1772c46.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6443",
+    "event_name": "Ready or Not",
+    "event_date": "2019-08-27",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-08-27",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A bride's wedding night takes a sinister turn when her eccentric new in-laws force her to take part in a terrifying game.\n<div class=\"\">Režisér: Matt Bettinelli-Olpin,Tyler Gillett</div><div class=\"\">Umělci: Samara Weaving, Mark O'Brien, Andie MacDowell, Adam Brody, Henry Czerny, Nicky Guadagni, Melanie Scrofano, Kristian Bruun, Elyse Levesque, John Ralston, Daniela Barbosa</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/0b063d1da51654e1f2edf7f5ad278b5fc77bf891.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6444",
+    "event_name": "Kde identita má? ",
+    "event_date": "2019-08-28",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-08-28",
+    "event_time_until": "19:30:00",
+    "location": "Studio Alta, U Výstaviště 21, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Zlatko Teskere</div><div class=\"\">Režisér: Zlatko Teskere, Barbora Johansson</div><div class=\"\">Umělci: Zlatko Teskere</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/17f200c99d9dcb671233744b17d9a7ce7d4b173e.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Studio Alta",
+    "location_address": "U Výstaviště 21, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6445",
+    "event_name": "Diego Maradona",
+    "event_date": "2019-08-28",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-08-28",
+    "event_time_until": "20:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Constructed from over 500 hours of never-before-seen footage, this documentary centers on the career of celebrated football player Diego Armando Maradona, who played for S.S.C. Napoli in the 1980s.\n<div class=\"\">Režisér: Asif Kapadia</div><div class=\"\">Umělci: Diego Armando Maradona</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/11e224a360d7ce014ab55b9eea9ce75e78c96303.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6446",
+    "event_name": "Rocketman",
+    "event_date": "2019-08-28",
+    "event_time": "18:00:00",
+    "event_date_until": "2019-08-28",
+    "event_time_until": "18:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A musical fantasy about the fantastical human story of Elton John's breakthrough years.\n<div class=\"\">Režisér: Dexter Fletcher</div><div class=\"\">Umělci: Taron Egerton, Richard Madden, Bryce Dallas Howard, Jamie Bell, Steven Mackintosh, Gemma Jones, Kamil Lemieszewski, Luke White</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/19da51ffbc341ccce7d3975cba09c5a258630a67.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6447",
+    "event_name": "Work in progress z rezidence pro choreografy",
+    "event_date": "2019-08-29",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-08-29",
+    "event_time_until": "19:30:00",
+    "location": "Studio Alta, U Výstaviště 21, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělci: Elena Iachininoto, Johana Pocková, Pocketart, Laura Brechmann, Marlene Ruther, Giulio Hesse. Tomáš Janypka, Sara Bocchini</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/217db07a984916b2b0e7867b0392703e8bab70af.jpg",
+    "price": "+",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Studio Alta",
+    "location_address": "U Výstaviště 21, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6448",
+    "event_name": "The Grey Wolf",
+    "event_date": "2019-09-02",
+    "event_time": "16:30:00",
+    "event_date_until": "2019-09-02",
+    "event_time_until": "16:30:00",
+    "location": "Alfred ve dvoře, Františka Křížka 36, Praha 7",
+    "address": "",
+    "description": "Punk theatre by Tereza Říčanová only consists of several decaying boxes and a children’s book illustrator. Sometimes her box actors get so hyped up that the theatre eventually ends up completely different.<div class=\"\">Autor: Tereza Říčanová</div><div class=\"\">Umělci: Tereza Říčanová</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/55150178d2da7013376eb5505b7284db6842f3c7.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Alfred ve dvoře",
+    "location_address": "Františka Křížka 36, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Děti a mládež"
+      },
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6449",
+    "event_name": "Crypto snídaně: Komu patřil můj bitcoin?",
+    "event_date": "2019-09-25",
+    "event_time": "09:00:00",
+    "event_date_until": "2019-09-25",
+    "event_time_until": "09:00:00",
+    "location": "Paralelní Polis, Dělnická 43, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/210a189edd60005844a0687a4ae53f226ca2881f.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Paralelní Polis",
+    "location_address": "Dělnická 43, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Gastro"
+      },
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6450",
+    "event_name": "Crypto snídaně: Vystup ze systému – Monero?",
+    "event_date": "2019-10-23",
+    "event_time": "09:00:00",
+    "event_date_until": "2019-10-23",
+    "event_time_until": "09:00:00",
+    "location": "Paralelní Polis, Dělnická 43, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/9075aa8feefba50e22dd007db03ff6c55ca96ff8.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Paralelní Polis",
+    "location_address": "Dělnická 43, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Gastro"
+      },
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6451",
+    "event_name": "Hranice svobody – Paralelní vzdělávání",
+    "event_date": "2019-10-30",
+    "event_time": "18:30:00",
+    "event_date_until": "2019-10-30",
+    "event_time_until": "18:30:00",
+    "location": "Paralelní Polis, Dělnická 43, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/4433a25fd331c28bde512f42934d5b85fb3f29e8.jpg",
+    "price": "150",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Paralelní Polis",
+    "location_address": "Dělnická 43, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6452",
+    "event_name": "Crypto snídaně: Decentralizované finančnictví De-Fi?",
+    "event_date": "2019-11-12",
+    "event_time": "09:00:00",
+    "event_date_until": "2019-11-12",
+    "event_time_until": "09:00:00",
+    "location": "Paralelní Polis, Dělnická 43, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/d35a0b1ba67ff75570413f28c107b97ca24bfa41.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Paralelní Polis",
+    "location_address": "Dělnická 43, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Gastro"
+      },
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6453",
+    "event_name": "Bitcoin meetup: Základy Bitcoinu",
+    "event_date": "2019-11-12",
+    "event_time": "18:30:00",
+    "event_date_until": "2019-11-12",
+    "event_time_until": "18:30:00",
+    "location": "Paralelní Polis, Dělnická 43, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/43cdbee8db39655fca4bb00910a68b646b6de8a0.jpg",
+    "price": "150",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Paralelní Polis",
+    "location_address": "Dělnická 43, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
       }
     ],
     "image": null,
