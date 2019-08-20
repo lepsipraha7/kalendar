@@ -87159,5 +87159,31 @@
     ],
     "image": null,
     "goOutInfo": "0"
+  },
+  {
+    "id": "6468",
+    "event_name": "Zasedání Komise rozvoje urbanismu, architektury a veřejného prostoru",
+    "event_date": "2019-09-27",
+    "event_time": "13:00:00",
+    "event_date_until": "2019-09-27",
+    "event_time_until": "14:00:00",
+    "location": "Úřad MČ Praha 7 (č. d. 225), Nábřeží Kapitána Jaroše 1000",
+    "address": "",
+    "description": "<p><a href=\"https://www.praha7.cz/radnice/voleni-zastupci-mistni-samospravy/rada-mc-praha-7/komise-praha-7/komise-rozvoje-urbanismu-architektury-a-verejneho-prostoru-rady-mc-praha-7/\">Zasedání Komise rozvoje urbanismu, architektury a veřejného prostoru</a></p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": "Úřad MČ Praha 7 (č. d. 225)",
+    "location_address": "Nábřeží Kapitána Jaroše 1000",
+    "categories": [
+      {
+        "subcategory_name": "Zasedání orgánů MČ"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
   }
 ]
