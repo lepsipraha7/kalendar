@@ -87081,5 +87081,83 @@
     ],
     "image": null,
     "goOutInfo": "0"
+  },
+  {
+    "id": "6465",
+    "event_name": "Lázně",
+    "event_date": "2019-11-04",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-11-04",
+    "event_time_until": "20:00:00",
+    "location": "Alfred ve dvoře, Františka Křížka 36, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/29b26a50c7e514bdc1818e4f0f6d1a5484029aba.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/lazne/eebf",
+    "cancelled": "0",
+    "location_name": "Alfred ve dvoře",
+    "location_address": "Františka Křížka 36, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6466",
+    "event_name": "Lázně",
+    "event_date": "2019-11-05",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-11-05",
+    "event_time_until": "20:00:00",
+    "location": "Alfred ve dvoře, Františka Křížka 36, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/849211f766f0c6b5ce04d6bf16040ff466c547a2.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/lazne/gebf",
+    "cancelled": "0",
+    "location_name": "Alfred ve dvoře",
+    "location_address": "Františka Křížka 36, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6467",
+    "event_name": "Permanentka Alfred ve dvoře 2019/2020",
+    "event_date": "2019-08-20",
+    "event_time": "00:00:00",
+    "event_date_until": "2020-12-31",
+    "event_time_until": "23:59:59",
+    "location": "Alfred ve dvoře, Františka Křížka 36, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/65ca672bc274abc8e3b9c2f077528972f68fe57a.jpg",
+    "price": "555–1111",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/permanentka-alfred-ve-dvore-2019-2020/pdbf",
+    "cancelled": "0",
+    "location_name": "Alfred ve dvoře",
+    "location_address": "Františka Křížka 36, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
   }
 ]
