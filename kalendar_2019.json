@@ -87731,5 +87731,109 @@
     ],
     "image": null,
     "goOutInfo": null
+  },
+  {
+    "id": "6490",
+    "event_name": "Velkoobjemové kontejnery - U Studánky č. 22 x Malířská",
+    "event_date": "2019-10-08",
+    "event_time": "16:00:00",
+    "event_date_until": "2019-10-08",
+    "event_time_until": "20:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p><a href=\"https://www.praha7.cz/temata/odpad/velkoobjemove-kontejnery/\">VOK</a></p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Kontejnery"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  },
+  {
+    "id": "6491",
+    "event_name": "Velkoobjemové kontejnery - U Studánky č. 22 x Malířská",
+    "event_date": "2019-11-11",
+    "event_time": "16:00:00",
+    "event_date_until": "2019-11-11",
+    "event_time_until": "20:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p><a href=\"https://www.praha7.cz/temata/odpad/velkoobjemove-kontejnery/\">VOK</a></p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Kontejnery"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  },
+  {
+    "id": "6492",
+    "event_name": "Velkoobjemové kontejnery - U Vody x Jankovcova",
+    "event_date": "2019-10-08",
+    "event_time": "16:00:00",
+    "event_date_until": "2019-10-08",
+    "event_time_until": "20:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p><a href=\"https://www.praha7.cz/temata/odpad/velkoobjemove-kontejnery/\">VOK</a></p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Kontejnery"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  },
+  {
+    "id": "6493",
+    "event_name": "Velkoobjemové kontejnery - U Vody x Jankovcova",
+    "event_date": "2019-11-11",
+    "event_time": "16:00:00",
+    "event_date_until": "2019-11-11",
+    "event_time_until": "20:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p><a href=\"https://www.praha7.cz/temata/odpad/velkoobjemove-kontejnery/\">VOK</a></p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Kontejnery"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
   }
 ]
