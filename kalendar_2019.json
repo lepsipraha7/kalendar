@@ -87419,5 +87419,161 @@
     ],
     "image": null,
     "goOutInfo": null
+  },
+  {
+    "id": "6478",
+    "event_name": "Zábor – Spojkoviště kVN – Strojnická 303/29",
+    "event_date": "2019-08-14",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-08-23",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>výkop</p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Zábory"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  },
+  {
+    "id": "6479",
+    "event_name": "Zábor – Osadní 37",
+    "event_date": "2019-08-19",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-08-29",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>Vodovodní přípojka</p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Zábory"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  },
+  {
+    "id": "6480",
+    "event_name": "Zábor – Komunardů 53",
+    "event_date": "2019-09-07",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-09-07",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>kontejner</p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Zábory"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  },
+  {
+    "id": "6481",
+    "event_name": "Zábor – Janovského 14",
+    "event_date": "2019-08-06",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-08-15",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>bezp. zábor, horolezci      </p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Zábory"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  },
+  {
+    "id": "6482",
+    "event_name": "Zábor – Za Papírnou",
+    "event_date": "2019-08-21",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-08-30",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>vyparkování, vodovodní přípojka                      </p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Zábory"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  },
+  {
+    "id": "6483",
+    "event_name": "Zábor – U Smaltovny 13",
+    "event_date": "2019-08-07",
+    "event_time": "00:00:00",
+    "event_date_until": "2019-08-31",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>mobilní zábor, horolezci – PO-PÁ</p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Zábory"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
   }
 ]
