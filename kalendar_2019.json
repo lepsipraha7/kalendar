@@ -87575,5 +87575,161 @@
     ],
     "image": null,
     "goOutInfo": null
+  },
+  {
+    "id": "6484",
+    "event_name": "Velkoobjemové kontejnery – Čechova x Nad Královskou oborou",
+    "event_date": "2019-10-01",
+    "event_time": "16:00:00",
+    "event_date_until": "2019-10-01",
+    "event_time_until": "20:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>VOK </p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Kontejnery"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  },
+  {
+    "id": "6485",
+    "event_name": "Velkoobjemové kontejnery – Čechova x Nad Královskou oborou",
+    "event_date": "2019-11-04",
+    "event_time": "16:00:00",
+    "event_date_until": "2019-11-04",
+    "event_time_until": "20:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>VOK</p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Kontejnery"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  },
+  {
+    "id": "6486",
+    "event_name": "Velkoobjemové kontejnery - Letohradská x U Letenského sadu",
+    "event_date": "2019-10-01",
+    "event_time": "16:00:00",
+    "event_date_until": "2019-10-01",
+    "event_time_until": "20:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>VOK</p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Kontejnery"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  },
+  {
+    "id": "6487",
+    "event_name": "Velkoobjemové kontejnery - Letohradská x U Letenského sadu",
+    "event_date": "2019-11-04",
+    "event_time": "16:00:00",
+    "event_date_until": "2019-11-04",
+    "event_time_until": "20:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p>https://www.praha7.cz/temata/odpad/velkoobjemove-kontejnery/</p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Kontejnery"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  },
+  {
+    "id": "6488",
+    "event_name": "Velkoobjemové kontejnery - U Průhonu x Na Maninách",
+    "event_date": "2019-10-21",
+    "event_time": "16:00:00",
+    "event_date_until": "2019-10-21",
+    "event_time_until": "20:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p><a href=\"https://www.praha7.cz/temata/odpad/velkoobjemove-kontejnery/\">VOK</a></p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Kontejnery"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  },
+  {
+    "id": "6489",
+    "event_name": "Velkoobjemové kontejnery - U Průhonu x Na Maninách",
+    "event_date": "2019-11-19",
+    "event_time": "16:00:00",
+    "event_date_until": "2019-11-19",
+    "event_time_until": "20:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p><a href=\"https://www.praha7.cz/temata/odpad/velkoobjemove-kontejnery/\">VOK</a></p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Kontejnery"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
   }
 ]
