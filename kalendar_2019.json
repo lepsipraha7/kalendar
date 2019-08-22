@@ -80883,9 +80883,9 @@
     "description": "<div class=\"\">Autor: Lenka Tretiagová</div><div class=\"\">Režisér: Dora Hoštová</div><div class=\"\">Umělci: David Králík, Jan Čtvrtník, Dora Sulženko Hoštová / Eva Stará, Martin Lerch</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/691e4a0790a53600dd54bf5c37ec53a61ff10143.jpg",
-    "price": "",
+    "price": "100",
     "currency": "CZK",
-    "sale_url": null,
+    "sale_url": "https://goout.net/en/tickets/bratri/ckbf",
     "cancelled": "0",
     "location_name": "Studio Alta",
     "location_address": "U Výstaviště 21, Praha 7",
@@ -85299,7 +85299,7 @@
     "event_time_until": "15:00:00",
     "location": "Bio Oko, Františka Křižíka 15, Praha 7",
     "address": "",
-    "description": "<div class=\"\">Režisér: Josh Cooley</div><div class=\"\">Umělci: Tom Hanks, Patricia Arquette, Tim Allen, Joan Cusack, Laurie Metcalf, Annie Potts, Bonnie Hunt, John Ratzenberger, Wallace Shawn, Jodi Benson, Don Rickles, Blake Clark, Alec Medlock, Fred Tatasciore, Estelle Harris, Keanu Reeves, Christina Hendricks, Jordan Peele, Jay Hernandez, Timothy Dalton</div>",
+    "description": "When a new toy called \"Forky\" joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy.\n<div class=\"\">Režisér: Josh Cooley</div><div class=\"\">Umělci: Tom Hanks, Patricia Arquette, Tim Allen, Joan Cusack, Laurie Metcalf, Annie Potts, Bonnie Hunt, John Ratzenberger, Wallace Shawn, Jodi Benson, Don Rickles, Blake Clark, Alec Medlock, Fred Tatasciore, Estelle Harris, Keanu Reeves, Christina Hendricks, Jordan Peele, Jay Hernandez, Timothy Dalton</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/c4c76dd63e76dc7076d95ae16431ad3dbad7ed58.jpg",
     "price": "",
@@ -85976,9 +85976,9 @@
     "id": "6423",
     "event_name": "Hard Sell",
     "event_date": "2019-10-06",
-    "event_time": "19:30:00",
+    "event_time": "20:00:00",
     "event_date_until": "2019-10-06",
-    "event_time_until": "19:30:00",
+    "event_time_until": "20:00:00",
     "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
     "address": "",
     "description": "A modern black farce with an unexpected finale. For the first time, the Czech premiere of _Hard Sell_ hits the stage. Translated by Petr Čepek and directed by Filip Nuckolls, the text is altered to reflect post-revolutionary realities of the 1990s.\n\n_Two policemen, one corpse, and one witness. Is he culprit or victim? Why is he silent? A brilliant comedy about how much men of the law must use their imaginations in order to bring about justice. Can they manage it?_<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/divadlo-6-16/hhbbg/\" target=\"_blank\">Divadlo 6-16</a></div><div class=\"\">Režisér: Filip Nuckolls</div><div class=\"\">Umělci: Kryštof Rímský, Jan Jankovský, Jana Polášková</div>",
@@ -87259,6 +87259,136 @@
     "categories": [
       {
         "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6472",
+    "event_name": "Kvint et Sense",
+    "event_date": "2019-09-10",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-09-10",
+    "event_time_until": "19:30:00",
+    "location": "Studio Alta, U Výstaviště 21, Praha 7",
+    "address": "",
+    "description": "_Three Dancers of the year, two globetrotters and five elements according to Chinese medicine._\n\nIn Kvint et Sense, guided by the notion that all that is around us is a vibrating matter, we become the vessels to manifest all the vibrations that we are and that surround us. We encourage the diversity between us, creating a space, where hierarchy can dissolve. None of us is more important than the other, though our differences are fully embraced. The music, together with the memory and possibilities inscribed in the space, together with you experiencing – all these vibrations enter our bodies and shape us, move us. We shift from one manifestation to another. Becoming the emotions and images that humanity caries since centuries. Becoming the individual stories and feelings that each person carries with them. Becoming the particles that are moving, expanding, collapsing in the space.<div class=\"\">Autor: Martina Hajdyla Lacová, Tereza Ondrová, Lucia Kašiarová, Renan Martins de Oliveira, Peter Šavel</div><div class=\"\">Umělci: Martina Hajdyla Lacová, Tereza Ondrová, Lucia Kašiarová, Renan Martins de Oliveira, Peter Šavel</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/a71778a89210cb27dcbb63927e579bc15837f27d.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Studio Alta",
+    "location_address": "U Výstaviště 21, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6473",
+    "event_name": "Angry Birds ve filmu 2",
+    "event_date": "2019-09-29",
+    "event_time": "15:00:00",
+    "event_date_until": "2019-09-29",
+    "event_time_until": "15:00:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "The flightless birds and scheming green pigs take their feud to the next level.\n<div class=\"\">Režisér: Thurop Van Orman, John Rice</div><div class=\"\">Umělci: Jason Sudeikis, Josh Gad, Bill Hader, Peter Dinklage, Rachel Bloom, Sterling K. Brown, Eugenio Derbez, Zach Woods, Awkwafina, Lil Rel Howery, Dove Cameron, Brooklynn Prince, Leslie Jones</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/af9a9db9f35eed5daf88e81dd1ffcdd3afae7c90.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6474",
+    "event_name": "Roger Waters: Us + Them",
+    "event_date": "2019-10-02",
+    "event_time": "20:30:00",
+    "event_date_until": "2019-10-02",
+    "event_time_until": "20:30:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "A look at Roger Waters' 2017–2018 concert tour.\n<div class=\"\">Režisér: Sean Evans, Roger Waters</div><div class=\"\">Umělci: Roger Waters</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/92ef47a396d0db31526216a4f688526845e82159.jpg",
+    "price": "350",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6475",
+    "event_name": "Kde identita má? ",
+    "event_date": "2019-10-09",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-09",
+    "event_time_until": "19:30:00",
+    "location": "Studio Alta, U Výstaviště 21, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Zlatko Teskere</div><div class=\"\">Režisér: Zlatko Teskere, Barbora Johansson</div><div class=\"\">Umělci: Zlatko Teskere</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/f18cac3b7b0d21435552447882450c9addec146c.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Studio Alta",
+    "location_address": "U Výstaviště 21, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6476",
+    "event_name": "Kvint et Sense",
+    "event_date": "2019-10-31",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-31",
+    "event_time_until": "19:30:00",
+    "location": "Studio Alta, U Výstaviště 21, Praha 7",
+    "address": "",
+    "description": "_Three Dancers of the year, two globetrotters and five elements according to Chinese medicine._\n\nIn Kvint et Sense, guided by the notion that all that is around us is a vibrating matter, we become the vessels to manifest all the vibrations that we are and that surround us. We encourage the diversity between us, creating a space, where hierarchy can dissolve. None of us is more important than the other, though our differences are fully embraced. The music, together with the memory and possibilities inscribed in the space, together with you experiencing – all these vibrations enter our bodies and shape us, move us. We shift from one manifestation to another. Becoming the emotions and images that humanity caries since centuries. Becoming the individual stories and feelings that each person carries with them. Becoming the particles that are moving, expanding, collapsing in the space.<div class=\"\">Autor: Martina Hajdyla Lacová, Tereza Ondrová, Lucia Kašiarová, Renan Martins de Oliveira, Peter Šavel</div><div class=\"\">Umělci: Martina Hajdyla Lacová, Tereza Ondrová, Lucia Kašiarová, Renan Martins de Oliveira, Peter Šavel</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/45bb52a46af527a28e81e38987fd86a9550a906a.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Studio Alta",
+    "location_address": "U Výstaviště 21, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
       }
     ],
     "image": null,
