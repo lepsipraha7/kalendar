@@ -87991,5 +87991,161 @@
     ],
     "image": null,
     "goOutInfo": "0"
+  },
+  {
+    "id": "6500",
+    "event_name": "Velkoobjemové kontejnery - Šimáčkova, proti domu 8.",
+    "event_date": "2019-10-07",
+    "event_time": "16:00:00",
+    "event_date_until": "2019-10-07",
+    "event_time_until": "20:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p><a href=\"https://www.praha7.cz/temata/odpad/velkoobjemove-kontejnery/\">VOK</a></p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Kontejnery"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  },
+  {
+    "id": "6501",
+    "event_name": "Velkoobjemové kontejnery - Šimáčkova, proti domu 8.",
+    "event_date": "2019-11-05",
+    "event_time": "16:00:00",
+    "event_date_until": "2019-11-05",
+    "event_time_until": "20:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p><a href=\"https://www.praha7.cz/temata/odpad/velkoobjemove-kontejnery/\">VOK</a></p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Kontejnery"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  },
+  {
+    "id": "6502",
+    "event_name": "Velkoobjemové kontejnery – Jana Zajíce x U Sparty",
+    "event_date": "2019-10-15",
+    "event_time": "16:00:00",
+    "event_date_until": "2019-10-15",
+    "event_time_until": "20:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p><a href=\"https://www.praha7.cz/temata/odpad/velkoobjemove-kontejnery/\">VOK</a></p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Kontejnery"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  },
+  {
+    "id": "6503",
+    "event_name": "Velkoobjemové kontejnery – Jana Zajíce x U Sparty",
+    "event_date": "2019-11-18",
+    "event_time": "16:00:00",
+    "event_date_until": "2019-11-18",
+    "event_time_until": "00:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p><a href=\"https://www.praha7.cz/temata/odpad/velkoobjemove-kontejnery/\">VOK</a></p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Kontejnery"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  },
+  {
+    "id": "6504",
+    "event_name": "Velkoobjemové kontejnery – Tusarova proti č. 5",
+    "event_date": "2019-10-14",
+    "event_time": "16:00:00",
+    "event_date_until": "2019-10-14",
+    "event_time_until": "20:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p><a href=\"https://www.praha7.cz/temata/odpad/velkoobjemove-kontejnery/\">VOK</a></p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Kontejnery"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
+  },
+  {
+    "id": "6505",
+    "event_name": "Velkoobjemové kontejnery – Tusarova proti č. 5",
+    "event_date": "2019-11-12",
+    "event_time": "16:00:00",
+    "event_date_until": "2019-11-12",
+    "event_time_until": "20:00:00",
+    "location": ", ",
+    "address": "",
+    "description": "<p><a href=\"https://www.praha7.cz/temata/odpad/velkoobjemove-kontejnery/\">VOK</a></p>",
+    "image_id": null,
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Kontejnery"
+      }
+    ],
+    "image": null,
+    "goOutInfo": null
   }
 ]
