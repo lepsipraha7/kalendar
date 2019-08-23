@@ -87276,9 +87276,9 @@
     "description": "_Three Dancers of the year, two globetrotters and five elements according to Chinese medicine._\n\nIn Kvint et Sense, guided by the notion that all that is around us is a vibrating matter, we become the vessels to manifest all the vibrations that we are and that surround us. We encourage the diversity between us, creating a space, where hierarchy can dissolve. None of us is more important than the other, though our differences are fully embraced. The music, together with the memory and possibilities inscribed in the space, together with you experiencing – all these vibrations enter our bodies and shape us, move us. We shift from one manifestation to another. Becoming the emotions and images that humanity caries since centuries. Becoming the individual stories and feelings that each person carries with them. Becoming the particles that are moving, expanding, collapsing in the space.<div class=\"\">Autor: Martina Hajdyla Lacová, Tereza Ondrová, Lucia Kašiarová, Renan Martins de Oliveira, Peter Šavel</div><div class=\"\">Umělci: Martina Hajdyla Lacová, Tereza Ondrová, Lucia Kašiarová, Renan Martins de Oliveira, Peter Šavel</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/a71778a89210cb27dcbb63927e579bc15837f27d.jpg",
-    "price": "",
+    "price": "120–220",
     "currency": "CZK",
-    "sale_url": null,
+    "sale_url": "https://goout.net/en/tickets/kvint-et-sense/tnbf",
     "cancelled": "0",
     "location_name": "Studio Alta",
     "location_address": "U Výstaviště 21, Praha 7",
@@ -87356,7 +87356,7 @@
     "image_src": "wp-content/uploads/goout/f18cac3b7b0d21435552447882450c9addec146c.jpg",
     "price": "",
     "currency": "CZK",
-    "sale_url": null,
+    "sale_url": "https://goout.net/en/tickets/kde-identita-ma/vnbf",
     "cancelled": "0",
     "location_name": "Studio Alta",
     "location_address": "U Výstaviště 21, Praha 7",
@@ -87380,9 +87380,9 @@
     "description": "_Three Dancers of the year, two globetrotters and five elements according to Chinese medicine._\n\nIn Kvint et Sense, guided by the notion that all that is around us is a vibrating matter, we become the vessels to manifest all the vibrations that we are and that surround us. We encourage the diversity between us, creating a space, where hierarchy can dissolve. None of us is more important than the other, though our differences are fully embraced. The music, together with the memory and possibilities inscribed in the space, together with you experiencing – all these vibrations enter our bodies and shape us, move us. We shift from one manifestation to another. Becoming the emotions and images that humanity caries since centuries. Becoming the individual stories and feelings that each person carries with them. Becoming the particles that are moving, expanding, collapsing in the space.<div class=\"\">Autor: Martina Hajdyla Lacová, Tereza Ondrová, Lucia Kašiarová, Renan Martins de Oliveira, Peter Šavel</div><div class=\"\">Umělci: Martina Hajdyla Lacová, Tereza Ondrová, Lucia Kašiarová, Renan Martins de Oliveira, Peter Šavel</div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/45bb52a46af527a28e81e38987fd86a9550a906a.jpg",
-    "price": "",
+    "price": "120–220",
     "currency": "CZK",
-    "sale_url": null,
+    "sale_url": "https://goout.net/en/tickets/kvint-et-sense/unbf",
     "cancelled": "0",
     "location_name": "Studio Alta",
     "location_address": "U Výstaviště 21, Praha 7",
@@ -87835,5 +87835,161 @@
     ],
     "image": null,
     "goOutInfo": null
+  },
+  {
+    "id": "6494",
+    "event_name": "Víno & Asie",
+    "event_date": "2019-08-27",
+    "event_time": "17:00:00",
+    "event_date_until": "2019-08-27",
+    "event_time_until": "17:00:00",
+    "location": "Vnitroblock, Tusarova 791/31, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/b756463c8d10534c7c6631f933326d9c81fc13b8.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Vnitroblock",
+    "location_address": "Tusarova 791/31, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Gastro"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6495",
+    "event_name": "Stopy v paměti",
+    "event_date": "2019-10-18",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-10-18",
+    "event_time_until": "20:00:00",
+    "location": "Alfred ve dvoře, Františka Křížka 36, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Mária Danadová, Monika Kováčová</div><div class=\"\">Umělci: Mária Danadová, Monika Kováčová a Ján Fiala</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/f9bf4ac04177419e24a81367a20ee5b8f135dc95.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Alfred ve dvoře",
+    "location_address": "Františka Křížka 36, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6496",
+    "event_name": "Miss Litvy",
+    "event_date": "2019-10-24",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-10-24",
+    "event_time_until": "19:30:00",
+    "location": "Studio Alta, U Výstaviště 21, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Autor: Vilma Pitrinaite</div><div class=\"\">Umělci: Vilma Pitrinaite</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/4408c1b52269cd53ffe894093719a7261df4ce1d.jpg",
+    "price": "120–220",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/miss-litvy/opbf",
+    "cancelled": "0",
+    "location_name": "Studio Alta",
+    "location_address": "U Výstaviště 21, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6497",
+    "event_name": "Eu.genus",
+    "event_date": "2019-10-26",
+    "event_time": "20:00:00",
+    "event_date_until": "2019-10-26",
+    "event_time_until": "20:00:00",
+    "location": "Alfred ve dvoře, Františka Křížka 36, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/med-a-prach/rgneg/\" target=\"_blank\">Med a prach</a></div><div class=\"\">Režisér: Andrej Kalinka</div><div class=\"\">Umělci: Zebastián Mente Maligna, Lívia Balážová, Daniel Raček, Ján Morávek, Juraj Poliak, Andrej Kalinka</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/c91952bbb29dbde9f01070268871949aa16d1cac.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Alfred ve dvoře",
+    "location_address": "Františka Křížka 36, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6498",
+    "event_name": "Jakub Venglář: Barma/Myanmar – pekelný ráj ",
+    "event_date": "2019-11-19",
+    "event_time": "17:30:00",
+    "event_date_until": "2019-11-19",
+    "event_time_until": "17:30:00",
+    "location": "Vnitroblock, Tusarova 791/31, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/df2a3eec327e3e36cbc3fac396b1a01d39d99547.jpg",
+    "price": "100–130",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Vnitroblock",
+    "location_address": "Tusarova 791/31, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6499",
+    "event_name": "Jakub Venglář: Indie – těžko uvěřitelná země",
+    "event_date": "2019-11-19",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-11-19",
+    "event_time_until": "19:30:00",
+    "location": "Vnitroblock, Tusarova 791/31, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/9c35b719328ab1e7dc736a19c28354e248a4231d.jpg",
+    "price": "100–130",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Vnitroblock",
+    "location_address": "Tusarova 791/31, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
   }
 ]
