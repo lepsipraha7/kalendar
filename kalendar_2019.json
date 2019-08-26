@@ -88979,5 +88979,34 @@
     ],
     "image": null,
     "goOutInfo": "0"
+  },
+  {
+    "id": "6538",
+    "event_name": "Festival vína v Holešovicích 2019",
+    "event_date": "2019-09-06",
+    "event_time": "15:00:00",
+    "event_date_until": "2019-09-06",
+    "event_time_until": "20:00:00",
+    "location": ", ",
+    "address": "Pražská tržnice, hala 28, Bubenské nábřeží 306/13, Praha 7",
+    "description": "<p>Přijměte pozvání na 16. ročník Mezinárodní výstavy vín, kde budete moci ochutnat před 50 vzorků z Mezinárodní soutěže vín Grand Prix Austerlitz 2019. Akce proběhne 6. září 2019 od 15 do 20 hodin v Pražské tržnici v hale 28 na Bubenském nábřeží.</p>\n<p>Více informací na <a href=\"http://www.bankavin.cz\">bankavin.cz</a></p>\n<p><img src=\"https://www.praha7.cz/wp-content/uploads/2019/08/pozvanka-na-GPA-283x400.jpg\" alt=\"\" width=\"283\" height=\"400\" class=\"alignnone size-medium wp-image-29070\" /></p>",
+    "image_id": "29069",
+    "image_src": null,
+    "price": "350",
+    "currency": null,
+    "sale_url": "https://www.smsticket.cz/vstupenky/17817-festival-vina-v-holesovicich",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Festivaly"
+      },
+      {
+        "subcategory_name": "Gastro"
+      }
+    ],
+    "image": "https://www.praha7.cz/wp-content/uploads/2019/08/wine-1761613_1920-600x400.jpg",
+    "goOutInfo": null
   }
 ]
