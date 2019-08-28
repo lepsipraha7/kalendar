@@ -90132,5 +90132,57 @@
     ],
     "image": null,
     "goOutInfo": "0"
+  },
+  {
+    "id": "6582",
+    "event_name": "Dožínky na Letné 2019",
+    "event_date": "2019-09-07",
+    "event_time": "10:00:00",
+    "event_date_until": "2019-09-07",
+    "event_time_until": "18:00:00",
+    "location": ", ",
+    "address": "Letenská pláň",
+    "description": "<p>Návštěvníci se mohou těšit na největší farmářské tržiště v Praze, program pro děti, prezentaci zemědělských svazů a také na ochutnávky českých a moravských vín. Akce bude doprovázena kulturním programem v podobě divadelních vystoupení a hudby skupin Jamaron a Slapdash. </p>\n<p>Pro děti bude připraven foto koutek, projížďky na koních a malování na obličej. Po celou dobu trvání akce bude umožněn vstup do Národního technického a zemědělského muzea zdarma. </p>\n<p>Více informací o akci naleznete na <a href=\"http://dozinkynaletne.cz/\">dozinkynaletne.cz</a></p>",
+    "image_id": "28841",
+    "image_src": null,
+    "price": "0",
+    "currency": null,
+    "sale_url": "",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Gastro"
+      }
+    ],
+    "image": "https://www.praha7.cz/wp-content/uploads/2019/08/Screenshot_8-600x288.png",
+    "goOutInfo": null
+  },
+  {
+    "id": "6583",
+    "event_name": "NN NightRUN Praha 2019",
+    "event_date": "2019-09-14",
+    "event_time": "15:30:00",
+    "event_date_until": "2019-09-14",
+    "event_time_until": "22:00:00",
+    "location": ", ",
+    "address": "Letenská pláň",
+    "description": "<p>Podzimní závodní sezona se rozbíhá a nouzi o závodění nebudou mít ani pražští příznivci běhu po tmě. Při šestém ročníku pražského závodu se v sobotu 14. září 2019 účastníci vrátí zpět na Letnou. Nebudou chybět dětské závody 211 KIDS CUP ani nezávodní FAMILY RUN, noční běh NN NIGHT RUN na 10 km a charitativní AVON BĚH na 5 km.</p>\n<p>&nbsp;</p>\n<h4>Program akce - SOBOTA 14. 9. 2019</h4>\n<p>15:30 - 16:30   Registrace dětských závodníků 211 KIDS CUP<br />\n15:30 - 17:30   Registrace FAMILY RUN<br />\n15:30 - 18:15   Registrace a výdej startovních balíčků AVON BĚH <br />\n15:30 - 19:15   Registrace a výdej startovních balíčků NN NIGHT RUN <br />\n17:00 - 17:00   Otevření úschovny a šatny<br />\n17:00 - 17:30  Start dětských závodů 211 KIDS CUP</p>\n<p>17:35 - 17:45   Vyhlášení dětských závodů 211 Kids Cup</p>\n<p>17:55 - 18:00   Řazení běžců na start a rozprava k běhu Family Run</p>\n<p>17:40 - 17:50   Rozcvička FormFactory<br />\n18:00 - 18:30  Start FAMILY RUN <br />\n18:45 - 19:00   Rozcvička FormFactory<br />\n19:05 - 19:15   Řazení běžců na start a rozprava k závodu Avon Běh <br />\n19:15 - 19:15  Start 5 km AVON BĚH <br />\n19:50 - 20:05   Rozcvička a Hankou Kynychovou<br />\n19:50 - 20:15   Řazení běžců na start a rozprava k závodu NN Night Run<br />\n20:15 - 20:15  Start 10 km NN NIGHT RUN <br />\n21:45 - 22:00   Vyhlášení<br />\n22:05 - 22:10   Uzavření úschovny a šatny<br />\n22:10 - 22:10   Konec</p>",
+    "image_id": "29141",
+    "image_src": null,
+    "price": "0-1000",
+    "currency": null,
+    "sale_url": "https://eventreg.cz/cz/registrace/login.html",
+    "cancelled": "0",
+    "location_name": null,
+    "location_address": null,
+    "categories": [
+      {
+        "subcategory_name": "Sport"
+      }
+    ],
+    "image": "https://www.praha7.cz/wp-content/uploads/2019/08/NN-NIGHT-RUN-Praha-2019-600x335.png",
+    "goOutInfo": null
   }
 ]
