@@ -234,32 +234,6 @@
     "goOutInfo": "0"
   },
   {
-    "id": "6618",
-    "event_name": "White Rabbit Red Rabbit #10",
-    "event_date": "2020-01-22",
-    "event_time": "19:30:00",
-    "event_date_until": "2020-01-22",
-    "event_time_until": "19:30:00",
-    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
-    "address": "",
-    "description": "<div class=\"\">Umělci: David Novotný</div>",
-    "image_id": null,
-    "image_src": "wp-content/uploads/goout/211880fc87793e221436e250fc251bb92665b5a9.jpg",
-    "price": "290",
-    "currency": "CZK",
-    "sale_url": "https://goout.net/en/tickets/white-rabbit-red-rabbit-10/wucf",
-    "cancelled": "0",
-    "location_name": "Jatka78",
-    "location_address": "Bubenské nábřeží 306/13, Praha 7",
-    "categories": [
-      {
-        "subcategory_name": "Divadlo"
-      }
-    ],
-    "image": null,
-    "goOutInfo": "0"
-  },
-  {
     "id": "6630",
     "event_name": "Metronome Festival Prague 2020",
     "event_date": "2020-06-19",
