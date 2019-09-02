@@ -91464,5 +91464,34 @@
     ],
     "image": null,
     "goOutInfo": "0"
+  },
+  {
+    "id": "6634",
+    "event_name": "Lunchmeat x FACT: Dasha Rush – „Aurora Cerebralis\" 360° AV live – festival opening",
+    "event_date": "2019-09-30",
+    "event_time": "19:30:00",
+    "event_date_until": "2019-09-30",
+    "event_time_until": "19:30:00",
+    "location": "Planetárium Praha, Královská obora 233, Praha 7",
+    "address": "",
+    "description": "Berlin-based producer, experimental sound artist, and DJ Dasha Rush transforms the powerful forces of nature into emotion-driven sound pieces. Whether it’s her curiosity for astrophysics, fascination with extreme natural phenomena or the deepest desires of the human psyche, Dasha threads together her wildest dreams with many-layered dense techno, visual explorations, and performative art. In _Aurora Cerebralis_, images and sounds de-synchronize and synchronize in real-time, and the complex spatial sound evokes transient, neurological shimmers that alter our perception of time in the same measure as they bend or expand the real space. Dasha Rush developed her audio-visual performance together with digital artist Alex Guevara and the two will present it in an immersive 360° live version in the dome of Prague’s Planetárium. With its 8K digital projection and 23,5 meters in diameter, the building is one of the biggest planetariums in the world.<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/dasha-rush/vvosf/\" target=\"_blank\">Dasha Rush</a><a href=\"https://goout.net/en/artists/lunchmeat/pjwqf/\" target=\"_blank\">Lunchmeat</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/92607a7adf8841d941f33c0c36fbbc3bce371ce8.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/lunchmeat-x-fact-dasha-rush-aurora-cerebralis-360-av-live-festival/smaf",
+    "cancelled": "0",
+    "location_name": "Planetárium Praha",
+    "location_address": "Královská obora 233, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Jiné"
+      },
+      {
+        "subcategory_name": "Párty"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
   }
 ]
