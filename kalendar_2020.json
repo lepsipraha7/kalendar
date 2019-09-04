@@ -261,5 +261,109 @@
     ],
     "image": null,
     "goOutInfo": "0"
+  },
+  {
+    "id": "6677",
+    "event_name": "The Sleeping Beauty",
+    "event_date": "2020-01-16",
+    "event_time": "20:15:00",
+    "event_date_until": "2020-01-16",
+    "event_time_until": "20:15:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "This production of _The Sleeping Beauty_ has been delighting audiences in Covent Garden since 1946. A classic of Russian ballet, it established The Royal Ballet both in its new home after World War II and as a world-class company. Sixty years later, in 2006, the original staging was revived, returning Oliver Messel’s wonderful designs and glittering costumes to the stage. Pyotr Il’yich Tchaikovsky’s enchanting score and Marius Petipa’s original choreography beautifully combine with sections created for The Royal Ballet by Frederick Ashton, Anthony Dowell and Christopher Wheeldon. This ballet is sure to cast its spell over anyone who sees it. Live from The Royal Opera House.<div class=\"\">Režisér: Marius Petipa</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/0c0a82468c272f46c44aea72ae78d4924a952782.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6678",
+    "event_name": "Marston and Scarlett",
+    "event_date": "2020-02-25",
+    "event_time": "20:15:00",
+    "event_date_until": "2020-02-25",
+    "event_time_until": "20:15:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Choreographer Cathy Marston is previously an Associate Artist of the Royal Opera House and Director of Bern Ballett, and much in demand internationally. The inspiration for her first work for The Royal Ballet Main Stage is the momentous life and career of the cellist Jacqueline du Pré. A new work by Liam Scarlett, The Royal Ballet’s Artist in Residence, provides the second part of the programme. Live from The Royal Opera House.\n<div class=\"\">Režisér: Cathy Marston, Liam Scarlett</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/5e7ae3eebf48bcb67f49431c0f42230376ec2df7.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6679",
+    "event_name": "Swan Lake",
+    "event_date": "2020-04-01",
+    "event_time": "20:15:00",
+    "event_date_until": "2020-04-01",
+    "event_time_until": "20:15:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Liam Scarlett’s glorious production of _Swan Lake_, new in 2018, returns for its first revival. While remaining faithful to the Marius Petipa/Lev Ivanov text, Scarlett’s additional choreography and John Macfarlane’s magnificent designs breathe new life into what is arguably the best-known and most-loved classical ballet. The entire Company shines in this eternal tale of doomed love, a masterpiece filled with iconic moments. Tchaikovsky’s first score for ballet soars with its symphonic sweep and combines perfectly with exquisite choreography from the grand pas de deux of Prince Siegfried and Odile to the swans at the lakeside. An intoxicating mix of spectacle and intimate passion, the overall effect is irresistible. Live from The Royal Opera House.\n<div class=\"\">Režisér: Liam Scarlett</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/a0820839d1f2c636ebf36c260bb1c77c2563d244.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "6680",
+    "event_name": "The Dante Project",
+    "event_date": "2020-05-28",
+    "event_time": "20:15:00",
+    "event_date_until": "2020-05-28",
+    "event_time_until": "20:15:00",
+    "location": "Bio Oko, Františka Křižíka 15, Praha 7",
+    "address": "",
+    "description": "Dante’s _Divine Comedy_ is an epic journey through the afterlife: it encompasses the horrifying drama of Inferno and its damned, the lyrical mysticism of pilgrims on mount Purgatorio and the dazzling spheres of Paradiso with their endless configurations of light. The poem was inspired by the agony of Dante’s own exile, and traces his path from crisis to revelation guided by his literary hero Virgil and his lost love Beatrice. In this new work, The Royal Ballet’s trailblazing Resident Choreographer Wayne McGregor collaborates with an award-winning team – contemporary composer Thomas Adès, artist Tacita Dean, lighting designer Lucy Carter and dramaturg Uzma Hameed – to bring us closer to Dante and his extraordinary vision. A collaboration between Wayne McGregor, Thomas Adès, Tacita Dean, Lucy Carter and Uzma Hameed. Live from The Royal Opera House.\n<div class=\"\">Režisér: Wayne Mcgregor</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/fa302489f9a12ec2ef45a194093486c39f966e10.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "Bio Oko",
+    "location_address": "Františka Křižíka 15, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Filmy"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
   }
 ]
