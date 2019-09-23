@@ -57450,35 +57450,6 @@
     "goOutInfo": null
   },
   {
-    "id": "3244",
-    "event_name": "Výstava Josef Bican ve fotografiích",
-    "event_date": "2018-12-07",
-    "event_time": "00:00:00",
-    "event_date_until": "2019-01-12",
-    "event_time_until": "00:00:00",
-    "location": "budova Úřadu městské části Praha 7, nábř. Kpt. Jaroše 1000",
-    "address": "",
-    "description": "<p>Městská část Praha 7 Vás zve na výstavu fotografií a upomínkových předmětů spojených s kariérou legendárního fotbalisty Josefa Bicana (1913-2001). Výstava je k vidění v Galerii na úřadě (2. patro Úřadu MČ Praha 7, nábř. Kpt. Jaroše 1000) <strong>do 12. ledna 2019</strong>.<br />\n <br />\n Vystavené fotografie mapují unikátní kariéru i soukromý život fotbalisty, který prožil největší část kariéry ve Slavii Praha, která tehdy sídlila na Letenské pláni. Bican navíc spojil  s Prahou 7 i svůj soukromý život, desítky let až do své smrti žil s rodinou v Holešovicích.</p>\n<p>Fotografie i předměty věnoval MČ Praha 7 syn Ivan Bican. </p>\n<p>Vstup volný.</p>\n<p>&nbsp;</p>",
-    "image_id": "21883",
-    "image_src": null,
-    "price": "0",
-    "currency": null,
-    "sale_url": "",
-    "cancelled": "0",
-    "location_name": "budova Úřadu městské části Praha 7",
-    "location_address": "nábř. Kpt. Jaroše 1000",
-    "categories": [
-      {
-        "subcategory_name": "Výstavy"
-      },
-      {
-        "subcategory_name": "Akce MČ"
-      }
-    ],
-    "image": "https://www.praha7.cz/wp-content/uploads/2018/12/Bican-600x397.jpg",
-    "goOutInfo": null
-  },
-  {
     "id": "3245",
     "event_name": "Jessie",
     "event_date": "2018-12-09",
