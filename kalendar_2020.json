@@ -242,7 +242,7 @@
     "event_time_until": "23:59:59",
     "location": "Výstaviště Praha Holešovice, Výstaviště, Praha 7",
     "address": "",
-    "description": "The fifth year of the Metronome Festival Prague will be 19–20 June 2020.",
+    "description": "The fifth year of the Metronome Festival Prague will be 19–20 June 2020.<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/tata-bojs/hxf/\" target=\"_blank\">Tata Bojs</a></div>",
     "image_id": null,
     "image_src": "wp-content/uploads/goout/9516fd7662fcd731bbbd618d872f9dcbdb42dc40.jpg",
     "price": "1390",
@@ -491,6 +491,90 @@
     "categories": [
       {
         "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "7048",
+    "event_name": "Prague Ice Cream Festival 2020",
+    "event_date": "2020-06-21",
+    "event_time": "10:00:00",
+    "event_date_until": "2020-06-21",
+    "event_time_until": "10:00:00",
+    "location": "Výstaviště Praha Holešovice, Výstaviště, Praha 7",
+    "address": "",
+    "description": "",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/5f0a603f4ce7397639fa312ee43b4a4bb555c78a.jpg",
+    "price": "95–650",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/prague-ice-cream-festival-2020/qiif/",
+    "cancelled": "0",
+    "location_name": "Výstaviště Praha Holešovice",
+    "location_address": "Výstaviště, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Děti a mládež"
+      },
+      {
+        "subcategory_name": "Festivaly"
+      },
+      {
+        "subcategory_name": "Gastro"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "7056",
+    "event_name": "Putinovi agenti",
+    "event_date": "2020-04-26",
+    "event_time": "19:30:00",
+    "event_date_until": "2020-04-26",
+    "event_time_until": "19:30:00",
+    "location": "Jatka78, Bubenské nábřeží 306/13, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/temporary-collective/swpdg/\" target=\"_blank\">Temporary Collective</a></div><div class=\"\">Režisér: Petra Tejnorová</div><div class=\"\">Umělci: Petr Vančura</div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/b330e76a161b617b964cf97520992cf915cf02df.jpg",
+    "price": "450",
+    "currency": "CZK",
+    "sale_url": "https://goout.net/en/tickets/putinovi-agenti/vcif/",
+    "cancelled": "0",
+    "location_name": "Jatka78",
+    "location_address": "Bubenské nábřeží 306/13, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Divadlo"
+      }
+    ],
+    "image": null,
+    "goOutInfo": "0"
+  },
+  {
+    "id": "7096",
+    "event_name": "BCO v Praze aneb Pražské jaro",
+    "event_date": "2020-05-20",
+    "event_time": "19:30:00",
+    "event_date_until": "2020-05-20",
+    "event_time_until": "19:30:00",
+    "location": "DOX Centrum současného umění, Poupětova 1, Praha 7",
+    "address": "",
+    "description": "<div class=\"\">Umělecké skupiny: <a href=\"https://goout.net/en/artists/brno-contemporary-orchestra/otbqf/\" target=\"_blank\">Brno Contemporary Orchestra</a></div>",
+    "image_id": null,
+    "image_src": "wp-content/uploads/goout/26d4aa592960457308719906eb0f3262d53fdeb0.jpg",
+    "price": "",
+    "currency": "CZK",
+    "sale_url": null,
+    "cancelled": "0",
+    "location_name": "DOX Centrum současného umění",
+    "location_address": "Poupětova 1, Praha 7",
+    "categories": [
+      {
+        "subcategory_name": "Koncerty"
       }
     ],
     "image": null,
